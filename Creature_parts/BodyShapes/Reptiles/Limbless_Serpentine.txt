@@ -1,0 +1,25 @@
+Reticulated Python (Malayopython reticulatus) - Diamond-patterned, longest snake.
+King Cobra (Ophiophagus hannah) - Hooded, venomous.
+Green Anaconda (Eunectes murinus) - Thick-bodied, aquatic.
+Black Mamba (Dendroaspis polylepis) - Sleek, speed demon.
+Inland Taipan (Oxyuranus microlepidotus) - Most venomous, desert-dweller.
+Brahminy Blind Snake (Indotyphlops braminus) - Tiny, glossy, parthenogenetic.
+Gaboon Viper (Bitis gabonica) - Leaf-shaped head, cryptic pattern.
+Emerald Tree Boa (Corallus caninus) - Neon green, coiled posture.
+Horned Viper (Cerastes cerastes) - Horned scales, sidewinding.
+Yellow-Bellied Sea Snake (Hydrophis platurus) - Pelagic, paddle-like tail.
+Titanoboa (Titanoboa cerrejonensis†) - Extinct 42-foot constrictor.
+Rainbow Boa (Epicrates cenchria) - Iridescent scales.
+Eastern Coral Snake (Micrurus fulvius) - Red/yellow/black bands.
+Boa Constrictor (Boa constrictor) - Muscular, patterned.
+Sidewinder (Crotalus cerastes) - Horned, desert specialist.
+African Rock Python (Python sebae) - Aggressive, mottled scales.
+Garter Snake (Thamnophis sirtalis) - Striped, mild venom.
+Eyelash Viper (Bothriechis schlegelii) - "Eyelash" scales, arboreal.
+Death Adder (Acanthophis antarcticus) - Stocky, ambush predator.
+Banded Krait (Bungarus fasciatus) - Yellow/black bands, nocturnal.
+Milk Snake (Lampropeltis triangulum) - Tri-color mimic of coral snakes.
+Burmese Python (Python bivittatus) - Invasive giant.
+Rattlesnake (Crotalus spp.) - Rattle-tipped tail, heat-sensing pits.
+Sea Krait (Laticauda colubrina) - Striped, amphibious.
+Worm Lizard (Amphisbaena spp.) - Limbless, annulated body (not a true snake).

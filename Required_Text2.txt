@@ -1,0 +1,41 @@
+!#This file will have stuff which is required in the end.
+
+#Amphibian
+Creature_parts\BodyShapes\Amphibians\Aquatic_Paedomorphic.txt = Retain larval features like gills into adulthood#
+Creature_parts\BodyShapes\Amphibians\Arboreal_Frog.txt = Suction-cup toes, vibrant colors, or gliding adaptations#
+Creature_parts\BodyShapes\Amphibians\Fossorial_Amphibian.txt = Burrowing specialists with shovel-like limbs or blunt snouts#
+
+#Birds
+Creature_parts\BodyShapes\Birds\Aerial_Song_Bird.txt = Lightweight, agile fliers or melodious vocalists#
+Creature_parts\BodyShapes\Birds\Aquatic_Swimming_Bird.txt = Streamlined bodies, webbed feet, or diving adaptations#
+Creature_parts\BodyShapes\Birds\Flightless_Heavy_Bodied.txt = Robust legs, reduced wings, grounded lifestyle#
+Creature_parts\BodyShapes\Birds\Raptorial.txt = Hooked beaks, talons, broad wings for hunting#
+Creature_parts\BodyShapes\Birds\Wading_Long_Legged.txt = Slender legs, elongated necks, wetland foragers#
+
+#Fish
+Creature_parts\BodyShapes\Fish\Anguilliform.txt = Elongated, serpentine bodies#
+Creature_parts\BodyShapes\Fish\Benthic.txt = Flattened for bottom-dwelling#
+Creature_parts\BodyShapes\Fish\Compressiform.txt = Flattened side-to-side for agile maneuvering#
+Creature_parts\BodyShapes\Fish\Fusiform.txt = Torpedo-shaped for speed#
+Creature_parts\BodyShapes\Fish\Globiform.txt = Rounded bodies for defense or buoyancy#
+
+#Invertebrates
+Creature_parts\BodyShapes\Invertebrates\Arthropod.txt = Exoskeletal/Jointed Limbs#
+Creature_parts\BodyShapes\Invertebrates\Gelatinous.txt = Gelatinous and or Transparent#
+Creature_parts\BodyShapes\Invertebrates\Mollusk.txt = Soft-Bodied/Shelled#
+Creature_parts\BodyShapes\Invertebrates\Radial_Symmetry.txt = Circular or star-shaped body plans#
+Creature_parts\BodyShapes\Invertebrates\Worm_Like.txt = Like Worms#
+
+#Reptiles
+Creature_parts\BodyShapes\Reptiles\Arboreal_Reptile.txt = Climbing specialists with adhesive pads, prehensile tails, or gripping limbs#
+Creature_parts\BodyShapes\Reptiles\Armoured_Scuted_Reptile.txt = Bony plates, scales, or shells for defense#
+Creature_parts\BodyShapes\Reptiles\Fossorial_Reptile.txt = Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging#
+Creature_parts\BodyShapes\Reptiles\Limbless_Serpentine.txt = Elongated, legless reptiles#
+Creature_parts\BodyShapes\Reptiles\Semi-Aquatic_Reptile.txt = Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies#
+
+#Vertebrates
+Creature_parts\BodyShapes\Vertebrates\Arboreal_Quadrupedal.txt = Climbing specialists with grasping limbs, prehensile tails, or adhesive pads#
+Creature_parts\BodyShapes\Vertebrates\Cursorial_Quadrupedal.txt = Lean, long-limbed runners built for speed/endurance#
+Creature_parts\BodyShapes\Vertebrates\Fossorial_(Burrowing).txt = Cylindrical bodies, reduced eyes/ears, powerful digging limbs#
+Creature_parts\BodyShapes\Vertebrates\Graviportal_Quadrupedal.txt = Massive bodies, column-like limbs for weight-bearing#
+Creature_parts\BodyShapes\Vertebrates\Semi-Aquatic_Quadrupedal.txt = Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features#

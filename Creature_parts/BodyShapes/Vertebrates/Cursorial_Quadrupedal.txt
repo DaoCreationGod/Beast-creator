@@ -1,0 +1,25 @@
+Cheetah (Acinonyx jubatus) - Sleek, spotted, tear-marked face.
+Pronghorn Antelope (Antilocapra americana) - White rump, branched horns.
+Gray Wolf (Canis lupus) - Bushy tail, robust build.
+African Wild Dog (Lycaon pictus) - Patchy coat, large ears.
+Blackbuck (Antilope cervicapra) - Spiral horns, striking black/white contrast.
+Saiga Antelope (Saiga tatarica) - Bulbous nose, translucent horns.
+Maned Wolf (Chrysocyon brachyurus) - Fox-like, stilt legs, red fur.
+Springbok (Antidorcas marsupialis) - Pronking posture, striped face.
+Thomson’s Gazelle (Eudorcas thomsonii) - Black side stripe, bounding gait.
+Dhole (Cuon alpinus) - Rust-red coat, domed skull.
+Onager (Equus hemionus) - Desert-adapted wild ass, sandy coat.
+Gerenuk (Litocranius walleri) - Giraffe-necked gazelle.
+Quagga (Equus quagga quagga†) - Zebra-striped front, horse-like rear.
+Scimitar-Horned Oryx (Oryx dammah†) - Backward-curving horns, white coat.
+Addax (Addax nasomaculatus) - Twisted horns, desert-camouflage coat.
+Dibatag (Ammodorcas clarkei) - Upturned tail, elongated neck.
+Tarpan (Equus ferus ferus†) - Shaggy coat, primitive horse build.
+Stilt-Legged Horse (Haringtonhippus francisci†) - Slender limbs, Ice Age grazer.
+American Cheetah (Miracinonyx trumani†) - Cougar-like, but built for sprinting.
+Dire Wolf (Aenocyon dirus†) - Bulkier than gray wolves, massive skull.
+Grant’s Gazelle (Nanger granti) - Lyre-shaped horns, white rump.
+Impala (Aepyceros melampus) - Elegant leaper, M-shaped forehead marking.
+Coyote (Canis latrans) - Smaller than wolves, pointy ears.
+Megaloceros (Megaloceros giganteus†) - “Irish Elk” with colossal antlers.
+Saola (Pseudoryx nghetinhensis) - “Asian Unicorn,” twin parallel horns.
