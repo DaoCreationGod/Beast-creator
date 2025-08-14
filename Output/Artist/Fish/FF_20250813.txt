@@ -1,0 +1,285 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis Rotundus (round) Insularis (island) Hirsuta (hairy)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Range, Day, Sky, Group, Ground, Lava/Magma
+Size: Small
+Element(s): Wood, Water, Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.5 because of elemental bonuses, base ATK: 10.0
+DEF: 10.4 because of elemental bonuses, base DEF: 8.0
+AGI: 15.6 because of elemental bonuses, base AGI: 10.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 11.7 because of elemental bonuses, base WIS: 9.0
+HP: 116.5 MANA: 73.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignara Communis (common) Vallicola (valley) Translucida (translucent)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Long Range, Group, Lava/Magma, Ground, Night, Underground
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 25.0
+DEF: 31.2 because of elemental bonuses, base DEF: 26.0
+AGI: 30.0
+INT: 28.0
+WIS: 27.0
+HP: 337.0 MANA: 207.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Celeris (fast) Oasensis (oasis)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Pack, Long Range, Water, Sky, Ground, Night
+Size: Mega
+Element(s): Physical, Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 53.2 because of elemental bonuses, base ATK: 39.0
+DEF: 48.3 because of elemental bonuses, base DEF: 46.0
+AGI: 39.0
+INT: 48.0
+WIS: 37.0
+HP: 536.2 MANA: 332.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis Argenteus (silver) Occidentalis (western) Cristata (crested)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Lava/Magma, Underground, Ground, Range, Day, Group
+Size: Super
+Element(s): Earth, Gold
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 78.0
+DEF: 106.6 because of elemental bonuses, base DEF: 74.0
+AGI: 76.0
+INT: 115.2 because of elemental bonuses, base INT: 96.0
+WIS: 77.0
+HP: 1144.0 MANA: 768.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Hirsutus (hairy) Pluvius (rainy) Flava (yellow)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Long Range, Ground, Sky, Day, Water, Group
+Size: Large
+Element(s): Fire, Gold, Wood
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 24.2 because of elemental bonuses, base ATK: 22.0
+DEF: 26.5 because of elemental bonuses, base DEF: 17.0
+AGI: 22.0
+INT: 25.1 because of elemental bonuses, base INT: 19.0
+WIS: 23.4 because of elemental bonuses, base WIS: 18.0
+HP: 289.2 MANA: 184.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Zephyria Ferox (fierce) Mangrova (mangrove)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Sky, Close, Group, Day, Lava/Magma, Ground
+Size: Large
+Element(s): Sharpness, Wood
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 23.4 because of elemental bonuses, base ATK: 18.0
+DEF: 28.6 because of elemental bonuses, base DEF: 22.0
+AGI: 18.0
+INT: 19.0
+WIS: 28.6 because of elemental bonuses, base WIS: 22.0
+HP: 309.4 MANA: 166.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis Volans (flying) Humidus (humid)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Day, Close, Horde, Underground, Lava/Magma, Ground
+Size: Mid
+Element(s): Water, Gold, Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 15.4 because of elemental bonuses, base ATK: 14.0
+DEF: 14.4 because of elemental bonuses, base DEF: 12.0
+AGI: 16.2 because of elemental bonuses, base AGI: 13.0
+INT: 18.2 because of elemental bonuses, base INT: 11.0
+WIS: 14.0
+HP: 159.4 MANA: 126.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vulcanor Laevis (smooth) Vallicola (valley) Pilosa (fuzzy) Invasora (invasive)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Range, Ground, Day, Group, Underground, Lava/Magma
+Size: Giant
+Element(s): Ice, Fire
+Specialized Adaptation: Bioluminescent Glowworm (Arachnocampa luminosa) - Cave-dwelling, sticky threads.
+Stats:
+ATK: 37.7 because of elemental bonuses, base ATK: 27.0
+DEF: 29.0
+AGI: 26.0
+INT: 37.7 because of elemental bonuses, base INT: 27.0
+WIS: 29.0
+HP: 327.7 MANA: 261.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ventus Pallidus (pale)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Underground, Range, Horde, Lava/Magma, Ground, Night
+Size: Giant
+Element(s): Water, Physical, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 29.4 because of elemental bonuses, base ATK: 28.0
+DEF: 34.0 because of elemental bonuses, base DEF: 27.0
+AGI: 32.5 because of elemental bonuses, base AGI: 26.0
+INT: 33.8 because of elemental bonuses, base INT: 27.0
+WIS: 30.0
+HP: 369.4 MANA: 244.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Marinus
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Lava/Magma, Underground, Mid, Night, Group, Ground
+Size: Mid
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 14.0
+DEF: 16.8 because of elemental bonuses, base DEF: 14.0
+AGI: 12.0
+INT: 16.8 because of elemental bonuses, base INT: 14.0
+WIS: 14.0
+HP: 182.0 MANA: 119.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Albus (white) Crateris (crater) Radiata (radiating) Saprophis (decomposing)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Pack, Long Range, Sky, Ground, Night, Water
+Size: Tiny
+Element(s): Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.0
+DEF: 10.4 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 8.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 112.0 MANA: 66.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lumina Pallidus (pale) Fennalis (fen) Viridis (green)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Pack, Range, Night, Underground, Water, Ground
+Size: Super
+Element(s): Strength
+Specialized Adaptation: Extreme Camouflage Pygmy Seahorse (Hippocampus bargibanti) - Coral-mimicking.
+Stats:
+ATK: 71.0 because of elemental bonuses, base ATK: 66.0
+DEF: 66.0
+AGI: 86.0
+INT: 69.0
+WIS: 71.0
+HP: 731.0 MANA: 522.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Mirabilis Purpureus (purple)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Water, Mid, Horde, Day, Underground, Ground
+Size: Mega
+Element(s): Earth, Physical
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 50.4 because of elemental bonuses, base ATK: 48.0
+DEF: 56.7 because of elemental bonuses, base DEF: 45.0
+AGI: 47.0
+INT: 44.0
+WIS: 42.0
+HP: 617.4 MANA: 325.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Group, Close, Sky, Night, Lava/Magma, Ground
+Size: Mid
+Element(s): Water, Sharpness
+Specialized Adaptation: Bioluminescent Bamboo Coral (Isididae spp.) - Glowing polyps.
+Stats:
+ATK: 16.9 because of elemental bonuses, base ATK: 13.0
+DEF: 13.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 18.8 because of elemental bonuses, base INT: 15.0
+WIS: 14.0
+HP: 146.9 MANA: 129.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Luminor Flexilis (flexible) Eremitus (isolated) Aurantiaca (orange)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Close, Horde, Night, Ground, Water, Sky
+Size: Super
+Element(s): Gold, Physical, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 95.5 because of elemental bonuses, base ATK: 91.0
+DEF: 139.2 because of elemental bonuses, base DEF: 85.0
+AGI: 84.0
+INT: 103.2 because of elemental bonuses, base INT: 86.0
+WIS: 130.0 because of elemental bonuses, base WIS: 100.0
+HP: 1487.5 MANA: 841.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Arcanis Durus (hard) Urbanus (urban) Punctata (dotted) Lenta (slow)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Night, Sky, Pack, Long Range, Water, Ground
+Size: Giant
+Element(s): Lightning
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 35.0 because of elemental bonuses, base ATK: 28.0
+DEF: 30.0
+AGI: 31.2 because of elemental bonuses, base AGI: 25.0
+INT: 27.0
+WIS: 27.0
+HP: 335.0 MANA: 202.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara Aeneus (bronze)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Horde, Ground, Lava/Magma, Close, Sky, Day
+Size: Super
+Element(s): Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 114.3 because of elemental bonuses, base ATK: 90.0
+DEF: 76.0
+AGI: 93.0
+INT: 125.7 because of elemental bonuses, base INT: 99.0
+WIS: 76.0
+HP: 874.3 MANA: 818.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Laevis (smooth) Deltanus (delta)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Close, Sky, Pack, Water, Ground, Night
+Size: Super
+Element(s): Gold, Wood
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 89.0
+DEF: 121.7 because of elemental bonuses, base DEF: 78.0
+AGI: 87.0
+INT: 112.8 because of elemental bonuses, base INT: 94.0
+WIS: 102.7 because of elemental bonuses, base WIS: 79.0
+HP: 1306.0 MANA: 820.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Arcanis Cinereus (gray) Polarus (polar)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Water, Horde, Day, Ground, Long Range, Sky
+Size: Mega
+Element(s): Earth, Yin
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 39.0
+DEF: 49.2 because of elemental bonuses, base DEF: 41.0
+AGI: 49.0
+INT: 58.5 because of elemental bonuses, base INT: 39.0
+WIS: 70.5 because of elemental bonuses, base WIS: 47.0
+HP: 531.0 MANA: 468.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

@@ -1,0 +1,315 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis Laevis (smooth)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Group, Underground, Range, Night, Ground, Water
+Size: Mega
+Element(s): Wood, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 39.9 because of elemental bonuses, base ATK: 38.0
+DEF: 60.1 because of elemental bonuses, base DEF: 44.0
+AGI: 46.0
+INT: 46.0
+WIS: 62.4 because of elemental bonuses, base WIS: 48.0
+HP: 640.9 MANA: 386.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis Ferox (fierce) Crateris (crater) Scutata (shield-shaped) Luminans (bioluminescent)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Day, Sky, Long Range, Ground, Lava/Magma, Group
+Size: Mid
+Element(s): Strength, Yin
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 14.0 because of elemental bonuses, base ATK: 13.0
+DEF: 11.0
+AGI: 13.0
+INT: 22.5 because of elemental bonuses, base INT: 15.0
+WIS: 18.0 because of elemental bonuses, base WIS: 12.0
+HP: 124.0 MANA: 157.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Petralis
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Range, Day, Pack, Water, Sky, Ground
+Size: Giant
+Element(s): Wood
+Specialized Adaptation: Extreme Camouflage Flounder (Paralichthys spp.) - Sandy bottom camouflage.
+Stats:
+ATK: 29.0
+DEF: 37.7 because of elemental bonuses, base DEF: 29.0
+AGI: 30.0
+INT: 26.0
+WIS: 32.5 because of elemental bonuses, base WIS: 25.0
+HP: 406.0 MANA: 211.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Mirabilis Argenteus (silver) Polarus (polar) Lunata (crescent-shaped) Silens (silent)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Long Range, Lava/Magma, Underground, Day, Group, Ground
+Size: Tiny
+Element(s): Fire, Gold
+Specialized Adaptation: Extreme Camouflage Orchid Mantis (Hymenopus coronatus) - Flower mimic.
+Stats:
+ATK: 5.5 because of elemental bonuses, base ATK: 5.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 9.2 because of elemental bonuses, base INT: 7.0
+WIS: 6.0
+HP: 101.5 MANA: 61.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Petralis Opacus (shaded) Montanus (mountain) Plumosa (feathered)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Lava/Magma, Pack, Underground, Long Range, Day, Ground
+Size: Giant
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Orchid Mantis (Hymenopus coronatus) - Flower mimic.
+Stats:
+ATK: 25.0
+DEF: 34.8 because of elemental bonuses, base DEF: 29.0
+AGI: 29.0
+INT: 34.8 because of elemental bonuses, base INT: 29.0
+WIS: 30.0
+HP: 373.0 MANA: 249.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Marinus
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Sky, Long Range, Day, Water, Group, Ground
+Size: Giant
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 39.2 because of elemental bonuses, base ATK: 28.0
+DEF: 35.0 because of elemental bonuses, base DEF: 25.0
+AGI: 29.0
+INT: 26.0
+WIS: 27.0
+HP: 389.2 MANA: 197.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Levis (light)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Night, Group, Close, Sky, Water, Ground
+Size: Mega
+Element(s): Ice
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 49.5 because of elemental bonuses, base ATK: 39.0
+DEF: 45.0
+AGI: 46.0
+INT: 58.4 because of elemental bonuses, base INT: 46.0
+WIS: 43.0
+HP: 499.5 MANA: 399.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ferralis Velox (swift) Australis (southern)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Group, Range, Day, Ground, Underground, Water
+Size: Super
+Element(s): Gold, Wind
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 99.0
+DEF: 134.5 because of elemental bonuses, base DEF: 83.0
+AGI: 90.5 because of elemental bonuses, base AGI: 67.0
+INT: 99.6 because of elemental bonuses, base INT: 83.0
+WIS: 97.0
+HP: 1444.0 MANA: 740.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tenebris Audax (bold) Sylvestris (forest) Aurantiaca (orange) Nomadica (nomadic)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Mid, Day, Water, Underground, Horde, Ground
+Size: Mid
+Element(s): Wood, Physical, Fire
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 16.2 because of elemental bonuses, base ATK: 14.0
+DEF: 20.5 because of elemental bonuses, base DEF: 15.0
+AGI: 15.0
+INT: 12.1 because of elemental bonuses, base INT: 11.0
+WIS: 15.6 because of elemental bonuses, base WIS: 12.0
+HP: 221.2 MANA: 99.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Umbrion
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Day, Sky, Long Range, Horde, Ground, Lava/Magma
+Size: Mega
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 41.0
+DEF: 50.4 because of elemental bonuses, base DEF: 42.0
+AGI: 38.0
+INT: 45.0
+WIS: 45.0
+HP: 545.0 MANA: 337.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Cinereus (gray) Orientalis (eastern)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Close, Sky, Horde, Ground, Water, Night
+Size: Large
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 23.1 because of elemental bonuses, base ATK: 22.0
+DEF: 19.9 because of elemental bonuses, base DEF: 19.0
+AGI: 17.0
+INT: 17.0
+WIS: 18.0
+HP: 222.1 MANA: 130.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis Celeris (fast) Deltanus (delta) Glabra (smooth)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Close, Group, Water, Night, Ground, Sky
+Size: Mid
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Stick Caterpillar (Phalera bucephala) - Resembles a broken twig.
+Stats:
+ATK: 14.7 because of elemental bonuses, base ATK: 14.0
+DEF: 11.6 because of elemental bonuses, base DEF: 11.0
+AGI: 12.0
+INT: 15.0
+WIS: 14.0
+HP: 130.7 MANA: 110.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Arcanis Parvus (small) Savannus (savanna) Cinerea (gray)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Group, Long Range, Lava/Magma, Day, Ground, Sky
+Size: Large
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.9 because of elemental bonuses, base ATK: 19.0
+DEF: 19.9 because of elemental bonuses, base DEF: 19.0
+AGI: 22.0
+INT: 18.0
+WIS: 18.0
+HP: 218.9 MANA: 135.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Stellion
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Day, Water, Horde, Underground, Close, Ground
+Size: Small
+Element(s): Earth, Fire, Wood
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 7.0
+DEF: 14.0 because of elemental bonuses, base DEF: 9.0
+AGI: 8.0
+INT: 9.9 because of elemental bonuses, base INT: 9.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 147.7 MANA: 72.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Radiantia Clarus (bright) Tundralis (tundra) Metallica (metallic) Celerima (very fast)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Water, Group, Night, Range, Underground, Ground
+Size: Giant
+Element(s): Strength, Gold
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 29.0 because of elemental bonuses, base ATK: 27.0
+DEF: 33.6 because of elemental bonuses, base DEF: 28.0
+AGI: 30.0
+INT: 33.6 because of elemental bonuses, base INT: 28.0
+WIS: 26.0
+HP: 365.0 MANA: 233.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis Ferox (fierce) Limosus (muddy) Reticulata (netted)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Long Range, Horde, Lava/Magma, Day, Ground, Underground
+Size: Large
+Element(s): Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 26.7 because of elemental bonuses, base ATK: 21.0
+DEF: 20.0
+AGI: 21.0
+INT: 22.9 because of elemental bonuses, base INT: 18.0
+WIS: 18.0
+HP: 226.7 MANA: 159.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nebulora Volans (flying) Maritimus (coastal) Scutata (shield-shaped) Mimicus (mimicking)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Group, Close, Underground, Ground, Lava/Magma, Night
+Size: Super
+Element(s): Water, Fire
+Specialized Adaptation: Extreme Camouflage Flounder (Paralichthys spp.) - Sandy bottom camouflage.
+Stats:
+ATK: 82.5 because of elemental bonuses, base ATK: 75.0
+DEF: 80.0
+AGI: 97.5 because of elemental bonuses, base AGI: 78.0
+INT: 130.6 because of elemental bonuses, base INT: 95.0
+WIS: 98.0
+HP: 882.5 MANA: 898.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Cryptis Glaber (hairless)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Ground, Close, Horde, Day, Lava/Magma, Underground
+Size: Super
+Element(s): Physical, Earth, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 105.0 because of elemental bonuses, base ATK: 100.0
+DEF: 116.4 because of elemental bonuses, base DEF: 77.0
+AGI: 85.0
+INT: 120.0 because of elemental bonuses, base INT: 100.0
+WIS: 94.0
+HP: 1269.0 MANA: 835.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Voltis Ferox (fierce) Cavernis (cave) Hirsuta (hairy)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Day, Long Range, Horde, Ground, Underground, Water
+Size: Super
+Element(s): Yang
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 73.0
+DEF: 80.0
+AGI: 91.0
+INT: 148.5 because of elemental bonuses, base INT: 99.0
+WIS: 129.0 because of elemental bonuses, base WIS: 86.0
+HP: 873.0 MANA: 1065.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aetheris Floridus (flowery) Arenosus (sandy)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Night, Sky, Water, Ground, Pack, Close
+Size: Large
+Element(s): Water
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 18.0
+DEF: 19.0
+AGI: 27.5 because of elemental bonuses, base AGI: 22.0
+INT: 27.5 because of elemental bonuses, base INT: 22.0
+WIS: 20.0
+HP: 208.0 MANA: 187.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Corvalis Erectus (upright) Glacialis (icy) Striata (striped)
+Shape: Reptile, Serpent, Elongated, legless reptiles
+Type: Ground, Night, Horde, Range, Lava/Magma, Underground
+Size: Mid
+Element(s): Gold, Yin
+Specialized Adaptation: Bioluminescent Deep-Sea Anglerfish (Linophryne arborifera) - Glowing chin barbel.
+Stats:
+ATK: 12.0
+DEF: 18.0 because of elemental bonuses, base DEF: 15.0
+AGI: 11.0
+INT: 27.0 because of elemental bonuses, base INT: 15.0
+WIS: 18.0 because of elemental bonuses, base WIS: 12.0
+HP: 192.0 MANA: 180.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

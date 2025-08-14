@@ -1,0 +1,316 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aeternis Flexilis (flexible) Tropicalis (tropical)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Range, Underground, Pack, Lava/Magma, Ground, Day
+Size: Small
+Element(s): Fire, Physical, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.2 because of elemental bonuses, base ATK: 8.0
+DEF: 10.9 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 9.9 because of elemental bonuses, base INT: 9.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 118.2 MANA: 75.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Zephyria Floridus (flowery) Fennalis (fen)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Water, Horde, Mid, Night, Sky, Ground
+Size: Tiny
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Comb Jelly (Mnemiopsis leidyi) - Rainbow cilia.
+Stats:
+ATK: 6.0
+DEF: 7.8 because of elemental bonuses, base DEF: 6.0
+AGI: 5.0
+INT: 7.0
+WIS: 7.8 because of elemental bonuses, base WIS: 6.0
+HP: 84.0 MANA: 54.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Luminor Alatus (winged)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Lava/Magma, Group, Range, Night, Underground, Ground
+Size: Mid
+Element(s): Fire, Earth
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 12.1 because of elemental bonuses, base ATK: 11.0
+DEF: 16.8 because of elemental bonuses, base DEF: 14.0
+AGI: 13.0
+INT: 16.5 because of elemental bonuses, base INT: 15.0
+WIS: 11.0
+HP: 180.1 MANA: 110.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Zephyria Natans (swimming) Pratensis (meadow) Rosea (pink) Pollinans (pollinating)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Long Range, Underground, Ground, Horde, Night, Water
+Size: Mega
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 48.0
+DEF: 48.0
+AGI: 43.0
+INT: 60.0 because of elemental bonuses, base INT: 40.0
+WIS: 75.0 because of elemental bonuses, base WIS: 50.0
+HP: 528.0 MANA: 487.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros Audax (bold) Desertus (desert)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Night, Horde, Underground, Range, Ground, Lava/Magma
+Size: Super
+Element(s): Yang
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 79.0
+DEF: 99.0
+AGI: 99.0
+INT: 121.5 because of elemental bonuses, base INT: 81.0
+WIS: 124.5 because of elemental bonuses, base WIS: 83.0
+HP: 1069.0 MANA: 918.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tenebris Albus (white)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Pack, Sky, Ground, Mid, Water, Day
+Size: Tiny
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 5.5 because of elemental bonuses, base ATK: 5.0
+DEF: 8.0
+AGI: 6.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 6.0
+HP: 85.5 MANA: 59.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Lava/Magma, Range, Underground, Night, Horde, Ground
+Size: Mid
+Element(s): Gold, Yin
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 13.0
+DEF: 15.6 because of elemental bonuses, base DEF: 13.0
+AGI: 11.0
+INT: 27.0 because of elemental bonuses, base INT: 15.0
+WIS: 18.0 because of elemental bonuses, base WIS: 12.0
+HP: 169.0 MANA: 180.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Virensis Communis (common) Sylvestris (forest) Radiata (radiating) Ambulans (walking)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Sky, Long Range, Lava/Magma, Night, Group, Ground
+Size: Super
+Element(s): Wood, Fire
+Specialized Adaptation: Bioluminescent Stoplight Loosejaw (Malacosteus niger) - Red light invisible to prey.
+Stats:
+ATK: 100.1 because of elemental bonuses, base ATK: 91.0
+DEF: 118.3 because of elemental bonuses, base DEF: 91.0
+AGI: 70.0
+INT: 82.5 because of elemental bonuses, base INT: 75.0
+WIS: 101.4 because of elemental bonuses, base WIS: 78.0
+HP: 1283.1 MANA: 666.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aurumis
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Close, Sky, Group, Day, Water, Ground
+Size: Large
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Scaleless Dragonfish (Aristostomias scintillans) - Blue-green lights.
+Stats:
+ATK: 19.0
+DEF: 20.4 because of elemental bonuses, base DEF: 17.0
+AGI: 20.0
+INT: 21.6 because of elemental bonuses, base INT: 18.0
+WIS: 22.0
+HP: 223.0 MANA: 163.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Close, Underground, Water, Ground, Night, Group
+Size: Mid
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.6 because of elemental bonuses, base ATK: 11.0
+DEF: 13.7 because of elemental bonuses, base DEF: 13.0
+AGI: 14.0
+INT: 11.0
+WIS: 12.0
+HP: 148.6 MANA: 85.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros Silentis (quiet) Nemoralis (woodland)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Sky, Pack, Range, Lava/Magma, Day, Ground
+Size: Mid
+Element(s): Wood, Earth
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 12.0
+DEF: 17.2 because of elemental bonuses, base DEF: 11.0
+AGI: 11.0
+INT: 15.0
+WIS: 15.6 because of elemental bonuses, base WIS: 12.0
+HP: 184.0 MANA: 114.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Obsidia Fragilis (fragile)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Underground, Water, Day, Range, Ground, Horde
+Size: Small
+Element(s): Fire, Sharpness
+Specialized Adaptation: Extreme Camouflage Pygmy Seahorse (Hippocampus bargibanti) - Coral-mimicking.
+Stats:
+ATK: 10.0 because of elemental bonuses, base ATK: 7.0
+DEF: 7.0
+AGI: 8.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 8.0
+HP: 80.0 MANA: 64.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Mirabilis Alatus (winged) Fluvialis (river)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Long Range, Water, Night, Horde, Ground, Underground
+Size: Mega
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 40.7 because of elemental bonuses, base ATK: 37.0
+DEF: 43.0
+AGI: 42.0
+INT: 41.8 because of elemental bonuses, base INT: 38.0
+WIS: 40.0
+HP: 470.7 MANA: 309.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Serenus (calm)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Underground, Ground, Long Range, Group, Night, Water
+Size: Small
+Element(s): Earth, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.0
+DEF: 13.0 because of elemental bonuses, base DEF: 9.0
+AGI: 8.0
+INT: 12.0 because of elemental bonuses, base INT: 10.0
+WIS: 10.0
+HP: 138.0 MANA: 85.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vulcanor Repens (creeping)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Close, Day, Lava/Magma, Ground, Pack, Underground
+Size: Tiny
+Element(s): Wood, Fire
+Specialized Adaptation: Extreme Camouflage Leaf-Tailed Gecko (Uroplatus spp.) - Lichen-mimicking skin.
+Stats:
+ATK: 5.5 because of elemental bonuses, base ATK: 5.0
+DEF: 6.5 because of elemental bonuses, base DEF: 5.0
+AGI: 7.0
+INT: 7.7 because of elemental bonuses, base INT: 7.0
+WIS: 7.8 because of elemental bonuses, base WIS: 6.0
+HP: 70.5 MANA: 58.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignara
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Mid, Horde, Ground, Underground, Night, Lava/Magma
+Size: Mega
+Element(s): Ice
+Specialized Adaptation: Bioluminescent Hatchetfish (Sternoptyx spp.) - Counter-illumination camouflage.
+Stats:
+ATK: 62.2 because of elemental bonuses, base ATK: 49.0
+DEF: 45.0
+AGI: 41.0
+INT: 47.0 because of elemental bonuses, base INT: 37.0
+WIS: 37.0
+HP: 512.2 MANA: 327.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Virensis Repens (creeping) Cavernis (cave) Lineata (lined)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Long Range, Horde, Underground, Lava/Magma, Ground, Day
+Size: Tiny
+Element(s): Physical, Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.9 because of elemental bonuses, base ATK: 6.0
+DEF: 5.2 because of elemental bonuses, base DEF: 5.0
+AGI: 6.2 because of elemental bonuses, base AGI: 5.0
+INT: 5.0
+WIS: 7.0
+HP: 59.9 MANA: 42.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ferralis Floridus (flowery) Aridus (arid) Fibrosa (fibrous)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Night, Lava/Magma, Range, Pack, Ground, Sky
+Size: Small
+Element(s): Wood, Lightning
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 8.8 because of elemental bonuses, base ATK: 7.0
+DEF: 9.1 because of elemental bonuses, base DEF: 7.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 8.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 99.8 MANA: 66.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aeternis Ferrugineus (rusty) Maritimus (coastal) Spinosa (spiny) Nomadica (nomadic)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Underground, Group, Night, Close, Water, Ground
+Size: Mega
+Element(s): Yang
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 44.0
+DEF: 47.0
+AGI: 42.0
+INT: 55.5 because of elemental bonuses, base INT: 37.0
+WIS: 67.5 because of elemental bonuses, base WIS: 45.0
+HP: 514.0 MANA: 446.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros Ater (dark) Cavernis (cave) Undulata (wavy) Migrans (migratory)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Horde, Mid, Night, Sky, Ground, Water
+Size: Large
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Tasselled Wobbegong (Eucrossorhinus dasypogon) - Frilly seaweed mimic.
+Stats:
+ATK: 18.0
+DEF: 20.0
+AGI: 27.5 because of elemental bonuses, base AGI: 22.0
+INT: 23.8 because of elemental bonuses, base INT: 19.0
+WIS: 19.0
+HP: 218.0 MANA: 166.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Sylvanis Purpureus (purple) Littoralis (shore) Atra (deep black)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Water, Close, Horde, Day, Sky, Ground
+Size: Mega
+Element(s): Water, Gold, Fire
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 48.4 because of elemental bonuses, base ATK: 44.0
+DEF: 48.0 because of elemental bonuses, base DEF: 40.0
+AGI: 50.0 because of elemental bonuses, base AGI: 40.0
+INT: 80.9 because of elemental bonuses, base INT: 49.0
+WIS: 46.0
+HP: 528.4 MANA: 519.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,0 +1,435 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Rupesca Flexilis (flexible) Desertus (desert) Plumosa (feathered)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Day, Mid, Group, Underground, Ground, Lava/Magma
+Size: Tiny
+Element(s): Strength
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 5.4 because of elemental bonuses, base ATK: 5.0
+DEF: 6.0
+AGI: 8.0
+INT: 7.0
+WIS: 5.0
+HP: 65.4 MANA: 47.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Radians (radiant) Tundralis (tundra) Metallica (metallic)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Close, Night, Water, Underground, Ground, Horde
+Size: Large
+Element(s): Sharpness
+Specialized Adaptation: Bioluminescent Glowing Coral (Tubastraea spp.) - Fluorescent polyps.
+Stats:
+ATK: 24.7 because of elemental bonuses, base ATK: 19.0
+DEF: 19.0
+AGI: 22.0
+INT: 17.0
+WIS: 21.0
+HP: 214.7 MANA: 137.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Radiantia
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Long Range, Underground, Group, Day, Water, Ground
+Size: Small
+Element(s): Physical, Wood, Water
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 10.5 because of elemental bonuses, base ATK: 10.0
+DEF: 13.7 because of elemental bonuses, base DEF: 10.0
+AGI: 11.2 because of elemental bonuses, base AGI: 9.0
+INT: 12.5 because of elemental bonuses, base INT: 10.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 147.5 MANA: 88.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Silexia
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Long Range, Underground, Pack, Lava/Magma, Ground, Night
+Size: Giant
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 27.0
+DEF: 30.0 because of elemental bonuses, base DEF: 25.0
+AGI: 25.0
+INT: 34.8 because of elemental bonuses, base INT: 29.0
+WIS: 28.0
+HP: 327.0 MANA: 244.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Celestia
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Close, Lava/Magma, Underground, Group, Ground, Day
+Size: Super
+Element(s): Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 93.0
+DEF: 115.7 because of elemental bonuses, base DEF: 89.0
+AGI: 70.0
+INT: 100.0
+WIS: 127.4 because of elemental bonuses, base WIS: 98.0
+HP: 1250.0 MANA: 818.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Mirabilis Robustus (strong)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Group, Ground, Mid, Lava/Magma, Underground, Night
+Size: Super
+Element(s): Wood, Earth, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 86.0
+DEF: 132.6 because of elemental bonuses, base DEF: 85.0
+AGI: 103.8 because of elemental bonuses, base AGI: 83.0
+INT: 93.8 because of elemental bonuses, base INT: 75.0
+WIS: 89.7 because of elemental bonuses, base WIS: 69.0
+HP: 1412.0 MANA: 693.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Mirabilis Cinereus (gray) Pelagicus (open sea)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Long Range, Lava/Magma, Sky, Pack, Day, Ground
+Size: Mega
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 45.0
+DEF: 59.8 because of elemental bonuses, base DEF: 46.0
+AGI: 47.0
+INT: 46.0
+WIS: 58.5 because of elemental bonuses, base WIS: 45.0
+HP: 643.0 MANA: 376.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Caelior Albus (white) Fennalis (fen) Hirsuta (hairy) Sedentaria (stationary)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Sky, Long Range, Water, Ground, Day, Horde
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Stick Caterpillar (Phalera bucephala) - Resembles a broken twig.
+Stats:
+ATK: 8.0
+DEF: 8.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 7.5 because of elemental bonuses, base INT: 6.0
+WIS: 8.0
+HP: 88.0 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aetheris Velox (swift) Polarus (polar)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Range, Horde, Day, Ground, Underground, Water
+Size: Mid
+Element(s): Wood, Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 14.0
+DEF: 15.6 because of elemental bonuses, base DEF: 12.0
+AGI: 12.0
+INT: 18.0 because of elemental bonuses, base INT: 12.0
+WIS: 21.4 because of elemental bonuses, base WIS: 11.0
+HP: 170.0 MANA: 143.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Serenus (calm)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Horde, Lava/Magma, Range, Night, Ground, Underground
+Size: Small
+Element(s): Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.0
+DEF: 10.0
+AGI: 10.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 15.0 because of elemental bonuses, base WIS: 10.0
+HP: 109.0 MANA: 97.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Luminosus (glowing) Deltanus (delta) Reticulata (netted) Saprophis (decomposing)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Night, Mid, Water, Group, Ground, Sky
+Size: Small
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 10.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 9.0
+INT: 9.6 because of elemental bonuses, base INT: 8.0
+WIS: 8.0
+HP: 106.0 MANA: 68.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Radians (radiant)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Group, Lava/Magma, Sky, Ground, Long Range, Night
+Size: Super
+Element(s): Gold, Crystal, Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 132.4 because of elemental bonuses, base ATK: 86.0
+DEF: 164.6 because of elemental bonuses, base DEF: 98.0
+AGI: 80.0
+INT: 120.1 because of elemental bonuses, base INT: 91.0
+WIS: 77.0
+HP: 1778.4 MANA: 793.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Glaber (hairless) Nemoralis (woodland)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Lava/Magma, Group, Close, Sky, Day, Ground
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Scorpionfish (Scorpaenidae spp.) - Algae-covered appearance.
+Stats:
+ATK: 7.0
+DEF: 8.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 10.0 because of elemental bonuses, base INT: 8.0
+WIS: 5.0
+HP: 87.0 MANA: 62.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Clarus (bright) Volcanicus (volcanic)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Long Range, Ground, Pack, Day, Lava/Magma, Underground
+Size: Large
+Element(s): Yang
+Specialized Adaptation: Extreme Camouflage Giant Leaf Insect (Pulchriphyllium giganteum) - Broadleaf mimic.
+Stats:
+ATK: 20.0
+DEF: 20.0
+AGI: 20.0
+INT: 25.5 because of elemental bonuses, base INT: 17.0
+WIS: 31.5 because of elemental bonuses, base WIS: 21.0
+HP: 220.0 MANA: 206.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Mirabilis Radians (radiant) Australis (southern) Purpurea (purple) Celerima (very fast)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Night, Group, Water, Ground, Underground, Long Range
+Size: Small
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 10.0
+DEF: 10.4 because of elemental bonuses, base DEF: 8.0
+AGI: 10.0
+INT: 10.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 114.0 MANA: 76.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Zephyria Laevis (smooth) Frigidus (cold) Striata (striped)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Horde, Range, Night, Water, Ground, Sky
+Size: Tiny
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 5.0
+INT: 8.4 because of elemental bonuses, base INT: 7.0
+WIS: 5.0
+HP: 92.0 MANA: 54.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Marinus Opacus (shaded) Fennalis (fen)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Lava/Magma, Pack, Close, Sky, Ground, Night
+Size: Super
+Element(s): Earth, Crystal
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 102.2 because of elemental bonuses, base ATK: 73.0
+DEF: 132.7 because of elemental bonuses, base DEF: 79.0
+AGI: 93.0
+INT: 72.0
+WIS: 77.0
+HP: 1429.2 MANA: 552.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vaporia Vibrans (vibrant) Taiganus (taiga) Purpurea (purple)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Underground, Long Range, Ground, Group, Lava/Magma, Night
+Size: Small
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.4 because of elemental bonuses, base ATK: 7.0
+DEF: 10.5 because of elemental bonuses, base DEF: 10.0
+AGI: 7.0
+INT: 8.0
+WIS: 8.0
+HP: 112.4 MANA: 60.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tenebris Aureus (golden)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Pack, Water, Ground, Range, Underground, Day
+Size: Giant
+Element(s): Gold, Wood
+Specialized Adaptation: Extreme Camouflage Dead Leaf Butterfly (Kallima inachus) - Resembles a dead leaf.
+Stats:
+ATK: 26.0
+DEF: 46.8 because of elemental bonuses, base DEF: 30.0
+AGI: 29.0
+INT: 30.0 because of elemental bonuses, base INT: 25.0
+WIS: 39.0 because of elemental bonuses, base WIS: 30.0
+HP: 494.0 MANA: 247.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tenebris Parvus (small) Deltanus (delta)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Pack, Night, Underground, Water, Close, Ground
+Size: Mega
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Comb Jelly (Mnemiopsis leidyi) - Rainbow cilia.
+Stats:
+ATK: 44.0
+DEF: 52.0 because of elemental bonuses, base DEF: 40.0
+AGI: 49.0
+INT: 42.0
+WIS: 49.4 because of elemental bonuses, base WIS: 38.0
+HP: 564.0 MANA: 333.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Virensis Repens (creeping)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Lava/Magma, Group, Range, Ground, Night, Underground
+Size: Small
+Element(s): Strength, Physical, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.0 because of elemental bonuses, base ATK: 8.0
+DEF: 8.8 because of elemental bonuses, base DEF: 7.0
+AGI: 9.0
+INT: 9.0
+WIS: 7.0
+HP: 97.0 MANA: 62.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros Radians (radiant) Polarus (polar) Nigra (black)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Ground, Range, Pack, Lava/Magma, Underground, Night
+Size: Mid
+Element(s): Gold, Yang
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 14.0
+DEF: 15.6 because of elemental bonuses, base DEF: 13.0
+AGI: 14.0
+INT: 23.4 because of elemental bonuses, base INT: 13.0
+WIS: 18.0 because of elemental bonuses, base WIS: 12.0
+HP: 170.0 MANA: 162.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Marinus Floridus (flowery) Deltanus (delta)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Horde, Day, Sky, Mid, Ground, Water
+Size: Mid
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 13.0
+DEF: 13.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 15.0 because of elemental bonuses, base INT: 12.0
+WIS: 11.0
+HP: 143.0 MANA: 102.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aeternis Magnus (large)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Water, Day, Mid, Sky, Horde, Ground
+Size: Mid
+Element(s): Gold, Sharpness
+Specialized Adaptation: Extreme Camouflage Coconut Octopus (Amphioctopus marginatus) - Hides in shells.
+Stats:
+ATK: 18.2 because of elemental bonuses, base ATK: 14.0
+DEF: 15.6 because of elemental bonuses, base DEF: 13.0
+AGI: 15.0
+INT: 15.6 because of elemental bonuses, base INT: 13.0
+WIS: 15.0
+HP: 174.2 MANA: 115.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Rupesca Cinereus (gray) Crateris (crater) Tricolor (three-colored)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Mid, Ground, Water, Sky, Day, Pack
+Size: Giant
+Element(s): Water, Fire, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 29.7 because of elemental bonuses, base ATK: 27.0
+DEF: 32.4 because of elemental bonuses, base DEF: 27.0
+AGI: 37.5 because of elemental bonuses, base AGI: 30.0
+INT: 38.5 because of elemental bonuses, base INT: 28.0
+WIS: 26.0
+HP: 353.7 MANA: 257.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vulcanor Gravis (heavy)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Ground, Underground, Close, Pack, Night, Water
+Size: Tiny
+Element(s): Water, Earth
+Specialized Adaptation: Extreme Camouflage Chameleon (Furcifer pardalis) - Color-changing skin.
+Stats:
+ATK: 5.0
+DEF: 7.2 because of elemental bonuses, base DEF: 6.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 7.5 because of elemental bonuses, base INT: 6.0
+WIS: 5.0
+HP: 77.0 MANA: 50.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Mirabilis
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Day, Pack, Water, Long Range, Underground, Ground
+Size: Small
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 8.4 because of elemental bonuses, base INT: 7.0
+WIS: 9.0
+HP: 92.0 MANA: 64.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ventus
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Water, Horde, Close, Underground, Night, Ground
+Size: Small
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 10.0
+DEF: 12.0 because of elemental bonuses, base DEF: 10.0
+AGI: 7.0
+INT: 10.0
+WIS: 8.0
+HP: 130.0 MANA: 70.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Caelior Spinosus (spiny) Aridus (arid) Argentea (silver) Migrans (migratory)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Horde, Ground, Mid, Sky, Water, Day
+Size: Mega
+Element(s): Crystal
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 51.8 because of elemental bonuses, base ATK: 37.0
+DEF: 53.2 because of elemental bonuses, base DEF: 38.0
+AGI: 45.0
+INT: 37.0
+WIS: 44.0
+HP: 583.8 MANA: 295.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

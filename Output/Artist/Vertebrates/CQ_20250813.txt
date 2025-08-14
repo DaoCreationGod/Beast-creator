@@ -1,0 +1,435 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Cryptis
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Horde, Day, Underground, Ground, Lava/Magma, Range
+Size: Large
+Element(s): Earth, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 21.0 because of elemental bonuses, base ATK: 20.0
+DEF: 21.4 because of elemental bonuses, base DEF: 17.0
+AGI: 17.0
+INT: 17.0
+WIS: 19.0
+HP: 235.0 MANA: 132.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aurumis
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Group, Mid, Water, Underground, Day, Ground
+Size: Super
+Element(s): Water, Sharpness, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 127.4 because of elemental bonuses, base ATK: 98.0
+DEF: 104.0 because of elemental bonuses, base DEF: 80.0
+AGI: 91.2 because of elemental bonuses, base AGI: 73.0
+INT: 91.2 because of elemental bonuses, base INT: 73.0
+WIS: 128.7 because of elemental bonuses, base WIS: 99.0
+HP: 1167.4 MANA: 777.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Altaria Parvus (small) Savannus (savanna)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Water, Horde, Night, Long Range, Sky, Ground
+Size: Small
+Element(s): Water, Earth
+Specialized Adaptation: Bioluminescent Comb Jelly (Mnemiopsis leidyi) - Rainbow cilia.
+Stats:
+ATK: 8.0
+DEF: 12.0 because of elemental bonuses, base DEF: 10.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 7.0
+HP: 128.0 MANA: 61.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Ferrugineus (rusty) Montanus (mountain) Alba (white)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Sky, Close, Night, Group, Lava/Magma, Ground
+Size: Mid
+Element(s): Wood, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.0
+DEF: 17.2 because of elemental bonuses, base DEF: 11.0
+AGI: 12.0
+INT: 14.4 because of elemental bonuses, base INT: 12.0
+WIS: 16.9 because of elemental bonuses, base WIS: 13.0
+HP: 184.0 MANA: 114.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Close, Sky, Water, Horde, Night, Ground
+Size: Mega
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 46.2 because of elemental bonuses, base ATK: 44.0
+DEF: 44.1 because of elemental bonuses, base DEF: 42.0
+AGI: 50.0
+INT: 41.0
+WIS: 37.0
+HP: 487.2 MANA: 297.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Silexia Natans (swimming)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Mid, Sky, Pack, Day, Lava/Magma, Ground
+Size: Tiny
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 6.0
+INT: 9.6 because of elemental bonuses, base INT: 8.0
+WIS: 7.0
+HP: 91.0 MANA: 65.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ventus
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Pack, Underground, Long Range, Night, Water, Ground
+Size: Giant
+Element(s): Fire, Water
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 33.0 because of elemental bonuses, base ATK: 30.0
+DEF: 30.0
+AGI: 36.2 because of elemental bonuses, base AGI: 29.0
+INT: 39.9 because of elemental bonuses, base INT: 29.0
+WIS: 28.0
+HP: 333.0 MANA: 269.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis Spinosus (spiny) Lacustris (lake) Marmorata (marbled) Sonorus (loud)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Water, Sky, Pack, Mid, Day, Ground
+Size: Large
+Element(s): Yin
+Specialized Adaptation: Extreme Camouflage Coconut Octopus (Amphioctopus marginatus) - Hides in shells.
+Stats:
+ATK: 21.0
+DEF: 20.0
+AGI: 20.0
+INT: 30.0 because of elemental bonuses, base INT: 20.0
+WIS: 27.0 because of elemental bonuses, base WIS: 18.0
+HP: 221.0 MANA: 217.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Glacies Clarus (bright)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Ground, Night, Long Range, Lava/Magma, Horde, Underground
+Size: Super
+Element(s): Gold, Physical
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 92.4 because of elemental bonuses, base ATK: 88.0
+DEF: 90.7 because of elemental bonuses, base DEF: 72.0
+AGI: 90.0
+INT: 86.4 because of elemental bonuses, base INT: 72.0
+WIS: 72.0
+HP: 999.4 MANA: 612.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Petralis Flexilis (flexible)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Day, Group, Underground, Mid, Water, Ground
+Size: Giant
+Element(s): Yang
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 27.0
+DEF: 29.0
+AGI: 28.0
+INT: 43.5 because of elemental bonuses, base INT: 29.0
+WIS: 40.5 because of elemental bonuses, base WIS: 27.0
+HP: 317.0 MANA: 318.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vaporia Argenteus (silver) Occidentalis (western) Opaca (opaque) Solitaria (solitary)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Ground, Lava/Magma, Long Range, Sky, Day, Horde
+Size: Small
+Element(s): Physical, Gold, Fire
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 10.4 because of elemental bonuses, base ATK: 9.0
+DEF: 10.1 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 10.6 because of elemental bonuses, base INT: 8.0
+WIS: 7.0
+HP: 111.4 MANA: 70.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Luminor Alatus (winged)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Day, Sky, Pack, Long Range, Lava/Magma, Ground
+Size: Tiny
+Element(s): Fire, Physical, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.2 because of elemental bonuses, base ATK: 8.0
+DEF: 10.1 because of elemental bonuses, base DEF: 8.0
+AGI: 6.0
+INT: 9.2 because of elemental bonuses, base INT: 7.0
+WIS: 5.0
+HP: 110.2 MANA: 58.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Petralis Velox (swift) Saxatilis (rocky) Scutata (shield-shaped) Volitans (flying)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Group, Sky, Day, Long Range, Ground, Water
+Size: Tiny
+Element(s): Earth, Wind
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 6.0
+DEF: 13.0 because of elemental bonuses, base DEF: 8.0
+AGI: 10.8 because of elemental bonuses, base AGI: 8.0
+INT: 6.0
+WIS: 7.0
+HP: 136.0 MANA: 47.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Celeris (fast)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Lava/Magma, Mid, Underground, Pack, Day, Ground
+Size: Giant
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 27.0
+DEF: 31.2 because of elemental bonuses, base DEF: 26.0
+AGI: 29.0
+INT: 36.0 because of elemental bonuses, base INT: 30.0
+WIS: 28.0
+HP: 339.0 MANA: 250.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis Aureus (golden)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Close, Ground, Pack, Night, Sky, Water
+Size: Super
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 89.2 because of elemental bonuses, base ATK: 85.0
+DEF: 74.5 because of elemental bonuses, base DEF: 71.0
+AGI: 69.0
+INT: 95.0
+WIS: 78.0
+HP: 834.2 MANA: 670.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ferralis Erectus (upright) Riparius (riverbank) Orbiculata (circular)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Night, Sky, Ground, Mid, Lava/Magma, Horde
+Size: Super
+Element(s): Water, Crystal
+Specialized Adaptation: Extreme Camouflage Cuttlefish (Sepia officinalis) - Adaptive camouflage.
+Stats:
+ATK: 106.4 because of elemental bonuses, base ATK: 76.0
+DEF: 112.0 because of elemental bonuses, base DEF: 80.0
+AGI: 112.5 because of elemental bonuses, base AGI: 90.0
+INT: 83.8 because of elemental bonuses, base INT: 67.0
+WIS: 66.0
+HP: 1226.4 MANA: 584.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Stellion Caeruleus (blue) Nemoralis (woodland) Reticulata (netted)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Sky, Pack, Water, Mid, Ground, Night
+Size: Small
+Element(s): Fire, Earth, Water
+Specialized Adaptation: Extreme Camouflage Scorpionfish (Scorpaenidae spp.) - Algae-covered appearance.
+Stats:
+ATK: 8.8 because of elemental bonuses, base ATK: 8.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 12.4 because of elemental bonuses, base INT: 9.0
+WIS: 7.0
+HP: 104.8 MANA: 79.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nebulora Robustus (strong)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Night, Range, Underground, Group, Ground, Lava/Magma
+Size: Super
+Element(s): Wind
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 76.0
+DEF: 112.1 because of elemental bonuses, base DEF: 83.0
+AGI: 116.1 because of elemental bonuses, base AGI: 86.0
+INT: 72.0
+WIS: 85.0
+HP: 1197.0 MANA: 572.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Luminor Repens (creeping) Alpinus (alpine)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Underground, Group, Close, Lava/Magma, Night, Ground
+Size: Small
+Element(s): Water
+Specialized Adaptation: Bioluminescent Firefly (Lampyridae spp.) - Flashing abdomen.
+Stats:
+ATK: 10.0
+DEF: 10.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 7.0
+HP: 110.0 MANA: 61.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Aeneus (bronze) Litoralis (coastal)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Day, Sky, Lava/Magma, Range, Pack, Ground
+Size: Large
+Element(s): Wood, Yin
+Specialized Adaptation: Extreme Camouflage Stick Caterpillar (Phalera bucephala) - Resembles a broken twig.
+Stats:
+ATK: 21.0
+DEF: 28.6 because of elemental bonuses, base DEF: 22.0
+AGI: 17.0
+INT: 33.0 because of elemental bonuses, base INT: 22.0
+WIS: 42.9 because of elemental bonuses, base WIS: 22.0
+HP: 307.0 MANA: 272.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Communis (common) Palustris (marshy) Striata (striped) Carnifex (flesh-eating)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Group, Water, Mid, Ground, Day, Sky
+Size: Mega
+Element(s): Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 42.9 because of elemental bonuses, base ATK: 39.0
+DEF: 40.0
+AGI: 42.0
+INT: 41.8 because of elemental bonuses, base INT: 38.0
+WIS: 38.0
+HP: 442.9 MANA: 304.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis Erectus (upright)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Ground, Group, Range, Sky, Night, Lava/Magma
+Size: Super
+Element(s): Gold, Crystal
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 134.4 because of elemental bonuses, base ATK: 96.0
+DEF: 132.7 because of elemental bonuses, base DEF: 79.0
+AGI: 98.0
+INT: 109.2 because of elemental bonuses, base INT: 91.0
+WIS: 99.0
+HP: 1461.4 MANA: 793.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nebulora Albus (white)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Day, Horde, Close, Water, Underground, Ground
+Size: Mega
+Element(s): Water, Gold, Wood
+Specialized Adaptation: Extreme Camouflage Flounder (Paralichthys spp.) - Sandy bottom camouflage.
+Stats:
+ATK: 43.0
+DEF: 73.3 because of elemental bonuses, base DEF: 47.0
+AGI: 57.5 because of elemental bonuses, base AGI: 46.0
+INT: 64.5 because of elemental bonuses, base INT: 43.0
+WIS: 53.3 because of elemental bonuses, base WIS: 41.0
+HP: 776.0 MANA: 455.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Solara Niger (black)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Range, Water, Pack, Day, Underground, Ground
+Size: Small
+Element(s): Earth, Physical, Gold
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 10.5 because of elemental bonuses, base ATK: 10.0
+DEF: 13.6 because of elemental bonuses, base DEF: 9.0
+AGI: 10.0
+INT: 10.8 because of elemental bonuses, base INT: 9.0
+WIS: 10.0
+HP: 146.5 MANA: 79.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aquarion Durus (hard) Campestris (plains) Alba (white)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Underground, Close, Group, Ground, Day, Water
+Size: Tiny
+Element(s): Fire, Wood, Crystal
+Specialized Adaptation: Bioluminescent Scaleless Dragonfish (Aristostomias scintillans) - Blue-green lights.
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 5.0
+DEF: 12.7 because of elemental bonuses, base DEF: 7.0
+AGI: 5.0
+INT: 6.6 because of elemental bonuses, base INT: 6.0
+WIS: 7.8 because of elemental bonuses, base WIS: 6.0
+HP: 134.7 MANA: 52.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aurumis Mollis (soft)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Water, Night, Range, Horde, Underground, Ground
+Size: Tiny
+Element(s): Strength
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 8.6 because of elemental bonuses, base ATK: 8.0
+DEF: 8.0
+AGI: 6.0
+INT: 8.0
+WIS: 7.0
+HP: 88.6 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Radiantia
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Close, Day, Horde, Water, Ground, Sky
+Size: Giant
+Element(s): Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 36.4 because of elemental bonuses, base ATK: 26.0
+DEF: 36.4 because of elemental bonuses, base DEF: 26.0
+AGI: 27.0
+INT: 27.0
+WIS: 29.0
+HP: 400.4 MANA: 207.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Radiantia Ferox (fierce) Canyonis (canyon) Reticulata (netted) Solitaria (solitary)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Mid, Water, Horde, Underground, Day, Ground
+Size: Large
+Element(s): Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 25.2 because of elemental bonuses, base ATK: 18.0
+DEF: 29.4 because of elemental bonuses, base DEF: 21.0
+AGI: 22.0
+INT: 20.0
+WIS: 21.0
+HP: 319.2 MANA: 152.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis Purpureus (purple)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Horde, Ground, Sky, Lava/Magma, Long Range, Day
+Size: Giant
+Element(s): Gold, Earth, Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 29.7 because of elemental bonuses, base ATK: 27.0
+DEF: 40.3 because of elemental bonuses, base DEF: 28.0
+AGI: 27.0
+INT: 33.0 because of elemental bonuses, base INT: 25.0
+WIS: 27.0
+HP: 432.7 MANA: 232.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

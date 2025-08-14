@@ -1,0 +1,495 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Solara Luridus (pale)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Sky, Lava/Magma, Close, Day, Group, Ground
+Size: Small
+Element(s): Sharpness
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 11.7 because of elemental bonuses, base ATK: 9.0
+DEF: 8.0
+AGI: 9.0
+INT: 8.0
+WIS: 9.0
+HP: 91.7 MANA: 62.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis Argenteus (silver)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Day, Horde, Ground, Water, Close, Underground
+Size: Large
+Element(s): Gold, Water, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.0
+DEF: 32.8 because of elemental bonuses, base DEF: 21.0
+AGI: 22.5 because of elemental bonuses, base AGI: 18.0
+INT: 28.5 because of elemental bonuses, base INT: 19.0
+WIS: 27.3 because of elemental bonuses, base WIS: 21.0
+HP: 347.0 MANA: 210.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros
+Shape: Invertebrate, Elongate, Like Worms
+Type: Group, Close, Ground, Night, Water, Sky
+Size: Small
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 9.0
+DEF: 13.0 because of elemental bonuses, base DEF: 10.0
+AGI: 10.0
+INT: 9.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 139.0 MANA: 71.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lumina
+Shape: Invertebrate, Elongate, Like Worms
+Type: Night, Long Range, Underground, Horde, Ground, Water
+Size: Mid
+Element(s): Physical, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 13.7 because of elemental bonuses, base ATK: 13.0
+DEF: 12.6 because of elemental bonuses, base DEF: 12.0
+AGI: 15.0
+INT: 19.5 because of elemental bonuses, base INT: 13.0
+WIS: 19.5 because of elemental bonuses, base WIS: 13.0
+HP: 139.7 MANA: 146.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignara Acutus (sharp) Litoralis (coastal) Serrata (serrated)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Range, Pack, Lava/Magma, Sky, Day, Ground
+Size: Small
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.0
+DEF: 8.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 10.0 because of elemental bonuses, base INT: 8.0
+WIS: 7.0
+HP: 88.0 MANA: 67.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros Pendulus (hanging) Vallicola (valley) Nigra (black)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Horde, Close, Night, Water, Ground, Sky
+Size: Mega
+Element(s): Strength
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 41.9 because of elemental bonuses, base ATK: 39.0
+DEF: 42.0
+AGI: 39.0
+INT: 40.0
+WIS: 39.0
+HP: 461.9 MANA: 297.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Radiantia Magnus (large)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Ground, Underground, Day, Water, Close, Pack
+Size: Tiny
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Comb Jelly (Mnemiopsis leidyi) - Rainbow cilia.
+Stats:
+ATK: 8.4 because of elemental bonuses, base ATK: 8.0
+DEF: 5.2 because of elemental bonuses, base DEF: 5.0
+AGI: 7.0
+INT: 6.0
+WIS: 8.0
+HP: 60.4 MANA: 50.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Luminor Vibrans (vibrant) Urbanus (urban)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Horde, Night, Water, Sky, Long Range, Ground
+Size: Mid
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 14.7 because of elemental bonuses, base ATK: 14.0
+DEF: 14.7 because of elemental bonuses, base DEF: 14.0
+AGI: 14.0
+INT: 12.0
+WIS: 15.0
+HP: 161.7 MANA: 97.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros Volans (flying) Fluvialis (river)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Group, Day, Underground, Ground, Lava/Magma, Close
+Size: Large
+Element(s): Gold, Wind
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 22.0
+DEF: 29.2 because of elemental bonuses, base DEF: 18.0
+AGI: 24.3 because of elemental bonuses, base AGI: 18.0
+INT: 26.4 because of elemental bonuses, base INT: 22.0
+WIS: 22.0
+HP: 314.0 MANA: 187.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aeternis Levis (light) Occidentalis (western) Fibrosa (fibrous)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Range, Day, Lava/Magma, Horde, Ground, Sky
+Size: Tiny
+Element(s): Fire, Sharpness
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 8.6 because of elemental bonuses, base ATK: 6.0
+DEF: 5.0
+AGI: 6.0
+INT: 7.7 because of elemental bonuses, base INT: 7.0
+WIS: 5.0
+HP: 58.6 MANA: 51.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Zephyria
+Shape: Invertebrate, Elongate, Like Worms
+Type: Long Range, Night, Sky, Group, Water, Ground
+Size: Large
+Element(s): Fire, Yang
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 19.8 because of elemental bonuses, base ATK: 18.0
+DEF: 18.0
+AGI: 18.0
+INT: 33.0 because of elemental bonuses, base INT: 20.0
+WIS: 28.5 because of elemental bonuses, base WIS: 19.0
+HP: 199.8 MANA: 236.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis Aeneus (bronze) Deltanus (delta)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Horde, Day, Sky, Range, Water, Ground
+Size: Giant
+Element(s): Gold, Water, Crystal
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 37.8 because of elemental bonuses, base ATK: 27.0
+DEF: 42.0 because of elemental bonuses, base DEF: 25.0
+AGI: 37.5 because of elemental bonuses, base AGI: 30.0
+INT: 42.0 because of elemental bonuses, base INT: 28.0
+WIS: 25.0
+HP: 457.8 MANA: 272.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vaporia
+Shape: Invertebrate, Elongate, Like Worms
+Type: Underground, Lava/Magma, Close, Pack, Ground, Day
+Size: Mid
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 13.0
+DEF: 18.2 because of elemental bonuses, base DEF: 14.0
+AGI: 12.0
+INT: 14.0
+WIS: 19.5 because of elemental bonuses, base WIS: 15.0
+HP: 195.0 MANA: 118.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vulcanor Glaber (hairless) Cavernis (cave) Rosea (pink)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Lava/Magma, Close, Group, Night, Ground, Sky
+Size: Large
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 22.0
+DEF: 22.0
+AGI: 25.0 because of elemental bonuses, base AGI: 20.0
+INT: 25.0 because of elemental bonuses, base INT: 20.0
+WIS: 20.0
+HP: 242.0 MANA: 175.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Glacies
+Shape: Invertebrate, Elongate, Like Worms
+Type: Pack, Water, Day, Range, Underground, Ground
+Size: Giant
+Element(s): Gold, Physical, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 31.5 because of elemental bonuses, base ATK: 30.0
+DEF: 41.0 because of elemental bonuses, base DEF: 25.0
+AGI: 30.0
+INT: 33.6 because of elemental bonuses, base INT: 28.0
+WIS: 35.1 because of elemental bonuses, base WIS: 27.0
+HP: 441.5 MANA: 255.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Zephyria Magnus (large) Urbanus (urban) Flava (yellow)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Range, Ground, Day, Water, Horde, Sky
+Size: Mega
+Element(s): Gold, Wind
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 42.0
+DEF: 76.1 because of elemental bonuses, base DEF: 47.0
+AGI: 67.5 because of elemental bonuses, base AGI: 50.0
+INT: 60.0 because of elemental bonuses, base INT: 50.0
+WIS: 38.0
+HP: 803.0 MANA: 395.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nivora Magnus (large) Arenosus (sandy) Serrata (serrated) Fluitans (floating)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Close, Underground, Night, Pack, Ground, Lava/Magma
+Size: Super
+Element(s): Earth, Water
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 100.0
+DEF: 86.4 because of elemental bonuses, base DEF: 72.0
+AGI: 83.8 because of elemental bonuses, base AGI: 67.0
+INT: 96.2 because of elemental bonuses, base INT: 77.0
+WIS: 83.0
+HP: 964.0 MANA: 688.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Solara Serenus (calm) Montanus (mountain) Lobata (lobed)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Underground, Long Range, Group, Water, Ground, Day
+Size: Large
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 21.0
+DEF: 21.6 because of elemental bonuses, base DEF: 18.0
+AGI: 21.0
+INT: 21.6 because of elemental bonuses, base INT: 18.0
+WIS: 20.0
+HP: 237.0 MANA: 158.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros
+Shape: Invertebrate, Elongate, Like Worms
+Type: Night, Ground, Sky, Pack, Mid, Lava/Magma
+Size: Mega
+Element(s): Gold, Wood, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 42.0
+DEF: 68.6 because of elemental bonuses, base DEF: 44.0
+AGI: 48.0
+INT: 79.2 because of elemental bonuses, base INT: 44.0
+WIS: 83.9 because of elemental bonuses, base WIS: 43.0
+HP: 728.0 MANA: 605.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis Spinosus (spiny) Aridus (arid) Atra (deep black) Hibernans (hibernating)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Day, Range, Sky, Horde, Ground, Water
+Size: Small
+Element(s): Earth, Sharpness, Wind
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 9.1 because of elemental bonuses, base ATK: 7.0
+DEF: 11.3 because of elemental bonuses, base DEF: 7.0
+AGI: 13.5 because of elemental bonuses, base AGI: 10.0
+INT: 9.0
+WIS: 7.0
+HP: 122.1 MANA: 62.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Caeruleus (blue)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Long Range, Pack, Water, Underground, Day, Ground
+Size: Super
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 107.8 because of elemental bonuses, base ATK: 98.0
+DEF: 70.0
+AGI: 99.0
+INT: 105.6 because of elemental bonuses, base INT: 96.0
+WIS: 80.0
+HP: 807.8 MANA: 728.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara Niger (black)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Long Range, Horde, Sky, Water, Ground, Night
+Size: Mid
+Element(s): Strength, Water
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 15.0 because of elemental bonuses, base ATK: 14.0
+DEF: 15.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 17.5 because of elemental bonuses, base INT: 14.0
+WIS: 11.0
+HP: 165.0 MANA: 115.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lumina Aeneus (bronze) Limosus (muddy)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Long Range, Day, Underground, Ground, Water, Horde
+Size: Large
+Element(s): Gold, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 21.0
+DEF: 26.4 because of elemental bonuses, base DEF: 22.0
+AGI: 20.0
+INT: 37.8 because of elemental bonuses, base INT: 21.0
+WIS: 28.5 because of elemental bonuses, base WIS: 19.0
+HP: 285.0 MANA: 260.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Silexia Levis (light) Tropicalis (tropical) Tricolor (three-colored)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Ground, Water, Night, Range, Horde, Underground
+Size: Giant
+Element(s): Water, Yin
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 29.0
+DEF: 26.0
+AGI: 32.5 because of elemental bonuses, base AGI: 26.0
+INT: 50.6 because of elemental bonuses, base INT: 27.0
+WIS: 39.0 because of elemental bonuses, base WIS: 26.0
+HP: 289.0 MANA: 350.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Virensis Aureus (golden) Palustris (marshy)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Day, Horde, Mid, Ground, Underground, Lava/Magma
+Size: Tiny
+Element(s): Water, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 5.0
+HP: 104.0 MANA: 56.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis Silentis (quiet) Oasensis (oasis)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Horde, Night, Close, Sky, Lava/Magma, Ground
+Size: Mega
+Element(s): Physical, Wood
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 51.5 because of elemental bonuses, base ATK: 49.0
+DEF: 51.9 because of elemental bonuses, base DEF: 38.0
+AGI: 47.0
+INT: 47.0
+WIS: 52.0 because of elemental bonuses, base WIS: 40.0
+HP: 570.5 MANA: 365.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Spinosus (spiny) Eremitus (isolated)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Sky, Ground, Lava/Magma, Mid, Group, Day
+Size: Mega
+Element(s): Physical, Fire
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 49.7 because of elemental bonuses, base ATK: 43.0
+DEF: 44.1 because of elemental bonuses, base DEF: 42.0
+AGI: 43.0
+INT: 48.4 because of elemental bonuses, base INT: 44.0
+WIS: 43.0
+HP: 490.7 MANA: 349.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara Ferox (fierce) Borealis (northern)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Sky, Range, Pack, Day, Lava/Magma, Ground
+Size: Mid
+Element(s): Lightning, Gold
+Specialized Adaptation: Extreme Camouflage Stonefish (Synanceia verrucosa) - Rocky appearance.
+Stats:
+ATK: 17.5 because of elemental bonuses, base ATK: 14.0
+DEF: 15.6 because of elemental bonuses, base DEF: 13.0
+AGI: 13.8 because of elemental bonuses, base AGI: 11.0
+INT: 14.4 because of elemental bonuses, base INT: 12.0
+WIS: 14.0
+HP: 173.5 MANA: 107.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis Natans (swimming) Polarus (polar)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Close, Group, Ground, Underground, Night, Lava/Magma
+Size: Giant
+Element(s): Water, Physical, Wood
+Specialized Adaptation: Extreme Camouflage Cuttlefish (Sepia officinalis) - Adaptive camouflage.
+Stats:
+ATK: 28.4 because of elemental bonuses, base ATK: 27.0
+DEF: 34.1 because of elemental bonuses, base DEF: 25.0
+AGI: 36.2 because of elemental bonuses, base AGI: 29.0
+INT: 32.5 because of elemental bonuses, base INT: 26.0
+WIS: 35.1 because of elemental bonuses, base WIS: 27.0
+HP: 369.4 MANA: 250.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Arcanis
+Shape: Invertebrate, Elongate, Like Worms
+Type: Close, Night, Underground, Group, Ground, Water
+Size: Mega
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 44.0
+DEF: 40.0
+AGI: 47.5 because of elemental bonuses, base AGI: 38.0
+INT: 48.8 because of elemental bonuses, base INT: 39.0
+WIS: 49.0
+HP: 444.0 MANA: 366.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ferralis Celeris (fast) Mangrova (mangrove)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Range, Pack, Lava/Magma, Night, Underground, Ground
+Size: Tiny
+Element(s): Strength
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 6.4 because of elemental bonuses, base ATK: 6.0
+DEF: 7.0
+AGI: 8.0
+INT: 7.0
+WIS: 5.0
+HP: 76.4 MANA: 47.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Alatus (winged)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Horde, Sky, Day, Ground, Long Range, Lava/Magma
+Size: Small
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 9.0
+INT: 10.8 because of elemental bonuses, base INT: 9.0
+WIS: 10.0
+HP: 93.0 MANA: 79.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Silentis (quiet) Australis (southern)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Pack, Night, Range, Underground, Ground, Lava/Magma
+Size: Super
+Element(s): Space
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 167.9 because of elemental bonuses, base ATK: 73.0
+DEF: 167.9 because of elemental bonuses, base DEF: 73.0
+AGI: 96.0
+INT: 197.8 because of elemental bonuses, base INT: 86.0
+WIS: 92.0
+HP: 1846.9 MANA: 1219.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

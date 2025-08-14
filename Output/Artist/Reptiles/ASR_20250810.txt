@@ -1,0 +1,271 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Silexia
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Water, Pack, Underground, Close, Day, Ground
+Size: Super
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 92.0
+DEF: 97.0
+AGI: 87.5 because of elemental bonuses, base AGI: 70.0
+INT: 117.5 because of elemental bonuses, base INT: 94.0
+WIS: 67.0
+HP: 1062.0 MANA: 755.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ventus Volans (flying) Crateris (crater)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Day, Horde, Long Range, Sky, Ground, Lava/Magma
+Size: Small
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 7.0
+DEF: 10.4 because of elemental bonuses, base DEF: 8.0
+AGI: 8.0
+INT: 9.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 111.0 MANA: 67.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Alatus (winged) Campestris (plains)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Pack, Water, Night, Long Range, Ground, Sky
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 28.0
+DEF: 31.2 because of elemental bonuses, base DEF: 26.0
+AGI: 27.0
+INT: 25.0
+WIS: 28.0
+HP: 340.0 MANA: 195.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vaporia Spinosus (spiny) Volcanicus (volcanic)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Long Range, Group, Ground, Lava/Magma, Sky, Day
+Size: Giant
+Element(s): Gold, Wood, Yang
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 30.0
+DEF: 40.6 because of elemental bonuses, base DEF: 26.0
+AGI: 30.0
+INT: 50.4 because of elemental bonuses, base INT: 28.0
+WIS: 48.8 because of elemental bonuses, base WIS: 25.0
+HP: 436.0 MANA: 374.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Altaria Rotundus (round) Cavernis (cave)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Lava/Magma, Day, Pack, Sky, Close, Ground
+Size: Large
+Element(s): Physical, Fire
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 25.4 because of elemental bonuses, base ATK: 22.0
+DEF: 17.9 because of elemental bonuses, base DEF: 17.0
+AGI: 20.0
+INT: 22.0 because of elemental bonuses, base INT: 20.0
+WIS: 22.0
+HP: 204.4 MANA: 165.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Radiantia
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Underground, Range, Ground, Water, Night, Pack
+Size: Super
+Element(s): Lightning
+Specialized Adaptation: Extreme Camouflage Peppered Moth (Biston betularia) - Industrial melanism.
+Stats:
+ATK: 111.2 because of elemental bonuses, base ATK: 89.0
+DEF: 92.0
+AGI: 93.8 because of elemental bonuses, base AGI: 75.0
+INT: 96.0
+WIS: 84.0
+HP: 1031.2 MANA: 690.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Voltis Albus (white)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Close, Group, Lava/Magma, Underground, Day, Ground
+Size: Super
+Element(s): Gold, Wood
+Specialized Adaptation: Extreme Camouflage Pygmy Seahorse (Hippocampus bargibanti) - Coral-mimicking.
+Stats:
+ATK: 88.0
+DEF: 107.6 because of elemental bonuses, base DEF: 69.0
+AGI: 77.0
+INT: 115.2 because of elemental bonuses, base INT: 96.0
+WIS: 130.0 because of elemental bonuses, base WIS: 100.0
+HP: 1164.0 MANA: 901.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Mirabilis Caeruleus (blue) Fluvialis (river) Opaca (opaque) Fossor (burrowing)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Sky, Range, Pack, Ground, Lava/Magma, Night
+Size: Giant
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 26.0
+DEF: 34.8 because of elemental bonuses, base DEF: 29.0
+AGI: 27.0
+INT: 36.0 because of elemental bonuses, base INT: 30.0
+WIS: 26.0
+HP: 374.0 MANA: 245.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Marinus Robustus (strong) Arenosus (sandy) Spinosa (spiny) Hiemalis (winter-dormant)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Night, Water, Range, Group, Ground, Underground
+Size: Giant
+Element(s): Gold, Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 27.9 because of elemental bonuses, base ATK: 26.0
+DEF: 34.8 because of elemental bonuses, base DEF: 29.0
+AGI: 25.0
+INT: 31.2 because of elemental bonuses, base INT: 26.0
+WIS: 27.0
+HP: 375.9 MANA: 223.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Marinus Velox (swift) Australis (southern)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Lava/Magma, Day, Underground, Horde, Close, Ground
+Size: Large
+Element(s): Fire, Gold
+Specialized Adaptation: Bioluminescent Cookiecutter Shark (Isistius brasiliensis) - Counter-illumination.
+Stats:
+ATK: 19.8 because of elemental bonuses, base ATK: 18.0
+DEF: 20.4 because of elemental bonuses, base DEF: 17.0
+AGI: 17.0
+INT: 22.4 because of elemental bonuses, base INT: 17.0
+WIS: 18.0
+HP: 223.8 MANA: 157.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis Purpureus (purple) Nemoralis (woodland) Bicolor (two-colored) Hibernans (hibernating)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Pack, Night, Lava/Magma, Sky, Mid, Ground
+Size: Tiny
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Stonefish (Synanceia verrucosa) - Rocky appearance.
+Stats:
+ATK: 7.0
+DEF: 6.0 because of elemental bonuses, base DEF: 5.0
+AGI: 8.0
+INT: 6.0 because of elemental bonuses, base INT: 5.0
+WIS: 8.0
+HP: 67.0 MANA: 50.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aetheris Natans (swimming) Palustris (marshy) Striata (striped) Fossilis (fossilized)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Sky, Night, Horde, Long Range, Lava/Magma, Ground
+Size: Tiny
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 5.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 5.0
+INT: 8.0
+WIS: 6.0
+HP: 89.0 MANA: 55.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nebulora Alatus (winged) Pluvius (rainy) Scutata (shield-shaped) Celerima (very fast)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Water, Sky, Mid, Night, Ground, Group
+Size: Small
+Element(s): Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.1 because of elemental bonuses, base ATK: 7.0
+DEF: 9.0
+AGI: 9.0
+INT: 7.0
+WIS: 7.0
+HP: 99.1 MANA: 52.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aetheris Alatus (winged)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Group, Mid, Water, Night, Ground, Underground
+Size: Small
+Element(s): Sharpness
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 9.1 because of elemental bonuses, base ATK: 7.0
+DEF: 10.0
+AGI: 8.0
+INT: 7.0
+WIS: 8.0
+HP: 109.1 MANA: 55.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Eclipsis Natans (swimming) Lacustris (lake) Nigra (black)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Lava/Magma, Day, Horde, Underground, Long Range, Ground
+Size: Mid
+Element(s): Sharpness, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 15.6 because of elemental bonuses, base ATK: 12.0
+DEF: 11.0
+AGI: 13.0
+INT: 22.5 because of elemental bonuses, base INT: 15.0
+WIS: 19.5 because of elemental bonuses, base WIS: 13.0
+HP: 125.6 MANA: 161.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Caeruleus (blue) Aridus (arid) Nigra (black) Fluitans (floating)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Close, Sky, Pack, Day, Lava/Magma, Ground
+Size: Super
+Element(s): Yin, Gold, Fire
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 106.7 because of elemental bonuses, base ATK: 97.0
+DEF: 105.6 because of elemental bonuses, base DEF: 88.0
+AGI: 80.0
+INT: 168.3 because of elemental bonuses, base INT: 85.0
+WIS: 106.5 because of elemental bonuses, base WIS: 71.0
+HP: 1162.7 MANA: 1107.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aquarion Argenteus (silver) Palustris (marshy) Dentata (toothed) Lenta (slow)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Long Range, Ground, Night, Water, Underground, Horde
+Size: Tiny
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 9.8 because of elemental bonuses, base ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 6.0
+AGI: 8.0
+INT: 6.0
+WIS: 6.0
+HP: 93.8 MANA: 45.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis Purpureus (purple) Litoralis (coastal) Cristata (crested) Rapax (predatory)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Group, Close, Underground, Day, Water, Ground
+Size: Small
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.5 because of elemental bonuses, base ATK: 9.0
+DEF: 8.4 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 7.0
+WIS: 8.0
+HP: 93.5 MANA: 55.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

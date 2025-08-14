@@ -1,0 +1,588 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Aurumis Mollis (soft)
+Shape: Fish
+Type: Day, Mid, Ground, Lava/Magma, Pack, Sky
+Size: Tiny
+Element(s): Yin
+Stats:
+ATK: 6.0
+DEF: 6.0
+AGI: 6.0
+INT: 9.0
+WIS: 12.0
+HP: 66.0 MANA: 75.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Virensis Levis (light) Saxatilis (rocky) Guttata (speckled)
+Shape: Fish
+Type: Pack, Day, Ground, Underground, Range, Lava/Magma
+Size: Large
+Element(s): Yang
+Stats:
+ATK: 19.0
+DEF: 19.0
+AGI: 20.0
+INT: 27.0
+WIS: 33.0
+HP: 209.0 MANA: 217.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Ignara Laevis (smooth) Polarus (polar) Aurea (gold)
+Shape: Fish
+Type: Close, Sky, Lava/Magma, Ground, Group, Day
+Size: Tiny
+Element(s): Physical, Earth
+Stats:
+ATK: 5.2
+DEF: 6.3
+AGI: 5.0
+INT: 7.0
+WIS: 6.0
+HP: 68.2 MANA: 50.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Vortexis Ater (dark)
+Shape: Fish
+Type: Group, Sky, Water, Close, Night, Ground
+Size: Mid
+Element(s): Gold
+Stats:
+ATK: 11.0
+DEF: 13.2
+AGI: 13.0
+INT: 18.0
+WIS: 11.0
+HP: 143.0 MANA: 117.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Lumina Erectus (upright) Deltanus (delta) Flexuosa (twisted) Territorialis (territorial)
+Shape: Fish
+Type: Ground, Night, Underground, Mid, Lava/Magma, Pack
+Size: Small
+Element(s): Fire, Sharpness, Physical
+Stats:
+ATK: 12.0
+DEF: 9.5
+AGI: 10.0
+INT: 9.9
+WIS: 7.0
+HP: 107.0 MANA: 67.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Ignara Audax (bold) Aridus (arid) Granulata (granular) Sedentaria (stationary)
+Shape: Fish
+Type: Close, Ground, Sky, Group, Water, Night
+Size: Mid
+Element(s): Fire, Wood
+Stats:
+ATK: 12.1
+DEF: 14.3
+AGI: 14.0
+INT: 16.5
+WIS: 18.2
+HP: 155.1 MANA: 128.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Aetheris Spinosus (spiny) Steppus (steppe)
+Shape: Fish
+Type: Night, Ground, Range, Sky, Pack, Water
+Size: Mega
+Element(s): Wind
+Stats:
+ATK: 44.0
+DEF: 62.1
+AGI: 52.7
+INT: 47.0
+WIS: 38.0
+HP: 665.0 MANA: 330.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Terros Parvus (small)
+Shape: Fish
+Type: Close, Water, Ground, Horde, Underground, Night
+Size: Tiny
+Element(s): Wood, Water
+Stats:
+ATK: 8.0
+DEF: 9.1
+AGI: 10.0
+INT: 7.5
+WIS: 7.8
+HP: 99.0 MANA: 57.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Voltis Aeneus (bronze)
+Shape: Fish
+Type: Lava/Magma, Horde, Underground, Close, Night, Ground
+Size: Mid
+Element(s): Wind
+Stats:
+ATK: 11.0
+DEF: 20.2
+AGI: 14.9
+INT: 15.0
+WIS: 14.0
+HP: 213.0 MANA: 110.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Vortexis Spinosus (spiny) Sylvestris (forest) Cordata (heart-shaped)
+Shape: Fish
+Type: Water, Sky, Mid, Night, Pack, Ground
+Size: Mid
+Element(s): Earth
+Stats:
+ATK: 13.0
+DEF: 15.6
+AGI: 13.0
+INT: 11.0
+WIS: 12.0
+HP: 169.0 MANA: 85.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Aetheris Communis (common)
+Shape: Fish
+Type: Pack, Water, Day, Long Range, Underground, Ground
+Size: Tiny
+Element(s): Earth
+Stats:
+ATK: 5.0
+DEF: 6.0
+AGI: 5.0
+INT: 6.0
+WIS: 5.0
+HP: 65.0 MANA: 42.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Corvalis Natans (swimming) Frigidus (cold) Marmorata (marbled) Socialis (social)
+Shape: Fish
+Type: Day, Long Range, Ground, Horde, Underground, Water
+Size: Mega
+Element(s): Gold, Strength, Water
+Stats:
+ATK: 41.9
+DEF: 46.8
+AGI: 50.0
+INT: 69.0
+WIS: 46.0
+HP: 509.9 MANA: 460.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Primordis Robustus (strong) Savannus (savanna) Lineata (lined)
+Shape: Fish
+Type: Night, Long Range, Lava/Magma, Group, Ground, Sky
+Size: Mid
+Element(s): Wood, Earth
+Stats:
+ATK: 11.0
+DEF: 20.3
+AGI: 15.0
+INT: 13.0
+WIS: 14.3
+HP: 214.0 MANA: 100.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Sylvanis Natans (swimming) Aridus (arid) Iridesca (iridescent)
+Shape: Fish
+Type: Pack, Sky, Day, Close, Lava/Magma, Ground
+Size: Super
+Element(s): Wood
+Stats:
+ATK: 99.0
+DEF: 130.0
+AGI: 91.0
+INT: 100.0
+WIS: 89.7
+HP: 1399.0 MANA: 724.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Cryptis Vibrans (vibrant) Aethalis (high-altitude) Atra (deep black) Effugiens (escaping)
+Shape: Fish
+Type: Sky, Mid, Lava/Magma, Pack, Day, Ground
+Size: Small
+Element(s): Water, Earth
+Stats:
+ATK: 8.0
+DEF: 10.8
+AGI: 8.8
+INT: 11.2
+WIS: 7.0
+HP: 116.0 MANA: 73.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Vulcanor Fragilis (fragile) Glacialis (icy) Atra (deep black) Aestiva (summer-active)
+Shape: Fish
+Type: Group, Underground, Mid, Water, Night, Ground
+Size: Mega
+Element(s): Wood
+Stats:
+ATK: 43.0
+DEF: 65.0
+AGI: 40.0
+INT: 48.0
+WIS: 58.5
+HP: 693.0 MANA: 386.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Cryptis Communis (common) Subterraneus (underground)
+Shape: Fish
+Type: Close, Group, Sky, Lava/Magma, Night, Ground
+Size: Large
+Element(s): Strength
+Stats:
+ATK: 19.3
+DEF: 19.0
+AGI: 21.0
+INT: 22.0
+WIS: 22.0
+HP: 209.3 MANA: 165.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Ferralis
+Shape: Fish
+Type: Close, Group, Day, Water, Sky, Ground
+Size: Mid
+Element(s): Gold
+Stats:
+ATK: 13.0
+DEF: 18.0
+AGI: 13.0
+INT: 15.6
+WIS: 14.0
+HP: 193.0 MANA: 113.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Tenebris Radians (radiant) Arboreus (tree-dwelling) Granulata (granular) Fetida (foul-smelling)
+Shape: Fish
+Type: Close, Underground, Pack, Day, Water, Ground
+Size: Mid
+Element(s): Wind, Yin
+Stats:
+ATK: 12.0
+DEF: 18.9
+AGI: 17.6
+INT: 21.0
+WIS: 16.5
+HP: 201.0 MANA: 146.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Serpentis Levis (light)
+Shape: Fish
+Type: Underground, Water, Range, Pack, Night, Ground
+Size: Super
+Element(s): Yin
+Stats:
+ATK: 88.0
+DEF: 70.0
+AGI: 73.0
+INT: 108.0
+WIS: 142.5
+HP: 788.0 MANA: 896.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Radiantia Ferox (fierce) Cavernis (cave) Caerulea (blue) Radicans (rooting)
+Shape: Fish
+Type: Group, Underground, Range, Ground, Night, Lava/Magma
+Size: Mega
+Element(s): Physical, Water, Wood
+Stats:
+ATK: 49.4
+DEF: 65.5
+AGI: 61.2
+INT: 61.2
+WIS: 58.5
+HP: 704.4 MANA: 452.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Luminor Velox (swift)
+Shape: Fish
+Type: Ground, Close, Horde, Water, Underground, Day
+Size: Super
+Element(s): Physical, Earth, Crystal
+Stats:
+ATK: 147.0
+DEF: 141.1
+AGI: 79.0
+INT: 91.0
+WIS: 78.0
+HP: 1558.0 MANA: 650.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Glacies Celeris (fast)
+Shape: Fish
+Type: Close, Sky, Water, Day, Horde, Ground
+Size: Mid
+Element(s): Wind
+Stats:
+ATK: 15.0
+DEF: 20.2
+AGI: 16.2
+INT: 14.0
+WIS: 11.0
+HP: 217.0 MANA: 97.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Sylvanis Robustus (strong)
+Shape: Fish
+Type: Underground, Mid, Ground, Night, Lava/Magma, Horde
+Size: Large
+Element(s): Physical
+Stats:
+ATK: 19.9
+DEF: 19.9
+AGI: 22.0
+INT: 18.0
+WIS: 20.0
+HP: 218.9 MANA: 140.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Aurumis Rarus (rare)
+Shape: Fish
+Type: Pack, Day, Underground, Close, Ground, Water
+Size: Small
+Element(s): Gold
+Stats:
+ATK: 9.0
+DEF: 9.6
+AGI: 8.0
+INT: 8.4
+WIS: 8.0
+HP: 105.0 MANA: 62.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Vortexis Floridus (flowery) Litoralis (coastal) Lobata (lobed)
+Shape: Fish
+Type: Night, Close, Ground, Lava/Magma, Horde, Underground
+Size: Mega
+Element(s): Water, Crystal
+Stats:
+ATK: 58.8
+DEF: 58.8
+AGI: 52.5
+INT: 55.0
+WIS: 44.0
+HP: 646.8 MANA: 385.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Aeternis Natans (swimming) Polarus (polar) Cinerea (gray) Hibernans (hibernating)
+Shape: Fish
+Type: Water, Sky, Mid, Pack, Night, Ground
+Size: Tiny
+Element(s): Water, Physical, Wood
+Stats:
+ATK: 5.2
+DEF: 8.2
+AGI: 8.8
+INT: 10.0
+WIS: 9.1
+HP: 87.2 MANA: 72.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Serpentis
+Shape: Fish
+Type: Range, Lava/Magma, Night, Ground, Pack, Sky
+Size: Mega
+Element(s): Water, Wood, Physical
+Stats:
+ATK: 43.1
+DEF: 68.2
+AGI: 51.2
+INT: 51.2
+WIS: 62.4
+HP: 725.1 MANA: 412.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Corvalis Ater (dark) Borealis (northern)
+Shape: Fish
+Type: Underground, Mid, Night, Lava/Magma, Pack, Ground
+Size: Mega
+Element(s): Fire
+Stats:
+ATK: 53.9
+DEF: 50.0
+AGI: 47.0
+INT: 50.6
+WIS: 45.0
+HP: 553.9 MANA: 365.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Lunara Natans (swimming) Oasensis (oasis) Aurantiaca (orange)
+Shape: Fish
+Type: Close, Sky, Lava/Magma, Ground, Pack, Day
+Size: Small
+Element(s): Yang
+Stats:
+ATK: 8.0
+DEF: 9.0
+AGI: 9.0
+INT: 12.0
+WIS: 13.5
+HP: 98.0 MANA: 93.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Nebulora Ferox (fierce) Aethalis (high-altitude) Bicolor (two-colored) Nomadica (nomadic)
+Shape: Fish
+Type: Lava/Magma, Mid, Group, Ground, Day, Sky
+Size: Mega
+Element(s): Gold, Crystal
+Stats:
+ATK: 70.0
+DEF: 67.2
+AGI: 37.0
+INT: 50.4
+WIS: 41.0
+HP: 742.0 MANA: 354.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Primordis Repens (creeping) Polarus (polar) Maculata (spotted)
+Shape: Fish
+Type: Sky, Long Range, Water, Day, Horde, Ground
+Size: Mid
+Element(s): Earth
+Stats:
+ATK: 12.0
+DEF: 14.4
+AGI: 15.0
+INT: 15.0
+WIS: 15.0
+HP: 156.0 MANA: 112.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Virensis Luridus (pale) Australis (southern) Flexuosa (twisted) Aggressa (aggressive)
+Shape: Fish
+Type: Mid, Ground, Underground, Lava/Magma, Night, Group
+Size: Mid
+Element(s): Fire, Wind
+Stats:
+ATK: 15.4
+DEF: 14.9
+AGI: 18.9
+INT: 16.5
+WIS: 15.0
+HP: 164.4 MANA: 120.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Mirabilis
+Shape: Fish
+Type: Group, Close, Ground, Lava/Magma, Underground, Night
+Size: Mid
+Element(s): Water, Fire, Wood
+Stats:
+ATK: 14.3
+DEF: 16.9
+AGI: 17.5
+INT: 20.6
+WIS: 18.2
+HP: 183.3 MANA: 148.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Lunara
+Shape: Fish
+Type: Lava/Magma, Mid, Ground, Horde, Underground, Day
+Size: Super
+Element(s): Water
+Stats:
+ATK: 82.0
+DEF: 94.0
+AGI: 113.8
+INT: 86.2
+WIS: 98.0
+HP: 1022.0 MANA: 676.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Caelior Radians (radiant) Pluvius (rainy)
+Shape: Fish
+Type: Ground, Underground, Horde, Day, Long Range, Lava/Magma
+Size: Large
+Element(s): Gold, Physical, Crystal
+Stats:
+ATK: 32.3
+DEF: 38.8
+AGI: 21.0
+INT: 25.2
+WIS: 17.0
+HP: 420.3 MANA: 168.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Corvalis Viridis (green)
+Shape: Fish
+Type: Mid, Pack, Day, Lava/Magma, Sky, Ground
+Size: Small
+Element(s): Fire, Physical, Wood
+Stats:
+ATK: 9.2
+DEF: 12.3
+AGI: 9.0
+INT: 9.9
+WIS: 10.4
+HP: 132.2 MANA: 75.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Umbrion Flexilis (flexible) Aridus (arid) Argentea (silver) Arborea (tree-living)
+Shape: Fish
+Type: Pack, Underground, Range, Ground, Water, Night
+Size: Mid
+Element(s): Wood, Water, Physical
+Stats:
+ATK: 11.6
+DEF: 19.1
+AGI: 17.5
+INT: 16.2
+WIS: 15.6
+HP: 202.6 MANA: 120.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Tempestis Caeruleus (blue) Litoralis (coastal)
+Shape: Fish
+Type: Range, Pack, Ground, Sky, Night, Lava/Magma
+Size: Mega
+Element(s): Water
+Stats:
+ATK: 50.0
+DEF: 37.0
+AGI: 56.2
+INT: 56.2
+WIS: 47.0
+HP: 420.0 MANA: 398.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Floranis Opacus (shaded) Glacialis (icy) Fasciata (banded) Resiliens (resilient)
+Shape: Fish
+Type: Close, Night, Lava/Magma, Sky, Ground, Horde
+Size: Giant
+Element(s): Gold, Wood, Physical
+Stats:
+ATK: 31.5
+DEF: 44.2
+AGI: 30.0
+INT: 36.0
+WIS: 37.7
+HP: 473.5 MANA: 274.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Aeternis
+Shape: Fish
+Type: Night, Lava/Magma, Ground, Horde, Close, Underground
+Size: Mid
+Element(s): Yin, Wood, Yang
+Stats:
+ATK: 12.0
+DEF: 15.6
+AGI: 12.0
+INT: 33.8
+WIS: 43.9
+HP: 168.0 MANA: 278.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Name: Tranquilis Volans (flying)
+Shape: Fish
+Type: Water, Horde, Ground, Day, Long Range, Sky
+Size: Mega
+Element(s): Wind
+Stats:
+ATK: 46.0
+DEF: 63.5
+AGI: 59.4
+INT: 41.0
+WIS: 44.0
+HP: 681.0 MANA: 315.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

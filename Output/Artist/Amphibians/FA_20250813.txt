@@ -1,0 +1,510 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros Silentis (quiet) Arenosus (sandy) Cinerea (gray)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Water, Day, Mid, Horde, Underground, Ground
+Size: Large
+Element(s): Fire, Strength, Gold
+Specialized Adaptation: Extreme Camouflage Mossy Frog (Theloderma corticale) - Moss-like texture.
+Stats:
+ATK: 21.3 because of elemental bonuses, base ATK: 18.0
+DEF: 20.4 because of elemental bonuses, base DEF: 17.0
+AGI: 18.0
+INT: 26.4 because of elemental bonuses, base INT: 20.0
+WIS: 20.0
+HP: 225.3 MANA: 182.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Zephyria Rotundus (round) Volcanicus (volcanic) Cinerea (gray)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Group, Range, Night, Underground, Lava/Magma, Ground
+Size: Small
+Element(s): Wood
+Specialized Adaptation: Extreme Camouflage Mossy Frog (Theloderma corticale) - Moss-like texture.
+Stats:
+ATK: 7.0
+DEF: 10.4 because of elemental bonuses, base DEF: 8.0
+AGI: 10.0
+INT: 7.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 111.0 MANA: 57.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignavus Radians (radiant)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Night, Long Range, Lava/Magma, Horde, Ground, Underground
+Size: Small
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Glowworm (Arachnocampa luminosa) - Cave-dwelling, sticky threads.
+Stats:
+ATK: 11.2 because of elemental bonuses, base ATK: 8.0
+DEF: 9.8 because of elemental bonuses, base DEF: 7.0
+AGI: 9.0
+INT: 10.0
+WIS: 8.0
+HP: 109.2 MANA: 70.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nebulora
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Pack, Sky, Ground, Day, Water, Range
+Size: Super
+Element(s): Wood, Fire
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 91.3 because of elemental bonuses, base ATK: 83.0
+DEF: 115.7 because of elemental bonuses, base DEF: 89.0
+AGI: 100.0
+INT: 77.0 because of elemental bonuses, base INT: 70.0
+WIS: 120.9 because of elemental bonuses, base WIS: 93.0
+HP: 1248.3 MANA: 687.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aetheris
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Day, Close, Water, Pack, Ground, Underground
+Size: Tiny
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Giant Leaf Insect (Pulchriphyllium giganteum) - Broadleaf mimic.
+Stats:
+ATK: 5.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 6.0
+WIS: 6.0
+HP: 89.0 MANA: 45.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Marinus
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Mid, Water, Sky, Group, Night, Ground
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: Bioluminescent Scaleless Dragonfish (Aristostomias scintillans) - Blue-green lights.
+Stats:
+ATK: 6.0
+DEF: 6.0
+AGI: 6.2 because of elemental bonuses, base AGI: 5.0
+INT: 7.5 because of elemental bonuses, base INT: 6.0
+WIS: 8.0
+HP: 66.0 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Volans (flying) Torridus (hot/dry) Cinerea (gray) Saltans (jumping)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Mid, Group, Sky, Night, Ground, Lava/Magma
+Size: Giant
+Element(s): Earth, Lightning, Yang
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 33.8 because of elemental bonuses, base ATK: 27.0
+DEF: 32.4 because of elemental bonuses, base DEF: 27.0
+AGI: 36.2 because of elemental bonuses, base AGI: 29.0
+INT: 42.0 because of elemental bonuses, base INT: 28.0
+WIS: 40.5 because of elemental bonuses, base WIS: 27.0
+HP: 357.8 MANA: 311.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis Audax (bold) Tundralis (tundra)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Horde, Close, Sky, Night, Lava/Magma, Ground
+Size: Large
+Element(s): Fire, Gold
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 18.7 because of elemental bonuses, base ATK: 17.0
+DEF: 22.8 because of elemental bonuses, base DEF: 19.0
+AGI: 22.0
+INT: 22.4 because of elemental bonuses, base INT: 17.0
+WIS: 20.0
+HP: 246.7 MANA: 162.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Horde, Close, Day, Lava/Magma, Sky, Ground
+Size: Mega
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 50.0
+DEF: 50.0
+AGI: 53.8 because of elemental bonuses, base AGI: 43.0
+INT: 50.0 because of elemental bonuses, base INT: 40.0
+WIS: 39.0
+HP: 550.0 MANA: 347.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Caeruleus (blue) Humidus (humid)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Close, Lava/Magma, Underground, Day, Pack, Ground
+Size: Giant
+Element(s): Physical, Fire, Gold
+Specialized Adaptation: Bioluminescent Hatchetfish (Sternoptyx spp.) - Counter-illumination camouflage.
+Stats:
+ATK: 28.9 because of elemental bonuses, base ATK: 25.0
+DEF: 32.8 because of elemental bonuses, base DEF: 26.0
+AGI: 26.0
+INT: 37.0 because of elemental bonuses, base INT: 28.0
+WIS: 29.0
+HP: 356.9 MANA: 257.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara Clarus (bright) Orientalis (eastern) Caerulea (blue) Natans (swimming)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Sky, Long Range, Ground, Lava/Magma, Horde, Day
+Size: Large
+Element(s): Gold, Wind, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 17.0
+DEF: 34.0 because of elemental bonuses, base DEF: 21.0
+AGI: 30.4 because of elemental bonuses, base AGI: 18.0
+INT: 31.5 because of elemental bonuses, base INT: 21.0
+WIS: 22.0
+HP: 357.0 MANA: 212.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Celestia
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Ground, Mid, Underground, Water, Group, Day
+Size: Super
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 69.3 because of elemental bonuses, base ATK: 66.0
+DEF: 99.8 because of elemental bonuses, base DEF: 95.0
+AGI: 76.0
+INT: 66.0
+WIS: 76.0
+HP: 1067.3 MANA: 520.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Voltis Serenus (calm)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Underground, Ground, Horde, Long Range, Day, Water
+Size: Large
+Element(s): Gold, Fire
+Specialized Adaptation: Extreme Camouflage Dead Leaf Butterfly (Kallima inachus) - Resembles a dead leaf.
+Stats:
+ATK: 23.1 because of elemental bonuses, base ATK: 21.0
+DEF: 26.4 because of elemental bonuses, base DEF: 22.0
+AGI: 17.0
+INT: 29.0 because of elemental bonuses, base INT: 22.0
+WIS: 20.0
+HP: 287.1 MANA: 195.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ventus
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Mid, Water, Ground, Underground, Horde, Night
+Size: Large
+Element(s): Physical, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 18.9 because of elemental bonuses, base ATK: 18.0
+DEF: 27.3 because of elemental bonuses, base DEF: 20.0
+AGI: 20.0
+INT: 21.0
+WIS: 26.0 because of elemental bonuses, base WIS: 20.0
+HP: 291.9 MANA: 170.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Cryptis Hirsutus (hairy) Lacustris (lake) Flexuosa (twisted)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Range, Underground, Horde, Ground, Day, Water
+Size: Small
+Element(s): Sharpness, Gold, Fire
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 12.9 because of elemental bonuses, base ATK: 9.0
+DEF: 10.8 because of elemental bonuses, base DEF: 9.0
+AGI: 8.0
+INT: 11.9 because of elemental bonuses, base INT: 9.0
+WIS: 10.0
+HP: 120.9 MANA: 84.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Celestia Vibrans (vibrant) Mangrova (mangrove)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Long Range, Sky, Group, Night, Water, Ground
+Size: Mid
+Element(s): Earth, Gold, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 14.7 because of elemental bonuses, base ATK: 14.0
+DEF: 22.7 because of elemental bonuses, base DEF: 15.0
+AGI: 12.0
+INT: 14.4 because of elemental bonuses, base INT: 12.0
+WIS: 14.0
+HP: 241.7 MANA: 107.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Virensis Rufus (red) Tundralis (tundra) Translucida (translucent) Carnifex (flesh-eating)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Lava/Magma, Group, Underground, Ground, Day, Close
+Size: Tiny
+Element(s): Yang
+Specialized Adaptation: Bioluminescent Cookiecutter Shark (Isistius brasiliensis) - Counter-illumination.
+Stats:
+ATK: 6.0
+DEF: 8.0
+AGI: 8.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 7.5 because of elemental bonuses, base WIS: 5.0
+HP: 86.0 MANA: 78.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lumina
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Long Range, Pack, Lava/Magma, Sky, Day, Ground
+Size: Tiny
+Element(s): Sharpness, Strength, Ice
+Specialized Adaptation: Extreme Camouflage Tasselled Wobbegong (Eucrossorhinus dasypogon) - Frilly seaweed mimic.
+Stats:
+ATK: 14.2 because of elemental bonuses, base ATK: 8.0
+DEF: 6.0
+AGI: 6.0
+INT: 6.3 because of elemental bonuses, base INT: 5.0
+WIS: 8.0
+HP: 74.2 MANA: 51.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tenebris Pendulus (hanging) Oreadis (mountain nymph)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Day, Horde, Mid, Ground, Lava/Magma, Underground
+Size: Small
+Element(s): Ice
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 10.2 because of elemental bonuses, base ATK: 8.0
+DEF: 7.0
+AGI: 9.0
+INT: 11.4 because of elemental bonuses, base INT: 9.0
+WIS: 8.0
+HP: 80.2 MANA: 77.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis Argenteus (silver) Pratensis (meadow)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Horde, Underground, Close, Water, Night, Ground
+Size: Mid
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Peppered Moth (Biston betularia) - Industrial melanism.
+Stats:
+ATK: 11.0
+DEF: 13.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 15.0 because of elemental bonuses, base INT: 12.0
+WIS: 14.0
+HP: 141.0 MANA: 110.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Durus (hard) Orientalis (eastern) Nigra (black) Hiemalis (winter-dormant)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Underground, Long Range, Horde, Day, Lava/Magma, Ground
+Size: Tiny
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Leaf-Tailed Gecko (Uroplatus spp.) - Lichen-mimicking skin.
+Stats:
+ATK: 7.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 6.0
+WIS: 5.0
+HP: 103.0 MANA: 42.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Celestia Glaber (hairless) Oreadis (mountain nymph) Spinosa (spiny)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Range, Day, Ground, Sky, Water, Pack
+Size: Giant
+Element(s): Physical, Wind
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 28.4 because of elemental bonuses, base ATK: 27.0
+DEF: 35.4 because of elemental bonuses, base DEF: 25.0
+AGI: 33.8 because of elemental bonuses, base AGI: 25.0
+INT: 29.0
+WIS: 27.0
+HP: 382.4 MANA: 212.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Erectus (upright) Pluvius (rainy)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Group, Day, Close, Ground, Water, Underground
+Size: Small
+Element(s): Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.8 because of elemental bonuses, base ATK: 7.0
+DEF: 11.2 because of elemental bonuses, base DEF: 8.0
+AGI: 9.0
+INT: 8.0
+WIS: 10.0
+HP: 121.8 MANA: 65.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Glaber (hairless) Urbanus (urban) Lunata (crescent-shaped) Venenata (venomous)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Sky, Ground, Pack, Day, Water, Range
+Size: Giant
+Element(s): Wind, Wood, Fire
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 31.9 because of elemental bonuses, base ATK: 29.0
+DEF: 47.4 because of elemental bonuses, base DEF: 27.0
+AGI: 40.5 because of elemental bonuses, base AGI: 30.0
+INT: 31.9 because of elemental bonuses, base INT: 29.0
+WIS: 33.8 because of elemental bonuses, base WIS: 26.0
+HP: 505.9 MANA: 244.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Eclipsis Velox (swift)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Range, Sky, Day, Group, Lava/Magma, Ground
+Size: Mid
+Element(s): Earth, Physical
+Specialized Adaptation: Bioluminescent Firefly (Lampyridae spp.) - Flashing abdomen.
+Stats:
+ATK: 15.8 because of elemental bonuses, base ATK: 15.0
+DEF: 13.9 because of elemental bonuses, base DEF: 11.0
+AGI: 11.0
+INT: 13.0
+WIS: 13.0
+HP: 154.8 MANA: 97.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Altaria Parvus (small) Lacustris (lake)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Ground, Night, Range, Sky, Pack, Water
+Size: Tiny
+Element(s): Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 5.4 because of elemental bonuses, base ATK: 5.0
+DEF: 6.0
+AGI: 5.0
+INT: 8.0
+WIS: 8.0
+HP: 65.4 MANA: 60.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Celestia Floridus (flowery) Fennalis (fen) Metallica (metallic) Celerima (very fast)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Water, Long Range, Sky, Ground, Night, Horde
+Size: Large
+Element(s): Sharpness, Crystal
+Specialized Adaptation: Extreme Camouflage Scorpionfish (Scorpaenidae spp.) - Algae-covered appearance.
+Stats:
+ATK: 34.6 because of elemental bonuses, base ATK: 19.0
+DEF: 29.4 because of elemental bonuses, base DEF: 21.0
+AGI: 17.0
+INT: 18.0
+WIS: 18.0
+HP: 328.6 MANA: 135.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Eclipsis Purpureus (purple) Eremitus (isolated)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Lava/Magma, Night, Group, Mid, Ground, Sky
+Size: Large
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Stoplight Loosejaw (Malacosteus niger) - Red light invisible to prey.
+Stats:
+ATK: 20.0
+DEF: 24.0 because of elemental bonuses, base DEF: 20.0
+AGI: 20.0
+INT: 22.0
+WIS: 20.0
+HP: 260.0 MANA: 160.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignavus Albus (white) Sylvestris (forest)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Sky, Water, Group, Ground, Long Range, Day
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 5.0
+DEF: 6.0
+AGI: 6.2 because of elemental bonuses, base AGI: 5.0
+INT: 10.0 because of elemental bonuses, base INT: 8.0
+WIS: 8.0
+HP: 65.0 MANA: 70.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Serenus (calm) Aethalis (high-altitude)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Pack, Lava/Magma, Close, Night, Underground, Ground
+Size: Giant
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Mossy Frog (Theloderma corticale) - Moss-like texture.
+Stats:
+ATK: 31.9 because of elemental bonuses, base ATK: 29.0
+DEF: 26.0
+AGI: 26.0
+INT: 30.8 because of elemental bonuses, base INT: 28.0
+WIS: 25.0
+HP: 291.9 MANA: 216.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Stellion Silentis (quiet) Vallicola (valley) Lineata (lined) Endemica (endemic)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Underground, Close, Lava/Magma, Night, Group, Ground
+Size: Super
+Element(s): Yang
+Specialized Adaptation: Extreme Camouflage Coconut Octopus (Amphioctopus marginatus) - Hides in shells.
+Stats:
+ATK: 89.0
+DEF: 75.0
+AGI: 72.0
+INT: 145.5 because of elemental bonuses, base INT: 97.0
+WIS: 132.0 because of elemental bonuses, base WIS: 88.0
+HP: 839.0 MANA: 1057.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aurumis Velox (swift) Sylvestris (forest)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Mid, Night, Lava/Magma, Underground, Horde, Ground
+Size: Large
+Element(s): Water, Wood, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 18.0
+DEF: 28.1 because of elemental bonuses, base DEF: 18.0
+AGI: 25.0 because of elemental bonuses, base AGI: 20.0
+INT: 26.2 because of elemental bonuses, base INT: 21.0
+WIS: 22.1 because of elemental bonuses, base WIS: 17.0
+HP: 299.0 MANA: 186.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nebulora Opacus (shaded)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Night, Water, Close, Group, Underground, Ground
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 27.0
+DEF: 36.0 because of elemental bonuses, base DEF: 30.0
+AGI: 30.0
+INT: 26.0
+WIS: 27.0
+HP: 387.0 MANA: 197.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ventus Caeruleus (blue) Alpinus (alpine) Cordata (heart-shaped)
+Shape: Amphibian, Fossorial Amphibian, Burrowing specialists with shovel-like limbs or blunt snouts
+Type: Day, Underground, Lava/Magma, Horde, Close, Ground
+Size: Large
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.9 because of elemental bonuses, base ATK: 19.0
+DEF: 17.9 because of elemental bonuses, base DEF: 17.0
+AGI: 19.0
+INT: 18.0
+WIS: 18.0
+HP: 198.9 MANA: 135.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

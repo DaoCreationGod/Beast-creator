@@ -1,0 +1,900 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Obsidia Velox (swift)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Underground, Group, Lava/Magma, Ground, Mid, Day
+Size: Large
+Element(s): Water, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.0
+DEF: 27.3 because of elemental bonuses, base DEF: 21.0
+AGI: 26.2 because of elemental bonuses, base AGI: 21.0
+INT: 22.5 because of elemental bonuses, base INT: 18.0
+WIS: 27.3 because of elemental bonuses, base WIS: 21.0
+HP: 292.0 MANA: 180.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aquarion Argenteus (silver) Maritimus (coastal)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Lava/Magma, Group, Close, Sky, Ground, Day
+Size: Small
+Element(s): Gold, Crystal
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 9.8 because of elemental bonuses, base ATK: 7.0
+DEF: 15.1 because of elemental bonuses, base DEF: 9.0
+AGI: 8.0
+INT: 12.0 because of elemental bonuses, base INT: 10.0
+WIS: 8.0
+HP: 160.8 MANA: 80.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Erectus (upright) Desertus (desert)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Lava/Magma, Pack, Underground, Long Range, Day, Ground
+Size: Giant
+Element(s): Wood, Gold, Earth
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 28.0
+DEF: 48.7 because of elemental bonuses, base DEF: 26.0
+AGI: 30.0
+INT: 36.0 because of elemental bonuses, base INT: 30.0
+WIS: 32.5 because of elemental bonuses, base WIS: 25.0
+HP: 515.0 MANA: 261.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Fragilis (fragile) Polarus (polar) Flexuosa (twisted)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Sky, Close, Day, Group, Ground, Water
+Size: Giant
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Stick Caterpillar (Phalera bucephala) - Resembles a broken twig.
+Stats:
+ATK: 33.0 because of elemental bonuses, base ATK: 30.0
+DEF: 30.0
+AGI: 29.0
+INT: 29.7 because of elemental bonuses, base INT: 27.0
+WIS: 25.0
+HP: 333.0 MANA: 211.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignara Ater (dark) Litoralis (coastal) Alba (white)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Range, Ground, Pack, Day, Lava/Magma, Underground
+Size: Mid
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 12.0
+DEF: 11.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 13.8 because of elemental bonuses, base INT: 11.0
+WIS: 13.0
+HP: 122.0 MANA: 101.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignavus Luridus (pale) Subterraneus (underground) Granulata (granular)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Mid, Underground, Water, Ground, Group, Day
+Size: Super
+Element(s): Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 100.0
+DEF: 92.0
+AGI: 100.0
+INT: 105.0 because of elemental bonuses, base INT: 70.0
+WIS: 124.5 because of elemental bonuses, base WIS: 83.0
+HP: 1020.0 MANA: 836.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Cryptis Natans (swimming) Limosus (muddy) Viridis (green)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Horde, Day, Range, Lava/Magma, Underground, Ground
+Size: Tiny
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 6.6 because of elemental bonuses, base ATK: 6.0
+DEF: 8.0
+AGI: 6.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 7.0
+HP: 86.6 MANA: 61.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Parvus (small)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Underground, Water, Close, Night, Group, Ground
+Size: Mid
+Element(s): Earth, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.0
+DEF: 16.8 because of elemental bonuses, base DEF: 14.0
+AGI: 12.0
+INT: 18.0 because of elemental bonuses, base INT: 12.0
+WIS: 18.0 because of elemental bonuses, base WIS: 12.0
+HP: 179.0 MANA: 135.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Range, Night, Group, Water, Ground, Underground
+Size: Mega
+Element(s): Water, Earth, Fire
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 41.8 because of elemental bonuses, base ATK: 38.0
+DEF: 46.8 because of elemental bonuses, base DEF: 39.0
+AGI: 57.5 because of elemental bonuses, base AGI: 46.0
+INT: 59.1 because of elemental bonuses, base INT: 43.0
+WIS: 37.0
+HP: 509.8 MANA: 388.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis Pendulus (hanging)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Underground, Long Range, Pack, Water, Day, Ground
+Size: Super
+Element(s): Wood
+Specialized Adaptation: Extreme Camouflage Tasselled Wobbegong (Eucrossorhinus dasypogon) - Frilly seaweed mimic.
+Stats:
+ATK: 71.0
+DEF: 122.2 because of elemental bonuses, base DEF: 94.0
+AGI: 99.0
+INT: 76.0
+WIS: 102.7 because of elemental bonuses, base WIS: 79.0
+HP: 1293.0 MANA: 636.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Water, Underground, Horde, Mid, Night, Ground
+Size: Super
+Element(s): Water, Physical, Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 110.7 because of elemental bonuses, base ATK: 83.0
+DEF: 79.8 because of elemental bonuses, base DEF: 76.0
+AGI: 110.0 because of elemental bonuses, base AGI: 88.0
+INT: 131.8 because of elemental bonuses, base INT: 83.0
+WIS: 72.0
+HP: 908.7 MANA: 839.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Sonoris Radians (radiant) Canyonis (canyon) Tessellata (checkered)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Underground, Range, Lava/Magma, Day, Ground, Pack
+Size: Large
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 20.0
+DEF: 24.0 because of elemental bonuses, base DEF: 20.0
+AGI: 19.0
+INT: 18.0
+WIS: 19.0
+HP: 260.0 MANA: 137.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignara Aeneus (bronze) Tropicalis (tropical) Tricolor (three-colored) Sedentaria (stationary)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Night, Horde, Range, Sky, Ground, Water
+Size: Super
+Element(s): Fire, Earth
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 110.0 because of elemental bonuses, base ATK: 100.0
+DEF: 82.8 because of elemental bonuses, base DEF: 69.0
+AGI: 93.0
+INT: 105.6 because of elemental bonuses, base INT: 96.0
+WIS: 100.0
+HP: 938.0 MANA: 778.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aurumis Natans (swimming) Sylvestris (forest)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Horde, Lava/Magma, Mid, Sky, Ground, Night
+Size: Mid
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.0
+DEF: 12.0
+AGI: 14.0
+INT: 16.5 because of elemental bonuses, base INT: 11.0
+WIS: 19.5 because of elemental bonuses, base WIS: 13.0
+HP: 132.0 MANA: 131.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Rupesca Viridis (green)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Group, Water, Day, Mid, Underground, Ground
+Size: Giant
+Element(s): Fire, Lightning
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 39.9 because of elemental bonuses, base ATK: 29.0
+DEF: 25.0
+AGI: 35.0 because of elemental bonuses, base AGI: 28.0
+INT: 33.0 because of elemental bonuses, base INT: 30.0
+WIS: 28.0
+HP: 289.9 MANA: 235.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nivora Angustus (narrow) Urbanus (urban) Rubra (red)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Mid, Night, Group, Water, Underground, Ground
+Size: Large
+Element(s): Fire, Water, Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 18.7 because of elemental bonuses, base ATK: 17.0
+DEF: 21.0
+AGI: 27.5 because of elemental bonuses, base AGI: 22.0
+INT: 41.2 because of elemental bonuses, base INT: 20.0
+WIS: 31.5 because of elemental bonuses, base WIS: 21.0
+HP: 228.7 MANA: 284.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aurumis Albus (white) Taiganus (taiga) Glabra (smooth) Nocturna (night-active)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Water, Long Range, Group, Ground, Sky, Day
+Size: Mega
+Element(s): Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 60.2 because of elemental bonuses, base ATK: 43.0
+DEF: 51.8 because of elemental bonuses, base DEF: 37.0
+AGI: 37.0
+INT: 39.0
+WIS: 44.0
+HP: 578.2 MANA: 305.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Mirabilis Parvus (small) Palustris (marshy) Striata (striped)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Underground, Range, Water, Ground, Night, Group
+Size: Small
+Element(s): Physical, Earth, Fire
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 9.2 because of elemental bonuses, base ATK: 8.0
+DEF: 10.1 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 9.9 because of elemental bonuses, base INT: 9.0
+WIS: 7.0
+HP: 110.2 MANA: 67.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Levis (light) Fennalis (fen) Scutata (shield-shaped)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Long Range, Ground, Underground, Night, Group, Water
+Size: Tiny
+Element(s): Physical, Water, Earth
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 8.4 because of elemental bonuses, base ATK: 8.0
+DEF: 7.6 because of elemental bonuses, base DEF: 6.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 7.5 because of elemental bonuses, base INT: 6.0
+WIS: 5.0
+HP: 84.4 MANA: 50.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tempestis Angustus (narrow)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Group, Night, Sky, Ground, Mid, Water
+Size: Giant
+Element(s): Crystal, Sharpness
+Specialized Adaptation: Bioluminescent Hatchetfish (Sternoptyx spp.) - Counter-illumination camouflage.
+Stats:
+ATK: 52.8 because of elemental bonuses, base ATK: 29.0
+DEF: 40.6 because of elemental bonuses, base DEF: 29.0
+AGI: 26.0
+INT: 27.0
+WIS: 30.0
+HP: 458.8 MANA: 210.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Aureus (golden) Saxatilis (rocky) Rubra (red)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Close, Sky, Horde, Night, Lava/Magma, Ground
+Size: Large
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 19.0
+DEF: 24.0 because of elemental bonuses, base DEF: 20.0
+AGI: 20.0
+INT: 20.4 because of elemental bonuses, base INT: 17.0
+WIS: 20.0
+HP: 259.0 MANA: 152.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Silexia Mollis (soft) Littoralis (shore) Rubra (red)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Close, Group, Day, Underground, Lava/Magma, Ground
+Size: Mega
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 61.6 because of elemental bonuses, base ATK: 44.0
+DEF: 64.4 because of elemental bonuses, base DEF: 46.0
+AGI: 39.0
+INT: 39.0
+WIS: 44.0
+HP: 705.6 MANA: 305.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Infinitus Mollis (soft)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Underground, Horde, Lava/Magma, Night, Range, Ground
+Size: Tiny
+Element(s): Earth, Gold
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 6.0
+DEF: 8.6 because of elemental bonuses, base DEF: 6.0
+AGI: 5.0
+INT: 9.6 because of elemental bonuses, base INT: 8.0
+WIS: 8.0
+HP: 92.0 MANA: 68.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis Durus (hard) Lacustris (lake) Tessellata (checkered) Sedentaria (stationary)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Horde, Water, Night, Underground, Ground, Close
+Size: Mega
+Element(s): Water, Strength
+Specialized Adaptation: Bioluminescent Bamboo Coral (Isididae spp.) - Glowing polyps.
+Stats:
+ATK: 45.1 because of elemental bonuses, base ATK: 42.0
+DEF: 42.0
+AGI: 61.2 because of elemental bonuses, base AGI: 49.0
+INT: 52.5 because of elemental bonuses, base INT: 42.0
+WIS: 38.0
+HP: 465.1 MANA: 357.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignavus Cinereus (gray)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Mid, Sky, Horde, Water, Ground, Night
+Size: Mega
+Element(s): Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 43.0
+DEF: 48.0
+AGI: 50.0
+INT: 57.0 because of elemental bonuses, base INT: 38.0
+WIS: 73.5 because of elemental bonuses, base WIS: 49.0
+HP: 523.0 MANA: 468.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tempestis Viridis (green) Eremitus (isolated)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Night, Lava/Magma, Long Range, Sky, Pack, Ground
+Size: Giant
+Element(s): Water, Wood
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 27.0
+DEF: 36.4 because of elemental bonuses, base DEF: 28.0
+AGI: 32.5 because of elemental bonuses, base AGI: 26.0
+INT: 33.8 because of elemental bonuses, base INT: 27.0
+WIS: 36.4 because of elemental bonuses, base WIS: 28.0
+HP: 391.0 MANA: 260.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ferralis
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Day, Group, Underground, Lava/Magma, Mid, Ground
+Size: Mid
+Element(s): Lightning
+Specialized Adaptation: Bioluminescent Stoplight Loosejaw (Malacosteus niger) - Red light invisible to prey.
+Stats:
+ATK: 13.8 because of elemental bonuses, base ATK: 11.0
+DEF: 15.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 12.0
+WIS: 11.0
+HP: 163.8 MANA: 87.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aeternis Purpureus (purple) Glacialis (icy) Zebrina (zebra-like) Saprophis (decomposing)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Sky, Group, Mid, Day, Ground, Lava/Magma
+Size: Mid
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 13.0
+DEF: 11.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 13.8 because of elemental bonuses, base INT: 11.0
+WIS: 13.0
+HP: 123.0 MANA: 101.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Solara
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Water, Night, Close, Group, Underground, Ground
+Size: Mid
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 13.0
+DEF: 12.0
+AGI: 15.0
+INT: 19.5 because of elemental bonuses, base INT: 13.0
+WIS: 16.5 because of elemental bonuses, base WIS: 11.0
+HP: 133.0 MANA: 138.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Levis (light) Pratensis (meadow) Tricolor (three-colored) Migrans (migratory)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Lava/Magma, Ground, Long Range, Sky, Horde, Night
+Size: Small
+Element(s): Physical, Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.5 because of elemental bonuses, base ATK: 9.0
+DEF: 7.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 13.5 because of elemental bonuses, base INT: 9.0
+WIS: 12.0 because of elemental bonuses, base WIS: 8.0
+HP: 83.5 MANA: 97.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vulcanor Mollis (soft)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Water, Night, Mid, Underground, Ground, Group
+Size: Giant
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 28.6 because of elemental bonuses, base ATK: 26.0
+DEF: 26.0
+AGI: 30.0
+INT: 30.8 because of elemental bonuses, base INT: 28.0
+WIS: 30.0
+HP: 288.6 MANA: 229.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Solara Ferox (fierce) Campestris (plains)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Mid, Underground, Group, Night, Ground, Lava/Magma
+Size: Giant
+Element(s): Water, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 27.0
+DEF: 25.0
+AGI: 35.0 because of elemental bonuses, base AGI: 28.0
+INT: 56.2 because of elemental bonuses, base INT: 30.0
+WIS: 45.0 because of elemental bonuses, base WIS: 30.0
+HP: 277.0 MANA: 393.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vulcanor Rarus (rare) Mangrova (mangrove) Striata (striped)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Close, Ground, Pack, Water, Night, Sky
+Size: Mid
+Element(s): Strength
+Specialized Adaptation: Bioluminescent Comb Jelly (Mnemiopsis leidyi) - Rainbow cilia.
+Stats:
+ATK: 16.1 because of elemental bonuses, base ATK: 15.0
+DEF: 15.0
+AGI: 11.0
+INT: 14.0
+WIS: 13.0
+HP: 166.1 MANA: 102.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aetheris Opacus (shaded) Humidus (humid) Punctata (dotted) Arborea (tree-living)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Underground, Horde, Lava/Magma, Day, Ground, Mid
+Size: Giant
+Element(s): Fire, Physical, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 34.6 because of elemental bonuses, base ATK: 30.0
+DEF: 34.0 because of elemental bonuses, base DEF: 27.0
+AGI: 30.0
+INT: 27.5 because of elemental bonuses, base INT: 25.0
+WIS: 25.0
+HP: 374.6 MANA: 200.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nivora Hirsutus (hairy) Taiganus (taiga) Argentea (silver) Arborea (tree-living)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Pack, Mid, Lava/Magma, Day, Ground, Sky
+Size: Tiny
+Element(s): Water, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 7.2 because of elemental bonuses, base DEF: 6.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 7.5 because of elemental bonuses, base INT: 6.0
+WIS: 8.0
+HP: 79.0 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lumina Pallidus (pale) Frigidus (cold) Variegata (variegated) Fossilis (fossilized)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Night, Lava/Magma, Sky, Ground, Range, Group
+Size: Giant
+Element(s): Physical, Strength
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 32.7 because of elemental bonuses, base ATK: 29.0
+DEF: 31.5 because of elemental bonuses, base DEF: 30.0
+AGI: 29.0
+INT: 26.0
+WIS: 25.0
+HP: 347.7 MANA: 192.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara Durus (hard) Pluvius (rainy) Granulata (granular)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Long Range, Underground, Night, Horde, Ground, Water
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 28.0
+DEF: 31.2 because of elemental bonuses, base DEF: 26.0
+AGI: 30.0
+INT: 29.0
+WIS: 29.0
+HP: 340.0 MANA: 217.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aetheris Ater (dark) Polarus (polar) Tessellata (checkered) Rapax (predatory)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Range, Lava/Magma, Night, Underground, Group, Ground
+Size: Giant
+Element(s): Water, Earth, Gold
+Specialized Adaptation: Extreme Camouflage Giant Leaf Insect (Pulchriphyllium giganteum) - Broadleaf mimic.
+Stats:
+ATK: 26.0
+DEF: 37.4 because of elemental bonuses, base DEF: 26.0
+AGI: 33.8 because of elemental bonuses, base AGI: 27.0
+INT: 40.5 because of elemental bonuses, base INT: 27.0
+WIS: 28.0
+HP: 400.0 MANA: 272.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis Volans (flying)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Close, Group, Night, Water, Underground, Ground
+Size: Giant
+Element(s): Earth, Gold
+Specialized Adaptation: Extreme Camouflage Stonefish (Synanceia verrucosa) - Rocky appearance.
+Stats:
+ATK: 26.0
+DEF: 40.3 because of elemental bonuses, base DEF: 28.0
+AGI: 26.0
+INT: 36.0 because of elemental bonuses, base INT: 30.0
+WIS: 25.0
+HP: 429.0 MANA: 242.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Levis (light) Deltanus (delta)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Horde, Long Range, Underground, Day, Ground, Lava/Magma
+Size: Super
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 68.0
+DEF: 90.0
+AGI: 117.5 because of elemental bonuses, base AGI: 94.0
+INT: 91.2 because of elemental bonuses, base INT: 73.0
+WIS: 85.0
+HP: 968.0 MANA: 668.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Celestia Argenteus (silver) Tundralis (tundra) Opaca (opaque) Resiliens (resilient)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Ground, Group, Sky, Mid, Water, Day
+Size: Super
+Element(s): Wood, Gold, Earth
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 94.0
+DEF: 147.9 because of elemental bonuses, base DEF: 79.0
+AGI: 96.0
+INT: 98.4 because of elemental bonuses, base INT: 82.0
+WIS: 97.5 because of elemental bonuses, base WIS: 75.0
+HP: 1573.0 MANA: 735.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tempestis Ater (dark) Subterraneus (underground) Glabra (smooth)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Mid, Day, Pack, Lava/Magma, Underground, Ground
+Size: Mid
+Element(s): Ice
+Specialized Adaptation: Bioluminescent Stoplight Loosejaw (Malacosteus niger) - Red light invisible to prey.
+Stats:
+ATK: 14.0 because of elemental bonuses, base ATK: 11.0
+DEF: 11.0
+AGI: 12.0
+INT: 19.1 because of elemental bonuses, base INT: 15.0
+WIS: 15.0
+HP: 124.0 MANA: 133.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Rufus (red) Fluvialis (river)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Pack, Night, Range, Underground, Water, Ground
+Size: Giant
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 27.0
+DEF: 27.0
+AGI: 33.8 because of elemental bonuses, base AGI: 27.0
+INT: 36.2 because of elemental bonuses, base INT: 29.0
+WIS: 26.0
+HP: 297.0 MANA: 246.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignara Caeruleus (blue)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Water, Group, Mid, Underground, Day, Ground
+Size: Giant
+Element(s): Physical, Earth, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 28.4 because of elemental bonuses, base ATK: 27.0
+DEF: 45.9 because of elemental bonuses, base DEF: 28.0
+AGI: 26.0
+INT: 29.0
+WIS: 37.7 because of elemental bonuses, base WIS: 29.0
+HP: 487.4 MANA: 239.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Celestia Acutus (sharp) Occidentalis (western)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Group, Range, Sky, Water, Ground, Night
+Size: Large
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 24.2 because of elemental bonuses, base ATK: 22.0
+DEF: 19.0
+AGI: 18.0
+INT: 23.1 because of elemental bonuses, base INT: 21.0
+WIS: 18.0
+HP: 214.2 MANA: 160.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Laevis (smooth) Urbanus (urban) Metallica (metallic)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Water, Pack, Close, Night, Underground, Ground
+Size: Super
+Element(s): Earth, Physical, Wood
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 94.5 because of elemental bonuses, base ATK: 90.0
+DEF: 122.9 because of elemental bonuses, base DEF: 75.0
+AGI: 85.0
+INT: 81.0
+WIS: 120.9 because of elemental bonuses, base WIS: 93.0
+HP: 1323.5 MANA: 707.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Cryptis
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Sky, Night, Mid, Pack, Water, Ground
+Size: Small
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 10.5 because of elemental bonuses, base ATK: 10.0
+DEF: 7.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 8.0
+WIS: 9.0
+HP: 84.5 MANA: 62.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Durus (hard) Lacustris (lake) Tricolor (three-colored) Pollinans (pollinating)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Close, Lava/Magma, Group, Day, Underground, Ground
+Size: Tiny
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 7.0
+INT: 5.0
+WIS: 8.0
+HP: 91.0 MANA: 45.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignara Audax (bold)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Water, Pack, Long Range, Night, Sky, Ground
+Size: Tiny
+Element(s): Earth, Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 7.0
+INT: 9.0 because of elemental bonuses, base INT: 6.0
+WIS: 12.0 because of elemental bonuses, base WIS: 8.0
+HP: 91.0 MANA: 75.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Petralis
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Horde, Night, Lava/Magma, Range, Underground, Ground
+Size: Mid
+Element(s): Lightning
+Specialized Adaptation: Extreme Camouflage Scorpionfish (Scorpaenidae spp.) - Algae-covered appearance.
+Stats:
+ATK: 17.5 because of elemental bonuses, base ATK: 14.0
+DEF: 14.0
+AGI: 13.8 because of elemental bonuses, base AGI: 11.0
+INT: 13.0
+WIS: 12.0
+HP: 157.5 MANA: 95.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Umbrion
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Sky, Close, Group, Water, Night, Ground
+Size: Small
+Element(s): Wind
+Specialized Adaptation: Bioluminescent Glowworm (Arachnocampa luminosa) - Cave-dwelling, sticky threads.
+Stats:
+ATK: 7.0
+DEF: 9.5 because of elemental bonuses, base DEF: 7.0
+AGI: 9.5 because of elemental bonuses, base AGI: 7.0
+INT: 8.0
+WIS: 8.0
+HP: 102.0 MANA: 60.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Range, Pack, Night, Lava/Magma, Ground, Underground
+Size: Super
+Element(s): Earth, Yang
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 78.0
+DEF: 117.6 because of elemental bonuses, base DEF: 98.0
+AGI: 82.0
+INT: 136.5 because of elemental bonuses, base INT: 91.0
+WIS: 111.0 because of elemental bonuses, base WIS: 74.0
+HP: 1254.0 MANA: 960.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros Clarus (bright) Crateris (crater) Cristata (crested) Carnifex (flesh-eating)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Day, Ground, Underground, Mid, Group, Lava/Magma
+Size: Super
+Element(s): Earth, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 95.5 because of elemental bonuses, base ATK: 91.0
+DEF: 124.7 because of elemental bonuses, base DEF: 99.0
+AGI: 80.0
+INT: 78.0
+WIS: 67.0
+HP: 1342.5 MANA: 557.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tenebris Flexilis (flexible) Occidentalis (western) Cinerea (gray) Radicans (rooting)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Group, Underground, Range, Day, Ground, Lava/Magma
+Size: Large
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 23.1 because of elemental bonuses, base ATK: 22.0
+DEF: 17.9 because of elemental bonuses, base DEF: 17.0
+AGI: 22.0
+INT: 20.0
+WIS: 20.0
+HP: 202.1 MANA: 150.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tempestis Clarus (bright) Fennalis (fen) Rubra (red) Aestiva (summer-active)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Mid, Lava/Magma, Ground, Night, Underground, Horde
+Size: Small
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 14.0 because of elemental bonuses, base ATK: 10.0
+DEF: 9.8 because of elemental bonuses, base DEF: 7.0
+AGI: 10.0
+INT: 7.0
+WIS: 9.0
+HP: 112.0 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Umbrion Glaber (hairless) Alpinus (alpine)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Long Range, Pack, Sky, Day, Water, Ground
+Size: Tiny
+Element(s): Physical, Yin
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 7.4 because of elemental bonuses, base ATK: 7.0
+DEF: 6.3 because of elemental bonuses, base DEF: 6.0
+AGI: 7.0
+INT: 7.5 because of elemental bonuses, base INT: 5.0
+WIS: 9.0 because of elemental bonuses, base WIS: 6.0
+HP: 70.4 MANA: 60.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nebulora
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Group, Sky, Day, Close, Ground, Lava/Magma
+Size: Large
+Element(s): Water, Physical, Gold
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 21.0 because of elemental bonuses, base ATK: 20.0
+DEF: 27.7 because of elemental bonuses, base DEF: 22.0
+AGI: 25.0 because of elemental bonuses, base AGI: 20.0
+INT: 30.0 because of elemental bonuses, base INT: 20.0
+WIS: 17.0
+HP: 298.0 MANA: 192.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Altaria
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Day, Underground, Range, Group, Water, Ground
+Size: Mid
+Element(s): Physical, Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 20.5 because of elemental bonuses, base ATK: 15.0
+DEF: 12.6 because of elemental bonuses, base DEF: 12.0
+AGI: 15.0
+INT: 13.0
+WIS: 15.0
+HP: 146.5 MANA: 102.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Radians (radiant) Humidus (humid) Scutata (shield-shaped) Repens (crawling)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Night, Mid, Horde, Sky, Lava/Magma, Ground
+Size: Super
+Element(s): Chaos
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 210.0 because of elemental bonuses, base ATK: 100.0
+DEF: 153.3 because of elemental bonuses, base DEF: 73.0
+AGI: 197.4 because of elemental bonuses, base AGI: 94.0
+INT: 82.0
+WIS: 97.0
+HP: 1743.0 MANA: 652.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Erectus (upright) Subterraneus (underground) Purpurea (purple) Luminans (bioluminescent)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Close, Water, Sky, Ground, Pack, Night
+Size: Tiny
+Element(s): Lightning
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 8.8 because of elemental bonuses, base ATK: 7.0
+DEF: 5.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 8.0
+WIS: 6.0
+HP: 58.8 MANA: 55.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

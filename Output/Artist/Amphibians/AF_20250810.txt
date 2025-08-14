@@ -1,0 +1,1170 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Solara Parvus (small) Litoralis (coastal)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Day, Ground, Long Range, Group, Underground, Water
+Size: Tiny
+Element(s): Physical, Wood, Earth
+Specialized Adaptation: Extreme Camouflage Coconut Octopus (Amphioctopus marginatus) - Hides in shells.
+Stats:
+ATK: 8.4 because of elemental bonuses, base ATK: 8.0
+DEF: 11.5 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 8.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 123.4 MANA: 66.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Rarus (rare)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Horde, Lava/Magma, Underground, Long Range, Day, Ground
+Size: Large
+Element(s): Fire, Gold, Wood
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 18.7 because of elemental bonuses, base ATK: 17.0
+DEF: 34.3 because of elemental bonuses, base DEF: 22.0
+AGI: 19.0
+INT: 29.0 because of elemental bonuses, base INT: 22.0
+WIS: 27.3 because of elemental bonuses, base WIS: 21.0
+HP: 361.7 MANA: 213.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Luminor
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Close, Ground, Night, Pack, Sky, Water
+Size: Mid
+Element(s): Water, Yin
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 15.0
+DEF: 11.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 20.6 because of elemental bonuses, base INT: 11.0
+WIS: 18.0 because of elemental bonuses, base WIS: 12.0
+HP: 125.0 MANA: 148.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aeternis Rufus (red) Vallicola (valley) Pilosa (fuzzy)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Ground, Lava/Magma, Close, Sky, Group, Night
+Size: Giant
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Stick Caterpillar (Phalera bucephala) - Resembles a broken twig.
+Stats:
+ATK: 31.5 because of elemental bonuses, base ATK: 30.0
+DEF: 26.2 because of elemental bonuses, base DEF: 25.0
+AGI: 30.0
+INT: 28.0
+WIS: 26.0
+HP: 293.5 MANA: 205.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tempestis
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Day, Ground, Water, Pack, Mid, Sky
+Size: Super
+Element(s): Water, Earth, Fire
+Specialized Adaptation: Bioluminescent Stoplight Loosejaw (Malacosteus niger) - Red light invisible to prey.
+Stats:
+ATK: 73.7 because of elemental bonuses, base ATK: 67.0
+DEF: 109.2 because of elemental bonuses, base DEF: 91.0
+AGI: 112.5 because of elemental bonuses, base AGI: 90.0
+INT: 99.0 because of elemental bonuses, base INT: 72.0
+WIS: 85.0
+HP: 1165.7 MANA: 707.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lumina Floridus (flowery) Riparius (riverbank) Serrata (serrated)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Mid, Sky, Night, Pack, Ground, Lava/Magma
+Size: Tiny
+Element(s): Wind
+Specialized Adaptation: Bioluminescent Glowing Coral (Tubastraea spp.) - Fluorescent polyps.
+Stats:
+ATK: 8.0
+DEF: 9.5 because of elemental bonuses, base DEF: 7.0
+AGI: 10.8 because of elemental bonuses, base AGI: 8.0
+INT: 5.0
+WIS: 5.0
+HP: 103.0 MANA: 37.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Natans (swimming) Eremitus (isolated) Punctata (dotted) Fossilis (fossilized)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Ground, Night, Water, Horde, Underground, Range
+Size: Mid
+Element(s): Earth, Fire
+Specialized Adaptation: Bioluminescent Comb Jelly (Mnemiopsis leidyi) - Rainbow cilia.
+Stats:
+ATK: 12.1 because of elemental bonuses, base ATK: 11.0
+DEF: 14.4 because of elemental bonuses, base DEF: 12.0
+AGI: 15.0
+INT: 13.2 because of elemental bonuses, base INT: 12.0
+WIS: 11.0
+HP: 156.1 MANA: 93.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Luminor Aureus (golden) Savannus (savanna) Fibrosa (fibrous) Rapax (predatory)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Mid, Ground, Underground, Water, Horde, Day
+Size: Large
+Element(s): Fire, Wood
+Specialized Adaptation: Bioluminescent Lanternshark (Etmopterus spp.) - Light-emitting photophores.
+Stats:
+ATK: 22.0 because of elemental bonuses, base ATK: 20.0
+DEF: 23.4 because of elemental bonuses, base DEF: 18.0
+AGI: 20.0
+INT: 19.8 because of elemental bonuses, base INT: 18.0
+WIS: 28.6 because of elemental bonuses, base WIS: 22.0
+HP: 256.0 MANA: 170.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Solara Magnus (large) Glacialis (icy)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Sky, Pack, Range, Water, Night, Ground
+Size: Mid
+Element(s): Fire, Gold, Wood
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 13.2 because of elemental bonuses, base ATK: 12.0
+DEF: 18.7 because of elemental bonuses, base DEF: 12.0
+AGI: 14.0
+INT: 15.8 because of elemental bonuses, base INT: 12.0
+WIS: 18.2 because of elemental bonuses, base WIS: 14.0
+HP: 200.2 MANA: 124.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignara Levis (light)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Lava/Magma, Ground, Group, Sky, Long Range, Day
+Size: Mega
+Element(s): Fire, Water, Earth
+Specialized Adaptation: Bioluminescent Cookiecutter Shark (Isistius brasiliensis) - Counter-illumination.
+Stats:
+ATK: 51.7 because of elemental bonuses, base ATK: 47.0
+DEF: 46.8 because of elemental bonuses, base DEF: 39.0
+AGI: 51.2 because of elemental bonuses, base AGI: 41.0
+INT: 61.9 because of elemental bonuses, base INT: 45.0
+WIS: 39.0
+HP: 519.7 MANA: 407.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Umbrion Mollis (soft) Glacialis (icy) Serrata (serrated) Nocturna (night-active)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Long Range, Pack, Sky, Ground, Lava/Magma, Night
+Size: Super
+Element(s): Crystal
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 93.8 because of elemental bonuses, base ATK: 67.0
+DEF: 92.4 because of elemental bonuses, base DEF: 66.0
+AGI: 81.0
+INT: 100.0
+WIS: 84.0
+HP: 1017.8 MANA: 710.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Infinitus
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Ground, Water, Day, Long Range, Sky, Pack
+Size: Mega
+Element(s): Yang
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 40.0
+DEF: 42.0
+AGI: 37.0
+INT: 63.0 because of elemental bonuses, base INT: 42.0
+WIS: 57.0 because of elemental bonuses, base WIS: 38.0
+HP: 460.0 MANA: 457.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Noctis Erectus (upright) Litoralis (coastal) Glabra (smooth) Fluitans (floating)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Lava/Magma, Pack, Close, Day, Ground, Underground
+Size: Mid
+Element(s): Ice
+Specialized Adaptation: Extreme Camouflage Orchid Mantis (Hymenopus coronatus) - Flower mimic.
+Stats:
+ATK: 14.0 because of elemental bonuses, base ATK: 11.0
+DEF: 11.0
+AGI: 11.0
+INT: 15.2 because of elemental bonuses, base INT: 12.0
+WIS: 11.0
+HP: 124.0 MANA: 103.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignavus Rufus (red) Australis (southern) Lanceolata (lance-shaped) Nomadica (nomadic)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Close, Ground, Sky, Horde, Lava/Magma, Day
+Size: Super
+Element(s): Earth, Sharpness
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 115.7 because of elemental bonuses, base ATK: 89.0
+DEF: 117.6 because of elemental bonuses, base DEF: 98.0
+AGI: 100.0
+INT: 91.0
+WIS: 81.0
+HP: 1291.7 MANA: 657.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis Serenus (calm) Crateris (crater)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Close, Lava/Magma, Night, Pack, Sky, Ground
+Size: Mid
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Leaf-Tailed Gecko (Uroplatus spp.) - Lichen-mimicking skin.
+Stats:
+ATK: 11.0
+DEF: 15.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 13.8 because of elemental bonuses, base INT: 11.0
+WIS: 12.0
+HP: 161.0 MANA: 99.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Rupesca Parvus (small) Crateris (crater) Cordata (heart-shaped) Fluitans (floating)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Night, Close, Sky, Lava/Magma, Ground, Horde
+Size: Super
+Element(s): Wood, Yang
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 93.0
+DEF: 92.3 because of elemental bonuses, base DEF: 71.0
+AGI: 90.0
+INT: 123.0 because of elemental bonuses, base INT: 82.0
+WIS: 150.2 because of elemental bonuses, base WIS: 77.0
+HP: 1016.0 MANA: 990.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara Levis (light)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Long Range, Day, Ground, Horde, Lava/Magma, Underground
+Size: Mid
+Element(s): Fire, Water, Wood
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 15.4 because of elemental bonuses, base ATK: 14.0
+DEF: 15.6 because of elemental bonuses, base DEF: 12.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 19.2 because of elemental bonuses, base INT: 14.0
+WIS: 14.3 because of elemental bonuses, base WIS: 11.0
+HP: 171.4 MANA: 131.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ferralis
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Ground, Pack, Underground, Range, Night, Water
+Size: Mega
+Element(s): Yang
+Specialized Adaptation: Extreme Camouflage Stonefish (Synanceia verrucosa) - Rocky appearance.
+Stats:
+ATK: 38.0
+DEF: 45.0
+AGI: 43.0
+INT: 58.5 because of elemental bonuses, base INT: 39.0
+WIS: 73.5 because of elemental bonuses, base WIS: 49.0
+HP: 488.0 MANA: 476.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Rotundus (round) Litoralis (coastal) Scutata (shield-shaped) Repens (crawling)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Range, Pack, Night, Underground, Lava/Magma, Ground
+Size: Super
+Element(s): Ice
+Specialized Adaptation: Extreme Camouflage Peppered Moth (Biston betularia) - Industrial melanism.
+Stats:
+ATK: 87.6 because of elemental bonuses, base ATK: 69.0
+DEF: 89.0
+AGI: 77.0
+INT: 127.0 because of elemental bonuses, base INT: 100.0
+WIS: 72.0
+HP: 977.6 MANA: 815.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Ferox (fierce)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Close, Horde, Day, Lava/Magma, Ground, Sky
+Size: Tiny
+Element(s): Lightning
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 7.5 because of elemental bonuses, base ATK: 6.0
+DEF: 8.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 6.0
+WIS: 7.0
+HP: 87.5 MANA: 47.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aeternis Magnus (large) Sylvestris (forest) Argentea (silver) Rapax (predatory)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Range, Lava/Magma, Pack, Sky, Day, Ground
+Size: Large
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Deep-Sea Anglerfish (Linophryne arborifera) - Glowing chin barbel.
+Stats:
+ATK: 17.0
+DEF: 26.4 because of elemental bonuses, base DEF: 22.0
+AGI: 17.0
+INT: 24.0 because of elemental bonuses, base INT: 20.0
+WIS: 22.0
+HP: 281.0 MANA: 175.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Altaria Clarus (bright) Campestris (plains) Iridesca (iridescent)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Range, Lava/Magma, Horde, Ground, Day, Underground
+Size: Small
+Element(s): Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.6 because of elemental bonuses, base ATK: 8.0
+DEF: 7.0
+AGI: 10.0
+INT: 10.0
+WIS: 10.0
+HP: 78.6 MANA: 75.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Zephyria Pallidus (pale)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Ground, Sky, Range, Day, Water, Group
+Size: Giant
+Element(s): Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 31.2 because of elemental bonuses, base ATK: 29.0
+DEF: 30.0
+AGI: 28.0
+INT: 27.0
+WIS: 27.0
+HP: 331.2 MANA: 202.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Corvalis Acutus (sharp) Tropicalis (tropical)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Night, Close, Group, Sky, Lava/Magma, Ground
+Size: Mid
+Element(s): Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 15.0 because of elemental bonuses, base ATK: 12.0
+DEF: 14.0
+AGI: 13.8 because of elemental bonuses, base AGI: 11.0
+INT: 14.0
+WIS: 11.0
+HP: 155.0 MANA: 97.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Sonoris Fragilis (fragile) Polarus (polar)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Close, Water, Underground, Ground, Horde, Night
+Size: Large
+Element(s): Water, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 18.0
+DEF: 24.0 because of elemental bonuses, base DEF: 20.0
+AGI: 26.2 because of elemental bonuses, base AGI: 21.0
+INT: 27.5 because of elemental bonuses, base INT: 22.0
+WIS: 21.0
+HP: 258.0 MANA: 190.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara Parvus (small)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Day, Lava/Magma, Long Range, Horde, Ground, Underground
+Size: Giant
+Element(s): Fire, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 30.8 because of elemental bonuses, base ATK: 28.0
+DEF: 30.0 because of elemental bonuses, base DEF: 25.0
+AGI: 28.0
+INT: 34.3 because of elemental bonuses, base INT: 26.0
+WIS: 30.0
+HP: 330.8 MANA: 246.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara Luminosus (glowing) Campestris (plains) Rubra (red) Venenata (venomous)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Ground, Range, Group, Night, Lava/Magma, Underground
+Size: Tiny
+Element(s): Yang
+Specialized Adaptation: Extreme Camouflage Peppered Moth (Biston betularia) - Industrial melanism.
+Stats:
+ATK: 6.0
+DEF: 6.0
+AGI: 7.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 9.0 because of elemental bonuses, base WIS: 6.0
+HP: 66.0 MANA: 82.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nivora Albus (white)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Underground, Night, Range, Horde, Water, Ground
+Size: Large
+Element(s): Wood, Fire
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 20.9 because of elemental bonuses, base ATK: 19.0
+DEF: 23.4 because of elemental bonuses, base DEF: 18.0
+AGI: 20.0
+INT: 20.9 because of elemental bonuses, base INT: 19.0
+WIS: 26.0 because of elemental bonuses, base WIS: 20.0
+HP: 254.9 MANA: 169.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Ignavus Ferox (fierce)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Close, Group, Water, Day, Sky, Ground
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: Bioluminescent Glowing Coral (Tubastraea spp.) - Fluorescent polyps.
+Stats:
+ATK: 6.0
+DEF: 7.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 6.2 because of elemental bonuses, base INT: 5.0
+WIS: 8.0
+HP: 76.0 MANA: 51.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Argenteus (silver)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Group, Night, Lava/Magma, Range, Ground, Underground
+Size: Mega
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Cookiecutter Shark (Isistius brasiliensis) - Counter-illumination.
+Stats:
+ATK: 48.0
+DEF: 48.0 because of elemental bonuses, base DEF: 40.0
+AGI: 50.0
+INT: 47.0
+WIS: 49.0
+HP: 528.0 MANA: 357.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Radiantia Viridis (green) Limosus (muddy) Fibrosa (fibrous)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Lava/Magma, Group, Close, Ground, Night, Sky
+Size: Small
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 9.5 because of elemental bonuses, base ATK: 9.0
+DEF: 8.4 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 9.0
+WIS: 8.0
+HP: 93.5 MANA: 65.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Purpureus (purple) Litoralis (coastal) Marmorata (marbled) Effugiens (escaping)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Pack, Mid, Water, Underground, Night, Ground
+Size: Super
+Element(s): Physical, Water, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 79.8 because of elemental bonuses, base ATK: 76.0
+DEF: 99.6 because of elemental bonuses, base DEF: 73.0
+AGI: 113.8 because of elemental bonuses, base AGI: 91.0
+INT: 117.5 because of elemental bonuses, base INT: 94.0
+WIS: 89.7 because of elemental bonuses, base WIS: 69.0
+HP: 1075.8 MANA: 811.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Arcanis
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Pack, Underground, Ground, Long Range, Day, Water
+Size: Large
+Element(s): Lightning
+Specialized Adaptation: Extreme Camouflage Stonefish (Synanceia verrucosa) - Rocky appearance.
+Stats:
+ATK: 23.8 because of elemental bonuses, base ATK: 19.0
+DEF: 22.0
+AGI: 25.0 because of elemental bonuses, base AGI: 20.0
+INT: 22.0
+WIS: 22.0
+HP: 243.8 MANA: 165.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vulcanor Rotundus (round) Glacialis (icy) Zebrina (zebra-like) Fragrans (fragrant)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Group, Close, Water, Sky, Night, Ground
+Size: Tiny
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 7.0
+DEF: 7.2 because of elemental bonuses, base DEF: 6.0
+AGI: 8.0
+INT: 8.0
+WIS: 7.0
+HP: 79.0 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Virensis
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Day, Range, Horde, Water, Sky, Ground
+Size: Mega
+Element(s): Strength
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 47.3 because of elemental bonuses, base ATK: 44.0
+DEF: 47.0
+AGI: 43.0
+INT: 39.0
+WIS: 39.0
+HP: 517.3 MANA: 292.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Umbrion Ferrugineus (rusty)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Long Range, Night, Horde, Underground, Lava/Magma, Ground
+Size: Mega
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 49.4 because of elemental bonuses, base ATK: 47.0
+DEF: 52.5 because of elemental bonuses, base DEF: 50.0
+AGI: 49.0
+INT: 41.0
+WIS: 42.0
+HP: 574.4 MANA: 310.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara Viridis (green) Savannus (savanna)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Underground, Water, Night, Group, Close, Ground
+Size: Small
+Element(s): Earth, Water
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 7.0
+DEF: 10.8 because of elemental bonuses, base DEF: 9.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 12.5 because of elemental bonuses, base INT: 10.0
+WIS: 10.0
+HP: 115.0 MANA: 87.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Novalis Gravis (heavy) Oasensis (oasis) Pilosa (fuzzy)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Pack, Sky, Mid, Ground, Lava/Magma, Day
+Size: Tiny
+Element(s): Fire, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 5.5 because of elemental bonuses, base ATK: 5.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 8.0
+INT: 7.9 because of elemental bonuses, base INT: 6.0
+WIS: 6.0
+HP: 101.5 MANA: 54.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Aeternis
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Group, Underground, Night, Mid, Ground, Water
+Size: Super
+Element(s): Earth, Strength, Physical
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 112.9 because of elemental bonuses, base ATK: 100.0
+DEF: 123.5 because of elemental bonuses, base DEF: 98.0
+AGI: 81.0
+INT: 79.0
+WIS: 79.0
+HP: 1347.9 MANA: 592.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis Communis (common) Litoralis (coastal)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Range, Horde, Night, Sky, Lava/Magma, Ground
+Size: Small
+Element(s): Strength
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 10.8 because of elemental bonuses, base ATK: 10.0
+DEF: 7.0
+AGI: 7.0
+INT: 8.0
+WIS: 7.0
+HP: 80.8 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Rupesca Parvus (small) Tropicalis (tropical) Lanceolata (lance-shaped)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Underground, Close, Night, Horde, Lava/Magma, Ground
+Size: Tiny
+Element(s): Fire, Wood, Earth
+Specialized Adaptation: Extreme Camouflage Scorpionfish (Scorpaenidae spp.) - Algae-covered appearance.
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 7.0
+DEF: 10.9 because of elemental bonuses, base DEF: 7.0
+AGI: 5.0
+INT: 5.5 because of elemental bonuses, base INT: 5.0
+WIS: 6.5 because of elemental bonuses, base WIS: 5.0
+HP: 116.7 MANA: 43.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tranquilis
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Long Range, Sky, Day, Ground, Lava/Magma, Horde
+Size: Large
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Coconut Octopus (Amphioctopus marginatus) - Hides in shells.
+Stats:
+ATK: 19.9 because of elemental bonuses, base ATK: 19.0
+DEF: 22.1 because of elemental bonuses, base DEF: 21.0
+AGI: 20.0
+INT: 21.0
+WIS: 18.0
+HP: 240.9 MANA: 150.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Silexia Magnus (large) Oreadis (mountain nymph) Lobata (lobed) Natans (swimming)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Long Range, Night, Underground, Group, Water, Ground
+Size: Mega
+Element(s): Yang
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 39.0
+DEF: 46.0
+AGI: 39.0
+INT: 61.5 because of elemental bonuses, base INT: 41.0
+WIS: 72.0 because of elemental bonuses, base WIS: 48.0
+HP: 499.0 MANA: 487.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tempestis Levis (light) Torridus (hot/dry) Fasciata (banded)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Horde, Water, Underground, Long Range, Night, Ground
+Size: Small
+Element(s): Fire, Physical, Gold
+Specialized Adaptation: Extreme Camouflage Coconut Octopus (Amphioctopus marginatus) - Hides in shells.
+Stats:
+ATK: 9.2 because of elemental bonuses, base ATK: 8.0
+DEF: 10.1 because of elemental bonuses, base DEF: 8.0
+AGI: 8.0
+INT: 9.2 because of elemental bonuses, base INT: 7.0
+WIS: 8.0
+HP: 110.2 MANA: 66.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Obsidia Rotundus (round) Arenosus (sandy) Scutata (shield-shaped)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Lava/Magma, Group, Long Range, Underground, Day, Ground
+Size: Large
+Element(s): Strength, Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 20.4 because of elemental bonuses, base ATK: 19.0
+DEF: 22.0
+AGI: 21.0
+INT: 33.0 because of elemental bonuses, base INT: 22.0
+WIS: 27.0 because of elemental bonuses, base WIS: 18.0
+HP: 240.4 MANA: 232.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lunara
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Mid, Ground, Water, Underground, Day, Pack
+Size: Large
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 17.0
+DEF: 20.4 because of elemental bonuses, base DEF: 17.0
+AGI: 17.0
+INT: 19.0
+WIS: 21.0
+HP: 221.0 MANA: 147.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Silexia Glaber (hairless) Deltanus (delta) Flexuosa (twisted)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Mid, Group, Lava/Magma, Night, Underground, Ground
+Size: Tiny
+Element(s): Sharpness
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 7.8 because of elemental bonuses, base ATK: 6.0
+DEF: 6.0
+AGI: 7.0
+INT: 6.0
+WIS: 5.0
+HP: 67.8 MANA: 42.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nebulora Natans (swimming) Pratensis (meadow) Aurantiaca (orange)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Day, Water, Pack, Sky, Close, Ground
+Size: Small
+Element(s): Gold, Fire, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.8 because of elemental bonuses, base ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 14.9 because of elemental bonuses, base INT: 9.0
+WIS: 7.0
+HP: 92.8 MANA: 92.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Caelior Aureus (golden) Saxatilis (rocky) Undulata (wavy) Saltans (jumping)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Pack, Night, Long Range, Underground, Lava/Magma, Ground
+Size: Tiny
+Element(s): Gold, Earth, Physical
+Specialized Adaptation: Bioluminescent Hatchetfish (Sternoptyx spp.) - Counter-illumination camouflage.
+Stats:
+ATK: 6.3 because of elemental bonuses, base ATK: 6.0
+DEF: 7.6 because of elemental bonuses, base DEF: 5.0
+AGI: 7.0
+INT: 7.2 because of elemental bonuses, base INT: 6.0
+WIS: 5.0
+HP: 82.3 MANA: 48.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Floranis Luridus (pale) Limosus (muddy) Tessellata (checkered)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Mid, Underground, Water, Day, Group, Ground
+Size: Giant
+Element(s): Physical, Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 39.7 because of elemental bonuses, base ATK: 27.0
+DEF: 36.8 because of elemental bonuses, base DEF: 25.0
+AGI: 29.0
+INT: 30.0
+WIS: 29.0
+HP: 407.7 MANA: 222.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Volans (flying) Subterraneus (underground)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Mid, Horde, Lava/Magma, Underground, Day, Ground
+Size: Mega
+Element(s): Wood, Fire
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 50.6 because of elemental bonuses, base ATK: 46.0
+DEF: 58.5 because of elemental bonuses, base DEF: 45.0
+AGI: 40.0
+INT: 45.1 because of elemental bonuses, base INT: 41.0
+WIS: 48.1 because of elemental bonuses, base WIS: 37.0
+HP: 635.6 MANA: 345.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Aeneus (bronze) Pratensis (meadow)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Close, Sky, Day, Horde, Lava/Magma, Ground
+Size: Small
+Element(s): Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.4 because of elemental bonuses, base ATK: 9.0
+DEF: 8.0
+AGI: 9.0
+INT: 12.7 because of elemental bonuses, base INT: 10.0
+WIS: 7.0
+HP: 91.4 MANA: 81.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Petralis Floridus (flowery) Oreadis (mountain nymph)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Sky, Ground, Night, Group, Long Range, Water
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 30.0
+DEF: 34.8 because of elemental bonuses, base DEF: 29.0
+AGI: 29.0
+INT: 28.0
+WIS: 28.0
+HP: 378.0 MANA: 210.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lumina Vibrans (vibrant) Taiganus (taiga)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Long Range, Sky, Day, Pack, Ground, Water
+Size: Giant
+Element(s): Physical, Sharpness
+Specialized Adaptation: Extreme Camouflage Giant Leaf Insect (Pulchriphyllium giganteum) - Broadleaf mimic.
+Stats:
+ATK: 36.9 because of elemental bonuses, base ATK: 27.0
+DEF: 28.4 because of elemental bonuses, base DEF: 27.0
+AGI: 29.0
+INT: 30.0
+WIS: 30.0
+HP: 320.9 MANA: 225.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Sonoris Vibrans (vibrant)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Horde, Sky, Range, Night, Water, Ground
+Size: Super
+Element(s): Crystal, Fire
+Specialized Adaptation: Extreme Camouflage Tasselled Wobbegong (Eucrossorhinus dasypogon) - Frilly seaweed mimic.
+Stats:
+ATK: 123.2 because of elemental bonuses, base ATK: 80.0
+DEF: 140.0 because of elemental bonuses, base DEF: 100.0
+AGI: 90.0
+INT: 93.5 because of elemental bonuses, base INT: 85.0
+WIS: 80.0
+HP: 1523.2 MANA: 667.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Primordis Ferox (fierce) Borealis (northern)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Group, Ground, Mid, Lava/Magma, Sky, Night
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 26.0
+DEF: 33.6 because of elemental bonuses, base DEF: 28.0
+AGI: 29.0
+INT: 28.0
+WIS: 25.0
+HP: 362.0 MANA: 202.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Tenebris
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Mid, Horde, Lava/Magma, Night, Ground, Underground
+Size: Super
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 67.0
+DEF: 71.0
+AGI: 102.5 because of elemental bonuses, base AGI: 82.0
+INT: 115.0 because of elemental bonuses, base INT: 92.0
+WIS: 79.0
+HP: 777.0 MANA: 772.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Serenus (calm) Fluvialis (river)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Group, Ground, Long Range, Underground, Day, Water
+Size: Small
+Element(s): Sharpness
+Specialized Adaptation: Extreme Camouflage Leaf-Tailed Gecko (Uroplatus spp.) - Lichen-mimicking skin.
+Stats:
+ATK: 13.0 because of elemental bonuses, base ATK: 10.0
+DEF: 10.0
+AGI: 8.0
+INT: 9.0
+WIS: 7.0
+HP: 113.0 MANA: 62.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Rarus (rare)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Night, Water, Sky, Range, Group, Ground
+Size: Giant
+Element(s): Water, Gold, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 27.0
+DEF: 37.4 because of elemental bonuses, base DEF: 26.0
+AGI: 32.5 because of elemental bonuses, base AGI: 26.0
+INT: 45.0 because of elemental bonuses, base INT: 30.0
+WIS: 30.0
+HP: 401.0 MANA: 300.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Zephyria Alatus (winged)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Night, Close, Horde, Water, Underground, Ground
+Size: Super
+Element(s): Yin
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 68.0
+DEF: 80.0
+AGI: 81.0
+INT: 111.0 because of elemental bonuses, base INT: 74.0
+WIS: 132.0 because of elemental bonuses, base WIS: 88.0
+HP: 868.0 MANA: 885.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Eclipsis
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Range, Lava/Magma, Horde, Day, Sky, Ground
+Size: Tiny
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Flashlight Fish (Anomalops katoptron) - Light organs under eyes.
+Stats:
+ATK: 6.6 because of elemental bonuses, base ATK: 6.0
+DEF: 6.0
+AGI: 6.0
+INT: 6.6 because of elemental bonuses, base INT: 6.0
+WIS: 7.0
+HP: 66.6 MANA: 50.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Glacies Rufus (red) Littoralis (shore) Variegata (variegated) Arborea (tree-living)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Day, Horde, Mid, Underground, Water, Ground
+Size: Mid
+Element(s): Water, Yin
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 13.0
+DEF: 15.0
+AGI: 16.2 because of elemental bonuses, base AGI: 13.0
+INT: 24.4 because of elemental bonuses, base INT: 13.0
+WIS: 22.5 because of elemental bonuses, base WIS: 15.0
+HP: 163.0 MANA: 178.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Serpentis Velox (swift)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Group, Sky, Long Range, Lava/Magma, Ground, Night
+Size: Large
+Element(s): Fire, Physical
+Specialized Adaptation: Bioluminescent Cookiecutter Shark (Isistius brasiliensis) - Counter-illumination.
+Stats:
+ATK: 24.3 because of elemental bonuses, base ATK: 21.0
+DEF: 23.1 because of elemental bonuses, base DEF: 22.0
+AGI: 18.0
+INT: 24.2 because of elemental bonuses, base INT: 22.0
+WIS: 22.0
+HP: 255.3 MANA: 176.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Infinitus Audax (bold)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Range, Underground, Group, Ground, Water, Day
+Size: Mid
+Element(s): Wood, Physical
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 13.7 because of elemental bonuses, base ATK: 13.0
+DEF: 19.1 because of elemental bonuses, base DEF: 14.0
+AGI: 13.0
+INT: 11.0
+WIS: 16.9 because of elemental bonuses, base WIS: 13.0
+HP: 204.7 MANA: 97.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Arcanis
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Night, Horde, Long Range, Sky, Lava/Magma, Ground
+Size: Mid
+Element(s): Gold, Wood, Fire
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 15.4 because of elemental bonuses, base ATK: 14.0
+DEF: 18.7 because of elemental bonuses, base DEF: 12.0
+AGI: 14.0
+INT: 18.5 because of elemental bonuses, base INT: 14.0
+WIS: 14.3 because of elemental bonuses, base WIS: 11.0
+HP: 202.4 MANA: 128.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Gravis (heavy) Litoralis (coastal) Cinerea (gray)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Group, Night, Underground, Lava/Magma, Close, Ground
+Size: Giant
+Element(s): Gold, Earth
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 30.0
+DEF: 43.2 because of elemental bonuses, base DEF: 30.0
+AGI: 30.0
+INT: 36.0 because of elemental bonuses, base INT: 30.0
+WIS: 30.0
+HP: 462.0 MANA: 255.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Rupesca Angustus (narrow) Montanus (mountain)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Close, Sky, Ground, Water, Horde, Night
+Size: Giant
+Element(s): Gold, Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 39.0 because of elemental bonuses, base ATK: 30.0
+DEF: 31.2 because of elemental bonuses, base DEF: 26.0
+AGI: 27.0
+INT: 34.8 because of elemental bonuses, base INT: 29.0
+WIS: 27.0
+HP: 351.0 MANA: 241.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Terros Ater (dark)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Group, Close, Day, Water, Ground, Sky
+Size: Tiny
+Element(s): Wood, Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 6.3 because of elemental bonuses, base ATK: 5.0
+DEF: 7.8 because of elemental bonuses, base DEF: 6.0
+AGI: 8.0
+INT: 10.2 because of elemental bonuses, base INT: 8.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 84.3 MANA: 73.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Umbrion
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Long Range, Water, Ground, Night, Horde, Underground
+Size: Large
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 18.0
+DEF: 22.0
+AGI: 21.0
+INT: 25.5 because of elemental bonuses, base INT: 17.0
+WIS: 30.0 because of elemental bonuses, base WIS: 20.0
+HP: 238.0 MANA: 202.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Fulgora Pendulus (hanging) Torridus (hot/dry)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Range, Water, Pack, Underground, Night, Ground
+Size: Mid
+Element(s): Ice
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 16.5 because of elemental bonuses, base ATK: 13.0
+DEF: 15.0
+AGI: 14.0
+INT: 17.8 because of elemental bonuses, base INT: 14.0
+WIS: 14.0
+HP: 166.5 MANA: 124.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Vortexis Aeneus (bronze) Fluvialis (river) Argentea (silver)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Day, Pack, Underground, Ground, Range, Water
+Size: Large
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 23.1 because of elemental bonuses, base ATK: 22.0
+DEF: 21.0 because of elemental bonuses, base DEF: 20.0
+AGI: 17.0
+INT: 20.0
+WIS: 21.0
+HP: 233.1 MANA: 152.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Stellion Opacus (shaded) Crateris (crater)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Close, Sky, Group, Ground, Night, Lava/Magma
+Size: Small
+Element(s): Water, Gold, Fire
+Specialized Adaptation: Extreme Camouflage Stonefish (Synanceia verrucosa) - Rocky appearance.
+Stats:
+ATK: 11.0 because of elemental bonuses, base ATK: 10.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 16.5 because of elemental bonuses, base INT: 10.0
+WIS: 10.0
+HP: 95.0 MANA: 107.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nivora Radians (radiant) Canyonis (canyon)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Pack, Underground, Mid, Night, Lava/Magma, Ground
+Size: Tiny
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Cookiecutter Shark (Isistius brasiliensis) - Counter-illumination.
+Stats:
+ATK: 7.0 because of elemental bonuses, base ATK: 5.0
+DEF: 8.4 because of elemental bonuses, base DEF: 6.0
+AGI: 7.0
+INT: 7.0
+WIS: 8.0
+HP: 91.0 MANA: 55.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Infinitus Parvus (small) Pluvius (rainy)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Long Range, Ground, Lava/Magma, Day, Group, Sky
+Size: Mid
+Element(s): Wood, Fire
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 13.2 because of elemental bonuses, base ATK: 12.0
+DEF: 18.2 because of elemental bonuses, base DEF: 14.0
+AGI: 11.0
+INT: 16.5 because of elemental bonuses, base INT: 15.0
+WIS: 18.2 because of elemental bonuses, base WIS: 14.0
+HP: 195.2 MANA: 128.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Lumina Clarus (bright) Pratensis (meadow) Reticulata (netted) Saprophis (decomposing)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Underground, Group, Day, Water, Mid, Ground
+Size: Super
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 79.0
+DEF: 80.4 because of elemental bonuses, base DEF: 67.0
+AGI: 98.0
+INT: 91.0
+WIS: 72.0
+HP: 883.0 MANA: 635.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Rupesca
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Underground, Close, Horde, Day, Lava/Magma, Ground
+Size: Mega
+Element(s): Wood, Physical, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 49.4 because of elemental bonuses, base ATK: 47.0
+DEF: 77.0 because of elemental bonuses, base DEF: 47.0
+AGI: 45.0
+INT: 40.0
+WIS: 50.7 because of elemental bonuses, base WIS: 39.0
+HP: 819.4 MANA: 326.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Nivora Pallidus (pale)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Lava/Magma, Underground, Day, Pack, Mid, Ground
+Size: Mega
+Element(s): Physical, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 38.9 because of elemental bonuses, base ATK: 37.0
+DEF: 52.9 because of elemental bonuses, base DEF: 42.0
+AGI: 43.0
+INT: 60.0 because of elemental bonuses, base INT: 50.0
+WIS: 47.0
+HP: 567.9 MANA: 417.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-❎
+Name: Voltis Pendulus (hanging) Steppus (steppe) Cinerea (gray)
+Shape: Amphibian, Arboreal Frog, Suction-cup toes, vibrant colors, or gliding adaptations
+Type: Night, Mid, Pack, Ground, Sky, Water
+Size: Mega
+Element(s): Physical, Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 57.3 because of elemental bonuses, base ATK: 39.0
+DEF: 73.5 because of elemental bonuses, base DEF: 50.0
+AGI: 39.0
+INT: 45.0
+WIS: 38.0
+HP: 792.3 MANA: 320.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
