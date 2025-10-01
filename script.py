@@ -2,6 +2,77 @@ import os
 import re
 import random
 import datetime
+import logging
+import sys
+import math
+from collections import defaultdict
+import json
+
+# === LOGGING SETUP ===
+def setup_logging():
+    """Set up daily logging to capture all terminal output and user interactions"""
+    log_dir = os.path.join("Output", "Logs")
+    os.makedirs(log_dir, exist_ok=True)
+    
+    log_filename = f"{datetime.date.today()}-dayz-log.txt"
+    log_filepath = os.path.join(log_dir, log_filename)
+    
+    # Create logger
+    logger = logging.getLogger()
+    logger.setLevel(logging.DEBUG)
+    
+    # Remove existing handlers to avoid duplicates
+    for handler in logger.handlers[:]:
+        logger.removeHandler(handler)
+    
+    # File handler for daily log file
+    file_handler = logging.FileHandler(log_filepath, mode='a', encoding='utf-8')
+    file_handler.setLevel(logging.DEBUG)
+    
+    # Console handler to maintain normal terminal output
+    console_handler = logging.StreamHandler(sys.stdout)
+    console_handler.setLevel(logging.INFO)
+    
+    # Formatter with timestamp
+    formatter = logging.Formatter('%(asctime)s - %(message)s', datefmt='%H:%M:%S')
+    file_handler.setFormatter(formatter)
+    console_handler.setFormatter(formatter)
+    
+    # Add handlers to logger
+    logger.addHandler(file_handler)
+    logger.addHandler(console_handler)
+    
+    return logger
+
+# Initialize logging
+logger = setup_logging()
+
+# Initialize creature tally for current session
+creature_tally = defaultdict(int)
+size_tally = defaultdict(lambda: defaultdict(int))  # subcategory -> size -> count
+size_stats = defaultdict(lambda: defaultdict(list))  # size -> stat -> list of values
+
+# Log script start
+logger.info("=== SCRIPT STARTED ===")
+
+# Import skew configuration
+try:
+    from skew import SKEW_CONFIG
+except ImportError:
+    # Fallback configuration if skew_config.py doesn't exist
+    SKEW_CONFIG = {
+        'subcategory_skew': 1.0,
+        'size_skew': 1.0,
+        'size_preferences': {
+            'Tiny': 1.0, 'Small': 1.0, 'Mid': 1.0, 
+            'Large': 1.0, 'Giant': 1.0, 'Mega': 1.0, 'Super': 1.0
+        },
+        'category_preferences': {
+            'Bird': 1.0, 'Amphibian': 1.0, 'Vertebrate': 1.0,
+            'Reptile': 1.0, 'Fish': 1.0, 'Invertebrate': 1.0
+        }
+    }
+    logger.warning("skew_config.py not found, using default uniform distribution")
 
 rerunYesNo = ["yes", "no"]
 
@@ -127,6 +198,50 @@ CATEGORY_MAP = {
     }
 }
 
+# === SKEWING FUNCTIONS ===
+def apply_skew(choices, base_weights, skew_factor):
+    """Apply power transformation to skew distribution"""
+    if not choices or len(choices) != len(base_weights):
+        return base_weights
+    
+    skewed_weights = []
+    for weight in base_weights:
+        # Apply power transformation - higher skew_factor creates more extreme differences
+        skewed_weight = weight ** skew_factor
+        skewed_weights.append(skewed_weight)
+    
+    return skewed_weights
+
+def get_skewed_size():
+    """Get size with skewed distribution based on preferences"""
+    sizes = sizeList.copy()
+    
+    # Apply size preferences
+    weights = [SKEW_CONFIG['size_preferences'].get(size, 1.0) for size in sizes]
+    
+    # Apply additional skew
+    final_weights = apply_skew(sizes, weights, SKEW_CONFIG['size_skew'])
+    
+    return random.choices(sizes, weights=final_weights, k=1)[0]
+
+def get_skewed_category_directory():
+    """Get directory with category-based skewing"""
+    # Create weights based on category preferences
+    weights = []
+    for directory in directories:
+        # Extract category from directory path
+        category = directory.split('/')[-1]
+        if category.endswith('s'):
+            category = category[:-1]  # Remove plural 's'
+        
+        weight = SKEW_CONFIG['category_preferences'].get(category, 1.0)
+        weights.append(weight)
+    
+    # Apply additional skew
+    final_weights = apply_skew(directories, weights, SKEW_CONFIG['subcategory_skew'])
+    
+    return random.choices(directories, weights=final_weights, k=1)[0]
+
 class ConflictFreeTypeSelector:
     def __init__(self):
         self.available = typeList.copy()
@@ -241,7 +356,7 @@ def run_selection_process(random_size, selected_elements):
             continue
 
         if elem == "Chaos" and any(e in selected_elements for e in illegalCombinations["Chaos"]):
-            print("Illegal combination! Resetting...")
+            logger.warning("Illegal combination detected! Resetting element selection...")
             selected_elements.clear()
             return run_selection_process(random_size, selected_elements)
 
@@ -403,10 +518,12 @@ def is_content_duplicate(directory, content):
                     if content in file_content:
                         return True
             except Exception as e:
-                print(f"Error reading {file_path}: {e}")
+                logger.error(f"Error reading {file_path}: {e}")
     return False
 
 def create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public):
+    start_time = datetime.datetime.now()
+    
     os.makedirs(artist_dir, exist_ok=True)
     os.makedirs(public_dir, exist_ok=True)
 
@@ -414,327 +531,495 @@ def create_file_with_duplicate_check(artist_dir, public_dir, filename, content_a
     if not is_content_duplicate(artist_dir, content_artist):
         with open(artist_path, 'a', encoding='utf-8') as f:
             f.write(content_artist + '\n')
-        print(f"Appended to artist file: {artist_path}")
+        logger.info(f"Appended to artist file: {artist_path}")
     else:
-        print(f"Duplicate artist content found for {filename}, skipping")
+        logger.info(f"Duplicate artist content found for {filename}, skipping")
 
     public_path = os.path.join(public_dir, filename)
     if not is_content_duplicate(public_dir, content_public):
         with open(public_path, 'a', encoding='utf-8') as f:
             f.write(content_public + '\n')
-        print(f"Appended to public file: {public_path}")
+        logger.info(f"Appended to public file: {public_path}")
     else:
-        print(f"Duplicate public content found for {filename}, skipping")
+        logger.info(f"Duplicate public content found for {filename}, skipping")
+    
+    end_time = datetime.datetime.now()
+    logger.info(f"File writing completed in {end_time - start_time}")
+
+def save_current_tally():
+    """Save the current session tally to cumulative files"""
+    # Save subcategory counts
+    subcategory_file = os.path.join("Output", "Logs", "cumulative_subcategories.json")
+    cumulative_subcategories = defaultdict(int)
+    
+    if os.path.exists(subcategory_file):
+        try:
+            with open(subcategory_file, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                for subcategory, count in existing_data.items():
+                    cumulative_subcategories[subcategory] = count
+        except Exception as e:
+            logger.error(f"Error loading cumulative subcategories: {e}")
+    
+    # Add current session to cumulative subcategories
+    for subcategory, count in creature_tally.items():
+        cumulative_subcategories[subcategory] += count
+    
+    # Save updated cumulative subcategories
+    try:
+        with open(subcategory_file, 'w', encoding='utf-8') as f:
+            json.dump(dict(cumulative_subcategories), f, indent=2)
+    except Exception as e:
+        logger.error(f"Error saving cumulative subcategories: {e}")
+    
+    # Save size breakdown
+    size_file = os.path.join("Output", "Logs", "cumulative_sizes.json")
+    cumulative_sizes = defaultdict(lambda: defaultdict(int))
+    
+    if os.path.exists(size_file):
+        try:
+            with open(size_file, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                for subcategory, sizes in existing_data.items():
+                    for size, count in sizes.items():
+                        cumulative_sizes[subcategory][size] = count
+        except Exception as e:
+            logger.error(f"Error loading cumulative sizes: {e}")
+    
+    # Add current session to cumulative sizes
+    for subcategory, sizes in size_tally.items():
+        for size, count in sizes.items():
+            cumulative_sizes[subcategory][size] += count
+    
+    # Save updated cumulative sizes
+    try:
+        # Convert defaultdict to regular dict for JSON serialization
+        serializable_sizes = {}
+        for subcategory, sizes in cumulative_sizes.items():
+            serializable_sizes[subcategory] = dict(sizes)
+        with open(size_file, 'w', encoding='utf-8') as f:
+            json.dump(serializable_sizes, f, indent=2)
+    except Exception as e:
+        logger.error(f"Error saving cumulative sizes: {e}")
+    
+    # Save size stats
+    stats_file = os.path.join("Output", "Logs", "cumulative_stats.json")
+    cumulative_stats = defaultdict(lambda: defaultdict(list))
+    
+    if os.path.exists(stats_file):
+        try:
+            with open(stats_file, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                for size, stats in existing_data.items():
+                    for stat, values in stats.items():
+                        cumulative_stats[size][stat] = values
+        except Exception as e:
+            logger.error(f"Error loading cumulative stats: {e}")
+    
+    # Add current session to cumulative stats
+    for size, stats in size_stats.items():
+        for stat, values in stats.items():
+            cumulative_stats[size][stat].extend(values)
+    
+    # Save updated cumulative stats
+    try:
+        serializable_stats = {}
+        for size, stats in cumulative_stats.items():
+            serializable_stats[size] = dict(stats)
+        with open(stats_file, 'w', encoding='utf-8') as f:
+            json.dump(serializable_stats, f, indent=2)
+    except Exception as e:
+        logger.error(f"Error saving cumulative stats: {e}")
+    
+    return cumulative_subcategories, cumulative_sizes, cumulative_stats
+
+def load_cumulative_data():
+    """Load all cumulative data from files"""
+    subcategory_file = os.path.join("Output", "Logs", "cumulative_subcategories.json")
+    size_file = os.path.join("Output", "Logs", "cumulative_sizes.json")
+    stats_file = os.path.join("Output", "Logs", "cumulative_stats.json")
+    
+    cumulative_subcategories = defaultdict(int)
+    cumulative_sizes = defaultdict(lambda: defaultdict(int))
+    cumulative_stats = defaultdict(lambda: defaultdict(list))
+    
+    # Load subcategories
+    if os.path.exists(subcategory_file):
+        try:
+            with open(subcategory_file, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                for subcategory, count in existing_data.items():
+                    cumulative_subcategories[subcategory] = count
+        except Exception as e:
+            logger.error(f"Error loading cumulative subcategories: {e}")
+    
+    # Load sizes
+    if os.path.exists(size_file):
+        try:
+            with open(size_file, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                for subcategory, sizes in existing_data.items():
+                    for size, count in sizes.items():
+                        cumulative_sizes[subcategory][size] = count
+        except Exception as e:
+            logger.error(f"Error loading cumulative sizes: {e}")
+    
+    # Load stats
+    if os.path.exists(stats_file):
+        try:
+            with open(stats_file, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                for size, stats in existing_data.items():
+                    for stat, values in stats.items():
+                        cumulative_stats[size][stat] = values
+        except Exception as e:
+            logger.error(f"Error loading cumulative stats: {e}")
+    
+    return cumulative_subcategories, cumulative_sizes, cumulative_stats
+
+def calculate_averages(stats_data):
+    """Calculate average stats from lists of values"""
+    averages = {}
+    for size, stats in stats_data.items():
+        averages[size] = {}
+        for stat, values in stats.items():
+            if values:
+                averages[size][stat] = sum(values) / len(values)
+            else:
+                averages[size][stat] = 0
+    return averages
+
+def log_creature_tally():
+    """Log the current session and cumulative tallies with size breakdown and averages"""
+    # Save current session and get updated cumulative data
+    cumulative_subcategories, cumulative_sizes, cumulative_stats = save_current_tally()
+    
+    logger.info("=== CREATURE CREATION TALLY ===")
+    
+    # Current session tally
+    if not creature_tally:
+        logger.info("No creatures were created in this session.")
+    else:
+        logger.info("THIS SESSION:")
+        total_this_session = sum(creature_tally.values())
+        sorted_session = sorted(creature_tally.items(), key=lambda x: x[1], reverse=True)
+        
+        for subcategory, count in sorted_session:
+            percentage = (count / total_this_session) * 100
+            logger.info(f"  {subcategory}: {count} creatures ({percentage:.1f}%)")
+            
+            # Log size breakdown for this subcategory
+            if subcategory in size_tally:
+                size_breakdown = []
+                for size in sizeList:
+                    if size in size_tally[subcategory] and size_tally[subcategory][size] > 0:
+                        size_breakdown.append(f"{size}: {size_tally[subcategory][size]}")
+                if size_breakdown:
+                    logger.info(f"    Sizes: {', '.join(size_breakdown)}")
+        
+        logger.info(f"TOTAL THIS SESSION: {total_this_session}")
+        logger.info("")
+    
+    # Cumulative tally
+    logger.info("CUMULATIVE TOTALS (ALL TIME):")
+    if not cumulative_subcategories:
+        logger.info("  No cumulative data available.")
+    else:
+        total_all_time = sum(cumulative_subcategories.values())
+        sorted_cumulative = sorted(cumulative_subcategories.items(), key=lambda x: x[1], reverse=True)
+        
+        for subcategory, count in sorted_cumulative:
+            percentage = (count / total_all_time) * 100
+            logger.info(f"  {subcategory}: {count} creatures ({percentage:.1f}%)")
+            
+            # Log cumulative size breakdown for this subcategory
+            if subcategory in cumulative_sizes:
+                size_breakdown = []
+                for size in sizeList:
+                    if size in cumulative_sizes[subcategory] and cumulative_sizes[subcategory][size] > 0:
+                        size_count = cumulative_sizes[subcategory][size]
+                        size_percentage = (size_count / count) * 100
+                        size_breakdown.append(f"{size}: {size_count} ({size_percentage:.1f}%)")
+                if size_breakdown:
+                    logger.info(f"    Sizes: {', '.join(size_breakdown)}")
+        
+        logger.info(f"GRAND TOTAL ALL CREATURES: {total_all_time}")
+        logger.info("")
+    
+    # Average stats per size
+    logger.info("AVERAGE STATS PER SIZE (CUMULATIVE):")
+    cumulative_averages = calculate_averages(cumulative_stats)
+    
+    for size in sizeList:
+        if size in cumulative_averages and cumulative_averages[size]:
+            logger.info(f"  {size}:")
+            stats = cumulative_averages[size]
+            if 'ATK' in stats:
+                logger.info(f"    ATK: {stats['ATK']:.1f}, DEF: {stats['DEF']:.1f}, AGI: {stats['AGI']:.1f}, "
+                           f"INT: {stats['INT']:.1f}, WIS: {stats['WIS']:.1f}")
+    
+    logger.info("=== END TALLY ===")
+    
+    return cumulative_subcategories, cumulative_sizes, cumulative_stats
 
 if __name__ == "__main__":
-    amountOfCreatures = int(input("How many creatures do you wanna make? "))
-    totalCreatedCreatures = 0
-    total_target = amountOfCreatures * len(directories)
+    try:
+        # Log skew configuration
+        logger.info(f"Using skew configuration: {SKEW_CONFIG}")
+        
+        # Log the question and capture user input
+        amountOfCreatures = int(input("How many creatures do you wanna make? "))
+        logger.info(f"User input: {amountOfCreatures} creatures requested")
+        
+        totalCreatedCreatures = 0
+        total_target = amountOfCreatures * len(directories)
 
-    max_attempts_per_creature = 10
+        max_attempts_per_creature = 10
 
-    while totalCreatedCreatures < total_target:
-        category_index = totalCreatedCreatures // amountOfCreatures
-        if category_index >= len(directories):
-            print("Exceeded directories, stopping.")
-            break
-        directory = directories[category_index]
+        logger.info(f"Starting generation of {total_target} total creatures across {len(directories)} directories")
 
-        attempts = 0
-        success = False
-        while attempts < max_attempts_per_creature and not success:
-            attempts += 1
-
-            files = [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
-            if not files:
-                print(f"No files in {directory}, skipping category.")
-                break
-
-            random_file = random.choice(files)
-            full_path = os.path.join(directory, random_file)
-            random_line = get_random_line(full_path)
-            print(f"Random file: {full_path}")
-            print(f"Random line: {random_line}")
-
-            random_name_amount = random.randint(1, 5)
-            final_name = []
-            for i in range(1, random_name_amount + 1):
-                name_list = globals()[f"nameList{i}"]
-                final_name.append(get_random_name(name_list))
-            print(final_name)
-
-            random_size = random.choice(sizeList)
-            print(random_size)
-
-            selection = run_simulation()
-            print(f"Final Selection: {selection}")
-
-            chanceForSpecializedAdaptation = random.randint(1, 3)
-            specialized_artist = "No Specialized Adaptation"
-            specialized_public = "no"
-            random_bio = None
-            random_ext = None
-            if chanceForSpecializedAdaptation == 2:
-                random_bio = get_random_spec(bioList)
-                print("Bioluminescent " + (random_bio if random_bio else ""))
-                specialized_artist = "Bioluminescent " + (random_bio if random_bio else "")
-                specialized_public_message = "Bioluminescent"
-            elif chanceForSpecializedAdaptation == 3:
-                random_ext = get_random_spec(extList)
-                print("Extreme Camouflage " + (random_ext if random_ext else ""))
-                specialized_artist = "Extreme Camouflage " + (random_ext if random_ext else "")
-                specialized_public_message = "Extreme Camouflage"
-            else:
-                print("No Specialized Adaptation")
+        while totalCreatedCreatures < total_target:
+            # Use skewed category selection instead of simple rotation
+            directory = get_skewed_category_directory()
             
-            if specialized_public == "no":
-                specialized_public_message = ""
+            attempts = 0
+            success = False
+            while attempts < max_attempts_per_creature and not success:
+                attempts += 1
+                logger.info(f"Attempt {attempts} for directory {directory}")
 
-            selected_elements = []
-            selected_elements = run_selection_process(random_size, selected_elements)
-            print(f"Selected elements: {selected_elements}")
+                files = [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
+                if not files:
+                    logger.warning(f"No files in {directory}, skipping category.")
+                    break
 
-            if random_size == "Tiny":
-                min_val, max_val = 5, 8
-            elif random_size == "Small":
-                min_val, max_val = 7, 10
-            elif random_size == "Mid":
-                min_val, max_val = 11, 15
-            elif random_size == "Large":
-                min_val, max_val = 17, 22
-            elif random_size == "Giant":
-                min_val, max_val = 25, 30
-            elif random_size == "Mega":
-                min_val, max_val = 37, 50
-            elif random_size == "Super":
-                min_val, max_val = 66, 100
+                random_file = random.choice(files)
+                full_path = os.path.join(directory, random_file)
+                random_line = get_random_line(full_path)
+                logger.info(f"Random file selected: {full_path}")
+                logger.info(f"Random line: {random_line}")
 
-            stat_atk = random.randint(min_val, max_val)
-            stat_def = random.randint(min_val, max_val)
-            stat_agi = random.randint(min_val, max_val)
-            stat_int = random.randint(min_val, max_val)
-            stat_wis = random.randint(min_val, max_val)
+                random_name_amount = random.randint(1, 5)
+                final_name = []
+                for i in range(1, random_name_amount + 1):
+                    name_list = globals()[f"nameList{i}"]
+                    final_name.append(get_random_name(name_list))
+                logger.info(f"Generated name: {final_name}")
 
-            calculated_atk = calculate_atk(stat_atk, selected_elements)
-            calculated_def = calculate_def(stat_def, selected_elements)
-            calculated_agi = calculate_agi(stat_agi, selected_elements)
-            calculated_int = calculate_int(stat_int, selected_elements)
-            calculated_wis = calculate_wis(stat_wis, selected_elements)
+                # Use skewed size selection instead of random.choice
+                random_size = get_skewed_size()
+                logger.info(f"Selected size: {random_size}")
 
-            if calculated_atk != stat_atk:
-                atk_message = f"ATK: {calculated_atk:.1f} because of elemental bonuses, base ATK: {stat_atk:.1f}"
-            else:
-                atk_message = f"ATK: {stat_atk:.1f}"
+                selection = run_simulation()
+                logger.info(f"Final Type Selection: {selection}")
 
-            if calculated_def != stat_def:
-                def_message = f"DEF: {calculated_def:.1f} because of elemental bonuses, base DEF: {stat_def:.1f}"
-            else:
-                def_message = f"DEF: {stat_def:.1f}"
+                chanceForSpecializedAdaptation = random.randint(1, 3)
+                specialized_artist = "No Specialized Adaptation"
+                specialized_public = "no"
+                random_bio = None
+                random_ext = None
+                if chanceForSpecializedAdaptation == 2:
+                    random_bio = get_random_spec(bioList)
+                    logger.info("Bioluminescent " + (random_bio if random_bio else ""))
+                    specialized_artist = "Bioluminescent " + (random_bio if random_bio else "")
+                    specialized_public_message = "Bioluminescent"
+                elif chanceForSpecializedAdaptation == 3:
+                    random_ext = get_random_spec(extList)
+                    logger.info("Extreme Camouflage " + (random_ext if random_ext else ""))
+                    specialized_artist = "Extreme Camouflage " + (random_ext if random_ext else "")
+                    specialized_public_message = "Extreme Camouflage"
+                else:
+                    logger.info("No Specialized Adaptation")
+                
+                if specialized_public == "no":
+                    specialized_public_message = ""
 
-            if calculated_agi != stat_agi:
-                agi_message = f"AGI: {calculated_agi:.1f} because of elemental bonuses, base AGI: {stat_agi:.1f}"
-            else:
-                agi_message = f"AGI: {stat_agi:.1f}"
+                selected_elements = []
+                selected_elements = run_selection_process(random_size, selected_elements)
+                logger.info(f"Selected elements: {selected_elements}")
 
-            if calculated_int != stat_int:
-                int_message = f"INT: {calculated_int:.1f} because of elemental bonuses, base INT: {stat_int:.1f}"
-            else:
-                int_message = f"INT: {stat_int:.1f}"
+                if random_size == "Tiny":
+                    min_val, max_val = 5, 8
+                elif random_size == "Small":
+                    min_val, max_val = 7, 10
+                elif random_size == "Mid":
+                    min_val, max_val = 11, 15
+                elif random_size == "Large":
+                    min_val, max_val = 17, 22
+                elif random_size == "Giant":
+                    min_val, max_val = 25, 30
+                elif random_size == "Mega":
+                    min_val, max_val = 37, 50
+                elif random_size == "Super":
+                    min_val, max_val = 66, 100
 
-            if calculated_wis != stat_wis:
-                wis_message = f"WIS: {calculated_wis:.1f} because of elemental bonuses, base WIS: {stat_wis:.1f}"
-            else:
-                wis_message = f"WIS: {stat_wis:.1f}"
+                stat_atk = random.randint(min_val, max_val)
+                stat_def = random.randint(min_val, max_val)
+                stat_agi = random.randint(min_val, max_val)
+                stat_int = random.randint(min_val, max_val)
+                stat_wis = random.randint(min_val, max_val)
 
-            def calculate_hp():
-                return round((calculated_def + (calculated_atk * 0.1)) * 10, 1)
+                calculated_atk = calculate_atk(stat_atk, selected_elements)
+                calculated_def = calculate_def(stat_def, selected_elements)
+                calculated_agi = calculate_agi(stat_agi, selected_elements)
+                calculated_int = calculate_int(stat_int, selected_elements)
+                calculated_wis = calculate_wis(stat_wis, selected_elements)
 
-            def calculate_mana():
-                return round((calculated_int + (calculated_wis * 0.5)) * 5, 1)
+                # Store stats for averaging
+                size_stats[random_size]['ATK'].append(calculated_atk)
+                size_stats[random_size]['DEF'].append(calculated_def)
+                size_stats[random_size]['AGI'].append(calculated_agi)
+                size_stats[random_size]['INT'].append(calculated_int)
+                size_stats[random_size]['WIS'].append(calculated_wis)
 
-            summary_output_artist = f"{atk_message}\n{def_message}\n{agi_message}\n{int_message}\n{wis_message}\nHP: {calculate_hp()} MANA: {calculate_mana()}"
-            print(f"Stats:\n{summary_output_artist}")
-            
-            summary_output_public = f"ATK: {calculated_atk}\nDEF: {calculated_def}\nAGI: {calculated_agi}\nINT: {calculated_int}\nWIS: {calculated_wis}\nHP: {calculate_hp()} MANA: {calculate_mana()}"
-            print(f"Stats:\n{summary_output_public}")
+                if calculated_atk != stat_atk:
+                    atk_message = f"ATK: {calculated_atk:.1f} because of elemental bonuses, base ATK: {stat_atk:.1f}"
+                else:
+                    atk_message = f"ATK: {stat_atk:.1f}"
 
-            target_filename = random_file
-            pattern = re.compile(rf"^.*?\b{re.escape(target_filename)}\b.*?=\s*(.*?)\s*(#|$)", re.IGNORECASE)
+                if calculated_def != stat_def:
+                    def_message = f"DEF: {calculated_def:.1f} because of elemental bonuses, base DEF: {stat_def:.1f}"
+                else:
+                    def_message = f"DEF: {stat_def:.1f}"
 
-            extracted_texts = [None] * 3
-            for i in range(3):
-                search_file = f"Required_Text{i}.txt"
-                try:
-                    with open(search_file, "r") as f:
-                        for line in f:
-                            match = pattern.search(line)
-                            if match:
-                                extracted_texts[i] = match.group(1).strip()
-                                print(f"MATCH FOUND in {search_file}: '{extracted_texts[i]}'")
-                                break
-                except FileNotFoundError:
-                    print(f"Error: File '{search_file}' not found.")
-                except Exception as e:
-                    print(f"Error processing {search_file}: {e}")
+                if calculated_agi != stat_agi:
+                    agi_message = f"AGI: {calculated_agi:.1f} because of elemental bonuses, base AGI: {stat_agi:.1f}"
+                else:
+                    agi_message = f"AGI: {stat_agi:.1f}"
 
-            if all(extracted_texts):
-                extracted_text0, extracted_text1, extracted_text2 = extracted_texts
-            else:
-                # Placeholder handling if no match
-                category_dir = os.path.basename(directory)
-                map_key = category_dir[:-1] if category_dir.endswith('s') and category_dir != "Fish" else category_dir
-                category_config = CATEGORY_MAP.get(map_key)
-                if category_config is None:
-                    print(f"Invalid map key derived: {map_key}, skipping.")
+                if calculated_int != stat_int:
+                    int_message = f"INT: {calculated_int:.1f} because of elemental bonuses, base INT: {stat_int:.1f}"
+                else:
+                    int_message = f"INT: {stat_int:.1f}"
+
+                if calculated_wis != stat_wis:
+                    wis_message = f"WIS: {calculated_wis:.1f} because of elemental bonuses, base WIS: {stat_wis:.1f}"
+                else:
+                    wis_message = f"WIS: {stat_wis:.1f}"
+
+                def calculate_hp():
+                    return round((calculated_def + (calculated_atk * 0.1)) * 10, 1)
+
+                def calculate_mana():
+                    return round((calculated_int + (calculated_wis * 0.5)) * 5, 1)
+
+                summary_output_artist = f"{atk_message}\n{def_message}\n{agi_message}\n{int_message}\n{wis_message}\nHP: {calculate_hp()} MANA: {calculate_mana()}"
+                logger.info(f"Artist Stats calculated:\n{summary_output_artist}")
+                
+                summary_output_public = f"ATK: {calculated_atk}\nDEF: {calculated_def}\nAGI: {calculated_agi}\nINT: {calculated_int}\nWIS: {calculated_wis}\nHP: {calculate_hp()} MANA: {calculate_mana()}"
+                logger.info(f"Public Stats calculated:\n{summary_output_public}")
+
+                target_filename = random_file
+                pattern = re.compile(rf"^.*?\b{re.escape(target_filename)}\b.*?=\s*(.*?)\s*(#|$)", re.IGNORECASE)
+
+                extracted_texts = [None] * 3
+                for i in range(3):
+                    search_file = f"Required_Text{i}.txt"
+                    try:
+                        with open(search_file, "r") as f:
+                            for line in f:
+                                match = pattern.search(line)
+                                if match:
+                                    extracted_texts[i] = match.group(1).strip()
+                                    logger.info(f"MATCH FOUND in {search_file}: '{extracted_texts[i]}'")
+                                    break
+                    except FileNotFoundError:
+                        logger.error(f"File '{search_file}' not found.")
+                    except Exception as e:
+                        logger.error(f"Error processing {search_file}: {e}")
+
+                if all(extracted_texts):
+                    extracted_text0, extracted_text1, extracted_text2 = extracted_texts
+                else:
+                    # Placeholder handling if no match
+                    category_dir = os.path.basename(directory)
+                    map_key = category_dir[:-1] if category_dir.endswith('s') and category_dir != "Fish" else category_dir
+                    category_config = CATEGORY_MAP.get(map_key)
+                    if category_config is None:
+                        logger.error(f"Invalid map key derived: {map_key}, skipping.")
+                        continue
+
+                    extracted_text1 = map_key
+                    extracted_text0 = random.choice(list(category_config["subcategories"].keys()))
+                    extracted_text2 = random_line if random_line else "Default description"
+
+                logger.info(f"Using derived: Shape: {extracted_text1}, {extracted_text0}, {extracted_text2}")
+
+                category_config = CATEGORY_MAP.get(extracted_text1)
+                if not category_config:
+                    logger.error(f"Invalid category: {extracted_text1}, skipping.")
                     continue
 
-                extracted_text1 = map_key
-                extracted_text0 = random.choice(list(category_config["subcategories"].keys()))
-                extracted_text2 = random_line if random_line else "Default description"
+                subcat_abbr = category_config["subcategories"].get(extracted_text0)
+                if not subcat_abbr:
+                    logger.error(f"Invalid subcategory: {extracted_text0}, skipping.")
+                    continue
 
-            print(f"Using derived: Shape: {extracted_text1}, {extracted_text0}, {extracted_text2}")
+                # Update creature tally and size tracking
+                creature_tally[extracted_text0] += 1
+                size_tally[extracted_text0][random_size] += 1
+                logger.info(f"Added to tally: {extracted_text0} - Size: {random_size} (Total for this subcategory: {creature_tally[extracted_text0]})")
 
-            category_config = CATEGORY_MAP.get(extracted_text1)
-            if not category_config:
-                print(f"Invalid category: {extracted_text1}, skipping.")
-                continue
+                base_path = category_config["base_path"]
+                base_dir = base_path
+                artist_dir = os.path.join("Output", "Artist", base_path)
+                public_dir = os.path.join("Output", "Public", base_path)
 
-            subcat_abbr = category_config["subcategories"].get(extracted_text0)
-            if not subcat_abbr:
-                print(f"Invalid subcategory: {extracted_text0}, skipping.")
-                continue
+                date_str = datetime.datetime.now().strftime("%Y%m%d")
+                filename = f"{subcat_abbr}_{date_str}.txt"
 
-            base_path = category_config["base_path"]
-            base_dir = base_path
-            artist_dir = os.path.join("Output", "Artist", base_path)
-            public_dir = os.path.join("Output", "Public", base_path)
+                separator_artist_start = "🖌️"
+                separator_artist_end = "❎"
+                separator_artist_upper = "x-" * 48
+                separator_artist_lower = "-x" * 48
+                separator_public_upper = "-x" * 49
+                separator_public_lower = "x-" * 49
 
-            date_str = datetime.datetime.now().strftime("%Y%m%d")
-            filename = f"{subcat_abbr}_{date_str}.txt"
+                content_artist = (
+                    f"{separator_artist_start}{separator_artist_upper}{separator_artist_end}\n"
+                    f"Name: {' '.join(final_name)}\n"
+                    f"Shape: {extracted_text1}, {extracted_text0}, {extracted_text2}\n"
+                    f"Type: {', '.join(selection)}\n"
+                    f"Size: {random_size}\n"
+                    f"Element(s): {', '.join(selected_elements)}\n"
+                    f"Specialized Adaptation: {specialized_artist}\n"
+                    "Stats:\n"
+                    f"{summary_output_artist}\n"
+                    f"{separator_artist_start}{separator_artist_lower}{separator_artist_end}"
+                )
 
-            separator_artist_start = "🖌️"
-            separator_artist_end = "❎"
-            separator_artist_upper = "x-" * 48
-            separator_artist_lower = "-x" * 48
-            separator_public_upper = "-x" * 49
-            separator_public_lower = "x-" * 49
+                spec_line = f"Specialized Adaptation: {specialized_public_message}\n" if specialized_public_message else ''
 
-            content_artist = (
-                f"{separator_artist_start}{separator_artist_upper}{separator_artist_end}\n"
-                f"Name: {' '.join(final_name)}\n"
-                f"Shape: {extracted_text1}, {extracted_text0}, {extracted_text2}\n"
-                f"Type: {', '.join(selection)}\n"
-                f"Size: {random_size}\n"
-                f"Element(s): {', '.join(selected_elements)}\n"
-                f"Specialized Adaptation: {specialized_artist}\n"
-                "Stats:\n"
-                f"{summary_output_artist}\n"
-                f"{separator_artist_start}{separator_artist_lower}{separator_artist_end}"
-            )
+                content_public = (
+                    f"{separator_public_upper}\n"
+                    f"Name: {' '.join(final_name)}\n"
+                    f"Shape: {extracted_text1}\n"
+                    f"Type: {', '.join(selection)}\n"
+                    f"Size: {random_size}\n"
+                    f"Element(s): {', '.join(selected_elements)}\n"
+                    f"{spec_line}"
+                    "Stats:\n"
+                    f"{summary_output_public}\n"
+                    f"{separator_public_lower}"
+                )
 
-            spec_line = f"Specialized Adaptation: {specialized_public_message}\n" if specialized_public_message else ''
+                create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public)
 
-            content_public = (
-                f"{separator_public_upper}\n"
-                f"Name: {' '.join(final_name)}\n"
-                f"Shape: {extracted_text1}\n"
-                f"Type: {', '.join(selection)}\n"
-                f"Size: {random_size}\n"
-                f"Element(s): {', '.join(selected_elements)}\n"
-                f"{spec_line}"
-                "Stats:\n"
-                f"{summary_output_public}\n"
-                f"{separator_public_lower}"
-            )
+                totalCreatedCreatures += 1
+                success = True
+                logger.info(f"Creature created successfully. Total: {totalCreatedCreatures}/{total_target}")
 
-            create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public)
+            if not success:
+                logger.warning(f"Max attempts reached for category {directory}, skipping to next.")
+                totalCreatedCreatures += amountOfCreatures
 
-            totalCreatedCreatures += 1
-            success = True
-            print(f"Total creatures created: {totalCreatedCreatures}/{total_target}")
-
-        if not success:
-            print(f"Max attempts reached for category {directory}, skipping to next.")
-            totalCreatedCreatures += amountOfCreatures
-        import os
-    os.makedirs(artist_dir, exist_ok=True)
-    os.makedirs(public_dir, exist_ok=True)
-
-    if not is_content_duplicate(artist_dir, content_artist):
-        artist_path = os.path.join(artist_dir, filename)
-        with open(artist_path, 'a', encoding='utf-8') as f:
-            f.write(content_artist)
-        print(f"Appended to artist file: {artist_path}")
-    else:
-        print(f"Duplicate artist content found for {filename}, skipping")
-
-    if not is_content_duplicate(public_dir, content_public):
-        public_path = os.path.join(public_dir, filename)
-        with open(public_path, 'a', encoding='utf-8') as f:
-            f.write(content_public)
-        print(f"Appended to public file: {public_path}")
-    else:
-        print(f"Duplicate public content found for {filename}, skipping")
-
-
-    # Example usage
+        # Log the final creature tally before completion
+        log_creature_tally()
         
-                        
-    create_file_with_duplicate_check(
-    extracted_text0=extracted_text0,
-    extracted_text1=extracted_text1,
-    extracted_text2=extracted_text2,
-    final_name=final_name,
-    simulation_result={"selections": selection},
-    selection_result={"elem": selected_elements},
-    random_size=random_size,
-    calculate_hp=calculate_hp(),
-    calculate_mana=calculate_mana(),
-    atk_message=atk_message,
-    def_message=def_message,
-    agi_message=agi_message,
-    int_message=int_message,
-    wis_message=wis_message,
-    chanceForSpecializedAdaptation=chanceForSpecializedAdaptation,
-    calculate_atk=calculated_atk,
-    calculate_def=calculated_def,
-    calculate_agi=calculated_agi,
-    calculate_int=calculated_int,
-    calculate_wis=calculated_wis,
-    random_bio=locals().get("random_bio"),
-    random_ext=locals().get("random_ext"),
-    summary_output_artist=summary_output_artist,
-    summary_output_public=summary_output_public
-)
+        logger.info("=== SCRIPT COMPLETED SUCCESSFULLY ===")
 
-content_artist = f"..."
-content_public = f"..."
-
-artist_dir = os.path.join("Output", "Artist", base_dir)
-public_dir = os.path.join("Output", "Public", base_dir)
-os.makedirs(artist_dir, exist_ok=True)
-os.makedirs(public_dir, exist_ok=True)
-
-filename = f"{subcat_abbr}_{date_str}.txt"
-
-print("About to write files...")
-print("Artist Dir:", artist_dir)
-print("Public Dir:", public_dir)
-print("Filename:", filename)
-
-try:
-    create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public)
-except Exception as e:
-    print("Error writing files:", e)
-
-# Test file to confirm environment write ability
-try:
-    with open('test_output.txt', 'a', encoding='utf-8') as f:
-        f.write("TEST WRITE\n")
-    print("TEST WRITE successfully saved.")
-except Exception as e:
-    print("Error writing test file:", e)
-
-    
-
-    #User side, starts up and asks how many creatures you wanna make
+    except Exception as e:
+        logger.error(f"Script failed with error: {e}")
+        # Log whatever tally we have even if script failed
+        log_creature_tally()
+        logger.info("=== SCRIPT TERMINATED WITH ERRORS ===")
