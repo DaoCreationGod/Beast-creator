@@ -47,6 +47,9 @@ def setup_logging():
 # Initialize logging
 logger = setup_logging()
 
+# Initialize creature creation counter
+creature_creation_counter = 0
+
 # Initialize creature tally for current session
 creature_tally = defaultdict(int)
 size_tally = defaultdict(lambda: defaultdict(int))  # subcategory -> size -> count
@@ -521,22 +524,26 @@ def is_content_duplicate(directory, content):
                 logger.error(f"Error reading {file_path}: {e}")
     return False
 
-def create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public):
+def create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public, size):
     start_time = datetime.datetime.now()
     
-    os.makedirs(artist_dir, exist_ok=True)
-    os.makedirs(public_dir, exist_ok=True)
+    # Create size-specific subdirectories
+    artist_size_dir = os.path.join(artist_dir, size)
+    public_size_dir = os.path.join(public_dir, size)
+    
+    os.makedirs(artist_size_dir, exist_ok=True)
+    os.makedirs(public_size_dir, exist_ok=True)
 
-    artist_path = os.path.join(artist_dir, filename)
-    if not is_content_duplicate(artist_dir, content_artist):
+    artist_path = os.path.join(artist_size_dir, filename)
+    if not is_content_duplicate(artist_size_dir, content_artist):
         with open(artist_path, 'a', encoding='utf-8') as f:
             f.write(content_artist + '\n')
         logger.info(f"Appended to artist file: {artist_path}")
     else:
         logger.info(f"Duplicate artist content found for {filename}, skipping")
 
-    public_path = os.path.join(public_dir, filename)
-    if not is_content_duplicate(public_dir, content_public):
+    public_path = os.path.join(public_size_dir, filename)
+    if not is_content_duplicate(public_size_dir, content_public):
         with open(public_path, 'a', encoding='utf-8') as f:
             f.write(content_public + '\n')
         logger.info(f"Appended to public file: {public_path}")
@@ -762,6 +769,12 @@ def log_creature_tally():
     
     return cumulative_subcategories, cumulative_sizes, cumulative_stats
 
+# Function to handle the global counter
+def get_next_creation_number():
+    global creature_creation_counter
+    creature_creation_counter += 1
+    return creature_creation_counter
+
 if __name__ == "__main__":
     try:
         # Log skew configuration
@@ -968,11 +981,24 @@ if __name__ == "__main__":
                 date_str = datetime.datetime.now().strftime("%Y%m%d")
                 filename = f"{subcat_abbr}_{date_str}.txt"
 
+                # Calculate the creation order number for this creature
+                creation_order = get_next_creation_number()
+
+                # Create separators with creation order number
                 separator_artist_start = "🖌️"
                 separator_artist_end = "❎"
-                separator_artist_upper = "x-" * 48
+                # Insert creation order in the middle of the upper separator
+                separator_artist_upper_left = "x-" * 20  # 40 characters
+                separator_artist_upper_right = "-x" * 20  # 40 characters
+                separator_artist_upper = f"{separator_artist_upper_left} #{creation_order:04d} {separator_artist_upper_right}"
+
                 separator_artist_lower = "-x" * 48
-                separator_public_upper = "-x" * 49
+
+                # For public separator
+                separator_public_upper_left = "-x" * 20  # 40 characters  
+                separator_public_upper_right = "x-" * 20  # 40 characters
+                separator_public_upper = f"{separator_public_upper_left} #{creation_order:04d} {separator_public_upper_right}"
+
                 separator_public_lower = "x-" * 49
 
                 content_artist = (
@@ -1003,7 +1029,7 @@ if __name__ == "__main__":
                     f"{separator_public_lower}"
                 )
 
-                create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public)
+                create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public, random_size)
 
                 totalCreatedCreatures += 1
                 success = True
