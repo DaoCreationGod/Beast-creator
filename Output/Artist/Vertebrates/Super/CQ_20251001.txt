@@ -1,0 +1,15 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2044 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Silexia Mollis (soft) Taiganus (taiga) Punctata (dotted)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Pack, Night, Ground, Mid, Lava/Magma, Underground
+Size: Super
+Element(s): Earth, Wood, Fire
+Specialized Adaptation: Bioluminescent Stoplight Loosejaw (Malacosteus niger) - Red light invisible to prey.
+Stats:
+ATK: 74.8 because of elemental bonuses, base ATK: 68.0
+DEF: 142.0 because of elemental bonuses, base DEF: 91.0
+AGI: 83.0
+INT: 102.3 because of elemental bonuses, base INT: 93.0
+WIS: 104.0 because of elemental bonuses, base WIS: 80.0
+HP: 1494.8 MANA: 771.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

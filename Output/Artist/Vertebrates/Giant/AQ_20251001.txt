@@ -1,0 +1,105 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0289 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nebulora
+Shape: Vertebrate, Arboreal Quadrupedal, Climbing specialists with grasping limbs, prehensile tails, or adhesive pads
+Type: Night, Ground, Water, Range, Underground, Group
+Size: Giant
+Element(s): Lightning
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 37.5 because of elemental bonuses, base ATK: 30.0
+DEF: 25.0
+AGI: 36.2 because of elemental bonuses, base AGI: 29.0
+INT: 30.0
+WIS: 29.0
+HP: 287.5 MANA: 222.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0334 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion Rufus (red)
+Shape: Vertebrate, Arboreal Quadrupedal, Climbing specialists with grasping limbs, prehensile tails, or adhesive pads
+Type: Lava/Magma, Sky, Long Range, Horde, Day, Ground
+Size: Giant
+Element(s): Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 26.0
+DEF: 33.8 because of elemental bonuses, base DEF: 26.0
+AGI: 26.0
+INT: 26.0
+WIS: 35.1 because of elemental bonuses, base WIS: 27.0
+HP: 364.0 MANA: 217.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0383 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis
+Shape: Vertebrate, Arboreal Quadrupedal, Climbing specialists with grasping limbs, prehensile tails, or adhesive pads
+Type: Lava/Magma, Close, Night, Horde, Sky, Ground
+Size: Giant
+Element(s): Physical, Fire, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 32.3 because of elemental bonuses, base ATK: 28.0
+DEF: 36.5 because of elemental bonuses, base DEF: 29.0
+AGI: 29.0
+INT: 27.5 because of elemental bonuses, base INT: 25.0
+WIS: 28.0
+HP: 397.3 MANA: 207.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1722 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Caeruleus (blue) Lacustris (lake) Opaca (opaque) Ambulans (walking)
+Shape: Vertebrate, Arboreal Quadrupedal, Climbing specialists with grasping limbs, prehensile tails, or adhesive pads
+Type: Ground, Close, Group, Water, Sky, Night
+Size: Giant
+Element(s): Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 40.6 because of elemental bonuses, base ATK: 29.0
+DEF: 42.0 because of elemental bonuses, base DEF: 30.0
+AGI: 27.0
+INT: 30.0
+WIS: 29.0
+HP: 460.6 MANA: 222.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3033 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria Velox (swift)
+Shape: Vertebrate, Arboreal Quadrupedal, Climbing specialists with grasping limbs, prehensile tails, or adhesive pads
+Type: Group, Range, Day, Ground, Lava/Magma, Sky
+Size: Giant
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 26.0
+DEF: 28.0
+AGI: 26.0
+INT: 45.0 because of elemental bonuses, base INT: 30.0
+WIS: 37.5 because of elemental bonuses, base WIS: 25.0
+HP: 306.0 MANA: 318.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3475 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Voltis Luridus (pale)
+Shape: Vertebrate, Arboreal Quadrupedal, Climbing specialists with grasping limbs, prehensile tails, or adhesive pads
+Type: Group, Close, Lava/Magma, Sky, Night, Ground
+Size: Giant
+Element(s): Physical, Wood, Lightning
+Specialized Adaptation: Extreme Camouflage Giant Leaf Insect (Pulchriphyllium giganteum) - Broadleaf mimic.
+Stats:
+ATK: 34.1 because of elemental bonuses, base ATK: 26.0
+DEF: 39.6 because of elemental bonuses, base DEF: 29.0
+AGI: 31.2 because of elemental bonuses, base AGI: 25.0
+INT: 27.0
+WIS: 36.4 because of elemental bonuses, base WIS: 28.0
+HP: 430.1 MANA: 226.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3974 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion
+Shape: Vertebrate, Arboreal Quadrupedal, Climbing specialists with grasping limbs, prehensile tails, or adhesive pads
+Type: Sky, Night, Close, Lava/Magma, Pack, Ground
+Size: Giant
+Element(s): Fire, Lightning, Gold
+Specialized Adaptation: Extreme Camouflage Leaf-Tailed Gecko (Uroplatus spp.) - Lichen-mimicking skin.
+Stats:
+ATK: 41.2 because of elemental bonuses, base ATK: 30.0
+DEF: 34.8 because of elemental bonuses, base DEF: 29.0
+AGI: 33.8 because of elemental bonuses, base AGI: 27.0
+INT: 33.0 because of elemental bonuses, base INT: 25.0
+WIS: 29.0
+HP: 389.2 MANA: 237.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

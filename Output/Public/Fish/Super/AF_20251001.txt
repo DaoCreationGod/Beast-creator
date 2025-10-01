@@ -1,0 +1,84 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0259 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Infinitus Hirsutus (hairy)
+Shape: Fish
+Type: Lava/Magma, Group, Long Range, Underground, Ground, Night
+Size: Super
+Element(s): Fire, Water, Physical
+Stats:
+ATK: 86.6
+DEF: 74.5
+AGI: 102.5
+INT: 96.3
+WIS: 71.0
+HP: 831.6 MANA: 659.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1819 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aetheris Aureus (golden)
+Shape: Fish
+Type: Ground, Day, Sky, Group, Long Range, Water
+Size: Super
+Element(s): Wind
+Stats:
+ATK: 97.0
+DEF: 110.7
+AGI: 117.5
+INT: 90.0
+WIS: 73.0
+HP: 1204.0 MANA: 632.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2403 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Cryptis Luridus (pale) Lacustris (lake) Aurea (gold) Migrans (migratory)
+Shape: Fish
+Type: Underground, Mid, Group, Lava/Magma, Ground, Day
+Size: Super
+Element(s): Wind
+Stats:
+ATK: 91.0
+DEF: 121.5
+AGI: 108.0
+INT: 85.0
+WIS: 98.0
+HP: 1306.0 MANA: 670.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2896 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Eclipsis
+Shape: Fish
+Type: Sky, Horde, Mid, Ground, Water, Day
+Size: Super
+Element(s): Fire
+Stats:
+ATK: 81.4
+DEF: 86.0
+AGI: 67.0
+INT: 81.4
+WIS: 78.0
+HP: 941.4 MANA: 602.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3463 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nivora Spinosus (spiny) Arboreus (tree-dwelling)
+Shape: Fish
+Type: Lava/Magma, Sky, Pack, Night, Mid, Ground
+Size: Super
+Element(s): Water
+Stats:
+ATK: 93.0
+DEF: 87.0
+AGI: 115.0
+INT: 97.5
+WIS: 79.0
+HP: 963.0 MANA: 685.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3511 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sylvanis
+Shape: Fish
+Type: Water, Group, Night, Mid, Sky, Ground
+Size: Super
+Element(s): Sharpness
+Stats:
+ATK: 117.0
+DEF: 69.0
+AGI: 76.0
+INT: 81.0
+WIS: 90.0
+HP: 807.0 MANA: 630.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

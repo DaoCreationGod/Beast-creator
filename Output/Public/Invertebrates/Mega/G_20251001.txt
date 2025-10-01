@@ -1,0 +1,126 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0177 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Solara Flexilis (flexible)
+Shape: Invertebrate
+Type: Sky, Day, Pack, Long Range, Lava/Magma, Ground
+Size: Mega
+Element(s): Physical
+Stats:
+ATK: 42.0
+DEF: 52.5
+AGI: 45.0
+INT: 47.0
+WIS: 48.0
+HP: 567.0 MANA: 355.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1021 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Caelior Ater (dark) Cavernis (cave) Opaca (opaque) Fossilis (fossilized)
+Shape: Invertebrate
+Type: Horde, Long Range, Day, Ground, Water, Sky
+Size: Mega
+Element(s): Wood, Water
+Stats:
+ATK: 40.0
+DEF: 65.0
+AGI: 57.5
+INT: 50.0
+WIS: 57.2
+HP: 690.0 MANA: 393.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1256 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Noctis
+Shape: Invertebrate
+Type: Mid, Horde, Night, Underground, Ground, Water
+Size: Mega
+Element(s): Water, Wood, Earth
+Stats:
+ATK: 46.0
+DEF: 76.4
+AGI: 46.2
+INT: 50.0
+WIS: 58.5
+HP: 810.0 MANA: 396.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1741 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sylvanis Velox (swift) Torridus (hot/dry) Cristata (crested)
+Shape: Invertebrate
+Type: Ground, Underground, Pack, Long Range, Night, Water
+Size: Mega
+Element(s): Earth
+Stats:
+ATK: 41.0
+DEF: 57.6
+AGI: 46.0
+INT: 43.0
+WIS: 41.0
+HP: 617.0 MANA: 317.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2383 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignavus Radians (radiant) Riparius (riverbank)
+Shape: Invertebrate
+Type: Mid, Underground, Horde, Ground, Water, Night
+Size: Mega
+Element(s): Wood, Earth
+Stats:
+ATK: 40.0
+DEF: 60.8
+AGI: 44.0
+INT: 40.0
+WIS: 54.6
+HP: 648.0 MANA: 336.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2458 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Lumina Volans (flying) Aethalis (high-altitude)
+Shape: Invertebrate
+Type: Night, Long Range, Group, Water, Ground, Underground
+Size: Mega
+Element(s): Water, Fire, Earth
+Stats:
+ATK: 48.4
+DEF: 49.2
+AGI: 52.5
+INT: 50.9
+WIS: 40.0
+HP: 540.4 MANA: 354.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2497 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tranquilis Rotundus (round) Deltanus (delta)
+Shape: Invertebrate
+Type: Pack, Ground, Close, Night, Sky, Water
+Size: Mega
+Element(s): Wood
+Stats:
+ATK: 44.0
+DEF: 55.9
+AGI: 46.0
+INT: 50.0
+WIS: 58.5
+HP: 603.0 MANA: 396.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3366 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis Clarus (bright) Riparius (riverbank)
+Shape: Invertebrate
+Type: Underground, Group, Night, Range, Lava/Magma, Ground
+Size: Mega
+Element(s): Earth, Wood
+Stats:
+ATK: 46.0
+DEF: 59.3
+AGI: 46.0
+INT: 40.0
+WIS: 52.0
+HP: 639.0 MANA: 330.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3704 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Marinus Alatus (winged) Crateris (crater)
+Shape: Invertebrate
+Type: Group, Underground, Lava/Magma, Mid, Day, Ground
+Size: Mega
+Element(s): Lightning, Earth, Yang
+Stats:
+ATK: 47.5
+DEF: 54.0
+AGI: 48.8
+INT: 63.0
+WIS: 70.5
+HP: 587.5 MANA: 491.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

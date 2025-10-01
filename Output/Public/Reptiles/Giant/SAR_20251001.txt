@@ -1,0 +1,42 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0131 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Rupesca Volans (flying) Litoralis (coastal) Metallica (metallic) Luminans (bioluminescent)
+Shape: Reptile
+Type: Sky, Night, Horde, Lava/Magma, Range, Ground
+Size: Giant
+Element(s): Gold, Wood, Earth
+Stats:
+ATK: 29.0
+DEF: 54.3
+AGI: 25.0
+INT: 33.6
+WIS: 33.8
+HP: 572.0 MANA: 252.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0150 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis Natans (swimming)
+Shape: Reptile
+Type: Ground, Day, Pack, Close, Water, Sky
+Size: Giant
+Element(s): Fire, Gold
+Stats:
+ATK: 29.7
+DEF: 36.0
+AGI: 25.0
+INT: 35.6
+WIS: 27.0
+HP: 389.7 MANA: 245.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1120 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Albus (white) Humidus (humid) Caerulea (blue) Socialis (social)
+Shape: Reptile
+Type: Long Range, Group, Night, Water, Sky, Ground
+Size: Giant
+Element(s): Physical, Fire, Wood
+Stats:
+ATK: 33.5
+DEF: 38.2
+AGI: 29.0
+INT: 27.5
+WIS: 33.8
+HP: 415.5 MANA: 222.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

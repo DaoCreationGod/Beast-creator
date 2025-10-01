@@ -1,0 +1,84 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0098 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara Glaber (hairless) Borealis (northern) Metallica (metallic) Aestiva (summer-active)
+Shape: Fish
+Type: Water, Ground, Pack, Underground, Long Range, Day
+Size: Mega
+Element(s): Earth, Water, Strength
+Stats:
+ATK: 39.8
+DEF: 56.4
+AGI: 57.5
+INT: 56.2
+WIS: 41.0
+HP: 603.8 MANA: 383.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0186 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis Levis (light) Taiganus (taiga) Opaca (opaque) Pollinans (pollinating)
+Shape: Fish
+Type: Sky, Water, Close, Day, Pack, Ground
+Size: Mega
+Element(s): Wood, Physical, Earth
+Stats:
+ATK: 44.1
+DEF: 60.6
+AGI: 40.0
+INT: 50.0
+WIS: 59.8
+HP: 650.1 MANA: 399.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0206 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nivora Ferrugineus (rusty) Canyonis (canyon)
+Shape: Fish
+Type: Lava/Magma, Range, Pack, Sky, Night, Ground
+Size: Mega
+Element(s): Physical
+Stats:
+ATK: 49.4
+DEF: 47.2
+AGI: 40.0
+INT: 39.0
+WIS: 45.0
+HP: 521.4 MANA: 307.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1852 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Petralis Rarus (rare) Canyonis (canyon)
+Shape: Fish
+Type: Underground, Close, Ground, Lava/Magma, Night, Group
+Size: Mega
+Element(s): Earth
+Stats:
+ATK: 39.0
+DEF: 57.6
+AGI: 37.0
+INT: 40.0
+WIS: 44.0
+HP: 615.0 MANA: 310.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1899 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Arcanis Floridus (flowery) Desertus (desert)
+Shape: Fish
+Type: Underground, Long Range, Lava/Magma, Group, Ground, Day
+Size: Mega
+Element(s): Fire, Earth, Water
+Stats:
+ATK: 50.6
+DEF: 56.4
+AGI: 56.2
+INT: 55.0
+WIS: 37.0
+HP: 614.6 MANA: 367.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3194 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tranquilis Purpureus (purple) Limosus (muddy) Lunata (crescent-shaped) Sonorus (loud)
+Shape: Fish
+Type: Lava/Magma, Day, Mid, Ground, Group, Underground
+Size: Mega
+Element(s): Water
+Stats:
+ATK: 37.0
+DEF: 48.0
+AGI: 53.8
+INT: 50.0
+WIS: 40.0
+HP: 517.0 MANA: 350.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

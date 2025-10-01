@@ -1,0 +1,660 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0183 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Underground, Lava/Magma, Horde, Close, Day, Ground
+Size: Mid
+Element(s): Lightning
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 16.2 because of elemental bonuses, base ATK: 13.0
+DEF: 14.0
+AGI: 13.8 because of elemental bonuses, base AGI: 11.0
+INT: 12.0
+WIS: 11.0
+HP: 156.2 MANA: 87.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0228 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis Luridus (pale) Aethalis (high-altitude)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Lava/Magma, Sky, Pack, Mid, Ground, Night
+Size: Mid
+Element(s): Gold, Water, Physical
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 12.6 because of elemental bonuses, base ATK: 12.0
+DEF: 18.9 because of elemental bonuses, base DEF: 15.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 22.5 because of elemental bonuses, base INT: 15.0
+WIS: 15.0
+HP: 201.6 MANA: 150.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0523 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sylvanis Durus (hard) Pluvius (rainy) Undulata (wavy) Invasora (invasive)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Night, Mid, Sky, Ground, Lava/Magma, Pack
+Size: Mid
+Element(s): Gold, Crystal, Lightning
+Specialized Adaptation: Bioluminescent Flashlight Fish (Anomalops katoptron) - Light organs under eyes.
+Stats:
+ATK: 26.2 because of elemental bonuses, base ATK: 15.0
+DEF: 18.5 because of elemental bonuses, base DEF: 11.0
+AGI: 13.8 because of elemental bonuses, base AGI: 11.0
+INT: 15.6 because of elemental bonuses, base INT: 13.0
+WIS: 11.0
+HP: 211.2 MANA: 105.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0643 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Cinereus (gray)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Range, Day, Group, Underground, Lava/Magma, Ground
+Size: Mid
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 13.0
+DEF: 12.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 17.5 because of elemental bonuses, base INT: 14.0
+WIS: 12.0
+HP: 133.0 MANA: 117.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0694 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Corvalis Acutus (sharp) Fluvialis (river) Scutata (shield-shaped)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Day, Long Range, Sky, Ground, Group, Lava/Magma
+Size: Mid
+Element(s): Water, Wind, Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.1 because of elemental bonuses, base ATK: 11.0
+DEF: 18.9 because of elemental bonuses, base DEF: 14.0
+AGI: 25.3 because of elemental bonuses, base AGI: 15.0
+INT: 20.6 because of elemental bonuses, base INT: 15.0
+WIS: 15.0
+HP: 201.1 MANA: 140.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0817 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis Rarus (rare) Littoralis (shore)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Close, Day, Underground, Water, Group, Ground
+Size: Mid
+Element(s): Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.0
+DEF: 18.2 because of elemental bonuses, base DEF: 14.0
+AGI: 11.0
+INT: 14.0
+WIS: 15.6 because of elemental bonuses, base WIS: 12.0
+HP: 193.0 MANA: 109.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0887 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis Vibrans (vibrant) Pelagicus (open sea) Rubra (red)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Lava/Magma, Group, Range, Sky, Ground, Day
+Size: Mid
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Dead Leaf Butterfly (Kallima inachus) - Resembles a dead leaf.
+Stats:
+ATK: 14.0
+DEF: 15.0
+AGI: 13.8 because of elemental bonuses, base AGI: 11.0
+INT: 16.2 because of elemental bonuses, base INT: 13.0
+WIS: 12.0
+HP: 164.0 MANA: 111.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0888 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis Silentis (quiet)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Mid, Night, Ground, Sky, Group, Lava/Magma
+Size: Mid
+Element(s): Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 18.8 because of elemental bonuses, base ATK: 15.0
+DEF: 11.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 13.0
+WIS: 12.0
+HP: 128.8 MANA: 95.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0898 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Corvalis Viridis (green)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Ground, Close, Horde, Water, Underground, Day
+Size: Mid
+Element(s): Yin, Lightning, Physical
+Specialized Adaptation: Bioluminescent Bamboo Coral (Isididae spp.) - Glowing polyps.
+Stats:
+ATK: 19.7 because of elemental bonuses, base ATK: 15.0
+DEF: 11.6 because of elemental bonuses, base DEF: 11.0
+AGI: 15.0 because of elemental bonuses, base AGI: 12.0
+INT: 18.0 because of elemental bonuses, base INT: 12.0
+WIS: 21.0 because of elemental bonuses, base WIS: 14.0
+HP: 135.7 MANA: 142.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0899 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Albus (white) Crateris (crater) Flexuosa (twisted)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Ground, Day, Water, Range, Group, Sky
+Size: Mid
+Element(s): Yin, Gold, Earth
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 11.0
+DEF: 21.6 because of elemental bonuses, base DEF: 15.0
+AGI: 15.0
+INT: 19.8 because of elemental bonuses, base INT: 11.0
+WIS: 16.5 because of elemental bonuses, base WIS: 11.0
+HP: 227.0 MANA: 140.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0935 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis Robustus (strong) Occidentalis (western) Purpurea (purple)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Pack, Night, Water, Close, Sky, Ground
+Size: Mid
+Element(s): Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 14.0 because of elemental bonuses, base ATK: 13.0
+DEF: 14.0
+AGI: 14.0
+INT: 11.0
+WIS: 13.0
+HP: 154.0 MANA: 87.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1066 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Vibrans (vibrant)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Water, Night, Mid, Group, Underground, Ground
+Size: Mid
+Element(s): Physical, Earth, Gold
+Specialized Adaptation: Extreme Camouflage Coconut Octopus (Amphioctopus marginatus) - Hides in shells.
+Stats:
+ATK: 14.7 because of elemental bonuses, base ATK: 14.0
+DEF: 21.2 because of elemental bonuses, base DEF: 14.0
+AGI: 13.0
+INT: 14.4 because of elemental bonuses, base INT: 12.0
+WIS: 13.0
+HP: 226.7 MANA: 104.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1203 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Luminosus (glowing) Urbanus (urban)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Pack, Night, Underground, Range, Water, Ground
+Size: Mid
+Element(s): Fire, Gold, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.1 because of elemental bonuses, base ATK: 11.0
+DEF: 17.2 because of elemental bonuses, base DEF: 11.0
+AGI: 15.0
+INT: 14.5 because of elemental bonuses, base INT: 11.0
+WIS: 18.2 because of elemental bonuses, base WIS: 14.0
+HP: 184.1 MANA: 118.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1301 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Flexilis (flexible)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Group, Mid, Water, Day, Underground, Ground
+Size: Mid
+Element(s): Gold, Strength
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 15.0 because of elemental bonuses, base ATK: 14.0
+DEF: 18.0 because of elemental bonuses, base DEF: 15.0
+AGI: 13.0
+INT: 15.6 because of elemental bonuses, base INT: 13.0
+WIS: 11.0
+HP: 195.0 MANA: 105.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1352 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Silexia Robustus (strong) Sylvestris (forest) Marmorata (marbled) Defensa (defensive)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Water, Long Range, Day, Underground, Horde, Ground
+Size: Mid
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Scaleless Dragonfish (Aristostomias scintillans) - Blue-green lights.
+Stats:
+ATK: 13.7 because of elemental bonuses, base ATK: 13.0
+DEF: 12.6 because of elemental bonuses, base DEF: 12.0
+AGI: 15.0
+INT: 11.0
+WIS: 11.0
+HP: 139.7 MANA: 82.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1395 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Close, Sky, Day, Horde, Water, Ground
+Size: Mid
+Element(s): Wood, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.0
+DEF: 14.3 because of elemental bonuses, base DEF: 11.0
+AGI: 11.0
+INT: 16.5 because of elemental bonuses, base INT: 11.0
+WIS: 25.4 because of elemental bonuses, base WIS: 13.0
+HP: 155.0 MANA: 146.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1762 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Serenus (calm) Tundralis (tundra) Aurea (gold) Solitaria (solitary)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Underground, Mid, Horde, Water, Day, Ground
+Size: Mid
+Element(s): Fire, Wood
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 12.1 because of elemental bonuses, base ATK: 11.0
+DEF: 18.2 because of elemental bonuses, base DEF: 14.0
+AGI: 15.0
+INT: 12.1 because of elemental bonuses, base INT: 11.0
+WIS: 19.5 because of elemental bonuses, base WIS: 15.0
+HP: 194.1 MANA: 109.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1802 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Umbrion
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Long Range, Lava/Magma, Day, Sky, Ground, Group
+Size: Mid
+Element(s): Gold, Wind
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.0
+DEF: 17.8 because of elemental bonuses, base DEF: 11.0
+AGI: 14.9 because of elemental bonuses, base AGI: 11.0
+INT: 15.6 because of elemental bonuses, base INT: 13.0
+WIS: 15.0
+HP: 189.0 MANA: 115.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1842 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Marinus Natans (swimming)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Underground, Day, Lava/Magma, Close, Ground, Group
+Size: Mid
+Element(s): Lightning
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 15.0 because of elemental bonuses, base ATK: 12.0
+DEF: 11.0
+AGI: 17.5 because of elemental bonuses, base AGI: 14.0
+INT: 11.0
+WIS: 11.0
+HP: 125.0 MANA: 82.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1921 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Day, Mid, Underground, Water, Horde, Ground
+Size: Mid
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 13.2 because of elemental bonuses, base ATK: 12.0
+DEF: 12.0
+AGI: 13.0
+INT: 14.3 because of elemental bonuses, base INT: 13.0
+WIS: 15.0
+HP: 133.2 MANA: 109.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1967 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Rufus (red) Fluvialis (river) Zebrina (zebra-like) Fetida (foul-smelling)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Night, Range, Ground, Sky, Pack, Lava/Magma
+Size: Mid
+Element(s): Water, Wind, Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 15.4 because of elemental bonuses, base ATK: 11.0
+DEF: 20.8 because of elemental bonuses, base DEF: 11.0
+AGI: 21.9 because of elemental bonuses, base AGI: 13.0
+INT: 13.8 because of elemental bonuses, base INT: 11.0
+WIS: 15.0
+HP: 223.4 MANA: 106.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2000 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis Celeris (fast)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Horde, Day, Lava/Magma, Underground, Range, Ground
+Size: Mid
+Element(s): Yang
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 13.0
+DEF: 15.0
+AGI: 14.0
+INT: 18.0 because of elemental bonuses, base INT: 12.0
+WIS: 22.5 because of elemental bonuses, base WIS: 15.0
+HP: 163.0 MANA: 146.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2078 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia Magnus (large) Arenosus (sandy)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Sky, Group, Water, Ground, Close, Night
+Size: Mid
+Element(s): Physical, Crystal
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 20.6 because of elemental bonuses, base ATK: 14.0
+DEF: 17.6 because of elemental bonuses, base DEF: 12.0
+AGI: 15.0
+INT: 11.0
+WIS: 13.0
+HP: 196.6 MANA: 87.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2131 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris Silentis (quiet)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Long Range, Horde, Day, Underground, Ground, Lava/Magma
+Size: Mid
+Element(s): Sharpness
+Specialized Adaptation: Bioluminescent Firefly (Lampyridae spp.) - Flashing abdomen.
+Stats:
+ATK: 18.2 because of elemental bonuses, base ATK: 14.0
+DEF: 12.0
+AGI: 13.0
+INT: 13.0
+WIS: 13.0
+HP: 138.2 MANA: 97.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2147 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Radiantia Natans (swimming) Canyonis (canyon)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Water, Sky, Close, Pack, Ground, Day
+Size: Mid
+Element(s): Water, Earth, Yin
+Specialized Adaptation: Bioluminescent Bamboo Coral (Isididae spp.) - Glowing polyps.
+Stats:
+ATK: 13.0
+DEF: 14.4 because of elemental bonuses, base DEF: 12.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 26.2 because of elemental bonuses, base INT: 14.0
+WIS: 21.0 because of elemental bonuses, base WIS: 14.0
+HP: 157.0 MANA: 183.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2200 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Natans (swimming) Volcanicus (volcanic) Scutata (shield-shaped) Mimicus (mimicking)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Water, Mid, Ground, Night, Sky, Horde
+Size: Mid
+Element(s): Earth, Gold
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 13.0
+DEF: 21.6 because of elemental bonuses, base DEF: 15.0
+AGI: 12.0
+INT: 18.0 because of elemental bonuses, base INT: 15.0
+WIS: 13.0
+HP: 229.0 MANA: 122.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2398 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lunara Magnus (large) Limosus (muddy)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Range, Night, Ground, Underground, Pack, Water
+Size: Mid
+Element(s): Water
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 11.0
+DEF: 13.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 15.0 because of elemental bonuses, base INT: 12.0
+WIS: 14.0
+HP: 141.0 MANA: 110.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2649 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nebulora Levis (light)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Water, Range, Underground, Group, Day, Ground
+Size: Mid
+Element(s): Gold, Wood, Fire
+Specialized Adaptation: Extreme Camouflage Dead Leaf Butterfly (Kallima inachus) - Resembles a dead leaf.
+Stats:
+ATK: 14.3 because of elemental bonuses, base ATK: 13.0
+DEF: 18.7 because of elemental bonuses, base DEF: 12.0
+AGI: 12.0
+INT: 17.2 because of elemental bonuses, base INT: 13.0
+WIS: 14.3 because of elemental bonuses, base WIS: 11.0
+HP: 201.3 MANA: 121.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2672 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Argenteus (silver) Mangrova (mangrove) Fibrosa (fibrous)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Close, Group, Lava/Magma, Day, Sky, Ground
+Size: Mid
+Element(s): Water, Crystal
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 21.0 because of elemental bonuses, base ATK: 15.0
+DEF: 21.0 because of elemental bonuses, base DEF: 15.0
+AGI: 17.5 because of elemental bonuses, base AGI: 14.0
+INT: 15.0 because of elemental bonuses, base INT: 12.0
+WIS: 14.0
+HP: 231.0 MANA: 110.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2719 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Luminosus (glowing) Cavernis (cave) Viridis (green)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Long Range, Pack, Sky, Ground, Night, Lava/Magma
+Size: Mid
+Element(s): Earth, Yin
+Specialized Adaptation: Extreme Camouflage Scorpionfish (Scorpaenidae spp.) - Algae-covered appearance.
+Stats:
+ATK: 14.0
+DEF: 16.8 because of elemental bonuses, base DEF: 14.0
+AGI: 14.0
+INT: 21.0 because of elemental bonuses, base INT: 14.0
+WIS: 21.0 because of elemental bonuses, base WIS: 14.0
+HP: 182.0 MANA: 157.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2922 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Opacus (shaded) Deltanus (delta)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Sky, Close, Lava/Magma, Group, Ground, Day
+Size: Mid
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 15.0
+DEF: 15.6 because of elemental bonuses, base DEF: 13.0
+AGI: 13.0
+INT: 15.6 because of elemental bonuses, base INT: 13.0
+WIS: 15.0
+HP: 171.0 MANA: 115.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2987 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Volans (flying)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Group, Day, Close, Water, Sky, Ground
+Size: Mid
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 11.6 because of elemental bonuses, base ATK: 11.0
+DEF: 14.7 because of elemental bonuses, base DEF: 14.0
+AGI: 12.0
+INT: 11.0
+WIS: 15.0
+HP: 158.6 MANA: 92.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3470 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Range, Day, Sky, Group, Ground, Lava/Magma
+Size: Mid
+Element(s): Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 14.3 because of elemental bonuses, base ATK: 11.0
+DEF: 12.0
+AGI: 15.0
+INT: 13.0
+WIS: 12.0
+HP: 134.3 MANA: 95.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3487 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tenebris Natans (swimming) Urbanus (urban) Argentea (silver)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Night, Group, Water, Close, Underground, Ground
+Size: Mid
+Element(s): Yin
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 13.0
+DEF: 15.0
+AGI: 12.0
+INT: 21.0 because of elemental bonuses, base INT: 14.0
+WIS: 18.0 because of elemental bonuses, base WIS: 12.0
+HP: 163.0 MANA: 150.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3558 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Pack, Lava/Magma, Close, Ground, Night, Sky
+Size: Mid
+Element(s): Physical, Wood
+Specialized Adaptation: Extreme Camouflage Pygmy Seahorse (Hippocampus bargibanti) - Coral-mimicking.
+Stats:
+ATK: 15.8 because of elemental bonuses, base ATK: 15.0
+DEF: 15.0 because of elemental bonuses, base DEF: 11.0
+AGI: 12.0
+INT: 12.0
+WIS: 14.3 because of elemental bonuses, base WIS: 11.0
+HP: 165.8 MANA: 95.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3607 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Day, Long Range, Lava/Magma, Group, Ground, Sky
+Size: Mid
+Element(s): Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 18.2 because of elemental bonuses, base ATK: 14.0
+DEF: 12.0
+AGI: 11.0
+INT: 11.0
+WIS: 15.0
+HP: 138.2 MANA: 92.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3644 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nebulora Ater (dark) Oasensis (oasis)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Ground, Range, Sky, Night, Horde, Lava/Magma
+Size: Mid
+Element(s): Gold, Fire
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 15.4 because of elemental bonuses, base ATK: 14.0
+DEF: 18.0 because of elemental bonuses, base DEF: 15.0
+AGI: 13.0
+INT: 14.5 because of elemental bonuses, base INT: 11.0
+WIS: 14.0
+HP: 195.4 MANA: 107.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3730 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Fragilis (fragile) Sylvestris (forest)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Pack, Water, Close, Day, Underground, Ground
+Size: Mid
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 15.0
+DEF: 18.0 because of elemental bonuses, base DEF: 15.0
+AGI: 11.0
+INT: 14.0
+WIS: 12.0
+HP: 195.0 MANA: 100.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3850 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Niger (black)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Close, Day, Pack, Underground, Water, Ground
+Size: Mid
+Element(s): Wind
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 15.0
+DEF: 20.2 because of elemental bonuses, base DEF: 15.0
+AGI: 17.6 because of elemental bonuses, base AGI: 13.0
+INT: 12.0
+WIS: 12.0
+HP: 217.0 MANA: 90.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3865 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Acutus (sharp) Nemoralis (woodland) Lanceolata (lance-shaped)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Range, Group, Sky, Night, Ground, Lava/Magma
+Size: Mid
+Element(s): Earth, Water
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 15.0
+DEF: 18.0 because of elemental bonuses, base DEF: 15.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 18.8 because of elemental bonuses, base INT: 15.0
+WIS: 15.0
+HP: 195.0 MANA: 131.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3879 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Pendulus (hanging)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Mid, Pack, Day, Ground, Sky, Water
+Size: Mid
+Element(s): Earth, Wood, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.0
+DEF: 22.5 because of elemental bonuses, base DEF: 12.0
+AGI: 13.0
+INT: 13.2 because of elemental bonuses, base INT: 11.0
+WIS: 16.9 because of elemental bonuses, base WIS: 13.0
+HP: 236.0 MANA: 108.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3910 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Water, Night, Underground, Mid, Group, Ground
+Size: Mid
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 14.7 because of elemental bonuses, base ATK: 14.0
+DEF: 15.8 because of elemental bonuses, base DEF: 15.0
+AGI: 14.0
+INT: 13.0
+WIS: 12.0
+HP: 172.7 MANA: 95.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3929 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Luminosus (glowing) Occidentalis (western)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Day, Ground, Long Range, Horde, Lava/Magma, Sky
+Size: Mid
+Element(s): Earth, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.0
+DEF: 23.4 because of elemental bonuses, base DEF: 15.0
+AGI: 11.0
+INT: 15.0
+WIS: 15.6 because of elemental bonuses, base WIS: 12.0
+HP: 246.0 MANA: 114.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3989 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sylvanis Spinosus (spiny) Subterraneus (underground) Variegata (variegated)
+Shape: Vertebrate, Semi-Aquatic Quadrupedal, Adapted for both land and water, with webbed feet, streamlined bodies, or buoyant features
+Type: Horde, Lava/Magma, Day, Mid, Ground, Sky
+Size: Mid
+Element(s): Water, Lightning
+Specialized Adaptation: Extreme Camouflage Peppered Moth (Biston betularia) - Industrial melanism.
+Stats:
+ATK: 15.0 because of elemental bonuses, base ATK: 12.0
+DEF: 14.0
+AGI: 21.9 because of elemental bonuses, base AGI: 14.0
+INT: 13.8 because of elemental bonuses, base INT: 11.0
+WIS: 14.0
+HP: 155.0 MANA: 104.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

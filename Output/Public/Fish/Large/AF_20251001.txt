@@ -1,0 +1,266 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0033 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Rupesca Audax (bold) Aethalis (high-altitude) Metallica (metallic)
+Shape: Fish
+Type: Mid, Underground, Night, Water, Ground, Pack
+Size: Large
+Element(s): Gold
+Stats:
+ATK: 21.0
+DEF: 25.2
+AGI: 20.0
+INT: 20.4
+WIS: 18.0
+HP: 273.0 MANA: 147.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0268 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Voltis
+Shape: Fish
+Type: Night, Group, Sky, Ground, Water, Range
+Size: Large
+Element(s): Wood, Water, Fire
+Stats:
+ATK: 20.9
+DEF: 27.3
+AGI: 21.2
+INT: 24.8
+WIS: 24.7
+HP: 293.9 MANA: 185.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0488 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis Rotundus (round) Arboreus (tree-dwelling) Tigrina (tiger-striped) Silens (silent)
+Shape: Fish
+Type: Long Range, Water, Ground, Pack, Underground, Day
+Size: Large
+Element(s): Fire, Wood, Physical
+Stats:
+ATK: 25.4
+DEF: 30.0
+AGI: 21.0
+INT: 18.7
+WIS: 23.4
+HP: 325.4 MANA: 152.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0568 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aeternis Floridus (flowery) Montanus (mountain)
+Shape: Fish
+Type: Close, Pack, Day, Sky, Water, Ground
+Size: Large
+Element(s): Gold
+Stats:
+ATK: 17.0
+DEF: 24.0
+AGI: 18.0
+INT: 25.2
+WIS: 19.0
+HP: 257.0 MANA: 173.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0580 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria Albus (white) Taiganus (taiga) Hirsuta (hairy) Camouflara (camouflaged)
+Shape: Fish
+Type: Mid, Water, Ground, Group, Night, Underground
+Size: Large
+Element(s): Wood
+Stats:
+ATK: 20.0
+DEF: 23.4
+AGI: 19.0
+INT: 17.0
+WIS: 27.3
+HP: 254.0 MANA: 153.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0758 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Luminor
+Shape: Fish
+Type: Horde, Mid, Ground, Night, Lava/Magma, Sky
+Size: Large
+Element(s): Wood, Earth
+Stats:
+ATK: 18.0
+DEF: 26.5
+AGI: 19.0
+INT: 17.0
+WIS: 23.4
+HP: 283.0 MANA: 143.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1091 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nivora Acutus (sharp)
+Shape: Fish
+Type: Water, Ground, Group, Underground, Day, Long Range
+Size: Large
+Element(s): Gold, Physical, Fire
+Stats:
+ATK: 21.9
+DEF: 27.7
+AGI: 20.0
+INT: 22.4
+WIS: 22.0
+HP: 298.9 MANA: 167.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1101 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aquarion
+Shape: Fish
+Type: Close, Night, Underground, Horde, Ground, Lava/Magma
+Size: Large
+Element(s): Earth, Yang
+Stats:
+ATK: 17.0
+DEF: 22.8
+AGI: 19.0
+INT: 25.5
+WIS: 25.5
+HP: 245.0 MANA: 191.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1119 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Voltis Communis (common) Subterraneus (underground)
+Shape: Fish
+Type: Horde, Water, Night, Close, Sky, Ground
+Size: Large
+Element(s): Yang
+Stats:
+ATK: 21.0
+DEF: 18.0
+AGI: 17.0
+INT: 33.0
+WIS: 30.0
+HP: 201.0 MANA: 240.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1403 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aeternis Pendulus (hanging) Fluvialis (river) Pilosa (fuzzy)
+Shape: Fish
+Type: Underground, Pack, Day, Mid, Water, Ground
+Size: Large
+Element(s): Earth, Lightning
+Stats:
+ATK: 22.5
+DEF: 21.6
+AGI: 26.2
+INT: 17.0
+WIS: 21.0
+HP: 238.5 MANA: 137.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1587 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Corvalis Rotundus (round) Volcanicus (volcanic) Maculata (spotted)
+Shape: Fish
+Type: Day, Water, Pack, Close, Ground, Sky
+Size: Large
+Element(s): Crystal
+Stats:
+ATK: 26.6
+DEF: 25.2
+AGI: 21.0
+INT: 17.0
+WIS: 17.0
+HP: 278.6 MANA: 127.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1698 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Infinitus Fragilis (fragile) Volcanicus (volcanic)
+Shape: Fish
+Type: Long Range, Sky, Day, Group, Ground, Lava/Magma
+Size: Large
+Element(s): Strength
+Stats:
+ATK: 18.3
+DEF: 18.0
+AGI: 19.0
+INT: 17.0
+WIS: 18.0
+HP: 198.3 MANA: 130.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2307 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Radiantia Vibrans (vibrant) Littoralis (shore) Tigrina (tiger-striped) Herbora (plant-eating)
+Shape: Fish
+Type: Close, Water, Underground, Pack, Ground, Night
+Size: Large
+Element(s): Gold, Water, Earth
+Stats:
+ATK: 18.0
+DEF: 27.4
+AGI: 26.2
+INT: 27.0
+WIS: 19.0
+HP: 292.0 MANA: 182.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2514 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Altaria Glaber (hairless) Insularis (island)
+Shape: Fish
+Type: Underground, Close, Horde, Lava/Magma, Ground, Night
+Size: Large
+Element(s): Wood, Gold, Earth
+Stats:
+ATK: 18.0
+DEF: 31.8
+AGI: 21.0
+INT: 24.0
+WIS: 24.7
+HP: 336.0 MANA: 181.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3266 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Glacies Aureus (golden) Desertus (desert) Viridis (green)
+Shape: Fish
+Type: Group, Ground, Day, Lava/Magma, Close, Underground
+Size: Large
+Element(s): Earth, Physical
+Stats:
+ATK: 22.1
+DEF: 27.7
+AGI: 22.0
+INT: 22.0
+WIS: 20.0
+HP: 299.1 MANA: 160.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3423 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aetheris Floridus (flowery)
+Shape: Fish
+Type: Pack, Close, Ground, Night, Water, Sky
+Size: Large
+Element(s): Lightning, Wood, Gold
+Stats:
+ATK: 27.5
+DEF: 29.6
+AGI: 25.0
+INT: 25.2
+WIS: 26.0
+HP: 323.5 MANA: 191.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3488 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Mirabilis Communis (common) Savannus (savanna) Alba (white)
+Shape: Fish
+Type: Night, Ground, Long Range, Group, Water, Underground
+Size: Large
+Element(s): Water, Yin
+Stats:
+ATK: 19.0
+DEF: 17.0
+AGI: 21.2
+INT: 37.5
+WIS: 30.0
+HP: 189.0 MANA: 262.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3503 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria Rarus (rare) Vallicola (valley) Metallica (metallic) Venenata (venomous)
+Shape: Fish
+Type: Day, Pack, Underground, Water, Close, Ground
+Size: Large
+Element(s): Ice
+Stats:
+ATK: 27.9
+DEF: 20.0
+AGI: 20.0
+INT: 27.9
+WIS: 20.0
+HP: 227.9 MANA: 189.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3653 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Stellion Laevis (smooth) Tropicalis (tropical) Bicolor (two-colored)
+Shape: Fish
+Type: Ground, Mid, Day, Lava/Magma, Group, Underground
+Size: Large
+Element(s): Wood, Yin
+Stats:
+ATK: 19.0
+DEF: 24.7
+AGI: 22.0
+INT: 28.5
+WIS: 41.0
+HP: 266.0 MANA: 245.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

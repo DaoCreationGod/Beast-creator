@@ -1,0 +1,70 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0163 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Infinitus Mollis (soft) Aridus (arid) Caerulea (blue) Lenta (slow)
+Shape: Fish
+Type: Ground, Sky, Water, Group, Close, Day
+Size: Super
+Element(s): Wood, Earth, Fire
+Stats:
+ATK: 110.0
+DEF: 106.1
+AGI: 81.0
+INT: 88.0
+WIS: 97.5
+HP: 1171.0 MANA: 683.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0576 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Terros Argenteus (silver) Fluvialis (river)
+Shape: Fish
+Type: Underground, Range, Lava/Magma, Horde, Day, Ground
+Size: Super
+Element(s): Yin
+Stats:
+ATK: 70.0
+DEF: 71.0
+AGI: 66.0
+INT: 112.5
+WIS: 120.0
+HP: 780.0 MANA: 862.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1572 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Mirabilis Velox (swift) Insularis (island) Metallica (metallic) Repens (crawling)
+Shape: Fish
+Type: Mid, Pack, Ground, Lava/Magma, Sky, Night
+Size: Super
+Element(s): Fire, Gold
+Stats:
+ATK: 80.3
+DEF: 90.0
+AGI: 89.0
+INT: 104.3
+WIS: 90.0
+HP: 980.3 MANA: 746.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3152 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Petralis Communis (common) Mangrova (mangrove)
+Shape: Fish
+Type: Day, Horde, Mid, Ground, Sky, Water
+Size: Super
+Element(s): Wood
+Stats:
+ATK: 81.0
+DEF: 97.5
+AGI: 66.0
+INT: 76.0
+WIS: 114.4
+HP: 1056.0 MANA: 666.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3569 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Petralis Rufus (red) Polarus (polar) Punctata (dotted)
+Shape: Fish
+Type: Water, Group, Long Range, Sky, Ground, Night
+Size: Super
+Element(s): Crystal
+Stats:
+ATK: 109.2
+DEF: 119.0
+AGI: 67.0
+INT: 87.0
+WIS: 91.0
+HP: 1299.2 MANA: 662.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

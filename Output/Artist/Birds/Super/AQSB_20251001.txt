@@ -1,0 +1,60 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0458 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Silexia Gravis (heavy)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Long Range, Horde, Sky, Ground, Water, Night
+Size: Super
+Element(s): Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 100.0
+DEF: 92.0
+AGI: 77.0
+INT: 112.5 because of elemental bonuses, base INT: 75.0
+WIS: 108.0 because of elemental bonuses, base WIS: 72.0
+HP: 1020.0 MANA: 832.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1000 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Underground, Group, Mid, Day, Water, Ground
+Size: Super
+Element(s): Wind
+Specialized Adaptation: Extreme Camouflage Tasselled Wobbegong (Eucrossorhinus dasypogon) - Frilly seaweed mimic.
+Stats:
+ATK: 79.0
+DEF: 91.8 because of elemental bonuses, base DEF: 68.0
+AGI: 132.3 because of elemental bonuses, base AGI: 98.0
+INT: 95.0
+WIS: 82.0
+HP: 997.0 MANA: 680.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1941 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Robustus (strong) Pratensis (meadow)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Horde, Long Range, Underground, Day, Lava/Magma, Ground
+Size: Super
+Element(s): Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 124.5 because of elemental bonuses, base ATK: 98.0
+DEF: 83.0
+AGI: 73.0
+INT: 83.8 because of elemental bonuses, base INT: 66.0
+WIS: 80.0
+HP: 954.5 MANA: 619.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2784 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Rarus (rare)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Pack, Lava/Magma, Mid, Underground, Ground, Night
+Size: Super
+Element(s): Gold, Wood
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 89.0
+DEF: 113.9 because of elemental bonuses, base DEF: 73.0
+AGI: 71.0
+INT: 106.8 because of elemental bonuses, base INT: 89.0
+WIS: 100.1 because of elemental bonuses, base WIS: 77.0
+HP: 1228.0 MANA: 784.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

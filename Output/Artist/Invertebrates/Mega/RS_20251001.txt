@@ -1,0 +1,135 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0254 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Umbrion Angustus (narrow) Limosus (muddy) Reticulata (netted)
+Shape: Invertebrate, Radial Symmetry, Circular or star-shaped body plans
+Type: Close, Lava/Magma, Group, Night, Ground, Sky
+Size: Mega
+Element(s): Gold, Ice, Water
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 57.1 because of elemental bonuses, base ATK: 45.0
+DEF: 58.8 because of elemental bonuses, base DEF: 49.0
+AGI: 52.5 because of elemental bonuses, base AGI: 42.0
+INT: 78.1 because of elemental bonuses, base INT: 41.0
+WIS: 44.0
+HP: 645.1 MANA: 500.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0646 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion Alatus (winged) Polarus (polar) Tricolor (three-colored)
+Shape: Invertebrate, Radial Symmetry, Circular or star-shaped body plans
+Type: Night, Close, Lava/Magma, Sky, Ground, Group
+Size: Mega
+Element(s): Physical, Gold, Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 57.8 because of elemental bonuses, base ATK: 44.0
+DEF: 47.9 because of elemental bonuses, base DEF: 38.0
+AGI: 62.5 because of elemental bonuses, base AGI: 50.0
+INT: 58.8 because of elemental bonuses, base INT: 49.0
+WIS: 40.0
+HP: 536.8 MANA: 394.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0723 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nebulora
+Shape: Invertebrate, Radial Symmetry, Circular or star-shaped body plans
+Type: Ground, Pack, Sky, Long Range, Night, Lava/Magma
+Size: Mega
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 48.0
+DEF: 50.0
+AGI: 58.8 because of elemental bonuses, base AGI: 47.0
+INT: 60.0 because of elemental bonuses, base INT: 48.0
+WIS: 38.0
+HP: 548.0 MANA: 395.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1323 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Altaria
+Shape: Invertebrate, Radial Symmetry, Circular or star-shaped body plans
+Type: Long Range, Day, Water, Horde, Sky, Ground
+Size: Mega
+Element(s): Physical, Water
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 46.2 because of elemental bonuses, base ATK: 44.0
+DEF: 49.4 because of elemental bonuses, base DEF: 47.0
+AGI: 58.8 because of elemental bonuses, base AGI: 47.0
+INT: 51.2 because of elemental bonuses, base INT: 41.0
+WIS: 39.0
+HP: 540.2 MANA: 353.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1491 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris Laevis (smooth) Pluvius (rainy) Striata (striped)
+Shape: Invertebrate, Radial Symmetry, Circular or star-shaped body plans
+Type: Horde, Night, Ground, Close, Underground, Water
+Size: Mega
+Element(s): Wood
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 46.0
+DEF: 63.7 because of elemental bonuses, base DEF: 49.0
+AGI: 47.0
+INT: 40.0
+WIS: 58.5 because of elemental bonuses, base WIS: 45.0
+HP: 683.0 MANA: 346.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2025 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis
+Shape: Invertebrate, Radial Symmetry, Circular or star-shaped body plans
+Type: Range, Lava/Magma, Day, Underground, Pack, Ground
+Size: Mega
+Element(s): Fire, Physical, Gold
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 43.9 because of elemental bonuses, base ATK: 38.0
+DEF: 50.4 because of elemental bonuses, base DEF: 40.0
+AGI: 48.0
+INT: 56.8 because of elemental bonuses, base INT: 43.0
+WIS: 45.0
+HP: 547.9 MANA: 396.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2199 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia Radians (radiant)
+Shape: Invertebrate, Radial Symmetry, Circular or star-shaped body plans
+Type: Close, Underground, Horde, Water, Night, Ground
+Size: Mega
+Element(s): Earth, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 41.0
+DEF: 60.0 because of elemental bonuses, base DEF: 50.0
+AGI: 48.8 because of elemental bonuses, base AGI: 39.0
+INT: 53.8 because of elemental bonuses, base INT: 43.0
+WIS: 39.0
+HP: 641.0 MANA: 366.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3083 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Ater (dark) Pluvius (rainy)
+Shape: Invertebrate, Radial Symmetry, Circular or star-shaped body plans
+Type: Group, Long Range, Water, Underground, Day, Ground
+Size: Mega
+Element(s): Physical, Water, Gold
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 43.1 because of elemental bonuses, base ATK: 41.0
+DEF: 56.7 because of elemental bonuses, base DEF: 45.0
+AGI: 58.8 because of elemental bonuses, base AGI: 47.0
+INT: 60.0 because of elemental bonuses, base INT: 40.0
+WIS: 43.0
+HP: 610.1 MANA: 407.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3466 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria Aeneus (bronze) Insularis (island) Opaca (opaque)
+Shape: Invertebrate, Radial Symmetry, Circular or star-shaped body plans
+Type: Long Range, Horde, Sky, Night, Water, Ground
+Size: Mega
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 42.0
+DEF: 49.2 because of elemental bonuses, base DEF: 41.0
+AGI: 50.0
+INT: 46.8 because of elemental bonuses, base INT: 39.0
+WIS: 50.0
+HP: 534.0 MANA: 359.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

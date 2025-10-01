@@ -1,0 +1,195 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0147 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignara Durus (hard)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Mid, Underground, Ground, Night, Lava/Magma, Horde
+Size: Giant
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Flashlight Fish (Anomalops katoptron) - Light organs under eyes.
+Stats:
+ATK: 27.0
+DEF: 33.8 because of elemental bonuses, base DEF: 26.0
+AGI: 28.0
+INT: 25.0
+WIS: 33.8 because of elemental bonuses, base WIS: 26.0
+HP: 365.0 MANA: 209.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0158 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Serpentis Purpureus (purple) Torridus (hot/dry) Cristata (crested)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Group, Underground, Ground, Mid, Lava/Magma, Day
+Size: Giant
+Element(s): Fire, Physical, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 28.9 because of elemental bonuses, base ATK: 25.0
+DEF: 34.0 because of elemental bonuses, base DEF: 27.0
+AGI: 28.0
+INT: 27.5 because of elemental bonuses, base INT: 25.0
+WIS: 27.0
+HP: 368.9 MANA: 205.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0453 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Velox (swift)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Long Range, Day, Underground, Group, Water, Ground
+Size: Giant
+Element(s): Earth, Water
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 28.0
+DEF: 36.0 because of elemental bonuses, base DEF: 30.0
+AGI: 32.5 because of elemental bonuses, base AGI: 26.0
+INT: 31.2 because of elemental bonuses, base INT: 25.0
+WIS: 27.0
+HP: 388.0 MANA: 223.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0924 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Pallidus (pale) Limosus (muddy) Scutata (shield-shaped) Volitans (flying)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Long Range, Water, Underground, Group, Night, Ground
+Size: Giant
+Element(s): Ice
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 33.0 because of elemental bonuses, base ATK: 26.0
+DEF: 26.0
+AGI: 30.0
+INT: 35.6 because of elemental bonuses, base INT: 28.0
+WIS: 25.0
+HP: 293.0 MANA: 240.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1181 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris Glaber (hairless) Fluvialis (river) Alba (white) Ambulans (walking)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Group, Sky, Mid, Night, Ground, Lava/Magma
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 30.0
+DEF: 30.0 because of elemental bonuses, base DEF: 25.0
+AGI: 29.0
+INT: 28.0
+WIS: 25.0
+HP: 330.0 MANA: 202.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1353 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Angustus (narrow)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Pack, Range, Underground, Water, Day, Ground
+Size: Giant
+Element(s): Physical, Gold
+Specialized Adaptation: Extreme Camouflage Peppered Moth (Biston betularia) - Industrial melanism.
+Stats:
+ATK: 27.3 because of elemental bonuses, base ATK: 26.0
+DEF: 35.3 because of elemental bonuses, base DEF: 28.0
+AGI: 30.0
+INT: 30.0 because of elemental bonuses, base INT: 25.0
+WIS: 25.0
+HP: 380.3 MANA: 212.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1889 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Levis (light) Polarus (polar) Argentea (silver) Territorialis (territorial)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Day, Horde, Range, Lava/Magma, Ground, Underground
+Size: Giant
+Element(s): Wood
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 29.0
+DEF: 33.8 because of elemental bonuses, base DEF: 26.0
+AGI: 27.0
+INT: 27.0
+WIS: 37.7 because of elemental bonuses, base WIS: 29.0
+HP: 367.0 MANA: 229.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2160 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Floranis Levis (light) Canyonis (canyon) Nigra (black)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Mid, Group, Day, Sky, Ground, Water
+Size: Giant
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 29.0
+DEF: 32.4 because of elemental bonuses, base DEF: 27.0
+AGI: 26.0
+INT: 36.0 because of elemental bonuses, base INT: 30.0
+WIS: 26.0
+HP: 353.0 MANA: 245.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2351 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignavus Acutus (sharp)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Ground, Pack, Water, Close, Day, Sky
+Size: Giant
+Element(s): Water, Physical, Wood
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 28.4 because of elemental bonuses, base ATK: 27.0
+DEF: 35.5 because of elemental bonuses, base DEF: 26.0
+AGI: 31.2 because of elemental bonuses, base AGI: 25.0
+INT: 33.8 because of elemental bonuses, base INT: 27.0
+WIS: 36.4 because of elemental bonuses, base WIS: 28.0
+HP: 383.4 MANA: 260.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2551 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Vibrans (vibrant) Oasensis (oasis) Glabra (smooth) Fluitans (floating)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Mid, Ground, Water, Pack, Sky, Day
+Size: Giant
+Element(s): Lightning, Physical, Wind
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 39.4 because of elemental bonuses, base ATK: 30.0
+DEF: 36.9 because of elemental bonuses, base DEF: 26.0
+AGI: 43.9 because of elemental bonuses, base AGI: 26.0
+INT: 27.0
+WIS: 25.0
+HP: 408.4 MANA: 197.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2563 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis Natans (swimming) Steppus (steppe) Purpurea (purple) Parasitus (parasitic)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Mid, Pack, Ground, Sky, Day, Lava/Magma
+Size: Giant
+Element(s): Fire, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 29.7 because of elemental bonuses, base ATK: 27.0
+DEF: 35.1 because of elemental bonuses, base DEF: 27.0
+AGI: 27.0
+INT: 27.5 because of elemental bonuses, base INT: 25.0
+WIS: 33.8 because of elemental bonuses, base WIS: 26.0
+HP: 380.7 MANA: 222.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2805 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Cryptis Cinereus (gray)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Group, Mid, Underground, Water, Night, Ground
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 26.0
+DEF: 30.0 because of elemental bonuses, base DEF: 25.0
+AGI: 28.0
+INT: 28.0
+WIS: 29.0
+HP: 326.0 MANA: 212.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2976 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aetheris Pendulus (hanging) Aethalis (high-altitude) Lineata (lined) Silens (silent)
+Shape: Invertebrate, Arthropod, Exoskeletal/Jointed Limbs
+Type: Range, Sky, Horde, Night, Ground, Water
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 30.0
+DEF: 31.2 because of elemental bonuses, base DEF: 26.0
+AGI: 28.0
+INT: 30.0
+WIS: 25.0
+HP: 342.0 MANA: 212.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

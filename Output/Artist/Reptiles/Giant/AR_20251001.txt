@@ -1,0 +1,120 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0026 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis Silentis (quiet)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Long Range, Sky, Group, Lava/Magma, Day, Ground
+Size: Giant
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Bamboo Coral (Isididae spp.) - Glowing polyps.
+Stats:
+ATK: 27.5 because of elemental bonuses, base ATK: 25.0
+DEF: 28.0
+AGI: 29.0
+INT: 27.5 because of elemental bonuses, base INT: 25.0
+WIS: 30.0
+HP: 307.5 MANA: 212.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1381 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Magnus (large) Littoralis (shore)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Horde, Long Range, Day, Sky, Ground, Lava/Magma
+Size: Giant
+Element(s): Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 30.1 because of elemental bonuses, base ATK: 28.0
+DEF: 27.0
+AGI: 27.0
+INT: 29.0
+WIS: 29.0
+HP: 300.1 MANA: 217.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1387 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Repens (creeping) Riparius (riverbank)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Mid, Group, Day, Sky, Ground, Lava/Magma
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Stoplight Loosejaw (Malacosteus niger) - Red light invisible to prey.
+Stats:
+ATK: 27.0
+DEF: 31.2 because of elemental bonuses, base DEF: 26.0
+AGI: 25.0
+INT: 25.0
+WIS: 27.0
+HP: 339.0 MANA: 192.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1544 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Sky, Pack, Mid, Water, Ground
+Size: Giant
+Element(s): Crystal, Water
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 39.2 because of elemental bonuses, base ATK: 28.0
+DEF: 37.8 because of elemental bonuses, base DEF: 27.0
+AGI: 35.0 because of elemental bonuses, base AGI: 28.0
+INT: 32.5 because of elemental bonuses, base INT: 26.0
+WIS: 30.0
+HP: 417.2 MANA: 237.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1907 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Serpentis Luridus (pale) Savannus (savanna) Tessellata (checkered) Fossilis (fossilized)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Sky, Lava/Magma, Ground, Close, Horde
+Size: Giant
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 29.7 because of elemental bonuses, base ATK: 27.0
+DEF: 28.0
+AGI: 27.0
+INT: 31.9 because of elemental bonuses, base INT: 29.0
+WIS: 26.0
+HP: 309.7 MANA: 224.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3125 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Erectus (upright) Polarus (polar) Rubra (red) Repens (crawling)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Lava/Magma, Close, Day, Group, Sky, Ground
+Size: Giant
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 29.0
+DEF: 31.2 because of elemental bonuses, base DEF: 26.0
+AGI: 30.0
+INT: 33.6 because of elemental bonuses, base INT: 28.0
+WIS: 28.0
+HP: 341.0 MANA: 238.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3290 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion Durus (hard) Pratensis (meadow)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Horde, Ground, Night, Long Range, Sky, Lava/Magma
+Size: Giant
+Element(s): Gold, Wood, Fire
+Specialized Adaptation: Bioluminescent Lanternshark (Etmopterus spp.) - Light-emitting photophores.
+Stats:
+ATK: 28.6 because of elemental bonuses, base ATK: 26.0
+DEF: 40.6 because of elemental bonuses, base DEF: 26.0
+AGI: 30.0
+INT: 37.0 because of elemental bonuses, base INT: 28.0
+WIS: 36.4 because of elemental bonuses, base WIS: 28.0
+HP: 434.6 MANA: 276.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3973 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Natans (swimming) Montanus (mountain)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Horde, Mid, Sky, Night, Water, Ground
+Size: Giant
+Element(s): Physical, Fire, Earth
+Specialized Adaptation: Bioluminescent Cookiecutter Shark (Isistius brasiliensis) - Counter-illumination.
+Stats:
+ATK: 28.9 because of elemental bonuses, base ATK: 25.0
+DEF: 37.8 because of elemental bonuses, base DEF: 30.0
+AGI: 27.0
+INT: 30.8 because of elemental bonuses, base INT: 28.0
+WIS: 30.0
+HP: 406.9 MANA: 229.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

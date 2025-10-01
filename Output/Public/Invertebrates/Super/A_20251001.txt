@@ -1,0 +1,70 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0008 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Repens (creeping) Maritimus (coastal)
+Shape: Invertebrate
+Type: Mid, Horde, Water, Night, Ground, Sky
+Size: Super
+Element(s): Physical, Gold
+Stats:
+ATK: 69.3
+DEF: 123.5
+AGI: 81.0
+INT: 84.0
+WIS: 88.0
+HP: 1304.3 MANA: 640.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0927 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Obsidia Hirsutus (hairy) Lacustris (lake) Iridesca (iridescent)
+Shape: Invertebrate
+Type: Underground, Pack, Range, Ground, Water, Day
+Size: Super
+Element(s): Wind
+Stats:
+ATK: 83.0
+DEF: 126.9
+AGI: 106.7
+INT: 70.0
+WIS: 72.0
+HP: 1352.0 MANA: 530.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0946 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Altaria
+Shape: Invertebrate
+Type: Sky, Water, Range, Day, Group, Ground
+Size: Super
+Element(s): Sharpness
+Stats:
+ATK: 107.9
+DEF: 85.0
+AGI: 79.0
+INT: 80.0
+WIS: 85.0
+HP: 957.9 MANA: 612.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1675 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Cryptis Silentis (quiet) Torridus (hot/dry)
+Shape: Invertebrate
+Type: Water, Underground, Long Range, Day, Group, Ground
+Size: Super
+Element(s): Fire
+Stats:
+ATK: 90.2
+DEF: 68.0
+AGI: 91.0
+INT: 90.2
+WIS: 90.0
+HP: 770.2 MANA: 676.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2049 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aquarion
+Shape: Invertebrate
+Type: Horde, Ground, Water, Close, Night, Sky
+Size: Super
+Element(s): Water, Yang
+Stats:
+ATK: 90.0
+DEF: 82.0
+AGI: 87.5
+INT: 170.6
+WIS: 121.5
+HP: 910.0 MANA: 1156.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

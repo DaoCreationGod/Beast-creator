@@ -1,0 +1,90 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0960 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion Magnus (large)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Water, Sky, Mid, Group, Night, Ground
+Size: Giant
+Element(s): Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 37.5 because of elemental bonuses, base ATK: 30.0
+DEF: 30.0
+AGI: 32.5 because of elemental bonuses, base AGI: 26.0
+INT: 28.0
+WIS: 30.0
+HP: 337.5 MANA: 215.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1982 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Eclipsis Aeneus (bronze)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Close, Group, Day, Water, Sky, Ground
+Size: Giant
+Element(s): Lightning
+Specialized Adaptation: Extreme Camouflage Peppered Moth (Biston betularia) - Industrial melanism.
+Stats:
+ATK: 37.5 because of elemental bonuses, base ATK: 30.0
+DEF: 27.0
+AGI: 32.5 because of elemental bonuses, base AGI: 26.0
+INT: 29.0
+WIS: 30.0
+HP: 307.5 MANA: 220.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2270 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Arcanis Pendulus (hanging) Orientalis (eastern) Metallica (metallic)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Long Range, Lava/Magma, Ground, Horde, Day, Sky
+Size: Giant
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 26.0
+DEF: 36.0 because of elemental bonuses, base DEF: 30.0
+AGI: 29.0
+INT: 29.0
+WIS: 30.0
+HP: 386.0 MANA: 220.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2626 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Glacies Clarus (bright) Fluvialis (river) Spinosa (spiny) Pendula (hanging)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Day, Range, Group, Water, Underground, Ground
+Size: Giant
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 26.2 because of elemental bonuses, base ATK: 25.0
+DEF: 30.5 because of elemental bonuses, base DEF: 29.0
+AGI: 27.0
+INT: 30.0
+WIS: 27.0
+HP: 331.2 MANA: 217.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2907 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Horde, Night, Ground, Sky, Mid, Lava/Magma
+Size: Giant
+Element(s): Fire, Earth
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 29.7 because of elemental bonuses, base ATK: 27.0
+DEF: 33.6 because of elemental bonuses, base DEF: 28.0
+AGI: 29.0
+INT: 33.0 because of elemental bonuses, base INT: 30.0
+WIS: 28.0
+HP: 365.7 MANA: 235.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3324 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Group, Night, Water, Close, Sky, Ground
+Size: Giant
+Element(s): Wood, Fire
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 33.0 because of elemental bonuses, base ATK: 30.0
+DEF: 37.7 because of elemental bonuses, base DEF: 29.0
+AGI: 30.0
+INT: 27.5 because of elemental bonuses, base INT: 25.0
+WIS: 39.0 because of elemental bonuses, base WIS: 30.0
+HP: 410.0 MANA: 235.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

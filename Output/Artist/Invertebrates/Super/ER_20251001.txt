@@ -1,0 +1,60 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0164 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion Pallidus (pale) Orientalis (eastern) Alba (white) Symbiota (symbiotic)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Mid, Day, Sky, Group, Ground, Lava/Magma
+Size: Super
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Chameleon (Furcifer pardalis) - Color-changing skin.
+Stats:
+ATK: 84.0
+DEF: 74.0
+AGI: 86.2 because of elemental bonuses, base AGI: 69.0
+INT: 121.2 because of elemental bonuses, base INT: 97.0
+WIS: 73.0
+HP: 824.0 MANA: 788.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1489 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sylvanis
+Shape: Invertebrate, Elongate, Like Worms
+Type: Long Range, Sky, Horde, Lava/Magma, Ground, Day
+Size: Super
+Element(s): Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 79.5 because of elemental bonuses, base ATK: 74.0
+DEF: 81.0
+AGI: 83.0
+INT: 90.0
+WIS: 88.0
+HP: 889.5 MANA: 670.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2674 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nebulora Repens (creeping)
+Shape: Invertebrate, Elongate, Like Worms
+Type: Underground, Close, Horde, Ground, Water, Day
+Size: Super
+Element(s): Wood, Physical
+Specialized Adaptation: Extreme Camouflage Stonefish (Synanceia verrucosa) - Rocky appearance.
+Stats:
+ATK: 77.7 because of elemental bonuses, base ATK: 74.0
+DEF: 114.7 because of elemental bonuses, base DEF: 84.0
+AGI: 78.0
+INT: 87.0
+WIS: 87.1 because of elemental bonuses, base WIS: 67.0
+HP: 1224.7 MANA: 652.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3482 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vulcanor
+Shape: Invertebrate, Elongate, Like Worms
+Type: Horde, Ground, Day, Close, Sky, Lava/Magma
+Size: Super
+Element(s): Wood, Physical, Gold
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 85.0 because of elemental bonuses, base ATK: 81.0
+DEF: 109.7 because of elemental bonuses, base DEF: 67.0
+AGI: 88.0
+INT: 114.0 because of elemental bonuses, base INT: 95.0
+WIS: 98.8 because of elemental bonuses, base WIS: 76.0
+HP: 1182.0 MANA: 817.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

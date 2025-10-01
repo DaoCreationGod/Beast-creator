@@ -1,0 +1,165 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0288 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aeternis
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Group, Night, Lava/Magma, Ground, Range, Sky
+Size: Large
+Element(s): Gold, Water
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 20.0
+DEF: 25.2 because of elemental bonuses, base DEF: 21.0
+AGI: 23.8 because of elemental bonuses, base AGI: 19.0
+INT: 28.5 because of elemental bonuses, base INT: 19.0
+WIS: 19.0
+HP: 272.0 MANA: 190.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0403 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Luminosus (glowing) Crateris (crater)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Water, Night, Horde, Mid, Sky, Ground
+Size: Large
+Element(s): Fire, Earth, Gold
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 23.1 because of elemental bonuses, base ATK: 21.0
+DEF: 27.4 because of elemental bonuses, base DEF: 19.0
+AGI: 19.0
+INT: 29.0 because of elemental bonuses, base INT: 22.0
+WIS: 17.0
+HP: 297.1 MANA: 187.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0433 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Horde, Sky, Water, Night, Close, Ground
+Size: Large
+Element(s): Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 22.5 because of elemental bonuses, base ATK: 18.0
+DEF: 17.0
+AGI: 23.8 because of elemental bonuses, base AGI: 19.0
+INT: 22.0
+WIS: 21.0
+HP: 192.5 MANA: 162.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0517 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Lava/Magma, Day, Pack, Mid, Ground, Sky
+Size: Large
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 21.0
+DEF: 26.4 because of elemental bonuses, base DEF: 22.0
+AGI: 22.0
+INT: 26.4 because of elemental bonuses, base INT: 22.0
+WIS: 17.0
+HP: 285.0 MANA: 174.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0583 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lunara Ferrugineus (rusty)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Close, Pack, Water, Night, Ground, Sky
+Size: Large
+Element(s): Yin
+Specialized Adaptation: Extreme Camouflage Dead Leaf Butterfly (Kallima inachus) - Resembles a dead leaf.
+Stats:
+ATK: 17.0
+DEF: 22.0
+AGI: 17.0
+INT: 27.0 because of elemental bonuses, base INT: 18.0
+WIS: 28.5 because of elemental bonuses, base WIS: 19.0
+HP: 237.0 MANA: 206.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1288 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Rupesca
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Lava/Magma, Horde, Sky, Long Range, Day, Ground
+Size: Large
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 22.1 because of elemental bonuses, base ATK: 21.0
+DEF: 22.1 because of elemental bonuses, base DEF: 21.0
+AGI: 22.0
+INT: 22.0
+WIS: 22.0
+HP: 243.1 MANA: 165.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1590 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Fragilis (fragile) Canyonis (canyon) Maculata (spotted) Symbiota (symbiotic)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Range, Horde, Ground, Sky, Night, Lava/Magma
+Size: Large
+Element(s): Water, Wind
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 22.0
+DEF: 25.7 because of elemental bonuses, base DEF: 19.0
+AGI: 32.1 because of elemental bonuses, base AGI: 19.0
+INT: 23.8 because of elemental bonuses, base INT: 19.0
+WIS: 18.0
+HP: 279.0 MANA: 164.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2156 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aeternis
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Group, Lava/Magma, Day, Long Range, Underground, Ground
+Size: Large
+Element(s): Water, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 20.0
+DEF: 18.0
+AGI: 21.2 because of elemental bonuses, base AGI: 17.0
+INT: 41.2 because of elemental bonuses, base INT: 22.0
+WIS: 31.5 because of elemental bonuses, base WIS: 21.0
+HP: 200.0 MANA: 284.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2839 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Rarus (rare) Fluvialis (river) Marmorata (marbled) Saltans (jumping)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Ground, Lava/Magma, Day, Horde, Sky, Long Range
+Size: Large
+Element(s): Fire, Gold
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 23.1 because of elemental bonuses, base ATK: 21.0
+DEF: 22.8 because of elemental bonuses, base DEF: 19.0
+AGI: 18.0
+INT: 27.7 because of elemental bonuses, base INT: 21.0
+WIS: 19.0
+HP: 251.1 MANA: 186.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3367 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sylvanis Fragilis (fragile) Occidentalis (western) Serrata (serrated)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Pack, Underground, Range, Ground, Water, Day
+Size: Large
+Element(s): Earth, Physical, Lightning
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 23.6 because of elemental bonuses, base ATK: 18.0
+DEF: 22.7 because of elemental bonuses, base DEF: 18.0
+AGI: 23.8 because of elemental bonuses, base AGI: 19.0
+INT: 18.0
+WIS: 17.0
+HP: 250.6 MANA: 132.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3909 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria Aeneus (bronze) Torridus (hot/dry) Punctata (dotted) Nocturna (night-active)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Night, Horde, Long Range, Sky, Ground, Lava/Magma
+Size: Large
+Element(s): Water, Physical
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 23.1 because of elemental bonuses, base ATK: 22.0
+DEF: 18.9 because of elemental bonuses, base DEF: 18.0
+AGI: 26.2 because of elemental bonuses, base AGI: 21.0
+INT: 22.5 because of elemental bonuses, base INT: 18.0
+WIS: 17.0
+HP: 212.1 MANA: 155.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

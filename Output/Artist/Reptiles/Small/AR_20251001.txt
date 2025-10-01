@@ -1,0 +1,645 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0076 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Sky, Pack, Mid, Day, Water, Ground
+Size: Small
+Element(s): Lightning, Fire, Water
+Specialized Adaptation: Extreme Camouflage Chameleon (Furcifer pardalis) - Color-changing skin.
+Stats:
+ATK: 11.0 because of elemental bonuses, base ATK: 8.0
+DEF: 7.0
+AGI: 12.5 because of elemental bonuses, base AGI: 8.0
+INT: 11.0 because of elemental bonuses, base INT: 8.0
+WIS: 9.0
+HP: 81.0 MANA: 77.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0109 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Glacies
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Underground, Range, Horde, Water, Ground
+Size: Small
+Element(s): Wind
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 7.0
+DEF: 10.8 because of elemental bonuses, base DEF: 8.0
+AGI: 9.5 because of elemental bonuses, base AGI: 7.0
+INT: 10.0
+WIS: 10.0
+HP: 115.0 MANA: 75.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0146 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Sky, Close, Pack, Water, Ground
+Size: Small
+Element(s): Earth, Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.7 because of elemental bonuses, base ATK: 9.0
+DEF: 12.0 because of elemental bonuses, base DEF: 10.0
+AGI: 9.0
+INT: 7.0
+WIS: 7.0
+HP: 131.7 MANA: 52.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0211 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ventus Aeneus (bronze) Aethalis (high-altitude) Guttata (speckled)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Group, Night, Lava/Magma, Mid, Sky, Ground
+Size: Small
+Element(s): Gold, Yin
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 8.0
+DEF: 10.8 because of elemental bonuses, base DEF: 9.0
+AGI: 7.0
+INT: 12.6 because of elemental bonuses, base INT: 7.0
+WIS: 12.0 because of elemental bonuses, base WIS: 8.0
+HP: 116.0 MANA: 93.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0344 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tenebris Ater (dark)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Ground, Sky, Water, Range, Group, Day
+Size: Small
+Element(s): Fire, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.0 because of elemental bonuses, base ATK: 10.0
+DEF: 8.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 9.6 because of elemental bonuses, base INT: 7.0
+WIS: 9.0
+HP: 91.0 MANA: 70.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0519 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Underground, Horde, Mid, Night, Water, Ground
+Size: Small
+Element(s): Wind
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 9.0
+DEF: 10.8 because of elemental bonuses, base DEF: 8.0
+AGI: 13.5 because of elemental bonuses, base AGI: 10.0
+INT: 9.0
+WIS: 7.0
+HP: 117.0 MANA: 62.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0757 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Eclipsis Mollis (soft) Canyonis (canyon) Argentea (silver) Repens (crawling)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Water, Range, Horde, Day, Sky, Ground
+Size: Small
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 8.0
+DEF: 10.0
+AGI: 11.2 because of elemental bonuses, base AGI: 9.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 8.0
+HP: 108.0 MANA: 64.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0818 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Fragilis (fragile) Frigidus (cold) Plumosa (feathered) Volitans (flying)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Lava/Magma, Mid, Pack, Night, Sky, Ground
+Size: Small
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Scaleless Dragonfish (Aristostomias scintillans) - Blue-green lights.
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 7.0
+DEF: 9.0
+AGI: 7.0
+INT: 7.7 because of elemental bonuses, base INT: 7.0
+WIS: 9.0
+HP: 97.7 MANA: 61.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0880 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Silexia Robustus (strong) Borealis (northern)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Range, Day, Pack, Sky, Ground, Lava/Magma
+Size: Small
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.0
+DEF: 12.0 because of elemental bonuses, base DEF: 10.0
+AGI: 10.0
+INT: 10.8 because of elemental bonuses, base INT: 9.0
+WIS: 7.0
+HP: 129.0 MANA: 71.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0903 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vulcanor Rotundus (round) Pluvius (rainy)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Ground, Mid, Day, Lava/Magma, Group, Underground
+Size: Small
+Element(s): Yin, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 8.0
+AGI: 10.0
+INT: 15.8 because of elemental bonuses, base INT: 7.0
+WIS: 20.2 because of elemental bonuses, base WIS: 9.0
+HP: 87.0 MANA: 129.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0956 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lumina Niger (black) Torridus (hot/dry)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Lava/Magma, Pack, Long Range, Underground, Ground
+Size: Small
+Element(s): Physical, Ice
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 12.0 because of elemental bonuses, base ATK: 9.0
+DEF: 10.5 because of elemental bonuses, base DEF: 10.0
+AGI: 8.0
+INT: 12.7 because of elemental bonuses, base INT: 10.0
+WIS: 9.0
+HP: 117.0 MANA: 86.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0966 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Laevis (smooth)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Range, Underground, Pack, Water, Day, Ground
+Size: Small
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Tasselled Wobbegong (Eucrossorhinus dasypogon) - Frilly seaweed mimic.
+Stats:
+ATK: 10.0
+DEF: 12.0 because of elemental bonuses, base DEF: 10.0
+AGI: 7.0
+INT: 8.4 because of elemental bonuses, base INT: 7.0
+WIS: 10.0
+HP: 130.0 MANA: 67.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1129 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Aeneus (bronze)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Group, Close, Water, Underground, Night, Ground
+Size: Small
+Element(s): Yin
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 7.0
+DEF: 9.0
+AGI: 8.0
+INT: 15.0 because of elemental bonuses, base INT: 10.0
+WIS: 13.5 because of elemental bonuses, base WIS: 9.0
+HP: 97.0 MANA: 108.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1246 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Ground, Sky, Mid, Pack, Night, Lava/Magma
+Size: Small
+Element(s): Earth, Wood, Water
+Specialized Adaptation: Extreme Camouflage Orchid Mantis (Hymenopus coronatus) - Flower mimic.
+Stats:
+ATK: 10.0
+DEF: 14.0 because of elemental bonuses, base DEF: 9.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 10.0 because of elemental bonuses, base INT: 8.0
+WIS: 13.0 because of elemental bonuses, base WIS: 10.0
+HP: 150.0 MANA: 82.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1446 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Flexilis (flexible) Frigidus (cold)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Range, Underground, Horde, Water, Ground, Night
+Size: Small
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 10.0
+WIS: 9.0
+HP: 91.0 MANA: 72.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1459 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ventus Celeris (fast) Littoralis (shore) Rosea (pink) Resiliens (resilient)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Range, Day, Lava/Magma, Sky, Pack, Ground
+Size: Small
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 7.0
+DEF: 10.8 because of elemental bonuses, base DEF: 9.0
+AGI: 7.0
+INT: 7.0
+WIS: 9.0
+HP: 115.0 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1504 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis Aeneus (bronze)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Sky, Range, Water, Horde, Day, Ground
+Size: Small
+Element(s): Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.4 because of elemental bonuses, base ATK: 9.0
+DEF: 8.0
+AGI: 10.0
+INT: 12.7 because of elemental bonuses, base INT: 10.0
+WIS: 9.0
+HP: 91.4 MANA: 86.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1620 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Serpentis
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Horde, Range, Water, Underground, Day, Ground
+Size: Small
+Element(s): Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.9 because of elemental bonuses, base ATK: 9.0
+DEF: 10.0
+AGI: 10.0
+INT: 9.9 because of elemental bonuses, base INT: 9.0
+WIS: 9.0
+HP: 109.9 MANA: 72.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1715 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Mollis (soft) Crateris (crater) Pilosa (fuzzy) Sonorus (loud)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Lava/Magma, Horde, Mid, Night, Sky, Ground
+Size: Small
+Element(s): Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 13.0 because of elemental bonuses, base ATK: 10.0
+DEF: 8.0
+AGI: 10.0
+INT: 9.0
+WIS: 8.0
+HP: 93.0 MANA: 65.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1835 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion Caeruleus (blue) Pluvius (rainy) Zebrina (zebra-like)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Long Range, Pack, Ground, Night, Underground, Water
+Size: Small
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 10.0
+DEF: 8.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 10.0 because of elemental bonuses, base INT: 8.0
+WIS: 9.0
+HP: 90.0 MANA: 72.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1882 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Radiantia Luridus (pale)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Long Range, Lava/Magma, Sky, Group, Ground
+Size: Small
+Element(s): Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.7 because of elemental bonuses, base ATK: 9.0
+DEF: 9.0
+AGI: 9.0
+INT: 7.0
+WIS: 10.0
+HP: 101.7 MANA: 60.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1952 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tenebris Vibrans (vibrant) Oasensis (oasis)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Group, Ground, Water, Sky, Night, Range
+Size: Small
+Element(s): Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.5 because of elemental bonuses, base ATK: 10.0
+DEF: 10.0
+AGI: 11.2 because of elemental bonuses, base AGI: 9.0
+INT: 7.0
+WIS: 10.0
+HP: 112.5 MANA: 60.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1955 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Erectus (upright) Polarus (polar)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Underground, Close, Pack, Night, Lava/Magma, Ground
+Size: Small
+Element(s): Fire, Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 10.8 because of elemental bonuses, base ATK: 7.0
+DEF: 9.8 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 9.9 because of elemental bonuses, base INT: 9.0
+WIS: 10.0
+HP: 108.8 MANA: 74.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2016 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Ground, Pack, Range, Underground, Night, Water
+Size: Small
+Element(s): Sharpness, Fire
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 10.0 because of elemental bonuses, base ATK: 7.0
+DEF: 8.0
+AGI: 10.0
+INT: 9.9 because of elemental bonuses, base INT: 9.0
+WIS: 7.0
+HP: 90.0 MANA: 67.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2028 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion Levis (light)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Long Range, Sky, Pack, Water, Night, Ground
+Size: Small
+Element(s): Wood, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 11.7 because of elemental bonuses, base DEF: 9.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 12.5 because of elemental bonuses, base INT: 10.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 124.0 MANA: 85.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2163 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Spinosus (spiny) Humidus (humid) Iridesca (iridescent)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Lava/Magma, Range, Pack, Night, Sky, Ground
+Size: Small
+Element(s): Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.8 because of elemental bonuses, base ATK: 7.0
+DEF: 7.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 7.0
+WIS: 8.0
+HP: 78.8 MANA: 55.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2258 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignara Serenus (calm)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Sky, Group, Close, Lava/Magma, Night, Ground
+Size: Small
+Element(s): Water, Gold
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 9.0
+DEF: 12.0 because of elemental bonuses, base DEF: 10.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 7.0
+HP: 129.0 MANA: 77.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2440 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Angustus (narrow) Lacustris (lake)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Range, Pack, Day, Lava/Magma, Ground, Underground
+Size: Small
+Element(s): Water, Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.6 because of elemental bonuses, base ATK: 9.0
+DEF: 14.0 because of elemental bonuses, base DEF: 10.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 12.5 because of elemental bonuses, base INT: 10.0
+WIS: 8.0
+HP: 152.6 MANA: 82.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2640 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Opacus (shaded) Eremitus (isolated)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Close, Sky, Water, Horde, Ground
+Size: Small
+Element(s): Earth, Ice
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 8.9 because of elemental bonuses, base ATK: 7.0
+DEF: 12.0 because of elemental bonuses, base DEF: 10.0
+AGI: 7.0
+INT: 11.4 because of elemental bonuses, base INT: 9.0
+WIS: 8.0
+HP: 128.9 MANA: 77.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2705 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aetheris Communis (common) Saxatilis (rocky)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Lava/Magma, Group, Close, Ground, Underground, Night
+Size: Small
+Element(s): Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.9 because of elemental bonuses, base ATK: 9.0
+DEF: 8.0
+AGI: 7.0
+INT: 11.0 because of elemental bonuses, base INT: 10.0
+WIS: 7.0
+HP: 89.9 MANA: 72.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2822 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Arcanis
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Mid, Horde, Day, Ground, Lava/Magma, Underground
+Size: Small
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 14.0 because of elemental bonuses, base ATK: 10.0
+DEF: 11.2 because of elemental bonuses, base DEF: 8.0
+AGI: 10.0
+INT: 9.0
+WIS: 7.0
+HP: 126.0 MANA: 62.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2882 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aurumis Natans (swimming) Arboreus (tree-dwelling) Caerulea (blue) Fetida (foul-smelling)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Range, Underground, Lava/Magma, Pack, Ground
+Size: Small
+Element(s): Earth, Fire, Gold
+Specialized Adaptation: Extreme Camouflage Mossy Frog (Theloderma corticale) - Moss-like texture.
+Stats:
+ATK: 9.9 because of elemental bonuses, base ATK: 9.0
+DEF: 13.0 because of elemental bonuses, base DEF: 9.0
+AGI: 10.0
+INT: 10.6 because of elemental bonuses, base INT: 8.0
+WIS: 10.0
+HP: 139.9 MANA: 78.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2885 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Eclipsis Erectus (upright) Torridus (hot/dry)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Sky, Mid, Group, Lava/Magma, Ground
+Size: Small
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 8.4 because of elemental bonuses, base INT: 7.0
+WIS: 8.0
+HP: 91.0 MANA: 62.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2890 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Eclipsis Ater (dark) Lacustris (lake) Hirsuta (hairy)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Lava/Magma, Long Range, Sky, Pack, Ground, Day
+Size: Small
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 8.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 11.2 because of elemental bonuses, base INT: 9.0
+WIS: 7.0
+HP: 87.0 MANA: 73.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2984 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Audax (bold) Litoralis (coastal) Flava (yellow)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Night, Sky, Pack, Range, Water, Ground
+Size: Small
+Element(s): Ice
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 8.9 because of elemental bonuses, base ATK: 7.0
+DEF: 10.0
+AGI: 7.0
+INT: 8.9 because of elemental bonuses, base INT: 7.0
+WIS: 8.0
+HP: 108.9 MANA: 64.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3373 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Floranis Aureus (golden)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Long Range, Horde, Ground, Day, Underground, Lava/Magma
+Size: Small
+Element(s): Crystal
+Specialized Adaptation: Extreme Camouflage Giant Leaf Insect (Pulchriphyllium giganteum) - Broadleaf mimic.
+Stats:
+ATK: 9.8 because of elemental bonuses, base ATK: 7.0
+DEF: 14.0 because of elemental bonuses, base DEF: 10.0
+AGI: 7.0
+INT: 8.0
+WIS: 10.0
+HP: 149.8 MANA: 65.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3413 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia Magnus (large) Occidentalis (western) Variegata (variegated)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Sky, Horde, Water, Ground, Long Range, Night
+Size: Small
+Element(s): Earth, Yin
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 10.0
+DEF: 12.0 because of elemental bonuses, base DEF: 10.0
+AGI: 9.0
+INT: 13.5 because of elemental bonuses, base INT: 9.0
+WIS: 13.5 because of elemental bonuses, base WIS: 9.0
+HP: 130.0 MANA: 101.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3650 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia Ferrugineus (rusty) Tropicalis (tropical)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Long Range, Water, Horde, Night, Underground, Ground
+Size: Small
+Element(s): Fire, Gold, Wood
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 9.9 because of elemental bonuses, base ATK: 9.0
+DEF: 14.0 because of elemental bonuses, base DEF: 9.0
+AGI: 8.0
+INT: 13.2 because of elemental bonuses, base INT: 10.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 149.9 MANA: 88.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3675 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aurumis Natans (swimming) Montanus (mountain) Opaca (opaque) Camouflara (camouflaged)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Horde, Water, Ground, Sky, Close, Day
+Size: Small
+Element(s): Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.9 because of elemental bonuses, base ATK: 9.0
+DEF: 8.0
+AGI: 9.0
+INT: 9.9 because of elemental bonuses, base INT: 9.0
+WIS: 8.0
+HP: 89.9 MANA: 69.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3765 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion Angustus (narrow) Torridus (hot/dry) Iridesca (iridescent)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Sky, Long Range, Group, Water, Day, Ground
+Size: Small
+Element(s): Fire, Water
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 11.0 because of elemental bonuses, base ATK: 10.0
+DEF: 7.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 11.0 because of elemental bonuses, base INT: 8.0
+WIS: 9.0
+HP: 81.0 MANA: 77.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3790 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lunara Rufus (red)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Range, Sky, Lava/Magma, Day, Horde, Ground
+Size: Small
+Element(s): Physical, Fire
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 9.2 because of elemental bonuses, base ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 8.0
+AGI: 10.0
+INT: 9.9 because of elemental bonuses, base INT: 9.0
+WIS: 9.0
+HP: 93.2 MANA: 72.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3886 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tenebris Aureus (golden)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Sky, Day, Group, Close, Lava/Magma, Ground
+Size: Small
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 9.9 because of elemental bonuses, base ATK: 9.0
+DEF: 8.0
+AGI: 8.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 9.0
+HP: 89.9 MANA: 66.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3994 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tenebris Robustus (strong) Lacustris (lake) Opaca (opaque)
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Horde, Sky, Mid, Water, Ground, Day
+Size: Small
+Element(s): Fire, Sharpness, Earth
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 14.3 because of elemental bonuses, base ATK: 10.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 9.9 because of elemental bonuses, base INT: 9.0
+WIS: 10.0
+HP: 110.3 MANA: 74.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

@@ -1,0 +1,28 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2749 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tranquilis
+Shape: Reptile
+Type: Day, Horde, Long Range, Underground, Lava/Magma, Ground
+Size: Super
+Element(s): Gold, Wood
+Stats:
+ATK: 97.0
+DEF: 145.1
+AGI: 75.0
+INT: 96.0
+WIS: 120.9
+HP: 1548.0 MANA: 782.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3838 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sonoris Viridis (green) Litoralis (coastal)
+Shape: Reptile
+Type: Water, Mid, Pack, Sky, Night, Ground
+Size: Super
+Element(s): Gold, Water, Ice
+Stats:
+ATK: 123.2
+DEF: 114.0
+AGI: 91.2
+INT: 175.3
+WIS: 71.0
+HP: 1263.2 MANA: 1054.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

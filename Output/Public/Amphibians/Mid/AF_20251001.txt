@@ -1,0 +1,224 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0090 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Silexia Opacus (shaded) Canyonis (canyon) Lanceolata (lance-shaped) Nomadica (nomadic)
+Shape: Amphibian
+Type: Group, Close, Lava/Magma, Sky, Night, Ground
+Size: Mid
+Element(s): Physical
+Stats:
+ATK: 13.7
+DEF: 11.6
+AGI: 12.0
+INT: 14.0
+WIS: 12.0
+HP: 129.7 MANA: 100.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0303 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vaporia Volans (flying) Tundralis (tundra)
+Shape: Amphibian
+Type: Water, Close, Ground, Day, Sky, Pack
+Size: Mid
+Element(s): Wind
+Stats:
+ATK: 13.0
+DEF: 20.2
+AGI: 16.2
+INT: 12.0
+WIS: 11.0
+HP: 215.0 MANA: 87.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0554 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Petralis Rufus (red)
+Shape: Amphibian
+Type: Ground, Underground, Day, Mid, Pack, Water
+Size: Mid
+Element(s): Water, Yang
+Stats:
+ATK: 12.0
+DEF: 13.0
+AGI: 18.8
+INT: 24.4
+WIS: 21.0
+HP: 142.0 MANA: 174.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0877 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara Durus (hard) Steppus (steppe) Tigrina (tiger-striped)
+Shape: Amphibian
+Type: Ground, Mid, Underground, Group, Day, Water
+Size: Mid
+Element(s): Fire, Ice
+Stats:
+ATK: 19.6
+DEF: 15.0
+AGI: 12.0
+INT: 16.8
+WIS: 15.0
+HP: 169.6 MANA: 121.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1388 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Silexia
+Shape: Amphibian
+Type: Range, Sky, Day, Pack, Lava/Magma, Ground
+Size: Mid
+Element(s): Fire, Sharpness
+Stats:
+ATK: 18.6
+DEF: 13.0
+AGI: 14.0
+INT: 12.1
+WIS: 11.0
+HP: 148.6 MANA: 88.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1559 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Stellion Hirsutus (hairy) Oasensis (oasis)
+Shape: Amphibian
+Type: Ground, Underground, Pack, Close, Water, Day
+Size: Mid
+Element(s): Gold, Physical, Strength
+Stats:
+ATK: 16.9
+DEF: 17.6
+AGI: 11.0
+INT: 16.8
+WIS: 13.0
+HP: 192.9 MANA: 116.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2394 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Laevis (smooth) Riparius (riverbank) Dentata (toothed)
+Shape: Amphibian
+Type: Water, Underground, Night, Close, Horde, Ground
+Size: Mid
+Element(s): Yang
+Stats:
+ATK: 13.0
+DEF: 13.0
+AGI: 14.0
+INT: 19.5
+WIS: 19.5
+HP: 143.0 MANA: 146.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2493 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tranquilis
+Shape: Amphibian
+Type: Lava/Magma, Ground, Pack, Mid, Sky, Night
+Size: Mid
+Element(s): Physical
+Stats:
+ATK: 15.8
+DEF: 14.7
+AGI: 14.0
+INT: 15.0
+WIS: 11.0
+HP: 162.8 MANA: 102.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2610 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vaporia Gravis (heavy) Torridus (hot/dry)
+Shape: Amphibian
+Type: Range, Pack, Water, Sky, Night, Ground
+Size: Mid
+Element(s): Water, Physical
+Stats:
+ATK: 15.8
+DEF: 13.7
+AGI: 15.0
+INT: 15.0
+WIS: 15.0
+HP: 152.8 MANA: 112.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2872 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Ferrugineus (rusty) Littoralis (shore)
+Shape: Amphibian
+Type: Mid, Day, Sky, Pack, Ground, Water
+Size: Mid
+Element(s): Water, Fire, Wood
+Stats:
+ATK: 15.4
+DEF: 14.3
+AGI: 16.2
+INT: 16.5
+WIS: 16.9
+HP: 158.4 MANA: 124.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3107 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Solara Glaber (hairless)
+Shape: Amphibian
+Type: Horde, Water, Night, Ground, Close, Sky
+Size: Mid
+Element(s): Wood, Physical
+Stats:
+ATK: 11.6
+DEF: 16.4
+AGI: 14.0
+INT: 11.0
+WIS: 19.5
+HP: 175.6 MANA: 103.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3361 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara Silentis (quiet)
+Shape: Amphibian
+Type: Horde, Day, Lava/Magma, Close, Ground, Sky
+Size: Mid
+Element(s): Earth
+Stats:
+ATK: 11.0
+DEF: 16.8
+AGI: 15.0
+INT: 11.0
+WIS: 11.0
+HP: 179.0 MANA: 82.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3421 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Eclipsis Spinosus (spiny) Arboreus (tree-dwelling)
+Shape: Amphibian
+Type: Horde, Ground, Close, Night, Lava/Magma, Sky
+Size: Mid
+Element(s): Earth
+Stats:
+ATK: 12.0
+DEF: 14.4
+AGI: 14.0
+INT: 12.0
+WIS: 13.0
+HP: 156.0 MANA: 92.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3550 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Glacies Albus (white) Litoralis (coastal) Nigra (black)
+Shape: Amphibian
+Type: Range, Ground, Underground, Horde, Water, Day
+Size: Mid
+Element(s): Ice
+Stats:
+ATK: 16.5
+DEF: 15.0
+AGI: 11.0
+INT: 15.2
+WIS: 15.0
+HP: 166.5 MANA: 113.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3552 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Floranis Repens (creeping) Limosus (muddy) Hirsuta (hairy)
+Shape: Amphibian
+Type: Range, Night, Water, Underground, Ground, Group
+Size: Mid
+Element(s): Physical
+Stats:
+ATK: 13.7
+DEF: 11.6
+AGI: 15.0
+INT: 15.0
+WIS: 14.0
+HP: 129.7 MANA: 110.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3870 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Eclipsis Cinereus (gray)
+Shape: Amphibian
+Type: Ground, Night, Mid, Pack, Sky, Lava/Magma
+Size: Mid
+Element(s): Earth, Wood, Gold
+Stats:
+ATK: 12.0
+DEF: 26.2
+AGI: 12.0
+INT: 16.8
+WIS: 14.3
+HP: 274.0 MANA: 119.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

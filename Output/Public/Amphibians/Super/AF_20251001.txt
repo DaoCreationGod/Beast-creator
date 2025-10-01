@@ -1,0 +1,28 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0077 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Rupesca Opacus (shaded) Mangrova (mangrove)
+Shape: Amphibian
+Type: Pack, Underground, Lava/Magma, Close, Night, Ground
+Size: Super
+Element(s): Physical
+Stats:
+ATK: 90.3
+DEF: 96.6
+AGI: 81.0
+INT: 69.0
+WIS: 66.0
+HP: 1056.3 MANA: 510.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2438 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara
+Shape: Amphibian
+Type: Horde, Sky, Mid, Ground, Day, Lava/Magma
+Size: Super
+Element(s): Physical
+Stats:
+ATK: 91.4
+DEF: 80.9
+AGI: 85.0
+INT: 81.0
+WIS: 83.0
+HP: 900.4 MANA: 612.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

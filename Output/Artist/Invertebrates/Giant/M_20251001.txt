@@ -1,0 +1,300 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0060 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Voltis
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Day, Sky, Horde, Close, Lava/Magma, Ground
+Size: Giant
+Element(s): Wind
+Specialized Adaptation: Extreme Camouflage Pygmy Seahorse (Hippocampus bargibanti) - Coral-mimicking.
+Stats:
+ATK: 28.0
+DEF: 40.5 because of elemental bonuses, base DEF: 30.0
+AGI: 33.8 because of elemental bonuses, base AGI: 25.0
+INT: 26.0
+WIS: 30.0
+HP: 433.0 MANA: 205.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0382 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nebulora Floridus (flowery)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Long Range, Lava/Magma, Pack, Night, Ground, Sky
+Size: Giant
+Element(s): Water, Physical, Fire
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 32.3 because of elemental bonuses, base ATK: 28.0
+DEF: 26.2 because of elemental bonuses, base DEF: 25.0
+AGI: 33.8 because of elemental bonuses, base AGI: 27.0
+INT: 38.5 because of elemental bonuses, base INT: 28.0
+WIS: 30.0
+HP: 294.3 MANA: 267.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0741 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Rupesca Hirsutus (hairy) Borealis (northern) Dentata (toothed) Hiemalis (winter-dormant)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Underground, Group, Lava/Magma, Mid, Night, Ground
+Size: Giant
+Element(s): Strength, Crystal, Earth
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 37.6 because of elemental bonuses, base ATK: 25.0
+DEF: 48.7 because of elemental bonuses, base DEF: 29.0
+AGI: 25.0
+INT: 25.0
+WIS: 25.0
+HP: 524.6 MANA: 187.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0850 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion Glaber (hairless) Limosus (muddy) Purpurea (purple)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Mid, Ground, Night, Water, Pack, Sky
+Size: Giant
+Element(s): Fire, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 27.5 because of elemental bonuses, base ATK: 25.0
+DEF: 30.0 because of elemental bonuses, base DEF: 25.0
+AGI: 28.0
+INT: 31.9 because of elemental bonuses, base INT: 29.0
+WIS: 29.0
+HP: 327.5 MANA: 232.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1060 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sylvanis Robustus (strong) Littoralis (shore) Metallica (metallic)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Pack, Lava/Magma, Range, Night, Ground, Sky
+Size: Giant
+Element(s): Sharpness, Water, Wood
+Specialized Adaptation: Bioluminescent Scaleless Dragonfish (Aristostomias scintillans) - Blue-green lights.
+Stats:
+ATK: 35.1 because of elemental bonuses, base ATK: 27.0
+DEF: 37.7 because of elemental bonuses, base DEF: 29.0
+AGI: 36.2 because of elemental bonuses, base AGI: 29.0
+INT: 33.8 because of elemental bonuses, base INT: 27.0
+WIS: 32.5 because of elemental bonuses, base WIS: 25.0
+HP: 412.1 MANA: 250.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1124 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignavus Cinereus (gray) Campestris (plains)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Water, Ground, Horde, Underground, Range, Day
+Size: Giant
+Element(s): Water, Sharpness
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 35.1 because of elemental bonuses, base ATK: 27.0
+DEF: 30.0
+AGI: 32.5 because of elemental bonuses, base AGI: 26.0
+INT: 37.5 because of elemental bonuses, base INT: 30.0
+WIS: 29.0
+HP: 335.1 MANA: 260.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1167 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Eclipsis Celeris (fast)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Sky, Mid, Night, Lava/Magma, Group, Ground
+Size: Giant
+Element(s): Gold, Yin, Wood
+Specialized Adaptation: Bioluminescent Lanternshark (Etmopterus spp.) - Light-emitting photophores.
+Stats:
+ATK: 27.0
+DEF: 39.0 because of elemental bonuses, base DEF: 25.0
+AGI: 25.0
+INT: 45.0 because of elemental bonuses, base INT: 25.0
+WIS: 48.8 because of elemental bonuses, base WIS: 25.0
+HP: 417.0 MANA: 347.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1342 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Repens (creeping) Arenosus (sandy) Maculata (spotted) Effugiens (escaping)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Night, Close, Group, Ground, Underground, Lava/Magma
+Size: Giant
+Element(s): Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 33.0 because of elemental bonuses, base ATK: 26.0
+DEF: 25.0
+AGI: 28.0
+INT: 33.0 because of elemental bonuses, base INT: 26.0
+WIS: 29.0
+HP: 283.0 MANA: 237.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1442 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis Serenus (calm) Tundralis (tundra) Caerulea (blue)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Lava/Magma, Sky, Close, Pack, Ground, Day
+Size: Giant
+Element(s): Strength, Wood
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 32.2 because of elemental bonuses, base ATK: 30.0
+DEF: 35.1 because of elemental bonuses, base DEF: 27.0
+AGI: 28.0
+INT: 26.0
+WIS: 35.1 because of elemental bonuses, base WIS: 27.0
+HP: 383.2 MANA: 217.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2334 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Serpentis
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Horde, Range, Ground, Day, Underground, Lava/Magma
+Size: Giant
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 42.0 because of elemental bonuses, base ATK: 30.0
+DEF: 37.8 because of elemental bonuses, base DEF: 27.0
+AGI: 27.0
+INT: 28.0
+WIS: 25.0
+HP: 420.0 MANA: 202.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2469 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis Rarus (rare)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Horde, Close, Underground, Night, Lava/Magma, Ground
+Size: Giant
+Element(s): Physical, Water
+Specialized Adaptation: Extreme Camouflage Chameleon (Furcifer pardalis) - Color-changing skin.
+Stats:
+ATK: 29.4 because of elemental bonuses, base ATK: 28.0
+DEF: 28.4 because of elemental bonuses, base DEF: 27.0
+AGI: 33.8 because of elemental bonuses, base AGI: 27.0
+INT: 31.2 because of elemental bonuses, base INT: 25.0
+WIS: 27.0
+HP: 313.4 MANA: 223.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2742 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Luminor Aureus (golden) Pratensis (meadow) Guttata (speckled) Territorialis (territorial)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Ground, Night, Pack, Range, Lava/Magma, Sky
+Size: Giant
+Element(s): Sharpness
+Specialized Adaptation: Extreme Camouflage Cuttlefish (Sepia officinalis) - Adaptive camouflage.
+Stats:
+ATK: 32.5 because of elemental bonuses, base ATK: 25.0
+DEF: 28.0
+AGI: 29.0
+INT: 26.0
+WIS: 28.0
+HP: 312.5 MANA: 200.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2779 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Flexilis (flexible) Insularis (island)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Group, Day, Close, Lava/Magma, Underground, Ground
+Size: Giant
+Element(s): Wood, Sharpness, Crystal
+Specialized Adaptation: Bioluminescent Firefly (Lampyridae spp.) - Flashing abdomen.
+Stats:
+ATK: 49.1 because of elemental bonuses, base ATK: 27.0
+DEF: 52.8 because of elemental bonuses, base DEF: 29.0
+AGI: 30.0
+INT: 26.0
+WIS: 36.4 because of elemental bonuses, base WIS: 28.0
+HP: 577.1 MANA: 221.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3053 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Ground, Range, Sky, Day, Water, Group
+Size: Giant
+Element(s): Strength, Physical, Water
+Specialized Adaptation: Extreme Camouflage Stonefish (Synanceia verrucosa) - Rocky appearance.
+Stats:
+ATK: 29.3 because of elemental bonuses, base ATK: 26.0
+DEF: 29.4 because of elemental bonuses, base DEF: 28.0
+AGI: 36.2 because of elemental bonuses, base AGI: 29.0
+INT: 31.2 because of elemental bonuses, base INT: 25.0
+WIS: 28.0
+HP: 323.3 MANA: 226.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3074 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Ater (dark)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Lava/Magma, Long Range, Day, Horde, Underground, Ground
+Size: Giant
+Element(s): Ice
+Specialized Adaptation: Extreme Camouflage Flounder (Paralichthys spp.) - Sandy bottom camouflage.
+Stats:
+ATK: 38.1 because of elemental bonuses, base ATK: 30.0
+DEF: 25.0
+AGI: 28.0
+INT: 36.8 because of elemental bonuses, base INT: 29.0
+WIS: 30.0
+HP: 288.1 MANA: 259.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3166 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Natans (swimming) Litoralis (coastal)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Close, Pack, Lava/Magma, Night, Sky, Ground
+Size: Giant
+Element(s): Wood, Gold, Fire
+Specialized Adaptation: Extreme Camouflage Mossy Frog (Theloderma corticale) - Moss-like texture.
+Stats:
+ATK: 29.7 because of elemental bonuses, base ATK: 27.0
+DEF: 45.2 because of elemental bonuses, base DEF: 29.0
+AGI: 30.0
+INT: 35.6 because of elemental bonuses, base INT: 27.0
+WIS: 33.8 because of elemental bonuses, base WIS: 26.0
+HP: 481.7 MANA: 262.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3816 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Arcanis Pallidus (pale)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Long Range, Day, Ground, Horde, Sky, Lava/Magma
+Size: Giant
+Element(s): Wind
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 28.0
+DEF: 40.5 because of elemental bonuses, base DEF: 30.0
+AGI: 40.5 because of elemental bonuses, base AGI: 30.0
+INT: 29.0
+WIS: 29.0
+HP: 433.0 MANA: 217.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3821 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Marinus Rarus (rare) Eremitus (isolated)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Lava/Magma, Sky, Ground, Night, Long Range, Horde
+Size: Giant
+Element(s): Physical, Fire
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 31.2 because of elemental bonuses, base ATK: 27.0
+DEF: 29.4 because of elemental bonuses, base DEF: 28.0
+AGI: 30.0
+INT: 29.7 because of elemental bonuses, base INT: 27.0
+WIS: 29.0
+HP: 325.2 MANA: 221.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3922 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis Durus (hard) Riparius (riverbank) Nigra (black) Carnifex (flesh-eating)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Long Range, Group, Underground, Water, Ground, Day
+Size: Giant
+Element(s): Fire, Physical
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 31.2 because of elemental bonuses, base ATK: 27.0
+DEF: 31.5 because of elemental bonuses, base DEF: 30.0
+AGI: 28.0
+INT: 33.0 because of elemental bonuses, base INT: 30.0
+WIS: 27.0
+HP: 346.2 MANA: 232.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3956 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Rufus (red) Litoralis (coastal) Lunata (crescent-shaped)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Day, Horde, Lava/Magma, Sky, Range, Ground
+Size: Giant
+Element(s): Fire, Physical, Gold
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 28.9 because of elemental bonuses, base ATK: 25.0
+DEF: 35.3 because of elemental bonuses, base DEF: 28.0
+AGI: 27.0
+INT: 39.6 because of elemental bonuses, base INT: 30.0
+WIS: 28.0
+HP: 381.9 MANA: 268.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

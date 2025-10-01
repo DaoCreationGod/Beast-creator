@@ -1,0 +1,255 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0165 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia Erectus (upright) Frigidus (cold)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Long Range, Night, Group, Ground, Underground, Lava/Magma
+Size: Large
+Element(s): Water, Wood
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 19.0
+DEF: 26.0 because of elemental bonuses, base DEF: 20.0
+AGI: 27.5 because of elemental bonuses, base AGI: 22.0
+INT: 23.8 because of elemental bonuses, base INT: 19.0
+WIS: 23.4 because of elemental bonuses, base WIS: 18.0
+HP: 279.0 MANA: 177.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0749 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Floranis Hirsutus (hairy) Alpinus (alpine) Lobata (lobed)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Sky, Range, Day, Group, Water, Ground
+Size: Large
+Element(s): Fire, Physical, Ice
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 32.3 because of elemental bonuses, base ATK: 22.0
+DEF: 23.1 because of elemental bonuses, base DEF: 22.0
+AGI: 17.0
+INT: 26.5 because of elemental bonuses, base INT: 19.0
+WIS: 17.0
+HP: 263.3 MANA: 175.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1513 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Night, Mid, Group, Lava/Magma, Ground, Underground
+Size: Large
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 22.0
+DEF: 18.0
+AGI: 25.0 because of elemental bonuses, base AGI: 20.0
+INT: 23.8 because of elemental bonuses, base INT: 19.0
+WIS: 18.0
+HP: 202.0 MANA: 164.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2437 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Eclipsis Luminosus (glowing)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Sky, Mid, Lava/Magma, Pack, Ground, Night
+Size: Large
+Element(s): Physical, Gold, Earth
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 18.9 because of elemental bonuses, base ATK: 18.0
+DEF: 25.7 because of elemental bonuses, base DEF: 17.0
+AGI: 22.0
+INT: 20.4 because of elemental bonuses, base INT: 17.0
+WIS: 17.0
+HP: 275.9 MANA: 144.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2450 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Radiantia Communis (common) Australis (southern) Lineata (lined)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Sky, Day, Pack, Water, Ground, Mid
+Size: Large
+Element(s): Sharpness
+Specialized Adaptation: Extreme Camouflage Chameleon (Furcifer pardalis) - Color-changing skin.
+Stats:
+ATK: 26.0 because of elemental bonuses, base ATK: 20.0
+DEF: 22.0
+AGI: 17.0
+INT: 17.0
+WIS: 20.0
+HP: 246.0 MANA: 135.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2537 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignara
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Underground, Range, Lava/Magma, Group, Ground, Day
+Size: Large
+Element(s): Gold, Yang
+Specialized Adaptation: Extreme Camouflage Cuttlefish (Sepia officinalis) - Adaptive camouflage.
+Stats:
+ATK: 19.0
+DEF: 26.4 because of elemental bonuses, base DEF: 22.0
+AGI: 20.0
+INT: 34.2 because of elemental bonuses, base INT: 19.0
+WIS: 28.5 because of elemental bonuses, base WIS: 19.0
+HP: 283.0 MANA: 242.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2916 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Altaria
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Water, Group, Underground, Night, Ground, Range
+Size: Large
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 17.0
+DEF: 25.2 because of elemental bonuses, base DEF: 21.0
+AGI: 20.0
+INT: 17.0
+WIS: 17.0
+HP: 269.0 MANA: 127.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3133 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Fulgora Viridis (green) Littoralis (shore)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Close, Lava/Magma, Sky, Night, Pack, Ground
+Size: Large
+Element(s): Crystal, Earth
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 25.2 because of elemental bonuses, base ATK: 18.0
+DEF: 37.0 because of elemental bonuses, base DEF: 22.0
+AGI: 19.0
+INT: 17.0
+WIS: 17.0
+HP: 395.2 MANA: 127.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3161 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Ferrugineus (rusty) Borealis (northern)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Night, Water, Pack, Range, Ground, Underground
+Size: Large
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Leaf-Tailed Gecko (Uroplatus spp.) - Lichen-mimicking skin.
+Stats:
+ATK: 22.0
+DEF: 19.0
+AGI: 27.5 because of elemental bonuses, base AGI: 22.0
+INT: 27.5 because of elemental bonuses, base INT: 22.0
+WIS: 18.0
+HP: 212.0 MANA: 182.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3197 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Umbrion
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Water, Range, Underground, Night, Horde, Ground
+Size: Large
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 18.9 because of elemental bonuses, base ATK: 18.0
+DEF: 22.1 because of elemental bonuses, base DEF: 21.0
+AGI: 19.0
+INT: 18.0
+WIS: 20.0
+HP: 239.9 MANA: 140.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3303 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis Albus (white) Frigidus (cold) Scutata (shield-shaped) Sonorus (loud)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Close, Horde, Sky, Water, Night, Ground
+Size: Large
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 22.0
+DEF: 26.4 because of elemental bonuses, base DEF: 22.0
+AGI: 19.0
+INT: 21.0
+WIS: 21.0
+HP: 286.0 MANA: 157.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3446 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Serpentis Spinosus (spiny) Fennalis (fen) Viridis (green) Parasitus (parasitic)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Pack, Long Range, Day, Underground, Water, Ground
+Size: Large
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Hatchetfish (Sternoptyx spp.) - Counter-illumination camouflage.
+Stats:
+ATK: 19.0
+DEF: 20.4 because of elemental bonuses, base DEF: 17.0
+AGI: 21.0
+INT: 24.0 because of elemental bonuses, base INT: 20.0
+WIS: 18.0
+HP: 223.0 MANA: 165.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3622 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis Laevis (smooth) Alpinus (alpine) Lunata (crescent-shaped) Gregaria (gregarious)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Range, Underground, Day, Lava/Magma, Ground, Pack
+Size: Large
+Element(s): Lightning, Fire, Water
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 28.9 because of elemental bonuses, base ATK: 21.0
+DEF: 20.0
+AGI: 29.7 because of elemental bonuses, base AGI: 19.0
+INT: 24.8 because of elemental bonuses, base INT: 18.0
+WIS: 22.0
+HP: 228.9 MANA: 179.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3681 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Opacus (shaded)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Mid, Night, Lava/Magma, Underground, Group, Ground
+Size: Large
+Element(s): Water, Lightning
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 21.2 because of elemental bonuses, base ATK: 17.0
+DEF: 22.0
+AGI: 32.8 because of elemental bonuses, base AGI: 21.0
+INT: 22.5 because of elemental bonuses, base INT: 18.0
+WIS: 20.0
+HP: 241.2 MANA: 162.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3809 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis Glaber (hairless)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Night, Water, Ground, Group, Sky, Range
+Size: Large
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 19.8 because of elemental bonuses, base ATK: 18.0
+DEF: 21.0
+AGI: 18.0
+INT: 18.7 because of elemental bonuses, base INT: 17.0
+WIS: 20.0
+HP: 229.8 MANA: 143.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3897 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Group, Night, Close, Underground, Water, Ground
+Size: Large
+Element(s): Wind
+Specialized Adaptation: Bioluminescent Cookiecutter Shark (Isistius brasiliensis) - Counter-illumination.
+Stats:
+ATK: 21.0
+DEF: 29.7 because of elemental bonuses, base DEF: 22.0
+AGI: 24.3 because of elemental bonuses, base AGI: 18.0
+INT: 20.0
+WIS: 21.0
+HP: 318.0 MANA: 152.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3982 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Range, Ground, Horde, Lava/Magma, Underground, Day
+Size: Large
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Cuttlefish (Sepia officinalis) - Adaptive camouflage.
+Stats:
+ATK: 19.0
+DEF: 21.6 because of elemental bonuses, base DEF: 18.0
+AGI: 17.0
+INT: 25.2 because of elemental bonuses, base INT: 21.0
+WIS: 19.0
+HP: 235.0 MANA: 173.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

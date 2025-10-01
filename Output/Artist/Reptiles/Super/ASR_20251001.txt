@@ -1,0 +1,45 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0664 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Natans (swimming) Campestris (plains) Tigrina (tiger-striped)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Range, Group, Lava/Magma, Underground, Night, Ground
+Size: Super
+Element(s): Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 103.8 because of elemental bonuses, base ATK: 83.0
+DEF: 89.0
+AGI: 125.0 because of elemental bonuses, base AGI: 100.0
+INT: 68.0
+WIS: 84.0
+HP: 993.8 MANA: 550.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2782 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria Luminosus (glowing) Nemoralis (woodland)
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Horde, Night, Long Range, Underground, Water, Ground
+Size: Super
+Element(s): Time
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 177.5 because of elemental bonuses, base ATK: 71.0
+DEF: 197.5 because of elemental bonuses, base DEF: 79.0
+AGI: 67.0
+INT: 98.0
+WIS: 185.0 because of elemental bonuses, base WIS: 74.0
+HP: 2152.5 MANA: 952.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3979 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Floranis
+Shape: Reptile, Armoured Scuted Reptile, Bony plates, scales, or shells for defense
+Type: Horde, Range, Day, Water, Underground, Ground
+Size: Super
+Element(s): Water, Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 100.1 because of elemental bonuses, base ATK: 91.0
+DEF: 88.0
+AGI: 117.5 because of elemental bonuses, base AGI: 94.0
+INT: 136.1 because of elemental bonuses, base INT: 99.0
+WIS: 73.0
+HP: 980.1 MANA: 863.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

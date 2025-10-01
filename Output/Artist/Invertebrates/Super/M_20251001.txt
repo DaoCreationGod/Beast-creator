@@ -1,0 +1,75 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0137 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Pack, Night, Long Range, Ground, Water, Sky
+Size: Super
+Element(s): Time
+Specialized Adaptation: Extreme Camouflage Flounder (Paralichthys spp.) - Sandy bottom camouflage.
+Stats:
+ATK: 200.0 because of elemental bonuses, base ATK: 80.0
+DEF: 242.5 because of elemental bonuses, base DEF: 97.0
+AGI: 95.0
+INT: 82.0
+WIS: 247.5 because of elemental bonuses, base WIS: 99.0
+HP: 2625.0 MANA: 1028.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0736 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Erectus (upright) Arboreus (tree-dwelling) Reticulata (netted)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Underground, Lava/Magma, Ground, Day, Close, Pack
+Size: Super
+Element(s): Fire, Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 92.2 because of elemental bonuses, base ATK: 78.0
+DEF: 68.0
+AGI: 96.0
+INT: 81.4 because of elemental bonuses, base INT: 74.0
+WIS: 81.0
+HP: 772.2 MANA: 609.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1362 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Velox (swift) Steppus (steppe)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Water, Horde, Sky, Day, Close, Ground
+Size: Super
+Element(s): Physical, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 99.8 because of elemental bonuses, base ATK: 95.0
+DEF: 100.8 because of elemental bonuses, base DEF: 96.0
+AGI: 66.0
+INT: 145.5 because of elemental bonuses, base INT: 97.0
+WIS: 142.5 because of elemental bonuses, base WIS: 95.0
+HP: 1107.8 MANA: 1083.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2319 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Rotundus (round) Humidus (humid)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Range, Water, Horde, Day, Sky, Ground
+Size: Super
+Element(s): Lightning
+Specialized Adaptation: Extreme Camouflage Pygmy Seahorse (Hippocampus bargibanti) - Coral-mimicking.
+Stats:
+ATK: 122.5 because of elemental bonuses, base ATK: 98.0
+DEF: 93.0
+AGI: 115.0 because of elemental bonuses, base AGI: 92.0
+INT: 93.0
+WIS: 87.0
+HP: 1052.5 MANA: 682.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2378 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Silexia Flexilis (flexible)
+Shape: Invertebrate, Mollusk, Soft-Bodied/Shelled
+Type: Long Range, Pack, Underground, Lava/Magma, Ground, Day
+Size: Super
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 66.0
+DEF: 103.2 because of elemental bonuses, base DEF: 86.0
+AGI: 68.0
+INT: 92.4 because of elemental bonuses, base INT: 77.0
+WIS: 75.0
+HP: 1098.0 MANA: 649.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

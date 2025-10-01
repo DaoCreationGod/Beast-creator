@@ -1,0 +1,45 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1945 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Velox (swift)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Pack, Lava/Magma, Mid, Underground, Ground, Night
+Size: Super
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 76.0
+DEF: 76.0
+AGI: 77.0
+INT: 135.0 because of elemental bonuses, base INT: 90.0
+WIS: 132.0 because of elemental bonuses, base WIS: 88.0
+HP: 836.0 MANA: 1005.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2702 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Umbrion Mollis (soft) Polarus (polar)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Ground, Day, Group, Lava/Magma, Underground, Mid
+Size: Super
+Element(s): Fire, Earth, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 115.5 because of elemental bonuses, base ATK: 100.0
+DEF: 122.2 because of elemental bonuses, base DEF: 97.0
+AGI: 70.0
+INT: 96.8 because of elemental bonuses, base INT: 88.0
+WIS: 95.0
+HP: 1337.5 MANA: 721.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3531 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Eclipsis Serenus (calm)
+Shape: Reptile, Semi-Aquatic Reptile, Adapted to both water and land, with webbed feet, flattened tails, or streamlined bodies
+Type: Horde, Water, Day, Sky, Ground, Long Range
+Size: Super
+Element(s): Sharpness, Physical
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 102.4 because of elemental bonuses, base ATK: 75.0
+DEF: 87.2 because of elemental bonuses, base DEF: 83.0
+AGI: 69.0
+INT: 89.0
+WIS: 77.0
+HP: 974.4 MANA: 637.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

@@ -1,0 +1,90 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0599 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Glacies Glaber (hairless) Pelagicus (open sea)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Lava/Magma, Day, Range, Horde, Underground, Ground
+Size: Mega
+Element(s): Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 44.1 because of elemental bonuses, base ATK: 42.0
+DEF: 51.5 because of elemental bonuses, base DEF: 49.0
+AGI: 47.0
+INT: 41.0
+WIS: 40.0
+HP: 559.1 MANA: 305.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1571 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Luminor
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Day, Horde, Range, Underground, Ground, Lava/Magma
+Size: Mega
+Element(s): Wood, Fire, Physical
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 57.8 because of elemental bonuses, base ATK: 50.0
+DEF: 51.9 because of elemental bonuses, base DEF: 38.0
+AGI: 47.0
+INT: 51.7 because of elemental bonuses, base INT: 47.0
+WIS: 59.8 because of elemental bonuses, base WIS: 46.0
+HP: 576.8 MANA: 408.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1878 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignara Hirsutus (hairy) Campestris (plains) Pilosa (fuzzy)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Sky, Pack, Range, Day, Water, Ground
+Size: Mega
+Element(s): Physical, Water, Earth
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 44.1 because of elemental bonuses, base ATK: 42.0
+DEF: 47.9 because of elemental bonuses, base DEF: 38.0
+AGI: 50.0 because of elemental bonuses, base AGI: 40.0
+INT: 62.5 because of elemental bonuses, base INT: 50.0
+WIS: 38.0
+HP: 523.1 MANA: 407.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2384 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Floranis Viridis (green)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Water, Long Range, Day, Horde, Ground, Underground
+Size: Mega
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 57.4 because of elemental bonuses, base ATK: 41.0
+DEF: 63.0 because of elemental bonuses, base DEF: 45.0
+AGI: 48.0
+INT: 50.0
+WIS: 49.0
+HP: 687.4 MANA: 372.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2781 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aeternis
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Pack, Ground, Sky, Night, Range, Lava/Magma
+Size: Mega
+Element(s): Wood, Water, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 39.9 because of elemental bonuses, base ATK: 38.0
+DEF: 58.7 because of elemental bonuses, base DEF: 43.0
+AGI: 47.5 because of elemental bonuses, base AGI: 38.0
+INT: 56.2 because of elemental bonuses, base INT: 45.0
+WIS: 54.6 because of elemental bonuses, base WIS: 42.0
+HP: 626.9 MANA: 417.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3103 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Virensis Vibrans (vibrant)
+Shape: Fish, Fusiform, Torpedo-shaped for speed
+Type: Lava/Magma, Long Range, Ground, Horde, Underground, Day
+Size: Mega
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 43.0
+DEF: 61.1 because of elemental bonuses, base DEF: 47.0
+AGI: 38.0
+INT: 41.0
+WIS: 54.6 because of elemental bonuses, base WIS: 42.0
+HP: 654.0 MANA: 341.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

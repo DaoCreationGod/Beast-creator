@@ -1,0 +1,518 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0015 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aeternis Laevis (smooth)
+Shape: Invertebrate
+Type: Ground, Underground, Mid, Horde, Night, Water
+Size: Mid
+Element(s): Wood, Fire
+Stats:
+ATK: 16.5
+DEF: 19.5
+AGI: 12.0
+INT: 15.4
+WIS: 16.9
+HP: 211.5 MANA: 119.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0097 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria Purpureus (purple) Pratensis (meadow) Aurantiaca (orange)
+Shape: Invertebrate
+Type: Mid, Horde, Lava/Magma, Night, Sky, Ground
+Size: Mid
+Element(s): Fire
+Stats:
+ATK: 14.3
+DEF: 11.0
+AGI: 12.0
+INT: 16.5
+WIS: 15.0
+HP: 124.3 MANA: 120.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0469 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis Gravis (heavy) Eremitus (isolated) Orbiculata (circular) Repens (crawling)
+Shape: Invertebrate
+Type: Horde, Close, Underground, Lava/Magma, Day, Ground
+Size: Mid
+Element(s): Sharpness
+Stats:
+ATK: 19.5
+DEF: 13.0
+AGI: 13.0
+INT: 11.0
+WIS: 14.0
+HP: 149.5 MANA: 90.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0532 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Cryptis Purpureus (purple) Aridus (arid)
+Shape: Invertebrate
+Type: Water, Underground, Range, Ground, Night, Pack
+Size: Mid
+Element(s): Yang
+Stats:
+ATK: 13.0
+DEF: 12.0
+AGI: 14.0
+INT: 18.0
+WIS: 22.5
+HP: 133.0 MANA: 146.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0565 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis Volans (flying) Palustris (marshy) Undulata (wavy) Sonorus (loud)
+Shape: Invertebrate
+Type: Range, Group, Sky, Water, Ground, Day
+Size: Mid
+Element(s): Gold, Ice
+Stats:
+ATK: 19.1
+DEF: 15.6
+AGI: 14.0
+INT: 21.3
+WIS: 13.0
+HP: 175.1 MANA: 139.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0621 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aetheris Viridis (green) Maritimus (coastal) Variegata (variegated) Hiemalis (winter-dormant)
+Shape: Invertebrate
+Type: Sky, Mid, Ground, Pack, Night, Lava/Magma
+Size: Mid
+Element(s): Yang
+Stats:
+ATK: 13.0
+DEF: 12.0
+AGI: 13.0
+INT: 19.5
+WIS: 19.5
+HP: 133.0 MANA: 146.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0787 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nebulora
+Shape: Invertebrate
+Type: Lava/Magma, Underground, Ground, Group, Mid, Night
+Size: Mid
+Element(s): Earth, Fire, Water
+Stats:
+ATK: 14.3
+DEF: 13.2
+AGI: 18.8
+INT: 19.2
+WIS: 15.0
+HP: 146.3 MANA: 133.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0802 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Silexia Purpureus (purple) Fennalis (fen) Dentata (toothed) Fossilis (fossilized)
+Shape: Invertebrate
+Type: Sky, Close, Ground, Water, Night, Horde
+Size: Mid
+Element(s): Physical
+Stats:
+ATK: 13.7
+DEF: 11.6
+AGI: 14.0
+INT: 15.0
+WIS: 11.0
+HP: 129.7 MANA: 102.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0843 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Radiantia Parvus (small)
+Shape: Invertebrate
+Type: Long Range, Water, Group, Day, Underground, Ground
+Size: Mid
+Element(s): Ice, Gold, Crystal
+Stats:
+ATK: 23.1
+DEF: 21.8
+AGI: 13.0
+INT: 19.8
+WIS: 15.0
+HP: 241.1 MANA: 136.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0852 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Virensis Luminosus (glowing) Glacialis (icy) Marmorata (marbled)
+Shape: Invertebrate
+Type: Close, Pack, Lava/Magma, Ground, Night, Underground
+Size: Mid
+Element(s): Wood, Earth
+Stats:
+ATK: 12.0
+DEF: 21.8
+AGI: 15.0
+INT: 15.0
+WIS: 19.5
+HP: 230.0 MANA: 123.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1085 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis Fragilis (fragile) Steppus (steppe) Striata (striped)
+Shape: Invertebrate
+Type: Long Range, Pack, Lava/Magma, Night, Ground, Sky
+Size: Mid
+Element(s): Strength
+Stats:
+ATK: 15.0
+DEF: 15.0
+AGI: 15.0
+INT: 11.0
+WIS: 13.0
+HP: 165.0 MANA: 87.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1136 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Terros Robustus (strong)
+Shape: Invertebrate
+Type: Ground, Underground, Lava/Magma, Night, Long Range, Group
+Size: Mid
+Element(s): Water, Earth, Yin
+Stats:
+ATK: 11.0
+DEF: 18.0
+AGI: 16.2
+INT: 22.5
+WIS: 16.5
+HP: 191.0 MANA: 153.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1196 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Floranis Argenteus (silver) Savannus (savanna) Tigrina (tiger-striped)
+Shape: Invertebrate
+Type: Night, Long Range, Ground, Water, Horde, Sky
+Size: Mid
+Element(s): Physical, Ice
+Stats:
+ATK: 20.0
+DEF: 11.6
+AGI: 14.0
+INT: 15.2
+WIS: 15.0
+HP: 136.0 MANA: 113.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1228 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Altaria Purpureus (purple) Taiganus (taiga) Tessellata (checkered)
+Shape: Invertebrate
+Type: Range, Lava/Magma, Underground, Night, Ground, Pack
+Size: Mid
+Element(s): Sharpness
+Stats:
+ATK: 15.6
+DEF: 14.0
+AGI: 15.0
+INT: 14.0
+WIS: 15.0
+HP: 155.6 MANA: 107.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1300 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Solara
+Shape: Invertebrate
+Type: Group, Day, Lava/Magma, Mid, Ground, Underground
+Size: Mid
+Element(s): Water, Physical
+Stats:
+ATK: 13.7
+DEF: 12.6
+AGI: 18.8
+INT: 15.0
+WIS: 14.0
+HP: 139.7 MANA: 110.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1315 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Caelior Robustus (strong) Aethalis (high-altitude) Atra (deep black) Celerima (very fast)
+Shape: Invertebrate
+Type: Close, Underground, Water, Day, Pack, Ground
+Size: Mid
+Element(s): Yang
+Stats:
+ATK: 14.0
+DEF: 11.0
+AGI: 12.0
+INT: 22.5
+WIS: 19.5
+HP: 124.0 MANA: 161.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1369 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora
+Shape: Invertebrate
+Type: Close, Underground, Water, Day, Horde, Ground
+Size: Mid
+Element(s): Earth, Sharpness
+Stats:
+ATK: 19.5
+DEF: 15.6
+AGI: 12.0
+INT: 14.0
+WIS: 12.0
+HP: 175.5 MANA: 100.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1673 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Radiantia Luminosus (glowing)
+Shape: Invertebrate
+Type: Ground, Range, Lava/Magma, Sky, Night, Group
+Size: Mid
+Element(s): Gold, Wood, Physical
+Stats:
+ATK: 11.6
+DEF: 22.9
+AGI: 14.0
+INT: 15.6
+WIS: 19.5
+HP: 240.6 MANA: 126.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1808 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Stellion Floridus (flowery)
+Shape: Invertebrate
+Type: Range, Sky, Ground, Group, Lava/Magma, Day
+Size: Mid
+Element(s): Earth, Sharpness
+Stats:
+ATK: 14.3
+DEF: 14.4
+AGI: 11.0
+INT: 13.0
+WIS: 12.0
+HP: 158.3 MANA: 95.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2029 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Radiantia Spinosus (spiny) Tundralis (tundra) Tricolor (three-colored) Diurna (day-active)
+Shape: Invertebrate
+Type: Water, Mid, Day, Horde, Ground, Underground
+Size: Mid
+Element(s): Wood, Earth
+Stats:
+ATK: 14.0
+DEF: 20.3
+AGI: 15.0
+INT: 13.0
+WIS: 18.2
+HP: 217.0 MANA: 110.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2196 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis Laevis (smooth)
+Shape: Invertebrate
+Type: Long Range, Group, Underground, Day, Lava/Magma, Ground
+Size: Mid
+Element(s): Physical, Water
+Stats:
+ATK: 14.7
+DEF: 11.6
+AGI: 17.5
+INT: 18.8
+WIS: 13.0
+HP: 130.7 MANA: 126.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2326 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara
+Shape: Invertebrate
+Type: Mid, Water, Night, Underground, Group, Ground
+Size: Mid
+Element(s): Physical
+Stats:
+ATK: 12.6
+DEF: 12.6
+AGI: 15.0
+INT: 15.0
+WIS: 15.0
+HP: 138.6 MANA: 112.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2479 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ventus Alatus (winged) Lacustris (lake) Spinosa (spiny) Silens (silent)
+Shape: Invertebrate
+Type: Range, Horde, Lava/Magma, Night, Sky, Ground
+Size: Mid
+Element(s): Physical
+Stats:
+ATK: 12.6
+DEF: 11.6
+AGI: 11.0
+INT: 13.0
+WIS: 11.0
+HP: 128.6 MANA: 92.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2804 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Rupesca
+Shape: Invertebrate
+Type: Long Range, Sky, Day, Water, Horde, Ground
+Size: Mid
+Element(s): Fire
+Stats:
+ATK: 14.3
+DEF: 11.0
+AGI: 13.0
+INT: 15.4
+WIS: 14.0
+HP: 124.3 MANA: 112.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2951 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria Alatus (winged) Mangrova (mangrove) Opaca (opaque) Carnifex (flesh-eating)
+Shape: Invertebrate
+Type: Night, Horde, Long Range, Underground, Lava/Magma, Ground
+Size: Mid
+Element(s): Earth, Wood
+Stats:
+ATK: 14.0
+DEF: 21.8
+AGI: 13.0
+INT: 11.0
+WIS: 19.5
+HP: 232.0 MANA: 103.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3009 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis Serenus (calm)
+Shape: Invertebrate
+Type: Underground, Close, Ground, Lava/Magma, Pack, Night
+Size: Mid
+Element(s): Lightning
+Stats:
+ATK: 13.8
+DEF: 12.0
+AGI: 15.0
+INT: 15.0
+WIS: 14.0
+HP: 133.8 MANA: 110.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3052 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nebulora Fragilis (fragile)
+Shape: Invertebrate
+Type: Mid, Horde, Underground, Lava/Magma, Ground, Day
+Size: Mid
+Element(s): Yin, Strength, Water
+Stats:
+ATK: 14.0
+DEF: 13.0
+AGI: 16.2
+INT: 26.2
+WIS: 22.5
+HP: 144.0 MANA: 187.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3168 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria Clarus (bright) Steppus (steppe) Plumosa (feathered)
+Shape: Invertebrate
+Type: Pack, Range, Lava/Magma, Ground, Underground, Night
+Size: Mid
+Element(s): Sharpness
+Stats:
+ATK: 16.9
+DEF: 12.0
+AGI: 11.0
+INT: 14.0
+WIS: 11.0
+HP: 136.9 MANA: 97.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3220 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vulcanor Audax (bold) Oasensis (oasis) Striata (striped) Hibernans (hibernating)
+Shape: Invertebrate
+Type: Lava/Magma, Mid, Ground, Night, Horde, Underground
+Size: Mid
+Element(s): Earth, Physical, Gold
+Stats:
+ATK: 14.7
+DEF: 22.7
+AGI: 15.0
+INT: 13.2
+WIS: 13.0
+HP: 241.7 MANA: 98.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3254 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aurumis
+Shape: Invertebrate
+Type: Day, Pack, Water, Long Range, Underground, Ground
+Size: Mid
+Element(s): Lightning
+Stats:
+ATK: 17.5
+DEF: 11.0
+AGI: 18.8
+INT: 15.0
+WIS: 12.0
+HP: 127.5 MANA: 105.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3281 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Lunara
+Shape: Invertebrate
+Type: Day, Long Range, Lava/Magma, Group, Ground, Sky
+Size: Mid
+Element(s): Gold, Physical, Yin
+Stats:
+ATK: 13.7
+DEF: 16.4
+AGI: 15.0
+INT: 19.8
+WIS: 22.5
+HP: 177.7 MANA: 155.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3310 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis
+Shape: Invertebrate
+Type: Close, Sky, Ground, Day, Lava/Magma, Horde
+Size: Mid
+Element(s): Yang
+Stats:
+ATK: 13.0
+DEF: 13.0
+AGI: 14.0
+INT: 18.0
+WIS: 22.5
+HP: 143.0 MANA: 146.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3387 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis Mollis (soft) Campestris (plains) Viridis (green) Resiliens (resilient)
+Shape: Invertebrate
+Type: Night, Close, Group, Lava/Magma, Sky, Ground
+Size: Mid
+Element(s): Water, Physical
+Stats:
+ATK: 13.7
+DEF: 15.8
+AGI: 16.2
+INT: 15.0
+WIS: 14.0
+HP: 171.7 MANA: 110.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3406 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignavus
+Shape: Invertebrate
+Type: Night, Lava/Magma, Ground, Pack, Underground, Mid
+Size: Mid
+Element(s): Wood, Wind
+Stats:
+ATK: 14.0
+DEF: 26.3
+AGI: 17.6
+INT: 14.0
+WIS: 19.5
+HP: 277.0 MANA: 118.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3451 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Corvalis Magnus (large) Insularis (island) Atra (deep black) Fugax (fleeting)
+Shape: Invertebrate
+Type: Lava/Magma, Day, Pack, Long Range, Sky, Ground
+Size: Mid
+Element(s): Gold
+Stats:
+ATK: 13.0
+DEF: 14.4
+AGI: 14.0
+INT: 16.8
+WIS: 14.0
+HP: 157.0 MANA: 119.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3536 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Virensis
+Shape: Invertebrate
+Type: Horde, Day, Ground, Close, Underground, Lava/Magma
+Size: Mid
+Element(s): Fire, Wood, Earth
+Stats:
+ATK: 12.1
+DEF: 23.4
+AGI: 14.0
+INT: 12.1
+WIS: 14.3
+HP: 246.1 MANA: 96.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3679 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sylvanis Ferrugineus (rusty) Subterraneus (underground)
+Shape: Invertebrate
+Type: Water, Underground, Horde, Long Range, Ground, Night
+Size: Mid
+Element(s): Physical, Gold, Wood
+Stats:
+ATK: 13.7
+DEF: 18.0
+AGI: 12.0
+INT: 18.0
+WIS: 19.5
+HP: 193.7 MANA: 138.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

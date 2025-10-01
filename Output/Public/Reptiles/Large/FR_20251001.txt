@@ -1,0 +1,238 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0165 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Celestia Erectus (upright) Frigidus (cold)
+Shape: Reptile
+Type: Long Range, Night, Group, Ground, Underground, Lava/Magma
+Size: Large
+Element(s): Water, Wood
+Stats:
+ATK: 19.0
+DEF: 26.0
+AGI: 27.5
+INT: 23.8
+WIS: 23.4
+HP: 279.0 MANA: 177.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0749 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Floranis Hirsutus (hairy) Alpinus (alpine) Lobata (lobed)
+Shape: Reptile
+Type: Sky, Range, Day, Group, Water, Ground
+Size: Large
+Element(s): Fire, Physical, Ice
+Stats:
+ATK: 32.3
+DEF: 23.1
+AGI: 17.0
+INT: 26.5
+WIS: 17.0
+HP: 263.3 MANA: 175.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1513 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Terros
+Shape: Reptile
+Type: Night, Mid, Group, Lava/Magma, Ground, Underground
+Size: Large
+Element(s): Water
+Stats:
+ATK: 22.0
+DEF: 18.0
+AGI: 25.0
+INT: 23.8
+WIS: 18.0
+HP: 202.0 MANA: 164.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2437 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Eclipsis Luminosus (glowing)
+Shape: Reptile
+Type: Sky, Mid, Lava/Magma, Pack, Ground, Night
+Size: Large
+Element(s): Physical, Gold, Earth
+Stats:
+ATK: 18.9
+DEF: 25.7
+AGI: 22.0
+INT: 20.4
+WIS: 17.0
+HP: 275.9 MANA: 144.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2450 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Radiantia Communis (common) Australis (southern) Lineata (lined)
+Shape: Reptile
+Type: Sky, Day, Pack, Water, Ground, Mid
+Size: Large
+Element(s): Sharpness
+Stats:
+ATK: 26.0
+DEF: 22.0
+AGI: 17.0
+INT: 17.0
+WIS: 20.0
+HP: 246.0 MANA: 135.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2537 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara
+Shape: Reptile
+Type: Underground, Range, Lava/Magma, Group, Ground, Day
+Size: Large
+Element(s): Gold, Yang
+Stats:
+ATK: 19.0
+DEF: 26.4
+AGI: 20.0
+INT: 34.2
+WIS: 28.5
+HP: 283.0 MANA: 242.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2916 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Altaria
+Shape: Reptile
+Type: Water, Group, Underground, Night, Ground, Range
+Size: Large
+Element(s): Earth
+Stats:
+ATK: 17.0
+DEF: 25.2
+AGI: 20.0
+INT: 17.0
+WIS: 17.0
+HP: 269.0 MANA: 127.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3133 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Viridis (green) Littoralis (shore)
+Shape: Reptile
+Type: Close, Lava/Magma, Sky, Night, Pack, Ground
+Size: Large
+Element(s): Crystal, Earth
+Stats:
+ATK: 25.2
+DEF: 37.0
+AGI: 19.0
+INT: 17.0
+WIS: 17.0
+HP: 395.2 MANA: 127.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3161 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Terros Ferrugineus (rusty) Borealis (northern)
+Shape: Reptile
+Type: Night, Water, Pack, Range, Ground, Underground
+Size: Large
+Element(s): Water
+Stats:
+ATK: 22.0
+DEF: 19.0
+AGI: 27.5
+INT: 27.5
+WIS: 18.0
+HP: 212.0 MANA: 182.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3197 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Umbrion
+Shape: Reptile
+Type: Water, Range, Underground, Night, Horde, Ground
+Size: Large
+Element(s): Physical
+Stats:
+ATK: 18.9
+DEF: 22.1
+AGI: 19.0
+INT: 18.0
+WIS: 20.0
+HP: 239.9 MANA: 140.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3303 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Petralis Albus (white) Frigidus (cold) Scutata (shield-shaped) Sonorus (loud)
+Shape: Reptile
+Type: Close, Horde, Sky, Water, Night, Ground
+Size: Large
+Element(s): Earth
+Stats:
+ATK: 22.0
+DEF: 26.4
+AGI: 19.0
+INT: 21.0
+WIS: 21.0
+HP: 286.0 MANA: 157.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3446 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Serpentis Spinosus (spiny) Fennalis (fen) Viridis (green) Parasitus (parasitic)
+Shape: Reptile
+Type: Pack, Long Range, Day, Underground, Water, Ground
+Size: Large
+Element(s): Gold
+Stats:
+ATK: 19.0
+DEF: 20.4
+AGI: 21.0
+INT: 24.0
+WIS: 18.0
+HP: 223.0 MANA: 165.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3622 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Mirabilis Laevis (smooth) Alpinus (alpine) Lunata (crescent-shaped) Gregaria (gregarious)
+Shape: Reptile
+Type: Range, Underground, Day, Lava/Magma, Ground, Pack
+Size: Large
+Element(s): Lightning, Fire, Water
+Stats:
+ATK: 28.9
+DEF: 20.0
+AGI: 29.7
+INT: 24.8
+WIS: 22.0
+HP: 228.9 MANA: 179.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3681 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Noctis Opacus (shaded)
+Shape: Reptile
+Type: Mid, Night, Lava/Magma, Underground, Group, Ground
+Size: Large
+Element(s): Water, Lightning
+Stats:
+ATK: 21.2
+DEF: 22.0
+AGI: 32.8
+INT: 22.5
+WIS: 20.0
+HP: 241.2 MANA: 162.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3809 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Mirabilis Glaber (hairless)
+Shape: Reptile
+Type: Night, Water, Ground, Group, Sky, Range
+Size: Large
+Element(s): Fire
+Stats:
+ATK: 19.8
+DEF: 21.0
+AGI: 18.0
+INT: 18.7
+WIS: 20.0
+HP: 229.8 MANA: 143.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3897 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis
+Shape: Reptile
+Type: Group, Night, Close, Underground, Water, Ground
+Size: Large
+Element(s): Wind
+Stats:
+ATK: 21.0
+DEF: 29.7
+AGI: 24.3
+INT: 20.0
+WIS: 21.0
+HP: 318.0 MANA: 152.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3982 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Petralis
+Shape: Reptile
+Type: Range, Ground, Horde, Lava/Magma, Underground, Day
+Size: Large
+Element(s): Gold
+Stats:
+ATK: 19.0
+DEF: 21.6
+AGI: 17.0
+INT: 25.2
+WIS: 19.0
+HP: 235.0 MANA: 173.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

@@ -1,0 +1,60 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0413 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Corvalis Pallidus (pale) Sylvestris (forest)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Night, Underground, Horde, Water, Range, Ground
+Size: Super
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 74.5 because of elemental bonuses, base ATK: 71.0
+DEF: 79.8 because of elemental bonuses, base DEF: 76.0
+AGI: 68.0
+INT: 94.0
+WIS: 98.0
+HP: 872.5 MANA: 715.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1314 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lumina Angustus (narrow) Tropicalis (tropical) Bicolor (two-colored)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Sky, Lava/Magma, Night, Close, Pack, Ground
+Size: Super
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 82.0
+DEF: 71.0
+AGI: 118.8 because of elemental bonuses, base AGI: 95.0
+INT: 85.0 because of elemental bonuses, base INT: 68.0
+WIS: 82.0
+HP: 792.0 MANA: 630.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2572 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Magnus (large)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Horde, Water, Close, Night, Ground, Sky
+Size: Super
+Element(s): Lightning
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 91.2 because of elemental bonuses, base ATK: 73.0
+DEF: 69.0
+AGI: 97.5 because of elemental bonuses, base AGI: 78.0
+INT: 69.0
+WIS: 82.0
+HP: 781.2 MANA: 550.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3560 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Umbrion Purpureus (purple)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Lava/Magma, Pack, Ground, Long Range, Underground, Day
+Size: Super
+Element(s): Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 73.0
+DEF: 79.0
+AGI: 93.0
+INT: 145.5 because of elemental bonuses, base INT: 97.0
+WIS: 148.5 because of elemental bonuses, base WIS: 99.0
+HP: 863.0 MANA: 1098.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

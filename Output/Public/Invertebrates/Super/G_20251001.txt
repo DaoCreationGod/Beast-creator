@@ -1,0 +1,56 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1148 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Celestia Niger (black) Tropicalis (tropical)
+Shape: Invertebrate
+Type: Underground, Range, Day, Horde, Lava/Magma, Ground
+Size: Super
+Element(s): Gold
+Stats:
+ATK: 78.0
+DEF: 115.2
+AGI: 73.0
+INT: 85.2
+WIS: 72.0
+HP: 1230.0 MANA: 606.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1258 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vaporia Opacus (shaded) Arboreus (tree-dwelling) Fasciata (banded) Fragrans (fragrant)
+Shape: Invertebrate
+Type: Long Range, Day, Sky, Pack, Water, Ground
+Size: Super
+Element(s): Wood, Earth, Water
+Stats:
+ATK: 93.0
+DEF: 148.2
+AGI: 88.8
+INT: 90.0
+WIS: 128.7
+HP: 1575.0 MANA: 771.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2615 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Rupesca
+Shape: Invertebrate
+Type: Lava/Magma, Ground, Range, Sky, Night, Pack
+Size: Super
+Element(s): Earth, Fire, Wind
+Stats:
+ATK: 95.7
+DEF: 152.3
+AGI: 90.5
+INT: 95.7
+WIS: 66.0
+HP: 1618.7 MANA: 643.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3165 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ventus Robustus (strong) Savannus (savanna) Rosea (pink) Repens (crawling)
+Shape: Invertebrate
+Type: Lava/Magma, Sky, Close, Horde, Night, Ground
+Size: Super
+Element(s): Gold, Fire, Earth
+Stats:
+ATK: 107.8
+DEF: 105.1
+AGI: 81.0
+INT: 95.0
+WIS: 99.0
+HP: 1158.8 MANA: 722.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

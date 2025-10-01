@@ -1,0 +1,90 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0407 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Water, Long Range, Sky, Horde, Day, Ground
+Size: Giant
+Element(s): Fire, Crystal
+Specialized Adaptation: Bioluminescent Firefly (Lampyridae spp.) - Flashing abdomen.
+Stats:
+ATK: 38.5 because of elemental bonuses, base ATK: 25.0
+DEF: 35.0 because of elemental bonuses, base DEF: 25.0
+AGI: 30.0
+INT: 30.8 because of elemental bonuses, base INT: 28.0
+WIS: 28.0
+HP: 388.5 MANA: 224.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0765 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Umbrion Clarus (bright)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Day, Sky, Lava/Magma, Ground, Close, Pack
+Size: Giant
+Element(s): Water, Fire, Wood
+Specialized Adaptation: Bioluminescent Hatchetfish (Sternoptyx spp.) - Counter-illumination camouflage.
+Stats:
+ATK: 31.9 because of elemental bonuses, base ATK: 29.0
+DEF: 35.1 because of elemental bonuses, base DEF: 27.0
+AGI: 37.5 because of elemental bonuses, base AGI: 30.0
+INT: 35.8 because of elemental bonuses, base INT: 26.0
+WIS: 36.4 because of elemental bonuses, base WIS: 28.0
+HP: 382.9 MANA: 270.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1358 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Serpentis Viridis (green) Maritimus (coastal) Atra (deep black)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Range, Ground, Sky, Water, Day, Pack
+Size: Giant
+Element(s): Sharpness
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 32.5 because of elemental bonuses, base ATK: 25.0
+DEF: 29.0
+AGI: 26.0
+INT: 26.0
+WIS: 25.0
+HP: 322.5 MANA: 192.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2940 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Silexia
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Group, Close, Sky, Night, Water, Ground
+Size: Giant
+Element(s): Earth, Wood
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 28.0
+DEF: 43.7 because of elemental bonuses, base DEF: 28.0
+AGI: 29.0
+INT: 30.0
+WIS: 37.7 because of elemental bonuses, base WIS: 29.0
+HP: 465.0 MANA: 244.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2946 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aurumis
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Horde, Mid, Water, Underground, Night, Ground
+Size: Giant
+Element(s): Physical, Earth
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 30.5 because of elemental bonuses, base ATK: 29.0
+DEF: 35.3 because of elemental bonuses, base DEF: 28.0
+AGI: 30.0
+INT: 27.0
+WIS: 25.0
+HP: 383.5 MANA: 197.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3383 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Cinereus (gray) Desertus (desert) Maculata (spotted) Migrans (migratory)
+Shape: Vertebrate, Cursorial Quadrupedal, Lean, long-limbed runners built for speed/endurance
+Type: Night, Ground, Horde, Underground, Lava/Magma, Long Range
+Size: Giant
+Element(s): Fire, Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 28.6 because of elemental bonuses, base ATK: 26.0
+DEF: 26.0
+AGI: 28.0
+INT: 42.9 because of elemental bonuses, base INT: 26.0
+WIS: 43.5 because of elemental bonuses, base WIS: 29.0
+HP: 288.6 MANA: 323.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

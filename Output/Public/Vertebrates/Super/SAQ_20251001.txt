@@ -1,0 +1,28 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2745 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria
+Shape: Vertebrate
+Type: Water, Day, Long Range, Underground, Group, Ground
+Size: Super
+Element(s): Earth
+Stats:
+ATK: 87.0
+DEF: 104.4
+AGI: 78.0
+INT: 95.0
+WIS: 72.0
+HP: 1131.0 MANA: 655.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3763 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignavus Radians (radiant)
+Shape: Vertebrate
+Type: Close, Group, Lava/Magma, Night, Ground, Sky
+Size: Super
+Element(s): Crystal
+Stats:
+ATK: 133.0
+DEF: 95.2
+AGI: 90.0
+INT: 94.0
+WIS: 74.0
+HP: 1085.0 MANA: 655.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

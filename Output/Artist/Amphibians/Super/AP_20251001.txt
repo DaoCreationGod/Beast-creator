@@ -1,0 +1,15 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3652 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Voltis Rotundus (round) Oasensis (oasis) Orbiculata (circular) Mimicus (mimicking)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Day, Mid, Pack, Water, Underground, Ground
+Size: Super
+Element(s): Fire, Wood, Earth
+Specialized Adaptation: Extreme Camouflage Cuttlefish (Sepia officinalis) - Adaptive camouflage.
+Stats:
+ATK: 94.6 because of elemental bonuses, base ATK: 86.0
+DEF: 103.0 because of elemental bonuses, base DEF: 66.0
+AGI: 76.0
+INT: 94.6 because of elemental bonuses, base INT: 86.0
+WIS: 119.6 because of elemental bonuses, base WIS: 92.0
+HP: 1124.6 MANA: 772.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

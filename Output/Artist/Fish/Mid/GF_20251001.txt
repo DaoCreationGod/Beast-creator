@@ -1,0 +1,420 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0389 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis Audax (bold) Oreadis (mountain nymph) Tricolor (three-colored) Saltans (jumping)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Day, Range, Sky, Lava/Magma, Horde, Ground
+Size: Mid
+Element(s): Water, Wood
+Specialized Adaptation: Extreme Camouflage Coconut Octopus (Amphioctopus marginatus) - Hides in shells.
+Stats:
+ATK: 14.0
+DEF: 15.6 because of elemental bonuses, base DEF: 12.0
+AGI: 17.5 because of elemental bonuses, base AGI: 14.0
+INT: 18.8 because of elemental bonuses, base INT: 15.0
+WIS: 16.9 because of elemental bonuses, base WIS: 13.0
+HP: 170.0 MANA: 136.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0434 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Fulgora
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Ground, Group, Water, Day, Sky, Mid
+Size: Mid
+Element(s): Fire, Ice, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.1 because of elemental bonuses, base ATK: 13.0
+DEF: 13.7 because of elemental bonuses, base DEF: 13.0
+AGI: 14.0
+INT: 21.0 because of elemental bonuses, base INT: 15.0
+WIS: 12.0
+HP: 156.1 MANA: 135.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0521 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Radiantia Angustus (narrow) Vallicola (valley)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Lava/Magma, Group, Mid, Night, Sky, Ground
+Size: Mid
+Element(s): Fire, Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.6 because of elemental bonuses, base ATK: 14.0
+DEF: 14.0
+AGI: 13.0
+INT: 19.6 because of elemental bonuses, base INT: 14.0
+WIS: 12.0
+HP: 159.6 MANA: 128.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0982 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ventus Clarus (bright) Steppus (steppe)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Underground, Horde, Close, Lava/Magma, Ground, Night
+Size: Mid
+Element(s): Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.6 because of elemental bonuses, base ATK: 14.0
+DEF: 21.0 because of elemental bonuses, base DEF: 15.0
+AGI: 15.0
+INT: 14.0
+WIS: 15.0
+HP: 229.6 MANA: 107.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1009 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aeternis Gravis (heavy) Taiganus (taiga)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Range, Lava/Magma, Pack, Night, Sky, Ground
+Size: Mid
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 14.0
+DEF: 13.0
+AGI: 12.0
+INT: 18.0 because of elemental bonuses, base INT: 12.0
+WIS: 19.5 because of elemental bonuses, base WIS: 13.0
+HP: 144.0 MANA: 138.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1398 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Arcanis Fragilis (fragile)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Sky, Pack, Close, Water, Ground, Night
+Size: Mid
+Element(s): Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.5 because of elemental bonuses, base ATK: 15.0
+DEF: 15.0
+AGI: 11.0
+INT: 14.0
+WIS: 14.0
+HP: 169.5 MANA: 105.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1490 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Floridus (flowery) Sylvestris (forest)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Water, Underground, Group, Ground, Night, Mid
+Size: Mid
+Element(s): Fire, Gold, Earth
+Specialized Adaptation: Extreme Camouflage Scorpionfish (Scorpaenidae spp.) - Algae-covered appearance.
+Stats:
+ATK: 15.4 because of elemental bonuses, base ATK: 14.0
+DEF: 15.8 because of elemental bonuses, base DEF: 11.0
+AGI: 13.0
+INT: 19.8 because of elemental bonuses, base INT: 15.0
+WIS: 11.0
+HP: 173.4 MANA: 126.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1743 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Radiantia Parvus (small) Nemoralis (woodland)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Night, Pack, Range, Underground, Lava/Magma, Ground
+Size: Mid
+Element(s): Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.0
+DEF: 14.0
+AGI: 15.0
+INT: 19.5 because of elemental bonuses, base INT: 13.0
+WIS: 19.5 because of elemental bonuses, base WIS: 13.0
+HP: 151.0 MANA: 146.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1770 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis Celeris (fast) Subterraneus (underground)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Sky, Mid, Group, Day, Ground, Water
+Size: Mid
+Element(s): Fire, Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 13.2 because of elemental bonuses, base ATK: 12.0
+DEF: 12.0
+AGI: 11.0
+INT: 19.8 because of elemental bonuses, base INT: 12.0
+WIS: 18.0 because of elemental bonuses, base WIS: 12.0
+HP: 133.2 MANA: 144.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1791 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia Gravis (heavy) Glacialis (icy) Tricolor (three-colored) Ambulans (walking)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Sky, Long Range, Group, Day, Lava/Magma, Ground
+Size: Mid
+Element(s): Water, Earth, Wood
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 14.0
+DEF: 21.8 because of elemental bonuses, base DEF: 14.0
+AGI: 16.2 because of elemental bonuses, base AGI: 13.0
+INT: 17.5 because of elemental bonuses, base INT: 14.0
+WIS: 16.9 because of elemental bonuses, base WIS: 13.0
+HP: 232.0 MANA: 129.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1825 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis Robustus (strong)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Day, Underground, Water, Pack, Mid, Ground
+Size: Mid
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 19.6 because of elemental bonuses, base ATK: 14.0
+DEF: 16.8 because of elemental bonuses, base DEF: 12.0
+AGI: 15.0
+INT: 13.0
+WIS: 14.0
+HP: 187.6 MANA: 100.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1871 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Silentis (quiet) Saxatilis (rocky)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Lava/Magma, Group, Ground, Range, Underground, Day
+Size: Mid
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 13.0
+DEF: 14.4 because of elemental bonuses, base DEF: 12.0
+AGI: 13.0
+INT: 14.4 because of elemental bonuses, base INT: 12.0
+WIS: 11.0
+HP: 157.0 MANA: 99.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1914 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria Silentis (quiet) Campestris (plains) Lanceolata (lance-shaped)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Underground, Long Range, Water, Ground, Day, Pack
+Size: Mid
+Element(s): Crystal, Earth, Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 16.9 because of elemental bonuses, base ATK: 11.0
+DEF: 18.5 because of elemental bonuses, base DEF: 11.0
+AGI: 14.0
+INT: 12.1 because of elemental bonuses, base INT: 11.0
+WIS: 15.0
+HP: 201.9 MANA: 98.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1948 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lumina Gravis (heavy)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Lava/Magma, Group, Mid, Sky, Day, Ground
+Size: Mid
+Element(s): Gold, Fire, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 16.2 because of elemental bonuses, base ATK: 14.0
+DEF: 13.9 because of elemental bonuses, base DEF: 11.0
+AGI: 11.0
+INT: 15.8 because of elemental bonuses, base INT: 12.0
+WIS: 12.0
+HP: 155.2 MANA: 109.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1981 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Ferrugineus (rusty) Fluvialis (river) Undulata (wavy) Placida (peaceful)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Underground, Pack, Day, Range, Water, Ground
+Size: Mid
+Element(s): Gold, Water, Wood
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 11.0
+DEF: 18.7 because of elemental bonuses, base DEF: 12.0
+AGI: 13.8 because of elemental bonuses, base AGI: 11.0
+INT: 16.5 because of elemental bonuses, base INT: 11.0
+WIS: 15.6 because of elemental bonuses, base WIS: 12.0
+HP: 198.0 MANA: 121.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2082 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Mid, Sky, Day, Lava/Magma, Pack, Ground
+Size: Mid
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Tasselled Wobbegong (Eucrossorhinus dasypogon) - Frilly seaweed mimic.
+Stats:
+ATK: 15.0
+DEF: 13.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 15.0 because of elemental bonuses, base INT: 12.0
+WIS: 12.0
+HP: 145.0 MANA: 105.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2137 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Pallidus (pale) Canyonis (canyon) Marmorata (marbled)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Sky, Ground, Night, Horde, Water, Range
+Size: Mid
+Element(s): Sharpness
+Specialized Adaptation: Bioluminescent Stoplight Loosejaw (Malacosteus niger) - Red light invisible to prey.
+Stats:
+ATK: 14.3 because of elemental bonuses, base ATK: 11.0
+DEF: 13.0
+AGI: 11.0
+INT: 14.0
+WIS: 13.0
+HP: 144.3 MANA: 102.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2337 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Voltis
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Mid, Ground, Day, Underground, Water, Horde
+Size: Mid
+Element(s): Water, Wood, Earth
+Specialized Adaptation: Extreme Camouflage Chameleon (Furcifer pardalis) - Color-changing skin.
+Stats:
+ATK: 14.0
+DEF: 21.8 because of elemental bonuses, base DEF: 14.0
+AGI: 17.5 because of elemental bonuses, base AGI: 14.0
+INT: 13.8 because of elemental bonuses, base INT: 11.0
+WIS: 15.6 because of elemental bonuses, base WIS: 12.0
+HP: 232.0 MANA: 108.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2587 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Viridis (green) Taiganus (taiga)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Water, Group, Close, Underground, Night, Ground
+Size: Mid
+Element(s): Earth, Yang
+Specialized Adaptation: Bioluminescent Deep-Sea Anglerfish (Linophryne arborifera) - Glowing chin barbel.
+Stats:
+ATK: 12.0
+DEF: 14.4 because of elemental bonuses, base DEF: 12.0
+AGI: 11.0
+INT: 22.5 because of elemental bonuses, base INT: 15.0
+WIS: 22.5 because of elemental bonuses, base WIS: 15.0
+HP: 156.0 MANA: 168.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2706 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Glacies Magnus (large) Glacialis (icy) Glabra (smooth)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Day, Ground, Group, Close, Water, Sky
+Size: Mid
+Element(s): Strength
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 11.8 because of elemental bonuses, base ATK: 11.0
+DEF: 14.0
+AGI: 13.0
+INT: 15.0
+WIS: 15.0
+HP: 151.8 MANA: 112.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2866 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Aureus (golden)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Group, Sky, Water, Long Range, Night, Ground
+Size: Mid
+Element(s): Water, Physical, Fire
+Specialized Adaptation: Extreme Camouflage Stick Caterpillar (Phalera bucephala) - Resembles a broken twig.
+Stats:
+ATK: 12.7 because of elemental bonuses, base ATK: 11.0
+DEF: 15.8 because of elemental bonuses, base DEF: 15.0
+AGI: 17.5 because of elemental bonuses, base AGI: 14.0
+INT: 15.1 because of elemental bonuses, base INT: 11.0
+WIS: 15.0
+HP: 170.7 MANA: 113.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2985 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Rotundus (round) Urbanus (urban) Guttata (speckled) Fluitans (floating)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Close, Sky, Pack, Ground, Water, Night
+Size: Mid
+Element(s): Water
+Specialized Adaptation: Bioluminescent Firefly (Lampyridae spp.) - Flashing abdomen.
+Stats:
+ATK: 12.0
+DEF: 14.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 17.5 because of elemental bonuses, base INT: 14.0
+WIS: 11.0
+HP: 152.0 MANA: 115.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3005 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Marinus
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Group, Lava/Magma, Day, Ground, Range, Underground
+Size: Mid
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 14.0
+DEF: 15.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 16.2 because of elemental bonuses, base INT: 13.0
+WIS: 12.0
+HP: 164.0 MANA: 111.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3013 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Serenus (calm) Littoralis (shore) Lunata (crescent-shaped) Volitans (flying)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Lava/Magma, Ground, Sky, Close, Horde, Night
+Size: Mid
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Stoplight Loosejaw (Malacosteus niger) - Red light invisible to prey.
+Stats:
+ATK: 16.8 because of elemental bonuses, base ATK: 12.0
+DEF: 16.8 because of elemental bonuses, base DEF: 12.0
+AGI: 15.0
+INT: 14.0
+WIS: 15.0
+HP: 184.8 MANA: 107.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3058 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria Fragilis (fragile) Tundralis (tundra)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Horde, Underground, Ground, Range, Water, Day
+Size: Mid
+Element(s): Lightning
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 18.8 because of elemental bonuses, base ATK: 15.0
+DEF: 12.0
+AGI: 18.8 because of elemental bonuses, base AGI: 15.0
+INT: 11.0
+WIS: 11.0
+HP: 138.8 MANA: 82.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3139 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aetheris Levis (light)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Long Range, Water, Ground, Sky, Night, Group
+Size: Mid
+Element(s): Ice, Water
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 17.8 because of elemental bonuses, base ATK: 14.0
+DEF: 13.0
+AGI: 16.2 because of elemental bonuses, base AGI: 13.0
+INT: 19.1 because of elemental bonuses, base INT: 12.0
+WIS: 11.0
+HP: 147.8 MANA: 123.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3198 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia Celeris (fast) Littoralis (shore) Guttata (speckled) Scavens (scavenging)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Long Range, Ground, Horde, Water, Underground, Day
+Size: Mid
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 15.0
+DEF: 18.0 because of elemental bonuses, base DEF: 15.0
+AGI: 11.0
+INT: 18.0 because of elemental bonuses, base INT: 15.0
+WIS: 13.0
+HP: 195.0 MANA: 122.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3773 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Fulgora Cinereus (gray)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Horde, Sky, Range, Night, Ground, Water
+Size: Mid
+Element(s): Fire, Water, Gold
+Specialized Adaptation: Extreme Camouflage Leaf-Tailed Gecko (Uroplatus spp.) - Lichen-mimicking skin.
+Stats:
+ATK: 16.5 because of elemental bonuses, base ATK: 15.0
+DEF: 13.2 because of elemental bonuses, base DEF: 11.0
+AGI: 17.5 because of elemental bonuses, base AGI: 14.0
+INT: 21.5 because of elemental bonuses, base INT: 13.0
+WIS: 11.0
+HP: 148.5 MANA: 135.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

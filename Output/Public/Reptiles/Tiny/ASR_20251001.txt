@@ -1,0 +1,350 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0130 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tempestis Luminosus (glowing) Palustris (marshy)
+Shape: Reptile
+Type: Night, Mid, Horde, Lava/Magma, Ground, Underground
+Size: Tiny
+Element(s): Earth, Strength
+Stats:
+ATK: 5.4
+DEF: 6.0
+AGI: 5.0
+INT: 7.0
+WIS: 8.0
+HP: 65.4 MANA: 55.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0499 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aquarion
+Shape: Reptile
+Type: Underground, Group, Night, Range, Lava/Magma, Ground
+Size: Tiny
+Element(s): Yin
+Stats:
+ATK: 8.0
+DEF: 5.0
+AGI: 6.0
+INT: 7.5
+WIS: 9.0
+HP: 58.0 MANA: 60.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0604 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Umbrion Parvus (small)
+Shape: Reptile
+Type: Close, Sky, Horde, Water, Night, Ground
+Size: Tiny
+Element(s): Earth
+Stats:
+ATK: 5.0
+DEF: 6.0
+AGI: 5.0
+INT: 5.0
+WIS: 7.0
+HP: 65.0 MANA: 42.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0679 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ventus Rotundus (round) Palustris (marshy) Lanceolata (lance-shaped)
+Shape: Reptile
+Type: Group, Ground, Range, Underground, Night, Water
+Size: Tiny
+Element(s): Water
+Stats:
+ATK: 6.0
+DEF: 6.0
+AGI: 7.5
+INT: 6.2
+WIS: 5.0
+HP: 66.0 MANA: 43.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0894 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ferralis Celeris (fast) Arenosus (sandy) Caerulea (blue) Diurna (day-active)
+Shape: Reptile
+Type: Horde, Long Range, Ground, Lava/Magma, Underground, Night
+Size: Tiny
+Element(s): Fire, Crystal, Earth
+Stats:
+ATK: 12.3
+DEF: 13.4
+AGI: 5.0
+INT: 5.5
+WIS: 6.0
+HP: 146.3 MANA: 42.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0992 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara Niger (black) Sylvestris (forest)
+Shape: Reptile
+Type: Horde, Mid, Lava/Magma, Day, Underground, Ground
+Size: Tiny
+Element(s): Yang
+Stats:
+ATK: 5.0
+DEF: 8.0
+AGI: 6.0
+INT: 9.0
+WIS: 7.5
+HP: 85.0 MANA: 63.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1617 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tenebris Luridus (pale) Borealis (northern)
+Shape: Reptile
+Type: Day, Underground, Lava/Magma, Pack, Mid, Ground
+Size: Tiny
+Element(s): Physical
+Stats:
+ATK: 7.4
+DEF: 5.2
+AGI: 5.0
+INT: 5.0
+WIS: 6.0
+HP: 59.4 MANA: 40.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1621 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Terros
+Shape: Reptile
+Type: Sky, Mid, Group, Ground, Water, Night
+Size: Tiny
+Element(s): Fire, Crystal
+Stats:
+ATK: 9.2
+DEF: 11.2
+AGI: 6.0
+INT: 5.5
+WIS: 6.0
+HP: 121.2 MANA: 42.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1917 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tenebris Rufus (red) Litoralis (coastal) Purpurea (purple)
+Shape: Reptile
+Type: Range, Sky, Pack, Water, Ground, Day
+Size: Tiny
+Element(s): Water
+Stats:
+ATK: 6.0
+DEF: 8.0
+AGI: 6.2
+INT: 10.0
+WIS: 6.0
+HP: 86.0 MANA: 65.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1958 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Marinus
+Shape: Reptile
+Type: Water, Sky, Long Range, Day, Group, Ground
+Size: Tiny
+Element(s): Earth
+Stats:
+ATK: 7.0
+DEF: 8.4
+AGI: 7.0
+INT: 5.0
+WIS: 7.0
+HP: 91.0 MANA: 42.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2089 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Infinitus Opacus (shaded) Steppus (steppe)
+Shape: Reptile
+Type: Day, Range, Pack, Water, Sky, Ground
+Size: Tiny
+Element(s): Yin
+Stats:
+ATK: 8.0
+DEF: 5.0
+AGI: 6.0
+INT: 9.0
+WIS: 9.0
+HP: 58.0 MANA: 67.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2439 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aurumis Rarus (rare) Humidus (humid) Lineata (lined) Radicans (rooting)
+Shape: Reptile
+Type: Underground, Horde, Day, Ground, Lava/Magma, Long Range
+Size: Tiny
+Element(s): Fire, Earth
+Stats:
+ATK: 6.6
+DEF: 9.6
+AGI: 6.0
+INT: 6.6
+WIS: 6.0
+HP: 102.6 MANA: 48.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2558 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Solara Serenus (calm) Australis (southern) Nigra (black) Endemica (endemic)
+Shape: Reptile
+Type: Underground, Mid, Horde, Day, Ground, Lava/Magma
+Size: Tiny
+Element(s): Yang
+Stats:
+ATK: 8.0
+DEF: 5.0
+AGI: 6.0
+INT: 12.0
+WIS: 7.5
+HP: 58.0 MANA: 78.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2566 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Infinitus Ferrugineus (rusty) Limosus (muddy) Aurea (gold) Herbora (plant-eating)
+Shape: Reptile
+Type: Lava/Magma, Pack, Night, Mid, Underground, Ground
+Size: Tiny
+Element(s): Physical
+Stats:
+ATK: 6.3
+DEF: 6.3
+AGI: 8.0
+INT: 7.0
+WIS: 6.0
+HP: 69.3 MANA: 50.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2847 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sylvanis Vibrans (vibrant) Fluvialis (river) Variegata (variegated)
+Shape: Reptile
+Type: Underground, Close, Pack, Ground, Water, Day
+Size: Tiny
+Element(s): Water, Yin
+Stats:
+ATK: 5.0
+DEF: 5.0
+AGI: 10.0
+INT: 11.2
+WIS: 12.0
+HP: 55.0 MANA: 86.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2883 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Corvalis Pendulus (hanging) Savannus (savanna) Tessellata (checkered) Rapax (predatory)
+Shape: Reptile
+Type: Underground, Close, Water, Day, Horde, Ground
+Size: Tiny
+Element(s): Yang
+Stats:
+ATK: 8.0
+DEF: 6.0
+AGI: 8.0
+INT: 10.5
+WIS: 12.0
+HP: 68.0 MANA: 82.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3117 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aquarion Velox (swift) Saxatilis (rocky) Pilosa (fuzzy) Herbora (plant-eating)
+Shape: Reptile
+Type: Day, Pack, Range, Water, Ground, Sky
+Size: Tiny
+Element(s): Wind, Strength
+Stats:
+ATK: 7.5
+DEF: 9.5
+AGI: 10.8
+INT: 5.0
+WIS: 7.0
+HP: 102.5 MANA: 42.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3188 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Glacies Vibrans (vibrant) Alpinus (alpine)
+Shape: Reptile
+Type: Underground, Day, Horde, Range, Ground, Lava/Magma
+Size: Tiny
+Element(s): Physical, Wood
+Stats:
+ATK: 5.2
+DEF: 8.2
+AGI: 6.0
+INT: 6.0
+WIS: 10.4
+HP: 87.2 MANA: 56.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3320 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Eclipsis Purpureus (purple) Desertus (desert)
+Shape: Reptile
+Type: Underground, Range, Day, Ground, Horde, Lava/Magma
+Size: Tiny
+Element(s): Wood
+Stats:
+ATK: 6.0
+DEF: 7.8
+AGI: 8.0
+INT: 7.0
+WIS: 10.4
+HP: 84.0 MANA: 61.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3471 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis Flexilis (flexible) Savannus (savanna) Bicolor (two-colored) Fluitans (floating)
+Shape: Reptile
+Type: Underground, Close, Day, Group, Water, Ground
+Size: Tiny
+Element(s): Wood
+Stats:
+ATK: 8.0
+DEF: 10.4
+AGI: 6.0
+INT: 8.0
+WIS: 7.8
+HP: 112.0 MANA: 59.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3478 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Radiantia Volans (flying) Aridus (arid) Metallica (metallic) Volitans (flying)
+Shape: Reptile
+Type: Group, Range, Night, Sky, Lava/Magma, Ground
+Size: Tiny
+Element(s): Water, Wood, Earth
+Stats:
+ATK: 6.0
+DEF: 10.9
+AGI: 7.5
+INT: 6.2
+WIS: 7.8
+HP: 115.0 MANA: 50.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3542 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tranquilis Floridus (flowery)
+Shape: Reptile
+Type: Water, Underground, Horde, Close, Night, Ground
+Size: Tiny
+Element(s): Wood
+Stats:
+ATK: 7.0
+DEF: 6.5
+AGI: 5.0
+INT: 7.0
+WIS: 6.5
+HP: 72.0 MANA: 51.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3547 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Terros Parvus (small) Eremitus (isolated) Lobata (lobed) Carnifex (flesh-eating)
+Shape: Reptile
+Type: Underground, Close, Group, Water, Night, Ground
+Size: Tiny
+Element(s): Earth
+Stats:
+ATK: 7.0
+DEF: 8.4
+AGI: 8.0
+INT: 7.0
+WIS: 6.0
+HP: 91.0 MANA: 50.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3786 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Altaria Audax (bold) Riparius (riverbank) Glabra (smooth) Aggressa (aggressive)
+Shape: Reptile
+Type: Water, Ground, Long Range, Horde, Day, Underground
+Size: Tiny
+Element(s): Strength
+Stats:
+ATK: 8.6
+DEF: 7.0
+AGI: 5.0
+INT: 8.0
+WIS: 5.0
+HP: 78.6 MANA: 52.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3818 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Silexia Viridis (green) Urbanus (urban)
+Shape: Reptile
+Type: Pack, Water, Close, Ground, Sky, Night
+Size: Tiny
+Element(s): Gold, Sharpness, Earth
+Stats:
+ATK: 9.1
+DEF: 8.6
+AGI: 6.0
+INT: 6.0
+WIS: 6.0
+HP: 95.1 MANA: 45.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

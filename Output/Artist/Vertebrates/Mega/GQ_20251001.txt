@@ -1,0 +1,75 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0857 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion Rufus (red) Savannus (savanna) Flexuosa (twisted)
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Pack, Ground, Underground, Long Range, Night, Lava/Magma
+Size: Mega
+Element(s): Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 54.6 because of elemental bonuses, base ATK: 43.0
+DEF: 47.0
+AGI: 46.0
+INT: 62.2 because of elemental bonuses, base INT: 49.0
+WIS: 37.0
+HP: 524.6 MANA: 403.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1345 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignara Opacus (shaded)
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Night, Range, Sky, Water, Group, Ground
+Size: Mega
+Element(s): Physical, Ice
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 50.7 because of elemental bonuses, base ATK: 38.0
+DEF: 45.1 because of elemental bonuses, base DEF: 43.0
+AGI: 38.0
+INT: 49.5 because of elemental bonuses, base INT: 39.0
+WIS: 41.0
+HP: 501.7 MANA: 350.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2043 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Rupesca Hirsutus (hairy) Littoralis (shore)
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Horde, Underground, Ground, Water, Night, Mid
+Size: Mega
+Element(s): Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 47.3 because of elemental bonuses, base ATK: 43.0
+DEF: 43.0
+AGI: 42.0
+INT: 41.8 because of elemental bonuses, base INT: 38.0
+WIS: 38.0
+HP: 477.3 MANA: 304.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2768 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Velox (swift) Riparius (riverbank)
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Long Range, Water, Pack, Day, Sky, Ground
+Size: Mega
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 39.0
+DEF: 48.0 because of elemental bonuses, base DEF: 40.0
+AGI: 38.0
+INT: 49.0
+WIS: 39.0
+HP: 519.0 MANA: 342.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3442 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Albus (white) Polarus (polar) Opaca (opaque)
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Underground, Horde, Night, Lava/Magma, Range, Ground
+Size: Mega
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 46.0
+DEF: 43.0
+AGI: 58.8 because of elemental bonuses, base AGI: 47.0
+INT: 46.2 because of elemental bonuses, base INT: 37.0
+WIS: 50.0
+HP: 476.0 MANA: 356.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

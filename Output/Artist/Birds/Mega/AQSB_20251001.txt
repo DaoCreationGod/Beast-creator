@@ -1,0 +1,75 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0496 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Underground, Mid, Ground, Day, Lava/Magma, Pack
+Size: Mega
+Element(s): Wind
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 37.0
+DEF: 58.1 because of elemental bonuses, base DEF: 43.0
+AGI: 67.5 because of elemental bonuses, base AGI: 50.0
+INT: 38.0
+WIS: 48.0
+HP: 618.0 MANA: 310.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1704 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Communis (common) Crateris (crater)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Water, Ground, Long Range, Group, Sky, Night
+Size: Mega
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 43.0
+DEF: 52.8 because of elemental bonuses, base DEF: 44.0
+AGI: 50.0
+INT: 48.0
+WIS: 39.0
+HP: 571.0 MANA: 337.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2034 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis Repens (creeping)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Mid, Underground, Pack, Lava/Magma, Night, Ground
+Size: Mega
+Element(s): Water
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 46.0
+DEF: 42.0
+AGI: 60.0 because of elemental bonuses, base AGI: 48.0
+INT: 56.2 because of elemental bonuses, base INT: 45.0
+WIS: 43.0
+HP: 466.0 MANA: 388.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2386 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignavus Glaber (hairless) Riparius (riverbank) Orbiculata (circular) Nomadica (nomadic)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Close, Water, Night, Pack, Sky, Ground
+Size: Mega
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 50.6 because of elemental bonuses, base ATK: 46.0
+DEF: 44.0
+AGI: 48.0
+INT: 41.8 because of elemental bonuses, base INT: 38.0
+WIS: 47.0
+HP: 490.6 MANA: 326.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3854 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia Durus (hard) Littoralis (shore) Striata (striped) Nocturna (night-active)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Underground, Ground, Night, Horde, Range, Water
+Size: Mega
+Element(s): Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 54.6 because of elemental bonuses, base ATK: 43.0
+DEF: 46.0
+AGI: 39.0
+INT: 52.1 because of elemental bonuses, base INT: 41.0
+WIS: 42.0
+HP: 514.6 MANA: 365.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

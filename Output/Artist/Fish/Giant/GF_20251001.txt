@@ -1,0 +1,75 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0194 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignavus Rotundus (round) Nemoralis (woodland) Opaca (opaque)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Ground, Group, Long Range, Lava/Magma, Night, Sky
+Size: Giant
+Element(s): Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 31.9 because of elemental bonuses, base ATK: 29.0
+DEF: 25.0
+AGI: 30.0
+INT: 28.6 because of elemental bonuses, base INT: 26.0
+WIS: 26.0
+HP: 281.9 MANA: 208.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1625 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia Velox (swift) Pluvius (rainy) Guttata (speckled)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Long Range, Day, Horde, Water, Underground, Ground
+Size: Giant
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 27.0
+DEF: 30.0
+AGI: 30.0
+INT: 37.5 because of elemental bonuses, base INT: 25.0
+WIS: 37.5 because of elemental bonuses, base WIS: 25.0
+HP: 327.0 MANA: 281.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3159 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tranquilis
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Close, Underground, Day, Group, Water, Ground
+Size: Giant
+Element(s): Earth, Water, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 30.0
+DEF: 43.2 because of elemental bonuses, base DEF: 30.0
+AGI: 31.2 because of elemental bonuses, base AGI: 25.0
+INT: 42.0 because of elemental bonuses, base INT: 28.0
+WIS: 30.0
+HP: 462.0 MANA: 285.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3748 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris Ferox (fierce)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Close, Underground, Pack, Water, Day, Ground
+Size: Giant
+Element(s): Earth, Gold, Strength
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 27.9 because of elemental bonuses, base ATK: 26.0
+DEF: 36.0 because of elemental bonuses, base DEF: 25.0
+AGI: 25.0
+INT: 30.0 because of elemental bonuses, base INT: 25.0
+WIS: 30.0
+HP: 387.9 MANA: 225.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3762 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vortexis Mollis (soft)
+Shape: Fish, Globiform, Rounded bodies for defense or buoyancy
+Type: Close, Lava/Magma, Underground, Horde, Day, Ground
+Size: Giant
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 30.0
+DEF: 25.0
+AGI: 36.2 because of elemental bonuses, base AGI: 29.0
+INT: 32.5 because of elemental bonuses, base INT: 26.0
+WIS: 27.0
+HP: 280.0 MANA: 230.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

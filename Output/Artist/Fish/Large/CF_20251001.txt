@@ -1,0 +1,135 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0200 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Luridus (pale) Cavernis (cave) Fasciata (banded) Fossilis (fossilized)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Range, Pack, Underground, Day, Lava/Magma, Ground
+Size: Large
+Element(s): Water, Fire, Strength
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 22.5 because of elemental bonuses, base ATK: 19.0
+DEF: 20.0
+AGI: 25.0 because of elemental bonuses, base AGI: 20.0
+INT: 28.9 because of elemental bonuses, base INT: 21.0
+WIS: 21.0
+HP: 222.5 MANA: 197.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0221 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Luminor Angustus (narrow) Lacustris (lake)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Close, Ground, Water, Night, Sky, Horde
+Size: Large
+Element(s): Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 26.2 because of elemental bonuses, base ATK: 21.0
+DEF: 17.0
+AGI: 26.2 because of elemental bonuses, base AGI: 21.0
+INT: 17.0
+WIS: 21.0
+HP: 196.2 MANA: 137.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0718 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Silexia Opacus (shaded)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Underground, Lava/Magma, Mid, Group, Night, Ground
+Size: Large
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Lanternshark (Etmopterus spp.) - Light-emitting photophores.
+Stats:
+ATK: 18.9 because of elemental bonuses, base ATK: 18.0
+DEF: 22.1 because of elemental bonuses, base DEF: 21.0
+AGI: 17.0
+INT: 18.0
+WIS: 20.0
+HP: 239.9 MANA: 140.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1001 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lunara Natans (swimming) Oreadis (mountain nymph) Lunata (crescent-shaped) Ambulans (walking)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Pack, Close, Day, Sky, Lava/Magma, Ground
+Size: Large
+Element(s): Wind
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 21.0
+DEF: 27.0 because of elemental bonuses, base DEF: 20.0
+AGI: 23.0 because of elemental bonuses, base AGI: 17.0
+INT: 18.0
+WIS: 21.0
+HP: 291.0 MANA: 142.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1290 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Virensis Communis (common) Polarus (polar) Tricolor (three-colored)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Ground, Lava/Magma, Sky, Long Range, Night, Horde
+Size: Large
+Element(s): Water, Gold, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.0
+DEF: 26.5 because of elemental bonuses, base DEF: 17.0
+AGI: 21.2 because of elemental bonuses, base AGI: 17.0
+INT: 31.5 because of elemental bonuses, base INT: 21.0
+WIS: 22.1 because of elemental bonuses, base WIS: 17.0
+HP: 284.0 MANA: 212.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1605 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Range, Day, Lava/Magma, Horde, Ground, Underground
+Size: Large
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 20.0
+DEF: 22.8 because of elemental bonuses, base DEF: 19.0
+AGI: 22.0
+INT: 21.6 because of elemental bonuses, base INT: 18.0
+WIS: 18.0
+HP: 248.0 MANA: 153.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3521 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tranquilis Ferrugineus (rusty) Urbanus (urban) Spinosa (spiny) Invasora (invasive)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Mid, Ground, Night, Lava/Magma, Sky, Group
+Size: Large
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.0
+DEF: 25.2 because of elemental bonuses, base DEF: 21.0
+AGI: 21.0
+INT: 21.0
+WIS: 17.0
+HP: 271.0 MANA: 147.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3717 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris Hirsutus (hairy) Montanus (mountain)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Mid, Underground, Pack, Night, Lava/Magma, Ground
+Size: Large
+Element(s): Fire, Strength
+Specialized Adaptation: Bioluminescent Scaleless Dragonfish (Aristostomias scintillans) - Blue-green lights.
+Stats:
+ATK: 21.3 because of elemental bonuses, base ATK: 18.0
+DEF: 18.0
+AGI: 22.0
+INT: 18.7 because of elemental bonuses, base INT: 17.0
+WIS: 17.0
+HP: 201.3 MANA: 136.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3791 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Altaria Niger (black) Tropicalis (tropical) Flexuosa (twisted) Carnifex (flesh-eating)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Pack, Lava/Magma, Day, Sky, Ground, Mid
+Size: Large
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Cuttlefish (Sepia officinalis) - Adaptive camouflage.
+Stats:
+ATK: 22.0
+DEF: 17.0
+AGI: 22.5 because of elemental bonuses, base AGI: 18.0
+INT: 26.2 because of elemental bonuses, base INT: 21.0
+WIS: 20.0
+HP: 192.0 MANA: 181.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

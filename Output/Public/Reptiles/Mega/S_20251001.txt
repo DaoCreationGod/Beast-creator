@@ -1,0 +1,28 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2425 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Obsidia Magnus (large) Nemoralis (woodland) Aurea (gold)
+Shape: Reptile
+Type: Day, Pack, Lava/Magma, Long Range, Sky, Ground
+Size: Mega
+Element(s): Wood
+Stats:
+ATK: 40.0
+DEF: 53.3
+AGI: 41.0
+INT: 40.0
+WIS: 61.1
+HP: 573.0 MANA: 352.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2875 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vulcanor Audax (bold) Fennalis (fen) Atra (deep black)
+Shape: Reptile
+Type: Close, Water, Sky, Group, Ground, Night
+Size: Mega
+Element(s): Physical
+Stats:
+ATK: 47.2
+DEF: 39.9
+AGI: 37.0
+INT: 42.0
+WIS: 45.0
+HP: 446.2 MANA: 322.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

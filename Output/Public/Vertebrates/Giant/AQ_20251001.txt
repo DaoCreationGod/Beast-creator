@@ -1,0 +1,98 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0289 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nebulora
+Shape: Vertebrate
+Type: Night, Ground, Water, Range, Underground, Group
+Size: Giant
+Element(s): Lightning
+Stats:
+ATK: 37.5
+DEF: 25.0
+AGI: 36.2
+INT: 30.0
+WIS: 29.0
+HP: 287.5 MANA: 222.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0334 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Stellion Rufus (red)
+Shape: Vertebrate
+Type: Lava/Magma, Sky, Long Range, Horde, Day, Ground
+Size: Giant
+Element(s): Wood
+Stats:
+ATK: 26.0
+DEF: 33.8
+AGI: 26.0
+INT: 26.0
+WIS: 35.1
+HP: 364.0 MANA: 217.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0383 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Petralis
+Shape: Vertebrate
+Type: Lava/Magma, Close, Night, Horde, Sky, Ground
+Size: Giant
+Element(s): Physical, Fire, Earth
+Stats:
+ATK: 32.3
+DEF: 36.5
+AGI: 29.0
+INT: 27.5
+WIS: 28.0
+HP: 397.3 MANA: 207.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1722 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ferralis Caeruleus (blue) Lacustris (lake) Opaca (opaque) Ambulans (walking)
+Shape: Vertebrate
+Type: Ground, Close, Group, Water, Sky, Night
+Size: Giant
+Element(s): Crystal
+Stats:
+ATK: 40.6
+DEF: 42.0
+AGI: 27.0
+INT: 30.0
+WIS: 29.0
+HP: 460.6 MANA: 222.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3033 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria Velox (swift)
+Shape: Vertebrate
+Type: Group, Range, Day, Ground, Lava/Magma, Sky
+Size: Giant
+Element(s): Yin
+Stats:
+ATK: 26.0
+DEF: 28.0
+AGI: 26.0
+INT: 45.0
+WIS: 37.5
+HP: 306.0 MANA: 318.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3475 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Voltis Luridus (pale)
+Shape: Vertebrate
+Type: Group, Close, Lava/Magma, Sky, Night, Ground
+Size: Giant
+Element(s): Physical, Wood, Lightning
+Stats:
+ATK: 34.1
+DEF: 39.6
+AGI: 31.2
+INT: 27.0
+WIS: 36.4
+HP: 430.1 MANA: 226.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3974 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aquarion
+Shape: Vertebrate
+Type: Sky, Night, Close, Lava/Magma, Pack, Ground
+Size: Giant
+Element(s): Fire, Lightning, Gold
+Stats:
+ATK: 41.2
+DEF: 34.8
+AGI: 33.8
+INT: 33.0
+WIS: 29.0
+HP: 389.2 MANA: 237.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

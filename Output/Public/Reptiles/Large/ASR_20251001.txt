@@ -1,0 +1,252 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0117 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aetheris Radians (radiant)
+Shape: Reptile
+Type: Mid, Ground, Pack, Underground, Night, Lava/Magma
+Size: Large
+Element(s): Yin
+Stats:
+ATK: 20.0
+DEF: 22.0
+AGI: 19.0
+INT: 27.0
+WIS: 31.5
+HP: 240.0 MANA: 213.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0223 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Stellion Ater (dark) Maritimus (coastal) Lineata (lined) Diurna (day-active)
+Shape: Reptile
+Type: Water, Long Range, Group, Night, Sky, Ground
+Size: Large
+Element(s): Fire, Yin
+Stats:
+ATK: 19.8
+DEF: 17.0
+AGI: 20.0
+INT: 36.3
+WIS: 25.5
+HP: 189.8 MANA: 245.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0256 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara
+Shape: Reptile
+Type: Night, Lava/Magma, Range, Underground, Group, Ground
+Size: Large
+Element(s): Gold, Sharpness
+Stats:
+ATK: 27.3
+DEF: 24.0
+AGI: 22.0
+INT: 20.4
+WIS: 20.0
+HP: 267.3 MANA: 152.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0415 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis Audax (bold) Sylvestris (forest) Tessellata (checkered)
+Shape: Reptile
+Type: Range, Lava/Magma, Horde, Ground, Night, Underground
+Size: Large
+Element(s): Wind
+Stats:
+ATK: 17.0
+DEF: 25.7
+AGI: 28.4
+INT: 22.0
+WIS: 19.0
+HP: 274.0 MANA: 157.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0448 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Radiantia
+Shape: Reptile
+Type: Long Range, Underground, Day, Group, Water, Ground
+Size: Large
+Element(s): Physical
+Stats:
+ATK: 19.9
+DEF: 21.0
+AGI: 18.0
+INT: 20.0
+WIS: 20.0
+HP: 229.9 MANA: 150.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0476 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vortexis Purpureus (purple) Humidus (humid)
+Shape: Reptile
+Type: Long Range, Day, Lava/Magma, Underground, Group, Ground
+Size: Large
+Element(s): Earth, Water, Strength
+Stats:
+ATK: 23.6
+DEF: 21.6
+AGI: 23.8
+INT: 23.8
+WIS: 22.0
+HP: 239.6 MANA: 174.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0656 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria
+Shape: Reptile
+Type: Range, Sky, Water, Pack, Night, Ground
+Size: Large
+Element(s): Physical
+Stats:
+ATK: 22.1
+DEF: 18.9
+AGI: 21.0
+INT: 18.0
+WIS: 20.0
+HP: 211.1 MANA: 140.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1372 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nivora
+Shape: Reptile
+Type: Ground, Underground, Long Range, Pack, Day, Water
+Size: Large
+Element(s): Fire
+Stats:
+ATK: 20.9
+DEF: 19.0
+AGI: 19.0
+INT: 22.0
+WIS: 17.0
+HP: 210.9 MANA: 152.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1735 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tempestis Flexilis (flexible) Tundralis (tundra) Rubra (red)
+Shape: Reptile
+Type: Underground, Range, Day, Lava/Magma, Pack, Ground
+Size: Large
+Element(s): Water, Physical, Earth
+Stats:
+ATK: 21.0
+DEF: 22.7
+AGI: 22.5
+INT: 22.5
+WIS: 20.0
+HP: 248.0 MANA: 162.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1795 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Petralis
+Shape: Reptile
+Type: Mid, Sky, Night, Water, Pack, Ground
+Size: Large
+Element(s): Gold, Water, Crystal
+Stats:
+ATK: 25.2
+DEF: 30.2
+AGI: 21.2
+INT: 31.5
+WIS: 22.0
+HP: 327.2 MANA: 212.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1817 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Virensis
+Shape: Reptile
+Type: Horde, Range, Ground, Sky, Lava/Magma, Day
+Size: Large
+Element(s): Yang
+Stats:
+ATK: 22.0
+DEF: 22.0
+AGI: 17.0
+INT: 31.5
+WIS: 25.5
+HP: 242.0 MANA: 221.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1918 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vaporia
+Shape: Reptile
+Type: Ground, Lava/Magma, Night, Close, Sky, Group
+Size: Large
+Element(s): Gold
+Stats:
+ATK: 21.0
+DEF: 20.4
+AGI: 22.0
+INT: 25.2
+WIS: 18.0
+HP: 225.0 MANA: 171.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2212 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Arcanis Magnus (large)
+Shape: Reptile
+Type: Horde, Long Range, Water, Day, Ground, Sky
+Size: Large
+Element(s): Water
+Stats:
+ATK: 22.0
+DEF: 22.0
+AGI: 26.2
+INT: 21.2
+WIS: 21.0
+HP: 242.0 MANA: 158.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2869 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nebulora Magnus (large) Polarus (polar) Flexuosa (twisted) Scavens (scavenging)
+Shape: Reptile
+Type: Night, Range, Pack, Lava/Magma, Sky, Ground
+Size: Large
+Element(s): Strength
+Stats:
+ATK: 19.3
+DEF: 20.0
+AGI: 21.0
+INT: 19.0
+WIS: 17.0
+HP: 219.3 MANA: 137.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3294 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nebulora Glaber (hairless) Palustris (marshy) Opaca (opaque) Parasitus (parasitic)
+Shape: Reptile
+Type: Range, Water, Day, Horde, Ground, Underground
+Size: Large
+Element(s): Physical
+Stats:
+ATK: 21.0
+DEF: 18.9
+AGI: 21.0
+INT: 19.0
+WIS: 17.0
+HP: 210.0 MANA: 137.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3370 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vortexis
+Shape: Reptile
+Type: Long Range, Sky, Night, Water, Ground, Pack
+Size: Large
+Element(s): Water
+Stats:
+ATK: 20.0
+DEF: 21.0
+AGI: 22.5
+INT: 21.2
+WIS: 20.0
+HP: 230.0 MANA: 156.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3459 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aurumis
+Shape: Reptile
+Type: Range, Ground, Horde, Underground, Day, Lava/Magma
+Size: Large
+Element(s): Earth
+Stats:
+ATK: 19.0
+DEF: 22.8
+AGI: 22.0
+INT: 18.0
+WIS: 19.0
+HP: 247.0 MANA: 137.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3871 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nivora Erectus (upright) Mangrova (mangrove) Maculata (spotted) Endemica (endemic)
+Shape: Reptile
+Type: Lava/Magma, Close, Sky, Horde, Day, Ground
+Size: Large
+Element(s): Wood, Lightning, Yin
+Stats:
+ATK: 27.5
+DEF: 26.0
+AGI: 26.2
+INT: 27.0
+WIS: 37.1
+HP: 287.5 MANA: 227.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

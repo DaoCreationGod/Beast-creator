@@ -1,0 +1,70 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0427 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Corvalis Levis (light)
+Shape: Reptile
+Type: Day, Long Range, Horde, Ground, Underground, Water
+Size: Large
+Element(s): Lightning
+Stats:
+ATK: 25.0
+DEF: 17.0
+AGI: 27.5
+INT: 22.0
+WIS: 22.0
+HP: 195.0 MANA: 165.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1287 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Noctis Laevis (smooth)
+Shape: Reptile
+Type: Underground, Close, Group, Water, Ground, Day
+Size: Large
+Element(s): Fire
+Stats:
+ATK: 19.8
+DEF: 18.0
+AGI: 19.0
+INT: 23.1
+WIS: 20.0
+HP: 199.8 MANA: 165.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1469 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Eclipsis Flexilis (flexible) Subterraneus (underground) Zebrina (zebra-like)
+Shape: Reptile
+Type: Range, Group, Lava/Magma, Sky, Ground, Day
+Size: Large
+Element(s): Physical, Gold
+Stats:
+ATK: 23.1
+DEF: 23.9
+AGI: 17.0
+INT: 26.4
+WIS: 18.0
+HP: 262.1 MANA: 177.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1783 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Caelior Laevis (smooth) Urbanus (urban) Rosea (pink) Rapax (predatory)
+Shape: Reptile
+Type: Water, Night, Range, Horde, Ground, Sky
+Size: Large
+Element(s): Fire, Wind
+Stats:
+ATK: 20.9
+DEF: 23.0
+AGI: 24.3
+INT: 20.9
+WIS: 18.0
+HP: 250.9 MANA: 149.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3699 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Stellion
+Shape: Reptile
+Type: Underground, Group, Night, Lava/Magma, Range, Ground
+Size: Large
+Element(s): Fire, Crystal
+Stats:
+ATK: 27.7
+DEF: 23.8
+AGI: 21.0
+INT: 20.9
+WIS: 22.0
+HP: 265.7 MANA: 159.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

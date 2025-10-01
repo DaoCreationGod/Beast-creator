@@ -1,0 +1,30 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2749 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tranquilis
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Day, Horde, Long Range, Underground, Lava/Magma, Ground
+Size: Super
+Element(s): Gold, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 97.0
+DEF: 145.1 because of elemental bonuses, base DEF: 93.0
+AGI: 75.0
+INT: 96.0 because of elemental bonuses, base INT: 80.0
+WIS: 120.9 because of elemental bonuses, base WIS: 93.0
+HP: 1548.0 MANA: 782.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3838 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris Viridis (green) Litoralis (coastal)
+Shape: Reptile, Fossorial Reptile, Cylindrical bodies, reduced limbs, or shovel-shaped snouts for digging
+Type: Water, Mid, Pack, Sky, Night, Ground
+Size: Super
+Element(s): Gold, Water, Ice
+Specialized Adaptation: Extreme Camouflage Decorator Crab (Macropodia spp.) - Attaches algae to shell.
+Stats:
+ATK: 123.2 because of elemental bonuses, base ATK: 97.0
+DEF: 114.0 because of elemental bonuses, base DEF: 95.0
+AGI: 91.2 because of elemental bonuses, base AGI: 73.0
+INT: 175.3 because of elemental bonuses, base INT: 92.0
+WIS: 71.0
+HP: 1263.2 MANA: 1054.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

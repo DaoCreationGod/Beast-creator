@@ -1,0 +1,168 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0197 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Solara Rotundus (round)
+Shape: Bird
+Type: Ground, Mid, Day, Sky, Pack, Water
+Size: Giant
+Element(s): Wind
+Stats:
+ATK: 26.0
+DEF: 36.5
+AGI: 35.1
+INT: 25.0
+WIS: 25.0
+HP: 391.0 MANA: 187.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0286 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Silentis (quiet) Savannus (savanna) Reticulata (netted) Sedentaria (stationary)
+Shape: Bird
+Type: Underground, Long Range, Ground, Pack, Lava/Magma, Night
+Size: Giant
+Element(s): Lightning
+Stats:
+ATK: 35.0
+DEF: 30.0
+AGI: 36.2
+INT: 25.0
+WIS: 25.0
+HP: 335.0 MANA: 187.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0844 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Silexia Aureus (golden) Urbanus (urban)
+Shape: Bird
+Type: Day, Close, Sky, Pack, Lava/Magma, Ground
+Size: Giant
+Element(s): Water, Sharpness
+Stats:
+ATK: 32.5
+DEF: 26.0
+AGI: 35.0
+INT: 37.5
+WIS: 27.0
+HP: 292.5 MANA: 255.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1039 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Solara Erectus (upright) Insularis (island) Tigrina (tiger-striped) Invasora (invasive)
+Shape: Bird
+Type: Water, Day, Long Range, Underground, Horde, Ground
+Size: Giant
+Element(s): Earth, Gold
+Stats:
+ATK: 26.0
+DEF: 36.0
+AGI: 29.0
+INT: 30.0
+WIS: 28.0
+HP: 386.0 MANA: 220.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1216 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Celestia Aeneus (bronze) Lacustris (lake) Hirsuta (hairy) Saltans (jumping)
+Shape: Bird
+Type: Long Range, Sky, Group, Lava/Magma, Day, Ground
+Size: Giant
+Element(s): Earth, Wind
+Stats:
+ATK: 26.0
+DEF: 43.7
+AGI: 39.2
+INT: 29.0
+WIS: 25.0
+HP: 463.0 MANA: 207.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2295 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Virensis Ferrugineus (rusty)
+Shape: Bird
+Type: Water, Range, Group, Night, Ground, Underground
+Size: Giant
+Element(s): Fire
+Stats:
+ATK: 28.6
+DEF: 29.0
+AGI: 27.0
+INT: 29.7
+WIS: 28.0
+HP: 318.6 MANA: 218.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2652 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria Alatus (winged) Nemoralis (woodland)
+Shape: Bird
+Type: Horde, Sky, Water, Close, Day, Ground
+Size: Giant
+Element(s): Strength
+Stats:
+ATK: 27.9
+DEF: 25.0
+AGI: 28.0
+INT: 30.0
+WIS: 27.0
+HP: 277.9 MANA: 217.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2718 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignavus Albus (white)
+Shape: Bird
+Type: Long Range, Lava/Magma, Group, Sky, Day, Ground
+Size: Giant
+Element(s): Wood
+Stats:
+ATK: 28.0
+DEF: 33.8
+AGI: 28.0
+INT: 25.0
+WIS: 39.0
+HP: 366.0 MANA: 222.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3120 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Obsidia Luminosus (glowing) Deltanus (delta)
+Shape: Bird
+Type: Ground, Sky, Pack, Lava/Magma, Mid, Night
+Size: Giant
+Element(s): Wood, Gold
+Stats:
+ATK: 26.0
+DEF: 42.1
+AGI: 28.0
+INT: 34.8
+WIS: 36.4
+HP: 447.0 MANA: 265.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3295 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Silexia Niger (black) Occidentalis (western)
+Shape: Bird
+Type: Group, Water, Night, Range, Ground, Sky
+Size: Giant
+Element(s): Fire
+Stats:
+ATK: 27.5
+DEF: 28.0
+AGI: 26.0
+INT: 28.6
+WIS: 30.0
+HP: 307.5 MANA: 218.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3494 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Radiantia Pendulus (hanging) Limosus (muddy)
+Shape: Bird
+Type: Underground, Lava/Magma, Long Range, Day, Ground, Group
+Size: Giant
+Element(s): Water, Wind, Wood
+Stats:
+ATK: 28.0
+DEF: 49.1
+AGI: 42.2
+INT: 32.5
+WIS: 35.1
+HP: 519.0 MANA: 250.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3863 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis Luminosus (glowing)
+Shape: Bird
+Type: Mid, Day, Pack, Ground, Sky, Water
+Size: Giant
+Element(s): Fire, Gold, Wood
+Stats:
+ATK: 29.7
+DEF: 46.8
+AGI: 27.0
+INT: 33.0
+WIS: 36.4
+HP: 497.7 MANA: 256.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

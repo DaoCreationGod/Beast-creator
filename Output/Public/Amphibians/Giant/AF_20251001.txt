@@ -1,0 +1,182 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0514 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Lunara
+Shape: Amphibian
+Type: Long Range, Lava/Magma, Sky, Ground, Pack, Night
+Size: Giant
+Element(s): Yin
+Stats:
+ATK: 27.0
+DEF: 25.0
+AGI: 29.0
+INT: 42.0
+WIS: 43.5
+HP: 277.0 MANA: 318.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0547 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Lunara
+Shape: Amphibian
+Type: Long Range, Horde, Lava/Magma, Sky, Day, Ground
+Size: Giant
+Element(s): Physical, Earth, Water
+Stats:
+ATK: 26.2
+DEF: 37.8
+AGI: 31.2
+INT: 33.8
+WIS: 29.0
+HP: 404.2 MANA: 241.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1245 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis Natans (swimming) Australis (southern)
+Shape: Amphibian
+Type: Ground, Underground, Night, Pack, Range, Lava/Magma
+Size: Giant
+Element(s): Physical
+Stats:
+ATK: 30.5
+DEF: 29.4
+AGI: 30.0
+INT: 25.0
+WIS: 28.0
+HP: 324.5 MANA: 195.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1629 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sonoris
+Shape: Amphibian
+Type: Long Range, Ground, Night, Horde, Sky, Lava/Magma
+Size: Giant
+Element(s): Sharpness
+Stats:
+ATK: 32.5
+DEF: 29.0
+AGI: 26.0
+INT: 29.0
+WIS: 26.0
+HP: 322.5 MANA: 210.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1739 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Floranis Laevis (smooth)
+Shape: Amphibian
+Type: Underground, Night, Ground, Water, Mid, Pack
+Size: Giant
+Element(s): Wood, Crystal
+Stats:
+ATK: 39.2
+DEF: 54.6
+AGI: 28.0
+INT: 27.0
+WIS: 36.4
+HP: 585.2 MANA: 226.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1775 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Nebulora
+Shape: Amphibian
+Type: Night, Ground, Lava/Magma, Underground, Pack, Close
+Size: Giant
+Element(s): Earth, Fire, Wood
+Stats:
+ATK: 31.9
+DEF: 46.8
+AGI: 25.0
+INT: 30.8
+WIS: 37.7
+HP: 499.9 MANA: 248.3
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1966 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Solara
+Shape: Amphibian
+Type: Water, Long Range, Underground, Ground, Horde, Night
+Size: Giant
+Element(s): Earth, Physical, Wood
+Stats:
+ATK: 27.3
+DEF: 45.9
+AGI: 30.0
+INT: 30.0
+WIS: 37.7
+HP: 486.3 MANA: 244.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2007 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aeternis Niger (black) Alpinus (alpine)
+Shape: Amphibian
+Type: Ground, Underground, Mid, Night, Group, Lava/Magma
+Size: Giant
+Element(s): Gold
+Stats:
+ATK: 30.0
+DEF: 33.6
+AGI: 28.0
+INT: 34.8
+WIS: 25.0
+HP: 366.0 MANA: 236.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2481 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aurumis Caeruleus (blue) Eremitus (isolated) Glabra (smooth) Placida (peaceful)
+Shape: Amphibian
+Type: Range, Underground, Pack, Day, Water, Ground
+Size: Giant
+Element(s): Physical, Fire, Yang
+Stats:
+ATK: 30.0
+DEF: 30.5
+AGI: 27.0
+INT: 44.6
+WIS: 45.0
+HP: 335.0 MANA: 335.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2798 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tempestis Luminosus (glowing)
+Shape: Amphibian
+Type: Ground, Pack, Underground, Lava/Magma, Long Range, Night
+Size: Giant
+Element(s): Earth, Gold
+Stats:
+ATK: 30.0
+DEF: 43.2
+AGI: 28.0
+INT: 34.8
+WIS: 25.0
+HP: 462.0 MANA: 236.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2899 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Virensis
+Shape: Amphibian
+Type: Night, Pack, Sky, Close, Water, Ground
+Size: Giant
+Element(s): Yang
+Stats:
+ATK: 27.0
+DEF: 28.0
+AGI: 25.0
+INT: 42.0
+WIS: 43.5
+HP: 307.0 MANA: 318.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2997 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignavus Luridus (pale) Pratensis (meadow) Rosea (pink)
+Shape: Amphibian
+Type: Sky, Close, Lava/Magma, Horde, Day, Ground
+Size: Giant
+Element(s): Wood, Physical, Fire
+Stats:
+ATK: 33.5
+DEF: 34.1
+AGI: 27.0
+INT: 31.9
+WIS: 36.4
+HP: 374.5 MANA: 250.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3847 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Floranis Mollis (soft)
+Shape: Amphibian
+Type: Ground, Mid, Pack, Sky, Night, Lava/Magma
+Size: Giant
+Element(s): Fire
+Stats:
+ATK: 27.5
+DEF: 26.0
+AGI: 27.0
+INT: 30.8
+WIS: 28.0
+HP: 287.5 MANA: 224.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

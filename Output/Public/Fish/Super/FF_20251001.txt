@@ -1,0 +1,28 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1075 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aurumis Repens (creeping) Littoralis (shore)
+Shape: Fish
+Type: Horde, Underground, Water, Close, Ground, Night
+Size: Super
+Element(s): Wood
+Stats:
+ATK: 94.0
+DEF: 123.5
+AGI: 71.0
+INT: 96.0
+WIS: 97.5
+HP: 1329.0 MANA: 723.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3244 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara Silentis (quiet) Borealis (northern) Lobata (lobed)
+Shape: Fish
+Type: Horde, Ground, Underground, Mid, Night, Water
+Size: Super
+Element(s): Ice
+Stats:
+ATK: 127.0
+DEF: 93.0
+AGI: 79.0
+INT: 110.5
+WIS: 75.0
+HP: 1057.0 MANA: 740.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

@@ -1,0 +1,70 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0016 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ferralis Aeneus (bronze) Tundralis (tundra) Hirsuta (hairy) Scavens (scavenging)
+Shape: Invertebrate
+Type: Horde, Range, Lava/Magma, Day, Ground, Underground
+Size: Mega
+Element(s): Ice
+Stats:
+ATK: 49.5
+DEF: 43.0
+AGI: 42.0
+INT: 59.7
+WIS: 40.0
+HP: 479.5 MANA: 398.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0578 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Obsidia Levis (light) Mangrova (mangrove) Glabra (smooth)
+Shape: Invertebrate
+Type: Underground, Night, Lava/Magma, Ground, Group, Long Range
+Size: Mega
+Element(s): Sharpness
+Stats:
+ATK: 65.0
+DEF: 47.0
+AGI: 40.0
+INT: 37.0
+WIS: 50.0
+HP: 535.0 MANA: 310.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1149 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Zephyria Parvus (small)
+Shape: Invertebrate
+Type: Horde, Long Range, Night, Sky, Lava/Magma, Ground
+Size: Mega
+Element(s): Water
+Stats:
+ATK: 42.0
+DEF: 50.0
+AGI: 51.2
+INT: 52.5
+WIS: 39.0
+HP: 542.0 MANA: 360.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3041 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sonoris Flexilis (flexible) Polarus (polar)
+Shape: Invertebrate
+Type: Day, Mid, Ground, Underground, Group, Water
+Size: Mega
+Element(s): Wood, Water, Strength
+Stats:
+ATK: 49.4
+DEF: 54.6
+AGI: 58.8
+INT: 47.5
+WIS: 61.1
+HP: 595.4 MANA: 390.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3986 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Noctis Luminosus (glowing) Littoralis (shore) Guttata (speckled)
+Shape: Invertebrate
+Type: Underground, Night, Ground, Pack, Long Range, Water
+Size: Mega
+Element(s): Wind
+Stats:
+ATK: 47.0
+DEF: 55.4
+AGI: 50.0
+INT: 50.0
+WIS: 49.0
+HP: 601.0 MANA: 372.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

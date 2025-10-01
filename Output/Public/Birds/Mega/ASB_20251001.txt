@@ -1,0 +1,84 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0058 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Altaria Luridus (pale) Canyonis (canyon)
+Shape: Bird
+Type: Night, Sky, Lava/Magma, Group, Ground, Close
+Size: Mega
+Element(s): Gold
+Stats:
+ATK: 39.0
+DEF: 52.8
+AGI: 48.0
+INT: 44.4
+WIS: 38.0
+HP: 567.0 MANA: 317.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1207 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Terros Cinereus (gray) Steppus (steppe) Lineata (lined)
+Shape: Bird
+Type: Lava/Magma, Sky, Range, Pack, Day, Ground
+Size: Mega
+Element(s): Wood, Physical
+Stats:
+ATK: 42.0
+DEF: 66.9
+AGI: 39.0
+INT: 39.0
+WIS: 54.6
+HP: 711.0 MANA: 331.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2263 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Marinus
+Shape: Bird
+Type: Horde, Close, Underground, Ground, Night, Water
+Size: Mega
+Element(s): Yin
+Stats:
+ATK: 46.0
+DEF: 44.0
+AGI: 45.0
+INT: 57.0
+WIS: 73.5
+HP: 486.0 MANA: 468.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3132 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aeternis
+Shape: Bird
+Type: Long Range, Day, Water, Pack, Ground, Sky
+Size: Mega
+Element(s): Gold, Ice
+Stats:
+ATK: 47.0
+DEF: 54.0
+AGI: 50.0
+INT: 70.1
+WIS: 48.0
+HP: 587.0 MANA: 470.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3583 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tranquilis Rotundus (round)
+Shape: Bird
+Type: Horde, Long Range, Ground, Underground, Day, Water
+Size: Mega
+Element(s): Yin
+Stats:
+ATK: 48.0
+DEF: 38.0
+AGI: 45.0
+INT: 75.0
+WIS: 55.5
+HP: 428.0 MANA: 513.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3620 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Voltis Opacus (shaded) Alpinus (alpine)
+Shape: Bird
+Type: Day, Long Range, Sky, Horde, Ground, Water
+Size: Mega
+Element(s): Earth, Fire, Physical
+Stats:
+ATK: 50.8
+DEF: 61.7
+AGI: 38.0
+INT: 40.7
+WIS: 43.0
+HP: 667.8 MANA: 311.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

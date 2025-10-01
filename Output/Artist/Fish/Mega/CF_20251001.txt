@@ -1,0 +1,30 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1144 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Luridus (pale) Pratensis (meadow)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Night, Close, Lava/Magma, Underground, Pack, Ground
+Size: Mega
+Element(s): Water, Fire, Physical
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 45.0 because of elemental bonuses, base ATK: 39.0
+DEF: 41.0 because of elemental bonuses, base DEF: 39.0
+AGI: 62.5 because of elemental bonuses, base AGI: 50.0
+INT: 56.4 because of elemental bonuses, base INT: 41.0
+WIS: 43.0
+HP: 455.0 MANA: 389.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2071 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Altaria Laevis (smooth)
+Shape: Fish, Compressiform, Flattened side-to-side for agile maneuvering
+Type: Mid, Day, Horde, Lava/Magma, Ground, Underground
+Size: Mega
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 43.0
+DEF: 57.6 because of elemental bonuses, base DEF: 48.0
+AGI: 46.0
+INT: 51.6 because of elemental bonuses, base INT: 43.0
+WIS: 44.0
+HP: 619.0 MANA: 368.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

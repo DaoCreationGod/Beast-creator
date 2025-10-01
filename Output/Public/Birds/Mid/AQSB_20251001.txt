@@ -1,0 +1,378 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0029 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Petralis Caeruleus (blue)
+Shape: Bird
+Type: Underground, Ground, Night, Close, Horde, Lava/Magma
+Size: Mid
+Element(s): Gold, Fire
+Stats:
+ATK: 12.1
+DEF: 18.0
+AGI: 15.0
+INT: 15.8
+WIS: 11.0
+HP: 192.1 MANA: 106.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0305 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Silexia Durus (hard) Deltanus (delta) Spinosa (spiny)
+Shape: Bird
+Type: Horde, Ground, Long Range, Lava/Magma, Sky, Night
+Size: Mid
+Element(s): Fire
+Stats:
+ATK: 12.1
+DEF: 14.0
+AGI: 11.0
+INT: 15.4
+WIS: 13.0
+HP: 152.1 MANA: 109.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0404 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Corvalis Argenteus (silver) Pelagicus (open sea)
+Shape: Bird
+Type: Day, Pack, Range, Lava/Magma, Sky, Ground
+Size: Mid
+Element(s): Earth
+Stats:
+ATK: 15.0
+DEF: 16.8
+AGI: 15.0
+INT: 12.0
+WIS: 11.0
+HP: 183.0 MANA: 87.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0424 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Albus (white) Australis (southern) Undulata (wavy)
+Shape: Bird
+Type: Sky, Close, Night, Pack, Lava/Magma, Ground
+Size: Mid
+Element(s): Fire, Gold, Water
+Stats:
+ATK: 14.3
+DEF: 13.2
+AGI: 15.0
+INT: 18.2
+WIS: 13.0
+HP: 146.3 MANA: 123.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0439 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vaporia Serenus (calm)
+Shape: Bird
+Type: Ground, Sky, Day, Range, Group, Lava/Magma
+Size: Mid
+Element(s): Physical, Yang
+Stats:
+ATK: 13.7
+DEF: 12.6
+AGI: 12.0
+INT: 21.0
+WIS: 19.5
+HP: 139.7 MANA: 153.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0961 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aeternis Pallidus (pale) Polarus (polar) Variegata (variegated) Effugiens (escaping)
+Shape: Bird
+Type: Water, Day, Long Range, Group, Sky, Ground
+Size: Mid
+Element(s): Earth
+Stats:
+ATK: 11.0
+DEF: 13.2
+AGI: 14.0
+INT: 14.0
+WIS: 11.0
+HP: 143.0 MANA: 97.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1114 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Eclipsis
+Shape: Bird
+Type: Pack, Night, Underground, Range, Water, Ground
+Size: Mid
+Element(s): Physical, Fire
+Stats:
+ATK: 15.0
+DEF: 15.8
+AGI: 14.0
+INT: 13.2
+WIS: 13.0
+HP: 173.0 MANA: 98.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1360 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Lunara Viridis (green) Canyonis (canyon) Argentea (silver) Herbora (plant-eating)
+Shape: Bird
+Type: Mid, Horde, Underground, Water, Night, Ground
+Size: Mid
+Element(s): Wind
+Stats:
+ATK: 11.0
+DEF: 16.2
+AGI: 18.9
+INT: 11.0
+WIS: 13.0
+HP: 173.0 MANA: 87.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1833 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aeternis
+Shape: Bird
+Type: Pack, Mid, Underground, Day, Water, Ground
+Size: Mid
+Element(s): Yang
+Stats:
+ATK: 11.0
+DEF: 12.0
+AGI: 12.0
+INT: 19.5
+WIS: 16.5
+HP: 131.0 MANA: 138.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1915 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ventus Spinosus (spiny) Litoralis (coastal) Undulata (wavy) Parasitus (parasitic)
+Shape: Bird
+Type: Horde, Day, Ground, Water, Underground, Range
+Size: Mid
+Element(s): Gold, Physical
+Stats:
+ATK: 15.8
+DEF: 17.6
+AGI: 11.0
+INT: 13.2
+WIS: 11.0
+HP: 191.8 MANA: 93.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2191 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Serpentis Vibrans (vibrant)
+Shape: Bird
+Type: Sky, Day, Pack, Range, Ground, Water
+Size: Mid
+Element(s): Yin
+Stats:
+ATK: 13.0
+DEF: 15.0
+AGI: 15.0
+INT: 18.0
+WIS: 18.0
+HP: 163.0 MANA: 135.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2193 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Mirabilis Vibrans (vibrant) Occidentalis (western) Lanceolata (lance-shaped)
+Shape: Bird
+Type: Horde, Long Range, Sky, Day, Water, Ground
+Size: Mid
+Element(s): Earth, Gold, Wood
+Stats:
+ATK: 11.0
+DEF: 22.5
+AGI: 12.0
+INT: 14.4
+WIS: 19.5
+HP: 236.0 MANA: 120.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2339 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Mirabilis Natans (swimming)
+Shape: Bird
+Type: Horde, Long Range, Underground, Ground, Day, Lava/Magma
+Size: Mid
+Element(s): Water
+Stats:
+ATK: 12.0
+DEF: 11.0
+AGI: 18.8
+INT: 15.0
+WIS: 12.0
+HP: 122.0 MANA: 105.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2482 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora
+Shape: Bird
+Type: Ground, Sky, Pack, Day, Close, Lava/Magma
+Size: Mid
+Element(s): Yang, Wood, Water
+Stats:
+ATK: 14.0
+DEF: 14.3
+AGI: 13.8
+INT: 28.1
+WIS: 23.4
+HP: 157.0 MANA: 199.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2662 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aquarion
+Shape: Bird
+Type: Group, Water, Range, Night, Sky, Ground
+Size: Mid
+Element(s): Water, Gold
+Stats:
+ATK: 13.0
+DEF: 18.0
+AGI: 17.5
+INT: 16.5
+WIS: 11.0
+HP: 193.0 MANA: 110.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2683 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Rupesca
+Shape: Bird
+Type: Underground, Pack, Lava/Magma, Close, Day, Ground
+Size: Mid
+Element(s): Water, Yin
+Stats:
+ATK: 12.0
+DEF: 15.0
+AGI: 13.8
+INT: 26.2
+WIS: 18.0
+HP: 162.0 MANA: 176.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2912 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Altaria Angustus (narrow) Montanus (mountain) Cristata (crested)
+Shape: Bird
+Type: Sky, Horde, Close, Water, Day, Ground
+Size: Mid
+Element(s): Gold
+Stats:
+ATK: 11.0
+DEF: 14.4
+AGI: 12.0
+INT: 13.2
+WIS: 13.0
+HP: 155.0 MANA: 98.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3059 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Serpentis Luridus (pale) Alpinus (alpine) Metallica (metallic) Diurna (day-active)
+Shape: Bird
+Type: Mid, Underground, Water, Night, Pack, Ground
+Size: Mid
+Element(s): Gold, Wind
+Stats:
+ATK: 13.0
+DEF: 17.8
+AGI: 17.6
+INT: 15.6
+WIS: 14.0
+HP: 191.0 MANA: 113.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3118 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aetheris
+Shape: Bird
+Type: Water, Range, Group, Underground, Night, Ground
+Size: Mid
+Element(s): Fire, Sharpness, Water
+Stats:
+ATK: 15.7
+DEF: 14.0
+AGI: 15.0
+INT: 15.1
+WIS: 12.0
+HP: 155.7 MANA: 105.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3119 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Serpentis Repens (creeping) Campestris (plains) Aurantiaca (orange)
+Shape: Bird
+Type: Underground, Pack, Range, Night, Ground, Lava/Magma
+Size: Mid
+Element(s): Yin
+Stats:
+ATK: 14.0
+DEF: 15.0
+AGI: 11.0
+INT: 16.5
+WIS: 19.5
+HP: 164.0 MANA: 131.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3440 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Arcanis Niger (black) Australis (southern) Iridesca (iridescent)
+Shape: Bird
+Type: Group, Night, Ground, Mid, Water, Underground
+Size: Mid
+Element(s): Wood, Water, Gold
+Stats:
+ATK: 12.0
+DEF: 21.8
+AGI: 13.8
+INT: 16.5
+WIS: 16.9
+HP: 230.0 MANA: 124.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3588 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tenebris
+Shape: Bird
+Type: Range, Underground, Group, Ground, Night, Water
+Size: Mid
+Element(s): Water
+Stats:
+ATK: 13.0
+DEF: 12.0
+AGI: 16.2
+INT: 17.5
+WIS: 13.0
+HP: 133.0 MANA: 120.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3643 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Virensis Celeris (fast) Saxatilis (rocky) Serrata (serrated)
+Shape: Bird
+Type: Day, Long Range, Lava/Magma, Pack, Ground, Sky
+Size: Mid
+Element(s): Water, Earth, Fire
+Stats:
+ATK: 15.4
+DEF: 15.6
+AGI: 15.0
+INT: 15.1
+WIS: 11.0
+HP: 171.4 MANA: 103.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3692 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Stellion Purpureus (purple)
+Shape: Bird
+Type: Long Range, Sky, Night, Ground, Horde, Water
+Size: Mid
+Element(s): Wood
+Stats:
+ATK: 14.0
+DEF: 14.3
+AGI: 11.0
+INT: 11.0
+WIS: 14.3
+HP: 157.0 MANA: 90.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3781 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tempestis Albus (white) Taiganus (taiga)
+Shape: Bird
+Type: Pack, Water, Ground, Sky, Long Range, Night
+Size: Mid
+Element(s): Water, Earth
+Stats:
+ATK: 13.0
+DEF: 13.2
+AGI: 17.5
+INT: 17.5
+WIS: 15.0
+HP: 145.0 MANA: 125.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3843 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vulcanor Argenteus (silver) Nemoralis (woodland) Purpurea (purple)
+Shape: Bird
+Type: Day, Range, Ground, Horde, Water, Sky
+Size: Mid
+Element(s): Fire, Gold
+Stats:
+ATK: 14.3
+DEF: 16.8
+AGI: 11.0
+INT: 19.8
+WIS: 15.0
+HP: 182.3 MANA: 136.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3948 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Infinitus
+Shape: Bird
+Type: Range, Horde, Sky, Water, Day, Ground
+Size: Mid
+Element(s): Fire
+Stats:
+ATK: 16.5
+DEF: 14.0
+AGI: 12.0
+INT: 13.2
+WIS: 12.0
+HP: 156.5 MANA: 96.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

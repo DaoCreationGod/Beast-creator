@@ -1,0 +1,210 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0043 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Solara Serenus (calm) Arenosus (sandy) Hirsuta (hairy)
+Shape: Vertebrate
+Type: Horde, Day, Underground, Water, Mid, Ground
+Size: Giant
+Element(s): Physical, Water, Earth
+Stats:
+ATK: 26.2
+DEF: 34.0
+AGI: 32.5
+INT: 37.5
+WIS: 26.0
+HP: 366.2 MANA: 252.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0122 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tenebris Velox (swift) Glacialis (icy) Purpurea (purple)
+Shape: Vertebrate
+Type: Close, Ground, Day, Horde, Underground, Water
+Size: Giant
+Element(s): Physical, Gold, Wood
+Stats:
+ATK: 26.2
+DEF: 49.1
+AGI: 28.0
+INT: 31.2
+WIS: 33.8
+HP: 517.2 MANA: 240.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0598 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis Mollis (soft) Crateris (crater)
+Shape: Vertebrate
+Type: Ground, Underground, Horde, Range, Lava/Magma, Day
+Size: Giant
+Element(s): Wood
+Stats:
+ATK: 30.0
+DEF: 32.5
+AGI: 30.0
+INT: 30.0
+WIS: 37.7
+HP: 355.0 MANA: 244.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0774 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Glacies
+Shape: Vertebrate
+Type: Pack, Sky, Mid, Water, Day, Ground
+Size: Giant
+Element(s): Lightning
+Stats:
+ATK: 35.0
+DEF: 29.0
+AGI: 36.2
+INT: 25.0
+WIS: 28.0
+HP: 325.0 MANA: 195.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0977 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis Aureus (golden) Cavernis (cave)
+Shape: Vertebrate
+Type: Range, Sky, Day, Pack, Lava/Magma, Ground
+Size: Giant
+Element(s): Physical
+Stats:
+ATK: 27.3
+DEF: 30.5
+AGI: 30.0
+INT: 27.0
+WIS: 25.0
+HP: 332.3 MANA: 197.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1031 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Purpureus (purple) Vallicola (valley) Punctata (dotted)
+Shape: Vertebrate
+Type: Group, Range, Water, Underground, Day, Ground
+Size: Giant
+Element(s): Yang
+Stats:
+ATK: 26.0
+DEF: 28.0
+AGI: 27.0
+INT: 37.5
+WIS: 39.0
+HP: 306.0 MANA: 285.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1147 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara
+Shape: Vertebrate
+Type: Long Range, Sky, Lava/Magma, Group, Night, Ground
+Size: Giant
+Element(s): Wood
+Stats:
+ATK: 29.0
+DEF: 35.1
+AGI: 30.0
+INT: 26.0
+WIS: 36.4
+HP: 380.0 MANA: 221.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1991 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vortexis Rarus (rare) Savannus (savanna) Lanceolata (lance-shaped)
+Shape: Vertebrate
+Type: Range, Underground, Ground, Pack, Lava/Magma, Night
+Size: Giant
+Element(s): Physical, Water
+Stats:
+ATK: 31.5
+DEF: 27.3
+AGI: 32.5
+INT: 37.5
+WIS: 29.0
+HP: 304.5 MANA: 260.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2237 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Silexia Erectus (upright) Alpinus (alpine) Punctata (dotted) Nomadica (nomadic)
+Shape: Vertebrate
+Type: Group, Water, Long Range, Underground, Ground, Night
+Size: Giant
+Element(s): Yang
+Stats:
+ATK: 27.0
+DEF: 29.0
+AGI: 25.0
+INT: 45.0
+WIS: 45.0
+HP: 317.0 MANA: 337.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2336 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vaporia
+Shape: Vertebrate
+Type: Day, Group, Mid, Ground, Lava/Magma, Underground
+Size: Giant
+Element(s): Ice
+Stats:
+ATK: 33.0
+DEF: 29.0
+AGI: 30.0
+INT: 34.3
+WIS: 28.0
+HP: 323.0 MANA: 241.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2454 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vortexis Volans (flying) Limosus (muddy) Glabra (smooth)
+Shape: Vertebrate
+Type: Lava/Magma, Mid, Day, Pack, Ground, Underground
+Size: Giant
+Element(s): Wood, Earth, Fire
+Stats:
+ATK: 33.0
+DEF: 42.1
+AGI: 27.0
+INT: 31.9
+WIS: 39.0
+HP: 454.0 MANA: 257.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2492 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Infinitus Robustus (strong)
+Shape: Vertebrate
+Type: Water, Close, Pack, Night, Underground, Ground
+Size: Giant
+Element(s): Earth
+Stats:
+ATK: 25.0
+DEF: 31.2
+AGI: 30.0
+INT: 27.0
+WIS: 29.0
+HP: 337.0 MANA: 207.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3151 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vulcanor
+Shape: Vertebrate
+Type: Mid, Horde, Sky, Lava/Magma, Day, Ground
+Size: Giant
+Element(s): Gold, Ice, Earth
+Stats:
+ATK: 35.6
+DEF: 37.4
+AGI: 30.0
+INT: 44.2
+WIS: 27.0
+HP: 409.6 MANA: 288.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3477 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Rupesca Luridus (pale) Humidus (humid) Fibrosa (fibrous) Defensa (defensive)
+Shape: Vertebrate
+Type: Horde, Underground, Range, Day, Ground, Lava/Magma
+Size: Giant
+Element(s): Lightning
+Stats:
+ATK: 36.2
+DEF: 27.0
+AGI: 35.0
+INT: 26.0
+WIS: 30.0
+HP: 306.2 MANA: 205.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3612 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sonoris Communis (common) Alpinus (alpine) Zebrina (zebra-like)
+Shape: Vertebrate
+Type: Pack, Long Range, Day, Water, Ground, Underground
+Size: Giant
+Element(s): Strength
+Stats:
+ATK: 31.2
+DEF: 29.0
+AGI: 27.0
+INT: 30.0
+WIS: 27.0
+HP: 321.2 MANA: 217.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

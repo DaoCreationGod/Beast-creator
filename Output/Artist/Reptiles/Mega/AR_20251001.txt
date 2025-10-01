@@ -1,0 +1,15 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0190 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion
+Shape: Reptile, Arboreal Reptile, Climbing specialists with adhesive pads, prehensile tails, or gripping limbs
+Type: Pack, Water, Ground, Night, Mid, Sky
+Size: Mega
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 46.0
+DEF: 46.8 because of elemental bonuses, base DEF: 39.0
+AGI: 50.0
+INT: 46.0
+WIS: 43.0
+HP: 514.0 MANA: 337.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

@@ -1,0 +1,615 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0067 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ventus Albus (white) Borealis (northern)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Lava/Magma, Night, Group, Close, Ground, Sky
+Size: Tiny
+Element(s): Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 6.5 because of elemental bonuses, base ATK: 5.0
+DEF: 6.0
+AGI: 5.0
+INT: 6.0
+WIS: 6.0
+HP: 66.5 MANA: 45.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0215 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Glacies Aeneus (bronze) Litoralis (coastal) Tricolor (three-colored) Pendula (hanging)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Night, Horde, Lava/Magma, Range, Sky, Ground
+Size: Tiny
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 7.4 because of elemental bonuses, base ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 8.0
+AGI: 6.0
+INT: 5.0
+WIS: 5.0
+HP: 91.4 MANA: 37.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0335 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Aureus (golden) Saxatilis (rocky)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Range, Underground, Water, Pack, Night, Ground
+Size: Tiny
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 6.6 because of elemental bonuses, base ATK: 6.0
+DEF: 7.0
+AGI: 6.0
+INT: 5.5 because of elemental bonuses, base INT: 5.0
+WIS: 5.0
+HP: 76.6 MANA: 40.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0504 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis Parvus (small)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Water, Night, Underground, Group, Ground, Mid
+Size: Tiny
+Element(s): Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.6 because of elemental bonuses, base ATK: 8.0
+DEF: 5.0
+AGI: 7.0
+INT: 8.0
+WIS: 7.0
+HP: 58.6 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0539 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Range, Water, Underground, Night, Ground, Horde
+Size: Tiny
+Element(s): Fire, Gold, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.8 because of elemental bonuses, base ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 8.2 because of elemental bonuses, base INT: 5.0
+WIS: 7.0
+HP: 92.8 MANA: 58.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0585 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Caeruleus (blue) Arboreus (tree-dwelling)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Underground, Close, Ground, Pack, Lava/Magma, Night
+Size: Tiny
+Element(s): Ice
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 10.2 because of elemental bonuses, base ATK: 8.0
+DEF: 8.0
+AGI: 5.0
+INT: 6.3 because of elemental bonuses, base INT: 5.0
+WIS: 8.0
+HP: 90.2 MANA: 51.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0886 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Sky, Close, Night, Pack, Water, Ground
+Size: Tiny
+Element(s): Wood, Strength
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 5.4 because of elemental bonuses, base ATK: 5.0
+DEF: 10.4 because of elemental bonuses, base DEF: 8.0
+AGI: 6.0
+INT: 8.0
+WIS: 6.5 because of elemental bonuses, base WIS: 5.0
+HP: 109.4 MANA: 56.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1002 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Rufus (red) Crateris (crater) Undulata (wavy) Nocturna (night-active)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Pack, Range, Night, Lava/Magma, Underground, Ground
+Size: Tiny
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 5.2 because of elemental bonuses, base ATK: 5.0
+DEF: 8.4 because of elemental bonuses, base DEF: 8.0
+AGI: 5.0
+INT: 5.0
+WIS: 5.0
+HP: 89.2 MANA: 37.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1013 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aetheris Albus (white)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Lava/Magma, Close, Underground, Ground, Pack, Night
+Size: Tiny
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.0
+DEF: 6.0 because of elemental bonuses, base DEF: 5.0
+AGI: 6.0
+INT: 8.0
+WIS: 8.0
+HP: 68.0 MANA: 60.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1185 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia Rarus (rare) Occidentalis (western)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Water, Mid, Underground, Day, Horde, Ground
+Size: Tiny
+Element(s): Physical, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.4 because of elemental bonuses, base ATK: 7.0
+DEF: 10.1 because of elemental bonuses, base DEF: 8.0
+AGI: 8.0
+INT: 6.0
+WIS: 7.0
+HP: 108.4 MANA: 47.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1224 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Rupesca Rufus (red) Polarus (polar) Cordata (heart-shaped) Rapax (predatory)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Underground, Range, Pack, Night, Water, Ground
+Size: Tiny
+Element(s): Gold
+Specialized Adaptation: Extreme Camouflage Octopus (Octopus cyanea) - Color and texture shifting.
+Stats:
+ATK: 5.0
+DEF: 7.2 because of elemental bonuses, base DEF: 6.0
+AGI: 6.0
+INT: 7.2 because of elemental bonuses, base INT: 6.0
+WIS: 5.0
+HP: 77.0 MANA: 48.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1231 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion Levis (light)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Pack, Range, Lava/Magma, Sky, Day, Ground
+Size: Tiny
+Element(s): Gold, Earth, Physical
+Specialized Adaptation: Extreme Camouflage Flounder (Paralichthys spp.) - Sandy bottom camouflage.
+Stats:
+ATK: 6.3 because of elemental bonuses, base ATK: 6.0
+DEF: 12.1 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 6.0 because of elemental bonuses, base INT: 5.0
+WIS: 8.0
+HP: 127.3 MANA: 50.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1404 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Serpentis Argenteus (silver)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Range, Water, Day, Horde, Sky, Ground
+Size: Tiny
+Element(s): Physical, Water, Strength
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 5.6 because of elemental bonuses, base ATK: 5.0
+DEF: 5.2 because of elemental bonuses, base DEF: 5.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 8.0
+HP: 57.6 MANA: 64.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1509 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Arcanis Fragilis (fragile) Desertus (desert) Orbiculata (circular)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Horde, Close, Sky, Night, Ground, Water
+Size: Tiny
+Element(s): Wood, Gold
+Specialized Adaptation: Bioluminescent Lanternshark (Etmopterus spp.) - Light-emitting photophores.
+Stats:
+ATK: 7.0
+DEF: 7.8 because of elemental bonuses, base DEF: 5.0
+AGI: 6.0
+INT: 9.6 because of elemental bonuses, base INT: 8.0
+WIS: 6.5 because of elemental bonuses, base WIS: 5.0
+HP: 85.0 MANA: 64.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1700 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Arcanis
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Night, Range, Sky, Water, Group, Ground
+Size: Tiny
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 7.0 because of elemental bonuses, base ATK: 5.0
+DEF: 7.0 because of elemental bonuses, base DEF: 5.0
+AGI: 8.0
+INT: 8.0
+WIS: 7.0
+HP: 77.0 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1898 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis Fragilis (fragile) Desertus (desert) Orbiculata (circular) Fugax (fleeting)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Sky, Water, Horde, Night, Mid, Ground
+Size: Tiny
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 8.0
+DEF: 9.1 because of elemental bonuses, base DEF: 7.0
+AGI: 5.0
+INT: 7.0
+WIS: 6.5 because of elemental bonuses, base WIS: 5.0
+HP: 99.0 MANA: 51.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1910 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Silentis (quiet)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Pack, Day, Close, Ground, Water, Underground
+Size: Tiny
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Glowing Coral (Tubastraea spp.) - Fluorescent polyps.
+Stats:
+ATK: 11.2 because of elemental bonuses, base ATK: 8.0
+DEF: 9.8 because of elemental bonuses, base DEF: 7.0
+AGI: 6.0
+INT: 7.0
+WIS: 6.0
+HP: 109.2 MANA: 50.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1928 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Serpentis Caeruleus (blue) Glacialis (icy) Zebrina (zebra-like)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Pack, Lava/Magma, Underground, Ground, Mid, Night
+Size: Tiny
+Element(s): Earth, Water, Gold
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 7.0
+DEF: 8.6 because of elemental bonuses, base DEF: 6.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 6.0
+HP: 93.0 MANA: 75.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2011 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia Ater (dark) Pratensis (meadow) Fibrosa (fibrous) Diurna (day-active)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Close, Day, Pack, Sky, Lava/Magma, Ground
+Size: Tiny
+Element(s): Fire, Water, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.8 because of elemental bonuses, base ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 6.2 because of elemental bonuses, base AGI: 5.0
+INT: 8.2 because of elemental bonuses, base INT: 5.0
+WIS: 8.0
+HP: 92.8 MANA: 61.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2027 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Mid, Ground, Night, Underground, Horde, Lava/Magma
+Size: Tiny
+Element(s): Water, Strength
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 5.4 because of elemental bonuses, base ATK: 5.0
+DEF: 5.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 7.5 because of elemental bonuses, base INT: 6.0
+WIS: 8.0
+HP: 55.4 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2047 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Radians (radiant) Cavernis (cave)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Day, Sky, Pack, Mid, Ground, Water
+Size: Tiny
+Element(s): Sharpness
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 6.5 because of elemental bonuses, base ATK: 5.0
+DEF: 5.0
+AGI: 6.0
+INT: 6.0
+WIS: 7.0
+HP: 56.5 MANA: 47.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2094 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tenebris Cinereus (gray) Fluvialis (river) Granulata (granular) Arborea (tree-living)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Group, Mid, Sky, Day, Lava/Magma, Ground
+Size: Tiny
+Element(s): Earth, Lightning
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 7.5 because of elemental bonuses, base ATK: 6.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 6.2 because of elemental bonuses, base AGI: 5.0
+INT: 5.0
+WIS: 7.0
+HP: 91.5 MANA: 42.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2141 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vortexis Angustus (narrow) Oreadis (mountain nymph)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Lava/Magma, Pack, Underground, Night, Close, Ground
+Size: Tiny
+Element(s): Crystal, Gold, Strength
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 12.0 because of elemental bonuses, base ATK: 8.0
+DEF: 11.8 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 7.2 because of elemental bonuses, base INT: 6.0
+WIS: 6.0
+HP: 130.0 MANA: 51.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2209 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis Glaber (hairless) Aethalis (high-altitude) Lobata (lobed) Pollinans (pollinating)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Close, Day, Sky, Water, Pack, Ground
+Size: Tiny
+Element(s): Lightning
+Specialized Adaptation: Extreme Camouflage Pygmy Seahorse (Hippocampus bargibanti) - Coral-mimicking.
+Stats:
+ATK: 10.0 because of elemental bonuses, base ATK: 8.0
+DEF: 6.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 6.0
+WIS: 6.0
+HP: 70.0 MANA: 45.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2241 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignavus Pendulus (hanging) Taiganus (taiga)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Pack, Close, Lava/Magma, Ground, Night, Underground
+Size: Tiny
+Element(s): Strength
+Specialized Adaptation: Bioluminescent Glowing Coral (Tubastraea spp.) - Fluorescent polyps.
+Stats:
+ATK: 7.5 because of elemental bonuses, base ATK: 7.0
+DEF: 8.0
+AGI: 5.0
+INT: 8.0
+WIS: 6.0
+HP: 87.5 MANA: 55.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2253 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Cinereus (gray)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Lava/Magma, Sky, Mid, Night, Pack, Ground
+Size: Tiny
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Lanternshark (Etmopterus spp.) - Light-emitting photophores.
+Stats:
+ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 5.0
+INT: 8.0
+WIS: 6.0
+HP: 92.0 MANA: 55.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2353 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion Angustus (narrow)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Day, Range, Horde, Lava/Magma, Underground, Ground
+Size: Tiny
+Element(s): Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 9.1 because of elemental bonuses, base DEF: 7.0
+AGI: 5.0
+INT: 8.0
+WIS: 7.8 because of elemental bonuses, base WIS: 6.0
+HP: 98.0 MANA: 59.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2496 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris Celeris (fast)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Close, Group, Underground, Day, Lava/Magma, Ground
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 7.0
+DEF: 5.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 6.2 because of elemental bonuses, base INT: 5.0
+WIS: 7.0
+HP: 57.0 MANA: 48.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2545 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Marinus
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Day, Pack, Underground, Water, Range, Ground
+Size: Tiny
+Element(s): Ice
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 7.6 because of elemental bonuses, base ATK: 6.0
+DEF: 7.0
+AGI: 7.0
+INT: 10.2 because of elemental bonuses, base INT: 8.0
+WIS: 8.0
+HP: 77.6 MANA: 71.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2619 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vortexis Fragilis (fragile) Fluvialis (river)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Day, Long Range, Horde, Water, Underground, Ground
+Size: Tiny
+Element(s): Fire, Earth, Sharpness
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.2 because of elemental bonuses, base ATK: 5.0
+DEF: 6.0 because of elemental bonuses, base DEF: 5.0
+AGI: 8.0
+INT: 7.7 because of elemental bonuses, base INT: 7.0
+WIS: 8.0
+HP: 67.2 MANA: 58.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3019 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Clarus (bright) Aethalis (high-altitude) Aurea (gold) Placida (peaceful)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Water, Long Range, Horde, Day, Ground, Underground
+Size: Tiny
+Element(s): Sharpness
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 10.4 because of elemental bonuses, base ATK: 8.0
+DEF: 6.0
+AGI: 8.0
+INT: 7.0
+WIS: 5.0
+HP: 70.4 MANA: 47.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3079 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Lava/Magma, Night, Group, Underground, Mid, Ground
+Size: Tiny
+Element(s): Lightning
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.8 because of elemental bonuses, base ATK: 7.0
+DEF: 7.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 5.0
+WIS: 5.0
+HP: 78.8 MANA: 37.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3265 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Albus (white)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Night, Ground, Long Range, Pack, Underground, Lava/Magma
+Size: Tiny
+Element(s): Yin
+Specialized Adaptation: Bioluminescent Deep-Sea Anglerfish (Linophryne arborifera) - Glowing chin barbel.
+Stats:
+ATK: 8.0
+DEF: 5.0
+AGI: 6.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 12.0 because of elemental bonuses, base WIS: 8.0
+HP: 58.0 MANA: 90.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3306 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Corvalis Laevis (smooth) Alpinus (alpine) Zebrina (zebra-like)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Mid, Ground, Lava/Magma, Group, Sky, Day
+Size: Tiny
+Element(s): Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 7.0
+DEF: 5.0
+AGI: 8.0
+INT: 7.7 because of elemental bonuses, base INT: 7.0
+WIS: 6.0
+HP: 57.7 MANA: 53.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3346 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aeternis Vibrans (vibrant) Fennalis (fen) Zebrina (zebra-like) Effugiens (escaping)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Lava/Magma, Pack, Day, Long Range, Ground, Underground
+Size: Tiny
+Element(s): Ice
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 10.2 because of elemental bonuses, base ATK: 8.0
+DEF: 7.0
+AGI: 6.0
+INT: 6.3 because of elemental bonuses, base INT: 5.0
+WIS: 6.0
+HP: 80.2 MANA: 46.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3369 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tranquilis Serenus (calm)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Underground, Pack, Day, Lava/Magma, Range, Ground
+Size: Tiny
+Element(s): Crystal
+Specialized Adaptation: Extreme Camouflage Orchid Mantis (Hymenopus coronatus) - Flower mimic.
+Stats:
+ATK: 7.0 because of elemental bonuses, base ATK: 5.0
+DEF: 8.4 because of elemental bonuses, base DEF: 6.0
+AGI: 8.0
+INT: 5.0
+WIS: 8.0
+HP: 91.0 MANA: 45.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3518 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nebulora Levis (light)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Day, Long Range, Ground, Underground, Pack, Lava/Magma
+Size: Tiny
+Element(s): Water, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.0
+DEF: 6.0 because of elemental bonuses, base DEF: 5.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 7.5 because of elemental bonuses, base INT: 6.0
+WIS: 5.0
+HP: 68.0 MANA: 50.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3567 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Fulgora Silentis (quiet)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Water, Day, Sky, Pack, Mid, Ground
+Size: Tiny
+Element(s): Wind
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 6.0
+DEF: 10.8 because of elemental bonuses, base DEF: 8.0
+AGI: 9.5 because of elemental bonuses, base AGI: 7.0
+INT: 6.0
+WIS: 6.0
+HP: 114.0 MANA: 45.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3898 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia Gravis (heavy)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Close, Water, Pack, Sky, Night, Ground
+Size: Tiny
+Element(s): Physical, Yin
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 8.4 because of elemental bonuses, base ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 7.5 because of elemental bonuses, base WIS: 5.0
+HP: 92.4 MANA: 78.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3906 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sylvanis Magnus (large) Insularis (island) Punctata (dotted) Migrans (migratory)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Pack, Night, Sky, Ground, Close, Lava/Magma
+Size: Tiny
+Element(s): Wind, Physical, Wood
+Specialized Adaptation: Bioluminescent Hatchetfish (Sternoptyx spp.) - Counter-illumination camouflage.
+Stats:
+ATK: 7.4 because of elemental bonuses, base ATK: 7.0
+DEF: 11.1 because of elemental bonuses, base DEF: 6.0
+AGI: 6.8 because of elemental bonuses, base AGI: 5.0
+INT: 6.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 118.4 MANA: 56.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3968 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tranquilis Pendulus (hanging) Humidus (humid)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Night, Close, Group, Water, Ground, Sky
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 5.0
+DEF: 6.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 7.0
+HP: 65.0 MANA: 61.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

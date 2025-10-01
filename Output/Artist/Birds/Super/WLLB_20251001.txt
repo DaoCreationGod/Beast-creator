@@ -1,0 +1,60 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0069 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Levis (light) Montanus (mountain)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Underground, Range, Horde, Day, Water, Ground
+Size: Super
+Element(s): Wind
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 95.0
+DEF: 108.0 because of elemental bonuses, base DEF: 80.0
+AGI: 113.4 because of elemental bonuses, base AGI: 84.0
+INT: 77.0
+WIS: 80.0
+HP: 1175.0 MANA: 585.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0566 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignavus Viridis (green)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Range, Underground, Horde, Water, Day, Ground
+Size: Super
+Element(s): Physical, Gold
+Specialized Adaptation: Extreme Camouflage Cuttlefish (Sepia officinalis) - Adaptive camouflage.
+Stats:
+ATK: 99.8 because of elemental bonuses, base ATK: 95.0
+DEF: 95.8 because of elemental bonuses, base DEF: 76.0
+AGI: 71.0
+INT: 114.0 because of elemental bonuses, base INT: 95.0
+WIS: 97.0
+HP: 1057.8 MANA: 812.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3534 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis Mollis (soft) Volcanicus (volcanic) Lunata (crescent-shaped) Placida (peaceful)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Range, Water, Night, Group, Ground, Underground
+Size: Super
+Element(s): Fire, Earth, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 75.9 because of elemental bonuses, base ATK: 69.0
+DEF: 152.9 because of elemental bonuses, base DEF: 98.0
+AGI: 92.0
+INT: 104.5 because of elemental bonuses, base INT: 95.0
+WIS: 85.8 because of elemental bonuses, base WIS: 66.0
+HP: 1604.9 MANA: 737.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3623 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Marinus Audax (bold)
+Shape: Bird, Wading Long Legged Bird, Slender legs, elongated necks, wetland foragers
+Type: Ground, Night, Close, Water, Pack, Sky
+Size: Super
+Element(s): Yang
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 95.0
+DEF: 77.0
+AGI: 83.0
+INT: 148.5 because of elemental bonuses, base INT: 99.0
+WIS: 112.5 because of elemental bonuses, base WIS: 75.0
+HP: 865.0 MANA: 1023.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

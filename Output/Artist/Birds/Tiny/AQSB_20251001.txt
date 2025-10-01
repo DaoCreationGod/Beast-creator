@@ -1,0 +1,585 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0041 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Marinus Silentis (quiet)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Ground, Long Range, Group, Underground, Night, Lava/Magma
+Size: Tiny
+Element(s): Water, Yang
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 7.0
+DEF: 8.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 9.4 because of elemental bonuses, base INT: 5.0
+WIS: 10.5 because of elemental bonuses, base WIS: 7.0
+HP: 87.0 MANA: 73.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0049 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Radians (radiant)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Day, Sky, Long Range, Group, Ground, Lava/Magma
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 7.0
+DEF: 8.0
+AGI: 6.2 because of elemental bonuses, base AGI: 5.0
+INT: 7.5 because of elemental bonuses, base INT: 6.0
+WIS: 5.0
+HP: 87.0 MANA: 50.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0129 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Lava/Magma, Pack, Mid, Ground, Night, Sky
+Size: Tiny
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Tasselled Wobbegong (Eucrossorhinus dasypogon) - Frilly seaweed mimic.
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 7.0
+DEF: 7.0
+AGI: 7.0
+INT: 6.6 because of elemental bonuses, base INT: 6.0
+WIS: 6.0
+HP: 77.7 MANA: 48.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0217 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Umbrion Viridis (green) Glacialis (icy)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Lava/Magma, Sky, Close, Ground, Night, Group
+Size: Tiny
+Element(s): Water, Wood
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 8.0
+DEF: 9.1 because of elemental bonuses, base DEF: 7.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 10.0 because of elemental bonuses, base INT: 8.0
+WIS: 7.8 because of elemental bonuses, base WIS: 6.0
+HP: 99.0 MANA: 69.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0222 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Arcanis
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Ground, Lava/Magma, Day, Mid, Horde, Sky
+Size: Tiny
+Element(s): Fire, Crystal
+Specialized Adaptation: Extreme Camouflage Mossy Frog (Theloderma corticale) - Moss-like texture.
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 5.0
+DEF: 8.4 because of elemental bonuses, base DEF: 6.0
+AGI: 7.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 5.0
+HP: 91.7 MANA: 56.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0245 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Altaria Fragilis (fragile) Orientalis (eastern) Reticulata (netted) Invasora (invasive)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Sky, Pack, Night, Ground, Range, Water
+Size: Tiny
+Element(s): Yang
+Specialized Adaptation: Bioluminescent Glowworm Beetle (Phengodidae spp.) - Larval light organs.
+Stats:
+ATK: 6.0
+DEF: 5.0
+AGI: 5.0
+INT: 9.0 because of elemental bonuses, base INT: 6.0
+WIS: 10.5 because of elemental bonuses, base WIS: 7.0
+HP: 56.0 MANA: 71.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0330 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis Robustus (strong) Cavernis (cave) Tricolor (three-colored) Scavens (scavenging)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Mid, Pack, Night, Water, Sky, Ground
+Size: Tiny
+Element(s): Earth, Water
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 7.0
+DEF: 7.2 because of elemental bonuses, base DEF: 6.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 10.0 because of elemental bonuses, base INT: 8.0
+WIS: 7.0
+HP: 79.0 MANA: 67.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0340 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Luminor
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Day, Group, Sky, Close, Ground, Lava/Magma
+Size: Tiny
+Element(s): Physical, Fire
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 8.1 because of elemental bonuses, base ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 8.0
+AGI: 5.0
+INT: 6.6 because of elemental bonuses, base INT: 6.0
+WIS: 7.0
+HP: 92.1 MANA: 50.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0473 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Serpentis Serenus (calm) Humidus (humid) Tricolor (three-colored) Natans (swimming)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Long Range, Day, Lava/Magma, Ground, Sky, Pack
+Size: Tiny
+Element(s): Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 5.0
+DEF: 8.0
+AGI: 6.0
+INT: 9.0 because of elemental bonuses, base INT: 6.0
+WIS: 12.0 because of elemental bonuses, base WIS: 8.0
+HP: 85.0 MANA: 75.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0721 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia Caeruleus (blue) Orientalis (eastern) Lunata (crescent-shaped) Silens (silent)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Underground, Horde, Lava/Magma, Night, Ground, Long Range
+Size: Tiny
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 5.0
+DEF: 7.8 because of elemental bonuses, base DEF: 6.0
+AGI: 5.0
+INT: 6.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 83.0 MANA: 52.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0784 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion Alatus (winged) Campestris (plains)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Underground, Pack, Lava/Magma, Long Range, Day, Ground
+Size: Tiny
+Element(s): Gold, Wood
+Specialized Adaptation: Extreme Camouflage Tasselled Wobbegong (Eucrossorhinus dasypogon) - Frilly seaweed mimic.
+Stats:
+ATK: 5.0
+DEF: 12.5 because of elemental bonuses, base DEF: 8.0
+AGI: 5.0
+INT: 9.6 because of elemental bonuses, base INT: 8.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 130.0 MANA: 70.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0900 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Marinus Robustus (strong) Australis (southern)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Horde, Day, Range, Water, Underground, Ground
+Size: Tiny
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Glowworm (Arachnocampa luminosa) - Cave-dwelling, sticky threads.
+Stats:
+ATK: 6.6 because of elemental bonuses, base ATK: 6.0
+DEF: 6.0
+AGI: 6.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 8.0
+HP: 66.6 MANA: 64.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1243 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Cryptis Clarus (bright) Deltanus (delta) Lineata (lined)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Ground, Day, Horde, Lava/Magma, Close, Underground
+Size: Tiny
+Element(s): Strength
+Specialized Adaptation: Extreme Camouflage Stonefish (Synanceia verrucosa) - Rocky appearance.
+Stats:
+ATK: 8.6 because of elemental bonuses, base ATK: 8.0
+DEF: 5.0
+AGI: 8.0
+INT: 6.0
+WIS: 7.0
+HP: 58.6 MANA: 47.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1293 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignavus Laevis (smooth)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Underground, Close, Night, Group, Lava/Magma, Ground
+Size: Tiny
+Element(s): Gold, Earth
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 8.0
+DEF: 11.5 because of elemental bonuses, base DEF: 8.0
+AGI: 6.0
+INT: 7.2 because of elemental bonuses, base INT: 6.0
+WIS: 8.0
+HP: 123.0 MANA: 56.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1359 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sylvanis
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Sky, Long Range, Pack, Night, Water, Ground
+Size: Tiny
+Element(s): Physical, Wood, Earth
+Specialized Adaptation: Bioluminescent Flashlight Fish (Anomalops katoptron) - Light organs under eyes.
+Stats:
+ATK: 7.4 because of elemental bonuses, base ATK: 7.0
+DEF: 11.5 because of elemental bonuses, base DEF: 7.0
+AGI: 6.0
+INT: 5.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 122.4 MANA: 51.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1596 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignara
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Long Range, Night, Group, Sky, Lava/Magma, Ground
+Size: Tiny
+Element(s): Sharpness, Gold, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.2 because of elemental bonuses, base ATK: 6.0
+DEF: 6.3 because of elemental bonuses, base DEF: 5.0
+AGI: 5.0
+INT: 6.0 because of elemental bonuses, base INT: 5.0
+WIS: 6.0
+HP: 71.2 MANA: 45.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1643 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aurumis Audax (bold)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Day, Long Range, Water, Horde, Underground, Ground
+Size: Tiny
+Element(s): Gold, Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.9 because of elemental bonuses, base ATK: 7.0
+DEF: 6.0 because of elemental bonuses, base DEF: 5.0
+AGI: 7.0
+INT: 7.6 because of elemental bonuses, base INT: 5.0
+WIS: 6.0
+HP: 68.9 MANA: 53.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1821 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris Vibrans (vibrant) Palustris (marshy)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Lava/Magma, Underground, Night, Horde, Long Range, Ground
+Size: Tiny
+Element(s): Physical, Earth
+Specialized Adaptation: Bioluminescent Tomopteris Worm (Tomopteris spp.) - Golden bioluminescence.
+Stats:
+ATK: 7.4 because of elemental bonuses, base ATK: 7.0
+DEF: 10.1 because of elemental bonuses, base DEF: 8.0
+AGI: 6.0
+INT: 7.0
+WIS: 7.0
+HP: 108.4 MANA: 52.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1824 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Cinereus (gray)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Lava/Magma, Close, Pack, Sky, Day, Ground
+Size: Tiny
+Element(s): Gold, Earth, Wood
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 5.0
+DEF: 9.4 because of elemental bonuses, base DEF: 5.0
+AGI: 6.0
+INT: 7.2 because of elemental bonuses, base INT: 6.0
+WIS: 6.5 because of elemental bonuses, base WIS: 5.0
+HP: 99.0 MANA: 52.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1832 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Caeruleus (blue) Littoralis (shore)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Ground, Underground, Pack, Long Range, Night, Water
+Size: Tiny
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 7.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 8.0
+INT: 6.0
+WIS: 5.0
+HP: 103.0 MANA: 42.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2136 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aetheris Magnus (large) Occidentalis (western)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Pack, Sky, Mid, Water, Night, Ground
+Size: Tiny
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Flashlight Fish (Anomalops katoptron) - Light organs under eyes.
+Stats:
+ATK: 8.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 5.0
+INT: 8.0
+WIS: 5.0
+HP: 104.0 MANA: 52.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2367 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tempestis Pendulus (hanging)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Lava/Magma, Horde, Ground, Close, Underground, Night
+Size: Tiny
+Element(s): Fire, Wood
+Specialized Adaptation: Bioluminescent Brittle Star (Ophiopsila spp.) - Glowing arms.
+Stats:
+ATK: 6.6 because of elemental bonuses, base ATK: 6.0
+DEF: 7.8 because of elemental bonuses, base DEF: 6.0
+AGI: 8.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 84.6 MANA: 66.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2424 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Clarus (bright) Humidus (humid) Hirsuta (hairy) Fetida (foul-smelling)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Lava/Magma, Horde, Range, Day, Ground, Underground
+Size: Tiny
+Element(s): Wood, Sharpness, Ice
+Specialized Adaptation: Bioluminescent Glowing Coral (Tubastraea spp.) - Fluorescent polyps.
+Stats:
+ATK: 13.2 because of elemental bonuses, base ATK: 8.0
+DEF: 6.5 because of elemental bonuses, base DEF: 5.0
+AGI: 6.0
+INT: 6.3 because of elemental bonuses, base INT: 5.0
+WIS: 7.8 because of elemental bonuses, base WIS: 6.0
+HP: 78.2 MANA: 51.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2427 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aurumis
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Mid, Night, Ground, Pack, Sky, Lava/Magma
+Size: Tiny
+Element(s): Sharpness, Water, Gold
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 7.8 because of elemental bonuses, base ATK: 6.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 7.5 because of elemental bonuses, base INT: 5.0
+WIS: 8.0
+HP: 91.8 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2543 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Mollis (soft) Cavernis (cave)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Sky, Long Range, Group, Night, Lava/Magma, Ground
+Size: Tiny
+Element(s): Gold, Yin
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 6.0
+INT: 10.8 because of elemental bonuses, base INT: 6.0
+WIS: 10.5 because of elemental bonuses, base WIS: 7.0
+HP: 92.0 MANA: 80.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2737 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Fulgora Floridus (flowery) Litoralis (coastal) Maculata (spotted) Fossilis (fossilized)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Water, Pack, Underground, Mid, Night, Ground
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: Bioluminescent Glowworm (Arachnocampa luminosa) - Cave-dwelling, sticky threads.
+Stats:
+ATK: 6.0
+DEF: 5.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 5.0
+HP: 56.0 MANA: 56.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2829 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Floridus (flowery)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Day, Long Range, Group, Underground, Ground, Water
+Size: Tiny
+Element(s): Fire, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 5.8 because of elemental bonuses, base ATK: 5.0
+DEF: 6.3 because of elemental bonuses, base DEF: 6.0
+AGI: 8.0
+INT: 5.5 because of elemental bonuses, base INT: 5.0
+WIS: 5.0
+HP: 68.8 MANA: 40.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2941 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Albus (white) Pluvius (rainy) Argentea (silver) Pollinans (pollinating)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Ground, Sky, Horde, Lava/Magma, Range, Day
+Size: Tiny
+Element(s): Physical
+Specialized Adaptation: Extreme Camouflage Leaf-Tailed Gecko (Uroplatus spp.) - Lichen-mimicking skin.
+Stats:
+ATK: 6.3 because of elemental bonuses, base ATK: 6.0
+DEF: 6.3 because of elemental bonuses, base DEF: 6.0
+AGI: 6.0
+INT: 5.0
+WIS: 6.0
+HP: 69.3 MANA: 40.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3028 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Night, Lava/Magma, Pack, Sky, Close, Ground
+Size: Tiny
+Element(s): Wood, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 12.5 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 8.0
+WIS: 10.4 because of elemental bonuses, base WIS: 8.0
+HP: 132.0 MANA: 66.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3050 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Pallidus (pale) Orientalis (eastern) Spinosa (spiny) Scavens (scavenging)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Ground, Horde, Range, Night, Water, Sky
+Size: Tiny
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Dinoflagellate (Noctiluca scintillans) - Glowing algae in waves.
+Stats:
+ATK: 8.8 because of elemental bonuses, base ATK: 8.0
+DEF: 7.0
+AGI: 5.0
+INT: 6.6 because of elemental bonuses, base INT: 6.0
+WIS: 6.0
+HP: 78.8 MANA: 48.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3201 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Glaber (hairless) Alpinus (alpine)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Underground, Long Range, Group, Day, Lava/Magma, Ground
+Size: Tiny
+Element(s): Yin
+Specialized Adaptation: Extreme Camouflage Underwing Moth (Catocala spp.) - Bark-like forewings.
+Stats:
+ATK: 5.0
+DEF: 7.0
+AGI: 8.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 10.5 because of elemental bonuses, base WIS: 7.0
+HP: 75.0 MANA: 86.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3261 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Luminor Niger (black) Volcanicus (volcanic)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Group, Lava/Magma, Long Range, Underground, Day, Ground
+Size: Tiny
+Element(s): Fire, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 6.6 because of elemental bonuses, base ATK: 6.0
+DEF: 10.4 because of elemental bonuses, base DEF: 8.0
+AGI: 5.0
+INT: 7.7 because of elemental bonuses, base INT: 7.0
+WIS: 7.8 because of elemental bonuses, base WIS: 6.0
+HP: 110.6 MANA: 58.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3474 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Pallidus (pale)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Water, Long Range, Group, Night, Underground, Ground
+Size: Tiny
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Flashlight Fish (Anomalops katoptron) - Light organs under eyes.
+Stats:
+ATK: 5.0
+DEF: 6.5 because of elemental bonuses, base DEF: 5.0
+AGI: 8.0
+INT: 7.0
+WIS: 6.5 because of elemental bonuses, base WIS: 5.0
+HP: 70.0 MANA: 51.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3581 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vulcanor Albus (white) Sylvestris (forest) Punctata (dotted) Solitaria (solitary)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Mid, Night, Ground, Lava/Magma, Pack, Sky
+Size: Tiny
+Element(s): Yin
+Specialized Adaptation: Extreme Camouflage Leaf Insect (Phyllium spp.) - Perfect leaf mimic.
+Stats:
+ATK: 8.0
+DEF: 8.0
+AGI: 8.0
+INT: 10.5 because of elemental bonuses, base INT: 7.0
+WIS: 9.0 because of elemental bonuses, base WIS: 6.0
+HP: 88.0 MANA: 75.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3680 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Rarus (rare)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Range, Lava/Magma, Night, Horde, Underground, Ground
+Size: Tiny
+Element(s): Yang, Earth, Yin
+Specialized Adaptation: Bioluminescent Scaleless Dragonfish (Aristostomias scintillans) - Blue-green lights.
+Stats:
+ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 5.0
+INT: 13.5 because of elemental bonuses, base INT: 6.0
+WIS: 11.2 because of elemental bonuses, base WIS: 5.0
+HP: 91.0 MANA: 95.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3842 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignavus Ferrugineus (rusty) Sylvestris (forest) Bicolor (two-colored) Camouflara (camouflaged)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Horde, Water, Day, Close, Ground, Sky
+Size: Tiny
+Element(s): Yin, Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 10.2 because of elemental bonuses, base ATK: 8.0
+DEF: 6.0
+AGI: 7.0
+INT: 9.5 because of elemental bonuses, base INT: 5.0
+WIS: 9.0 because of elemental bonuses, base WIS: 6.0
+HP: 70.2 MANA: 70.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3889 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Corvalis Ferox (fierce) Aethalis (high-altitude) Lobata (lobed) Arborea (tree-living)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Ground, Mid, Sky, Night, Lava/Magma, Group
+Size: Tiny
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 5.0
+DEF: 5.0
+AGI: 7.5 because of elemental bonuses, base AGI: 6.0
+INT: 7.5 because of elemental bonuses, base INT: 6.0
+WIS: 6.0
+HP: 55.0 MANA: 52.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3961 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Zephyria Floridus (flowery) Tropicalis (tropical)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Mid, Horde, Night, Lava/Magma, Underground, Ground
+Size: Tiny
+Element(s): Gold
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 6.0
+INT: 8.4 because of elemental bonuses, base INT: 7.0
+WIS: 7.0
+HP: 92.0 MANA: 59.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3995 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vulcanor Opacus (shaded) Urbanus (urban)
+Shape: Bird, Aquatic Swimming Bird, Streamlined bodies, webbed feet, or diving adaptations
+Type: Group, Mid, Water, Day, Sky, Ground
+Size: Tiny
+Element(s): Yang, Earth
+Specialized Adaptation: Extreme Camouflage Coconut Octopus (Amphioctopus marginatus) - Hides in shells.
+Stats:
+ATK: 6.0
+DEF: 7.2 because of elemental bonuses, base DEF: 6.0
+AGI: 7.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 9.0 because of elemental bonuses, base WIS: 6.0
+HP: 78.0 MANA: 82.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

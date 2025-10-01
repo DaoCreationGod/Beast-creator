@@ -1,0 +1,240 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0045 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Arcanis Rotundus (round) Pratensis (meadow) Marmorata (marbled) Carnifex (flesh-eating)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Ground, Group, Close, Underground, Water, Day
+Size: Large
+Element(s): Physical, Crystal
+Specialized Adaptation: Extreme Camouflage Mossy Frog (Theloderma corticale) - Moss-like texture.
+Stats:
+ATK: 29.4 because of elemental bonuses, base ATK: 20.0
+DEF: 27.9 because of elemental bonuses, base DEF: 19.0
+AGI: 20.0
+INT: 18.0
+WIS: 19.0
+HP: 308.4 MANA: 137.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0061 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ventus Ferrugineus (rusty) Palustris (marshy) Lobata (lobed) Venenata (venomous)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Range, Group, Lava/Magma, Underground, Ground, Night
+Size: Large
+Element(s): Water, Physical
+Specialized Adaptation: Extreme Camouflage Stick Caterpillar (Phalera bucephala) - Resembles a broken twig.
+Stats:
+ATK: 22.1 because of elemental bonuses, base ATK: 21.0
+DEF: 18.9 because of elemental bonuses, base DEF: 18.0
+AGI: 27.5 because of elemental bonuses, base AGI: 22.0
+INT: 26.2 because of elemental bonuses, base INT: 21.0
+WIS: 19.0
+HP: 211.1 MANA: 178.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0237 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis Magnus (large)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Lava/Magma, Underground, Mid, Pack, Night, Ground
+Size: Large
+Element(s): Wood
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 17.0
+DEF: 23.4 because of elemental bonuses, base DEF: 18.0
+AGI: 19.0
+INT: 20.0
+WIS: 26.0 because of elemental bonuses, base WIS: 20.0
+HP: 251.0 MANA: 165.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0581 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Gravis (heavy)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Pack, Night, Underground, Close, Lava/Magma, Ground
+Size: Large
+Element(s): Wood
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 18.0
+DEF: 28.6 because of elemental bonuses, base DEF: 22.0
+AGI: 18.0
+INT: 21.0
+WIS: 26.0 because of elemental bonuses, base WIS: 20.0
+HP: 304.0 MANA: 170.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0782 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sylvanis Niger (black)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Range, Sky, Night, Group, Lava/Magma, Ground
+Size: Large
+Element(s): Gold, Physical
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.9 because of elemental bonuses, base ATK: 19.0
+DEF: 22.7 because of elemental bonuses, base DEF: 18.0
+AGI: 17.0
+INT: 21.6 because of elemental bonuses, base INT: 18.0
+WIS: 20.0
+HP: 246.9 MANA: 158.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0941 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Eclipsis Luminosus (glowing) Nemoralis (woodland)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Group, Long Range, Lava/Magma, Sky, Night, Ground
+Size: Large
+Element(s): Physical, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 23.1 because of elemental bonuses, base ATK: 22.0
+DEF: 19.9 because of elemental bonuses, base DEF: 19.0
+AGI: 22.5 because of elemental bonuses, base AGI: 18.0
+INT: 23.8 because of elemental bonuses, base INT: 19.0
+WIS: 21.0
+HP: 222.1 MANA: 171.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1187 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Voltis Luridus (pale) Taiganus (taiga) Guttata (speckled)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Close, Group, Ground, Underground, Water, Night
+Size: Large
+Element(s): Strength
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 22.6 because of elemental bonuses, base ATK: 21.0
+DEF: 22.0
+AGI: 18.0
+INT: 21.0
+WIS: 21.0
+HP: 242.6 MANA: 157.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1212 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Range, Horde, Sky, Day, Water, Ground
+Size: Large
+Element(s): Earth, Fire, Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 20.9 because of elemental bonuses, base ATK: 19.0
+DEF: 21.6 because of elemental bonuses, base DEF: 18.0
+AGI: 18.0
+INT: 28.1 because of elemental bonuses, base INT: 17.0
+WIS: 25.5 because of elemental bonuses, base WIS: 17.0
+HP: 236.9 MANA: 204.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1267 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis Acutus (sharp) Borealis (northern) Opaca (opaque) Scavens (scavenging)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Night, Long Range, Horde, Underground, Water, Ground
+Size: Large
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Lanternshark (Etmopterus spp.) - Light-emitting photophores.
+Stats:
+ATK: 24.2 because of elemental bonuses, base ATK: 22.0
+DEF: 19.0
+AGI: 22.0
+INT: 24.2 because of elemental bonuses, base INT: 22.0
+WIS: 20.0
+HP: 214.2 MANA: 171.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1462 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Long Range, Underground, Night, Pack, Lava/Magma, Ground
+Size: Large
+Element(s): Wood
+Specialized Adaptation: Extreme Camouflage Flounder (Paralichthys spp.) - Sandy bottom camouflage.
+Stats:
+ATK: 19.0
+DEF: 26.0 because of elemental bonuses, base DEF: 20.0
+AGI: 17.0
+INT: 21.0
+WIS: 27.3 because of elemental bonuses, base WIS: 21.0
+HP: 279.0 MANA: 173.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1638 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Sky, Group, Ground, Long Range, Day, Water
+Size: Large
+Element(s): Wood, Strength, Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 25.6 because of elemental bonuses, base ATK: 17.0
+DEF: 34.6 because of elemental bonuses, base DEF: 19.0
+AGI: 18.0
+INT: 22.0
+WIS: 23.4 because of elemental bonuses, base WIS: 18.0
+HP: 371.6 MANA: 168.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1883 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis Acutus (sharp)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Range, Lava/Magma, Ground, Pack, Underground, Night
+Size: Large
+Element(s): Physical, Wood, Gold
+Specialized Adaptation: Bioluminescent Firefly (Lampyridae spp.) - Flashing abdomen.
+Stats:
+ATK: 21.0 because of elemental bonuses, base ATK: 20.0
+DEF: 27.8 because of elemental bonuses, base DEF: 17.0
+AGI: 18.0
+INT: 22.8 because of elemental bonuses, base INT: 19.0
+WIS: 26.0 because of elemental bonuses, base WIS: 20.0
+HP: 299.0 MANA: 179.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2042 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Arcanis Ater (dark) Crateris (crater)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Sky, Range, Horde, Water, Day, Ground
+Size: Large
+Element(s): Water, Wind, Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 20.0
+DEF: 27.5 because of elemental bonuses, base DEF: 17.0
+AGI: 28.7 because of elemental bonuses, base AGI: 17.0
+INT: 21.2 because of elemental bonuses, base INT: 17.0
+WIS: 21.0
+HP: 295.0 MANA: 158.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3434 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Aeneus (bronze)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Long Range, Water, Underground, Pack, Night, Ground
+Size: Large
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 24.2 because of elemental bonuses, base ATK: 22.0
+DEF: 18.0
+AGI: 18.0
+INT: 22.0 because of elemental bonuses, base INT: 20.0
+WIS: 17.0
+HP: 204.2 MANA: 152.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3628 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Voltis
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Long Range, Pack, Sky, Lava/Magma, Night, Ground
+Size: Large
+Element(s): Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 20.0
+DEF: 21.0
+AGI: 22.0
+INT: 33.0 because of elemental bonuses, base INT: 22.0
+WIS: 28.5 because of elemental bonuses, base WIS: 19.0
+HP: 230.0 MANA: 236.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3949 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Mollis (soft) Limosus (muddy) Spinosa (spiny) Lenta (slow)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Water, Ground, Sky, Pack, Long Range, Night
+Size: Large
+Element(s): Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 19.0
+DEF: 24.7 because of elemental bonuses, base DEF: 19.0
+AGI: 19.0
+INT: 22.0
+WIS: 22.1 because of elemental bonuses, base WIS: 17.0
+HP: 266.0 MANA: 165.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

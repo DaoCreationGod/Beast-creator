@@ -1,0 +1,42 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1247 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Glacies
+Shape: Reptile
+Type: Day, Pack, Water, Ground, Close, Sky
+Size: Super
+Element(s): Water
+Stats:
+ATK: 88.0
+DEF: 77.0
+AGI: 112.5
+INT: 93.8
+WIS: 78.0
+HP: 858.0 MANA: 664.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2852 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Obsidia Spinosus (spiny) Desertus (desert) Lineata (lined) Socialis (social)
+Shape: Reptile
+Type: Lava/Magma, Sky, Pack, Day, Long Range, Ground
+Size: Super
+Element(s): Gold, Physical
+Stats:
+ATK: 81.9
+DEF: 107.1
+AGI: 66.0
+INT: 99.6
+WIS: 93.0
+HP: 1152.9 MANA: 730.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2871 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ventus Laevis (smooth) Lacustris (lake) Argentea (silver)
+Shape: Reptile
+Type: Range, Sky, Day, Pack, Lava/Magma, Ground
+Size: Super
+Element(s): Lightning
+Stats:
+ATK: 105.0
+DEF: 67.0
+AGI: 102.5
+INT: 66.0
+WIS: 90.0
+HP: 775.0 MANA: 555.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

@@ -1,0 +1,56 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0347 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ventus Gravis (heavy) Riparius (riverbank) Spinosa (spiny)
+Shape: Bird
+Type: Horde, Range, Underground, Water, Ground, Day
+Size: Giant
+Element(s): Earth, Wood, Gold
+Stats:
+ATK: 25.0
+DEF: 54.3
+AGI: 26.0
+INT: 30.0
+WIS: 39.0
+HP: 568.0 MANA: 247.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1542 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sylvanis Viridis (green) Subterraneus (underground) Rosea (pink) Mimicus (mimicking)
+Shape: Bird
+Type: Range, Horde, Underground, Night, Ground, Water
+Size: Giant
+Element(s): Ice
+Stats:
+ATK: 34.3
+DEF: 27.0
+AGI: 26.0
+INT: 36.8
+WIS: 30.0
+HP: 304.3 MANA: 259.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1665 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Arcanis
+Shape: Bird
+Type: Sky, Group, Day, Range, Water, Ground
+Size: Giant
+Element(s): Gold, Fire, Earth
+Stats:
+ATK: 28.6
+DEF: 36.0
+AGI: 30.0
+INT: 39.6
+WIS: 27.0
+HP: 388.6 MANA: 265.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3051 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sylvanis Glaber (hairless) Pratensis (meadow) Lineata (lined)
+Shape: Bird
+Type: Pack, Close, Day, Water, Sky, Ground
+Size: Giant
+Element(s): Lightning, Ice
+Stats:
+ATK: 39.7
+DEF: 26.0
+AGI: 35.0
+INT: 36.8
+WIS: 29.0
+HP: 299.7 MANA: 256.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

@@ -1,0 +1,75 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0163 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Infinitus Mollis (soft) Aridus (arid) Caerulea (blue) Lenta (slow)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Ground, Sky, Water, Group, Close, Day
+Size: Super
+Element(s): Wood, Earth, Fire
+Specialized Adaptation: Extreme Camouflage Mossy Leaf-Tailed Gecko (Uroplatus sikorae) - Moss-like texture.
+Stats:
+ATK: 110.0 because of elemental bonuses, base ATK: 100.0
+DEF: 106.1 because of elemental bonuses, base DEF: 68.0
+AGI: 81.0
+INT: 88.0 because of elemental bonuses, base INT: 80.0
+WIS: 97.5 because of elemental bonuses, base WIS: 75.0
+HP: 1171.0 MANA: 683.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0576 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Argenteus (silver) Fluvialis (river)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Underground, Range, Lava/Magma, Horde, Day, Ground
+Size: Super
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 70.0
+DEF: 71.0
+AGI: 66.0
+INT: 112.5 because of elemental bonuses, base INT: 75.0
+WIS: 120.0 because of elemental bonuses, base WIS: 80.0
+HP: 780.0 MANA: 862.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1572 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Mirabilis Velox (swift) Insularis (island) Metallica (metallic) Repens (crawling)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Mid, Pack, Ground, Lava/Magma, Sky, Night
+Size: Super
+Element(s): Fire, Gold
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 80.3 because of elemental bonuses, base ATK: 73.0
+DEF: 90.0 because of elemental bonuses, base DEF: 75.0
+AGI: 89.0
+INT: 104.3 because of elemental bonuses, base INT: 79.0
+WIS: 90.0
+HP: 980.3 MANA: 746.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3152 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis Communis (common) Mangrova (mangrove)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Day, Horde, Mid, Ground, Sky, Water
+Size: Super
+Element(s): Wood
+Specialized Adaptation: Extreme Camouflage Stick Caterpillar (Phalera bucephala) - Resembles a broken twig.
+Stats:
+ATK: 81.0
+DEF: 97.5 because of elemental bonuses, base DEF: 75.0
+AGI: 66.0
+INT: 76.0
+WIS: 114.4 because of elemental bonuses, base WIS: 88.0
+HP: 1056.0 MANA: 666.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3569 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis Rufus (red) Polarus (polar) Punctata (dotted)
+Shape: Fish, Benthic, Flattened for bottom-dwelling
+Type: Water, Group, Long Range, Sky, Ground, Night
+Size: Super
+Element(s): Crystal
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 109.2 because of elemental bonuses, base ATK: 78.0
+DEF: 119.0 because of elemental bonuses, base DEF: 85.0
+AGI: 67.0
+INT: 87.0
+WIS: 91.0
+HP: 1299.2 MANA: 662.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

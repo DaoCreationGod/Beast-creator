@@ -1,0 +1,168 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0227 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis
+Shape: Amphibian
+Type: Group, Ground, Underground, Lava/Magma, Night, Range
+Size: Large
+Element(s): Physical
+Stats:
+ATK: 19.9
+DEF: 18.9
+AGI: 19.0
+INT: 21.0
+WIS: 19.0
+HP: 208.9 MANA: 152.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0674 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vulcanor Rufus (red) Nemoralis (woodland)
+Shape: Amphibian
+Type: Mid, Underground, Lava/Magma, Ground, Horde, Night
+Size: Large
+Element(s): Fire, Physical
+Stats:
+ATK: 25.4
+DEF: 21.0
+AGI: 21.0
+INT: 19.8
+WIS: 17.0
+HP: 235.4 MANA: 141.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0700 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Primordis Natans (swimming) Pelagicus (open sea) Lineata (lined) Repens (crawling)
+Shape: Amphibian
+Type: Group, Range, Sky, Water, Day, Ground
+Size: Large
+Element(s): Wood
+Stats:
+ATK: 20.0
+DEF: 24.7
+AGI: 17.0
+INT: 19.0
+WIS: 28.6
+HP: 267.0 MANA: 166.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1854 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Argenteus (silver)
+Shape: Amphibian
+Type: Lava/Magma, Ground, Night, Mid, Sky, Horde
+Size: Large
+Element(s): Strength
+Stats:
+ATK: 18.3
+DEF: 17.0
+AGI: 19.0
+INT: 18.0
+WIS: 17.0
+HP: 188.3 MANA: 132.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2224 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Serpentis Parvus (small) Palustris (marshy) Orbiculata (circular)
+Shape: Amphibian
+Type: Group, Lava/Magma, Day, Range, Sky, Ground
+Size: Large
+Element(s): Gold, Fire
+Stats:
+ATK: 22.0
+DEF: 26.4
+AGI: 17.0
+INT: 23.8
+WIS: 20.0
+HP: 286.0 MANA: 169.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2568 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Lunara Ferrugineus (rusty) Frigidus (cold) Variegata (variegated) Placida (peaceful)
+Shape: Amphibian
+Type: Range, Ground, Horde, Sky, Night, Water
+Size: Large
+Element(s): Physical
+Stats:
+ATK: 19.9
+DEF: 19.9
+AGI: 20.0
+INT: 22.0
+WIS: 22.0
+HP: 218.9 MANA: 165.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2938 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ignara
+Shape: Amphibian
+Type: Water, Horde, Day, Underground, Close, Ground
+Size: Large
+Element(s): Fire
+Stats:
+ATK: 20.9
+DEF: 22.0
+AGI: 22.0
+INT: 18.7
+WIS: 21.0
+HP: 240.9 MANA: 146.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2960 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aeternis Durus (hard)
+Shape: Amphibian
+Type: Long Range, Group, Lava/Magma, Night, Underground, Ground
+Size: Large
+Element(s): Gold
+Stats:
+ATK: 18.0
+DEF: 20.4
+AGI: 20.0
+INT: 24.0
+WIS: 22.0
+HP: 222.0 MANA: 175.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3017 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Lumina
+Shape: Amphibian
+Type: Lava/Magma, Long Range, Pack, Sky, Night, Ground
+Size: Large
+Element(s): Sharpness
+Stats:
+ATK: 23.4
+DEF: 21.0
+AGI: 17.0
+INT: 17.0
+WIS: 21.0
+HP: 233.4 MANA: 137.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3537 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Tempestis
+Shape: Amphibian
+Type: Sky, Horde, Water, Day, Range, Ground
+Size: Large
+Element(s): Physical
+Stats:
+ATK: 17.9
+DEF: 21.0
+AGI: 18.0
+INT: 21.0
+WIS: 18.0
+HP: 227.9 MANA: 150.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3580 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vulcanor
+Shape: Amphibian
+Type: Sky, Lava/Magma, Ground, Group, Mid, Day
+Size: Large
+Element(s): Water
+Stats:
+ATK: 17.0
+DEF: 20.0
+AGI: 22.5
+INT: 26.2
+WIS: 22.0
+HP: 217.0 MANA: 186.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3913 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aquarion Floridus (flowery) Savannus (savanna)
+Shape: Amphibian
+Type: Long Range, Sky, Pack, Water, Day, Ground
+Size: Large
+Element(s): Water
+Stats:
+ATK: 20.0
+DEF: 19.0
+AGI: 26.2
+INT: 23.8
+WIS: 18.0
+HP: 210.0 MANA: 164.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

@@ -1,0 +1,600 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0173 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aurumis
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Ground, Long Range, Sky, Group, Day, Water
+Size: Small
+Element(s): Water, Physical, Yang
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 7.4 because of elemental bonuses, base ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 8.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 16.9 because of elemental bonuses, base INT: 9.0
+WIS: 10.5 because of elemental bonuses, base WIS: 7.0
+HP: 91.4 MANA: 110.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0332 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vortexis Caeruleus (blue) Sylvestris (forest)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Lava/Magma, Long Range, Sky, Day, Ground, Group
+Size: Small
+Element(s): Gold, Sharpness, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 13.0 because of elemental bonuses, base ATK: 10.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 10.5 because of elemental bonuses, base INT: 7.0
+WIS: 9.0
+HP: 109.0 MANA: 75.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0361 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Spinosus (spiny) Fluvialis (river) Pilosa (fuzzy) Nocturna (night-active)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Night, Horde, Range, Sky, Ground, Lava/Magma
+Size: Small
+Element(s): Water, Physical, Gold
+Specialized Adaptation: Extreme Camouflage Dead Leaf Butterfly (Kallima inachus) - Resembles a dead leaf.
+Stats:
+ATK: 8.4 because of elemental bonuses, base ATK: 8.0
+DEF: 8.8 because of elemental bonuses, base DEF: 7.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 10.5 because of elemental bonuses, base INT: 7.0
+WIS: 9.0
+HP: 96.4 MANA: 75.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0509 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Radiantia Rarus (rare) Eremitus (isolated) Tricolor (three-colored) Silens (silent)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Lava/Magma, Underground, Mid, Night, Ground, Horde
+Size: Small
+Element(s): Fire
+Specialized Adaptation: Extreme Camouflage Dead Leaf Butterfly (Kallima inachus) - Resembles a dead leaf.
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 7.0
+DEF: 9.0
+AGI: 9.0
+INT: 7.7 because of elemental bonuses, base INT: 7.0
+WIS: 9.0
+HP: 97.7 MANA: 61.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0575 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Cryptis
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Mid, Day, Underground, Pack, Water, Ground
+Size: Small
+Element(s): Water, Crystal, Fire
+Specialized Adaptation: Extreme Camouflage Orchid Mantis (Hymenopus coronatus) - Flower mimic.
+Stats:
+ATK: 12.3 because of elemental bonuses, base ATK: 8.0
+DEF: 14.0 because of elemental bonuses, base DEF: 10.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 11.0 because of elemental bonuses, base INT: 8.0
+WIS: 10.0
+HP: 152.3 MANA: 80.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0623 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sonoris
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Pack, Water, Range, Night, Ground, Sky
+Size: Small
+Element(s): Water
+Specialized Adaptation: Bioluminescent Deep-Sea Anglerfish (Linophryne arborifera) - Glowing chin barbel.
+Stats:
+ATK: 9.0
+DEF: 7.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 8.0
+HP: 79.0 MANA: 64.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0722 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Floranis Velox (swift) Taiganus (taiga) Atra (deep black) Volitans (flying)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Lava/Magma, Day, Group, Mid, Ground, Underground
+Size: Small
+Element(s): Physical, Fire, Lightning
+Specialized Adaptation: Extreme Camouflage Walking Stick (Phasmatodea spp.) - Twig mimic.
+Stats:
+ATK: 11.6 because of elemental bonuses, base ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 8.0
+AGI: 11.2 because of elemental bonuses, base AGI: 9.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 7.0
+HP: 95.6 MANA: 61.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0729 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lumina Aeneus (bronze)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Close, Day, Ground, Water, Group, Sky
+Size: Small
+Element(s): Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 7.0
+AGI: 9.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 15.0 because of elemental bonuses, base WIS: 10.0
+HP: 77.0 MANA: 97.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0734 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vortexis Ater (dark) Polarus (polar) Metallica (metallic) Radicans (rooting)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Day, Water, Long Range, Underground, Group, Ground
+Size: Small
+Element(s): Wood, Wind
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 17.6 because of elemental bonuses, base DEF: 10.0
+AGI: 13.5 because of elemental bonuses, base AGI: 10.0
+INT: 10.0
+WIS: 13.0 because of elemental bonuses, base WIS: 10.0
+HP: 183.0 MANA: 82.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0821 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Corvalis
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Ground, Day, Long Range, Group, Sky, Water
+Size: Small
+Element(s): Water, Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.9 because of elemental bonuses, base ATK: 7.0
+DEF: 8.0
+AGI: 11.2 because of elemental bonuses, base AGI: 9.0
+INT: 12.7 because of elemental bonuses, base INT: 8.0
+WIS: 9.0
+HP: 88.9 MANA: 86.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0945 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tranquilis
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Pack, Day, Water, Close, Sky, Ground
+Size: Small
+Element(s): Gold, Water
+Specialized Adaptation: Bioluminescent Pinecone Fish (Monocentris japonica) - Light organs on jaw.
+Stats:
+ATK: 10.0
+DEF: 10.8 because of elemental bonuses, base DEF: 9.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 10.5 because of elemental bonuses, base INT: 7.0
+WIS: 9.0
+HP: 118.0 MANA: 75.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0964 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis Silentis (quiet) Oreadis (mountain nymph) Flava (yellow)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Long Range, Water, Horde, Underground, Ground, Night
+Size: Small
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.0
+DEF: 10.0
+AGI: 8.8 because of elemental bonuses, base AGI: 7.0
+INT: 8.8 because of elemental bonuses, base INT: 7.0
+WIS: 8.0
+HP: 109.0 MANA: 64.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0997 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Horde, Sky, Lava/Magma, Night, Mid, Ground
+Size: Small
+Element(s): Ice, Gold
+Specialized Adaptation: Bioluminescent Crystal Jellyfish (Aequorea victoria) - GFP-producing.
+Stats:
+ATK: 11.4 because of elemental bonuses, base ATK: 9.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 10.0
+INT: 12.2 because of elemental bonuses, base INT: 8.0
+WIS: 10.0
+HP: 95.4 MANA: 86.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1023 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis Parvus (small) Vallicola (valley) Flava (yellow)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Mid, Day, Horde, Water, Ground, Underground
+Size: Small
+Element(s): Gold, Earth
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 7.0
+DEF: 11.5 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 12.0 because of elemental bonuses, base INT: 10.0
+WIS: 7.0
+HP: 122.0 MANA: 77.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1230 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Mollis (soft) Nemoralis (woodland) Cordata (heart-shaped)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Water, Horde, Ground, Range, Sky, Day
+Size: Small
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Sea Firefly (Cypridina hilgendorfii) - Secretes glowing mucus.
+Stats:
+ATK: 10.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 9.0
+WIS: 9.0
+HP: 106.0 MANA: 67.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1407 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Eclipsis Laevis (smooth)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Ground, Mid, Lava/Magma, Horde, Day, Sky
+Size: Small
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Vampire Squid (Vampyroteuthis infernalis) - Bioluminescent mucus.
+Stats:
+ATK: 7.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 10.0
+INT: 10.0
+WIS: 7.0
+HP: 91.0 MANA: 67.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1593 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vulcanor Pallidus (pale)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Ground, Group, Close, Sky, Lava/Magma, Night
+Size: Small
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 10.0
+AGI: 10.0
+INT: 13.5 because of elemental bonuses, base INT: 9.0
+WIS: 12.0 because of elemental bonuses, base WIS: 8.0
+HP: 107.0 MANA: 97.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1600 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vortexis Parvus (small) Subterraneus (underground) Argentea (silver) Saprophis (decomposing)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Mid, Group, Water, Night, Ground, Sky
+Size: Small
+Element(s): Crystal
+Specialized Adaptation: Bioluminescent Glowing Sucker Octopus (Stauroteuthis syrtensis) - Suckers emit light.
+Stats:
+ATK: 9.8 because of elemental bonuses, base ATK: 7.0
+DEF: 11.2 because of elemental bonuses, base DEF: 8.0
+AGI: 8.0
+INT: 8.0
+WIS: 7.0
+HP: 121.8 MANA: 57.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1813 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion Fragilis (fragile) Frigidus (cold) Plumosa (feathered) Pendula (hanging)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Group, Close, Day, Sky, Ground, Water
+Size: Small
+Element(s): Water, Gold
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 9.0
+DEF: 9.6 because of elemental bonuses, base DEF: 8.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 13.5 because of elemental bonuses, base INT: 9.0
+WIS: 10.0
+HP: 105.0 MANA: 92.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1875 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aetheris Natans (swimming) Fluvialis (river) Spinosa (spiny)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Water, Ground, Sky, Group, Long Range, Day
+Size: Small
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.0
+DEF: 12.0 because of elemental bonuses, base DEF: 10.0
+AGI: 9.0
+INT: 10.0
+WIS: 8.0
+HP: 129.0 MANA: 70.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1979 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Audax (bold) Eremitus (isolated)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Mid, Lava/Magma, Group, Day, Sky, Ground
+Size: Small
+Element(s): Fire, Earth, Physical
+Specialized Adaptation: Bioluminescent Lanternshark (Etmopterus spp.) - Light-emitting photophores.
+Stats:
+ATK: 9.2 because of elemental bonuses, base ATK: 8.0
+DEF: 10.1 because of elemental bonuses, base DEF: 8.0
+AGI: 8.0
+INT: 11.0 because of elemental bonuses, base INT: 10.0
+WIS: 10.0
+HP: 110.2 MANA: 80.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1995 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aquarion Glaber (hairless) Palustris (marshy) Undulata (wavy) Territorialis (territorial)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Underground, Ground, Long Range, Group, Water, Night
+Size: Small
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 10.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 10.8 because of elemental bonuses, base INT: 9.0
+WIS: 8.0
+HP: 94.0 MANA: 74.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2088 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aeternis Erectus (upright) Pratensis (meadow) Striata (striped)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Ground, Night, Group, Close, Water, Underground
+Size: Small
+Element(s): Gold, Fire, Ice
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 11.2 because of elemental bonuses, base ATK: 8.0
+DEF: 10.8 because of elemental bonuses, base DEF: 9.0
+AGI: 10.0
+INT: 13.4 because of elemental bonuses, base INT: 8.0
+WIS: 10.0
+HP: 119.2 MANA: 92.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2111 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Laevis (smooth) Borealis (northern) Marmorata (marbled)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Pack, Night, Water, Mid, Ground, Sky
+Size: Small
+Element(s): Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.0
+DEF: 13.0 because of elemental bonuses, base DEF: 10.0
+AGI: 7.0
+INT: 9.0
+WIS: 11.7 because of elemental bonuses, base WIS: 9.0
+HP: 138.0 MANA: 74.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2152 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tenebris Silentis (quiet) Vallicola (valley)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Underground, Mid, Day, Ground, Group, Lava/Magma
+Size: Small
+Element(s): Physical, Wood, Earth
+Specialized Adaptation: Extreme Camouflage Orchid Mantis (Hymenopus coronatus) - Flower mimic.
+Stats:
+ATK: 8.4 because of elemental bonuses, base ATK: 8.0
+DEF: 11.5 because of elemental bonuses, base DEF: 7.0
+AGI: 7.0
+INT: 7.0
+WIS: 11.7 because of elemental bonuses, base WIS: 9.0
+HP: 123.4 MANA: 64.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2275 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vaporia Aureus (golden) Aridus (arid) Cristata (crested)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Night, Pack, Mid, Underground, Lava/Magma, Ground
+Size: Small
+Element(s): Fire
+Specialized Adaptation: Bioluminescent Cookiecutter Shark (Isistius brasiliensis) - Counter-illumination.
+Stats:
+ATK: 11.0 because of elemental bonuses, base ATK: 10.0
+DEF: 10.0
+AGI: 8.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 7.0
+HP: 111.0 MANA: 61.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2575 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Petralis Parvus (small) Frigidus (cold) Marmorata (marbled) Fluitans (floating)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Sky, Range, Night, Ground, Lava/Magma, Pack
+Size: Small
+Element(s): Earth, Fire, Gold
+Specialized Adaptation: Extreme Camouflage Scorpionfish (Scorpaenidae spp.) - Algae-covered appearance.
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 7.0
+DEF: 11.5 because of elemental bonuses, base DEF: 8.0
+AGI: 10.0
+INT: 11.9 because of elemental bonuses, base INT: 9.0
+WIS: 7.0
+HP: 122.7 MANA: 77.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2608 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Day, Lava/Magma, Sky, Range, Ground, Group
+Size: Small
+Element(s): Earth
+Specialized Adaptation: Bioluminescent Deep-Sea Shrimp (Acanthephyra purpurea) - Spews bioluminescent fluid.
+Stats:
+ATK: 10.0
+DEF: 10.8 because of elemental bonuses, base DEF: 9.0
+AGI: 7.0
+INT: 8.0
+WIS: 8.0
+HP: 118.0 MANA: 60.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2633 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia Laevis (smooth)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Ground, Long Range, Lava/Magma, Night, Sky, Horde
+Size: Small
+Element(s): Ice, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.9 because of elemental bonuses, base ATK: 7.0
+DEF: 7.0
+AGI: 10.0
+INT: 19.1 because of elemental bonuses, base INT: 10.0
+WIS: 12.0 because of elemental bonuses, base WIS: 8.0
+HP: 78.9 MANA: 125.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2757 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aetheris Ater (dark)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Mid, Horde, Night, Lava/Magma, Underground, Ground
+Size: Small
+Element(s): Wood, Earth, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.0
+DEF: 15.6 because of elemental bonuses, base DEF: 10.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 12.5 because of elemental bonuses, base INT: 10.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 165.0 MANA: 85.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2841 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lumina Mollis (soft) Fennalis (fen)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Close, Day, Group, Underground, Ground, Lava/Magma
+Size: Small
+Element(s): Water
+Specialized Adaptation: Extreme Camouflage Orchid Mantis (Hymenopus coronatus) - Flower mimic.
+Stats:
+ATK: 10.0
+DEF: 10.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 11.2 because of elemental bonuses, base INT: 9.0
+WIS: 8.0
+HP: 110.0 MANA: 76.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2850 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Aeneus (bronze) Occidentalis (western) Purpurea (purple) Placida (peaceful)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Long Range, Water, Ground, Group, Sky, Night
+Size: Small
+Element(s): Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.7 because of elemental bonuses, base ATK: 7.0
+DEF: 9.0
+AGI: 7.0
+INT: 11.0 because of elemental bonuses, base INT: 10.0
+WIS: 9.0
+HP: 97.7 MANA: 77.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2937 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Radiantia Parvus (small) Glacialis (icy) Lanceolata (lance-shaped)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Night, Group, Lava/Magma, Close, Underground, Ground
+Size: Small
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Sargassum Fish (Histrio histrio) - Mimics floating seaweed.
+Stats:
+ATK: 9.0
+DEF: 10.8 because of elemental bonuses, base DEF: 9.0
+AGI: 7.0
+INT: 8.0
+WIS: 8.0
+HP: 117.0 MANA: 60.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3016 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Silexia
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Pack, Mid, Underground, Lava/Magma, Night, Ground
+Size: Small
+Element(s): Ice
+Specialized Adaptation: Extreme Camouflage Ghost Mantis (Phyllocrania paradoxa) - Leaf-like body.
+Stats:
+ATK: 10.2 because of elemental bonuses, base ATK: 8.0
+DEF: 8.0
+AGI: 10.0
+INT: 11.4 because of elemental bonuses, base INT: 9.0
+WIS: 8.0
+HP: 90.2 MANA: 77.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3154 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Marinus
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Lava/Magma, Sky, Close, Day, Pack, Ground
+Size: Small
+Element(s): Water, Physical, Wood
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.5 because of elemental bonuses, base ATK: 9.0
+DEF: 13.7 because of elemental bonuses, base DEF: 10.0
+AGI: 12.5 because of elemental bonuses, base AGI: 10.0
+INT: 10.0 because of elemental bonuses, base INT: 8.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 146.5 MANA: 72.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3163 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Stellion Aureus (golden) Borealis (northern)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Horde, Long Range, Water, Night, Underground, Ground
+Size: Small
+Element(s): Physical, Earth, Wood
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 10.5 because of elemental bonuses, base ATK: 10.0
+DEF: 13.1 because of elemental bonuses, base DEF: 8.0
+AGI: 7.0
+INT: 10.0
+WIS: 9.1 because of elemental bonuses, base WIS: 7.0
+HP: 141.5 MANA: 72.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3376 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Terros Acutus (sharp) Lacustris (lake) Maculata (spotted)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Close, Water, Day, Underground, Ground, Pack
+Size: Small
+Element(s): Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 8.0
+DEF: 8.4 because of elemental bonuses, base DEF: 7.0
+AGI: 8.0
+INT: 9.6 because of elemental bonuses, base INT: 8.0
+WIS: 9.0
+HP: 92.0 MANA: 70.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3688 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Vulcanor Natans (swimming) Nemoralis (woodland)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Day, Horde, Mid, Ground, Water, Sky
+Size: Small
+Element(s): Physical, Earth
+Specialized Adaptation: Extreme Camouflage Crab Spider (Thomisus spp.) - Matches flower colors.
+Stats:
+ATK: 9.5 because of elemental bonuses, base ATK: 9.0
+DEF: 10.1 because of elemental bonuses, base DEF: 8.0
+AGI: 10.0
+INT: 9.0
+WIS: 9.0
+HP: 110.5 MANA: 67.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3758 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Floranis
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Horde, Day, Lava/Magma, Close, Underground, Ground
+Size: Small
+Element(s): Gold, Wood, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 7.0
+DEF: 12.5 because of elemental bonuses, base DEF: 8.0
+AGI: 10.0 because of elemental bonuses, base AGI: 8.0
+INT: 12.0 because of elemental bonuses, base INT: 8.0
+WIS: 13.0 because of elemental bonuses, base WIS: 10.0
+HP: 132.0 MANA: 92.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3933 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Obsidia Ferox (fierce)
+Shape: Bird, Aerial Song Bird, Lightweight, agile fliers or melodious vocalists
+Type: Close, Water, Night, Ground, Group, Sky
+Size: Small
+Element(s): Earth, Wood, Fire
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 9.9 because of elemental bonuses, base ATK: 9.0
+DEF: 14.0 because of elemental bonuses, base DEF: 9.0
+AGI: 8.0
+INT: 8.8 because of elemental bonuses, base INT: 8.0
+WIS: 13.0 because of elemental bonuses, base WIS: 10.0
+HP: 149.9 MANA: 76.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

@@ -1,0 +1,140 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #0010 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Ferralis Communis (common)
+Shape: Vertebrate
+Type: Group, Long Range, Day, Water, Ground, Underground
+Size: Mega
+Element(s): Earth
+Stats:
+ATK: 39.0
+DEF: 50.4
+AGI: 40.0
+INT: 38.0
+WIS: 39.0
+HP: 543.0 MANA: 287.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1999 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Fulgora Opacus (shaded) Arboreus (tree-dwelling) Purpurea (purple) Placida (peaceful)
+Shape: Vertebrate
+Type: Day, Water, Pack, Close, Ground, Underground
+Size: Mega
+Element(s): Gold
+Stats:
+ATK: 40.0
+DEF: 54.0
+AGI: 41.0
+INT: 54.0
+WIS: 49.0
+HP: 580.0 MANA: 392.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2198 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Vaporia Alatus (winged) Nemoralis (woodland)
+Shape: Vertebrate
+Type: Day, Long Range, Underground, Ground, Horde, Lava/Magma
+Size: Mega
+Element(s): Physical
+Stats:
+ATK: 47.2
+DEF: 39.9
+AGI: 43.0
+INT: 42.0
+WIS: 43.0
+HP: 446.2 MANA: 317.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2244 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Eclipsis
+Shape: Vertebrate
+Type: Long Range, Horde, Ground, Day, Lava/Magma, Underground
+Size: Mega
+Element(s): Physical
+Stats:
+ATK: 43.1
+DEF: 43.1
+AGI: 42.0
+INT: 47.0
+WIS: 43.0
+HP: 474.1 MANA: 342.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #2682 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Infinitus Hirsutus (hairy) Desertus (desert) Zebrina (zebra-like) Fetida (foul-smelling)
+Shape: Vertebrate
+Type: Water, Close, Pack, Ground, Underground, Day
+Size: Mega
+Element(s): Ice
+Stats:
+ATK: 47.0
+DEF: 39.0
+AGI: 43.0
+INT: 58.4
+WIS: 41.0
+HP: 437.0 MANA: 394.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3379 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sylvanis Audax (bold) Eremitus (isolated) Rosea (pink) Mimicus (mimicking)
+Shape: Vertebrate
+Type: Group, Mid, Ground, Night, Underground, Water
+Size: Mega
+Element(s): Fire
+Stats:
+ATK: 44.0
+DEF: 50.0
+AGI: 40.0
+INT: 40.7
+WIS: 37.0
+HP: 544.0 MANA: 296.0
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3493 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Arcanis Erectus (upright) Pluvius (rainy) Scutata (shield-shaped) Gregaria (gregarious)
+Shape: Vertebrate
+Type: Underground, Pack, Mid, Water, Ground, Day
+Size: Mega
+Element(s): Water, Fire, Yin
+Stats:
+ATK: 46.2
+DEF: 45.0
+AGI: 61.2
+INT: 99.0
+WIS: 64.5
+HP: 496.2 MANA: 656.2
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3544 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Sonoris Serenus (calm) Nemoralis (woodland) Lobata (lobed) Camouflara (camouflaged)
+Shape: Vertebrate
+Type: Mid, Ground, Night, Pack, Water, Sky
+Size: Mega
+Element(s): Fire, Physical, Earth
+Stats:
+ATK: 53.1
+DEF: 47.9
+AGI: 42.0
+INT: 51.7
+WIS: 38.0
+HP: 532.1 MANA: 353.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3554 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Aquarion Opacus (shaded) Subterraneus (underground) Reticulata (netted)
+Shape: Vertebrate
+Type: Mid, Group, Water, Underground, Night, Ground
+Size: Mega
+Element(s): Strength, Wind, Water
+Stats:
+ATK: 41.9
+DEF: 52.7
+AGI: 62.4
+INT: 60.0
+WIS: 47.0
+HP: 568.9 MANA: 417.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #3907 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Rupesca Rarus (rare) Subterraneus (underground) Argentea (silver) Scavens (scavenging)
+Shape: Vertebrate
+Type: Water, Day, Long Range, Sky, Ground, Horde
+Size: Mega
+Element(s): Strength
+Stats:
+ATK: 40.9
+DEF: 38.0
+AGI: 41.0
+INT: 48.0
+WIS: 37.0
+HP: 420.9 MANA: 332.5
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

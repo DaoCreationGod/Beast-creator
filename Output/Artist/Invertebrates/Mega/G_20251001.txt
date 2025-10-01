@@ -1,0 +1,135 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0177 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Solara Flexilis (flexible)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Sky, Day, Pack, Long Range, Lava/Magma, Ground
+Size: Mega
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Glowing Coral (Tubastraea spp.) - Fluorescent polyps.
+Stats:
+ATK: 42.0 because of elemental bonuses, base ATK: 40.0
+DEF: 52.5 because of elemental bonuses, base DEF: 50.0
+AGI: 45.0
+INT: 47.0
+WIS: 48.0
+HP: 567.0 MANA: 355.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1021 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Caelior Ater (dark) Cavernis (cave) Opaca (opaque) Fossilis (fossilized)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Horde, Long Range, Day, Ground, Water, Sky
+Size: Mega
+Element(s): Wood, Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 40.0
+DEF: 65.0 because of elemental bonuses, base DEF: 50.0
+AGI: 57.5 because of elemental bonuses, base AGI: 46.0
+INT: 50.0 because of elemental bonuses, base INT: 40.0
+WIS: 57.2 because of elemental bonuses, base WIS: 44.0
+HP: 690.0 MANA: 393.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1256 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Mid, Horde, Night, Underground, Ground, Water
+Size: Mega
+Element(s): Water, Wood, Earth
+Specialized Adaptation: Extreme Camouflage Stick Caterpillar (Phalera bucephala) - Resembles a broken twig.
+Stats:
+ATK: 46.0
+DEF: 76.4 because of elemental bonuses, base DEF: 49.0
+AGI: 46.2 because of elemental bonuses, base AGI: 37.0
+INT: 50.0 because of elemental bonuses, base INT: 40.0
+WIS: 58.5 because of elemental bonuses, base WIS: 45.0
+HP: 810.0 MANA: 396.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1741 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Sylvanis Velox (swift) Torridus (hot/dry) Cristata (crested)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Ground, Underground, Pack, Long Range, Night, Water
+Size: Mega
+Element(s): Earth
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 41.0
+DEF: 57.6 because of elemental bonuses, base DEF: 48.0
+AGI: 46.0
+INT: 43.0
+WIS: 41.0
+HP: 617.0 MANA: 317.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2383 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ignavus Radians (radiant) Riparius (riverbank)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Mid, Underground, Horde, Ground, Water, Night
+Size: Mega
+Element(s): Wood, Earth
+Specialized Adaptation: Bioluminescent Deep-Sea Anglerfish (Linophryne arborifera) - Glowing chin barbel.
+Stats:
+ATK: 40.0
+DEF: 60.8 because of elemental bonuses, base DEF: 39.0
+AGI: 44.0
+INT: 40.0
+WIS: 54.6 because of elemental bonuses, base WIS: 42.0
+HP: 648.0 MANA: 336.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2458 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lumina Volans (flying) Aethalis (high-altitude)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Night, Long Range, Group, Water, Ground, Underground
+Size: Mega
+Element(s): Water, Fire, Earth
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 48.4 because of elemental bonuses, base ATK: 44.0
+DEF: 49.2 because of elemental bonuses, base DEF: 41.0
+AGI: 52.5 because of elemental bonuses, base AGI: 42.0
+INT: 50.9 because of elemental bonuses, base INT: 37.0
+WIS: 40.0
+HP: 540.4 MANA: 354.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2497 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Tranquilis Rotundus (round) Deltanus (delta)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Pack, Ground, Close, Night, Sky, Water
+Size: Mega
+Element(s): Wood
+Specialized Adaptation: Extreme Camouflage Leaf-Tailed Gecko (Uroplatus spp.) - Lichen-mimicking skin.
+Stats:
+ATK: 44.0
+DEF: 55.9 because of elemental bonuses, base DEF: 43.0
+AGI: 46.0
+INT: 50.0
+WIS: 58.5 because of elemental bonuses, base WIS: 45.0
+HP: 603.0 MANA: 396.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3366 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Primordis Clarus (bright) Riparius (riverbank)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Underground, Group, Night, Range, Lava/Magma, Ground
+Size: Mega
+Element(s): Earth, Wood
+Specialized Adaptation: Bioluminescent Deep-Sea Anglerfish (Linophryne arborifera) - Glowing chin barbel.
+Stats:
+ATK: 46.0
+DEF: 59.3 because of elemental bonuses, base DEF: 38.0
+AGI: 46.0
+INT: 40.0
+WIS: 52.0 because of elemental bonuses, base WIS: 40.0
+HP: 639.0 MANA: 330.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3704 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Marinus Alatus (winged) Crateris (crater)
+Shape: Invertebrate, Gelatinous, Gelatinous and or Transparent
+Type: Group, Underground, Lava/Magma, Mid, Day, Ground
+Size: Mega
+Element(s): Lightning, Earth, Yang
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 47.5 because of elemental bonuses, base ATK: 38.0
+DEF: 54.0 because of elemental bonuses, base DEF: 45.0
+AGI: 48.8 because of elemental bonuses, base AGI: 39.0
+INT: 63.0 because of elemental bonuses, base INT: 42.0
+WIS: 70.5 because of elemental bonuses, base WIS: 47.0
+HP: 587.5 MANA: 491.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

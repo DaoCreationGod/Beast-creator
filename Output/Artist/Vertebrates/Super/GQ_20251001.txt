@@ -1,0 +1,75 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0967 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Lunara
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Sky, Water, Day, Horde, Close, Ground
+Size: Super
+Element(s): Physical, Water, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 105.0 because of elemental bonuses, base ATK: 100.0
+DEF: 105.8 because of elemental bonuses, base DEF: 84.0
+AGI: 101.2 because of elemental bonuses, base AGI: 81.0
+INT: 99.0 because of elemental bonuses, base INT: 66.0
+WIS: 96.0
+HP: 1163.0 MANA: 735.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0989 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Nivora Levis (light) Pluvius (rainy) Caerulea (blue) Fragrans (fragrant)
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Mid, Underground, Ground, Lava/Magma, Night, Horde
+Size: Super
+Element(s): Fire, Gold
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 77.0 because of elemental bonuses, base ATK: 70.0
+DEF: 85.2 because of elemental bonuses, base DEF: 71.0
+AGI: 81.0
+INT: 104.3 because of elemental bonuses, base INT: 79.0
+WIS: 91.0
+HP: 929.0 MANA: 749.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3085 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Argenteus (silver) Campestris (plains) Plumosa (feathered)
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Pack, Long Range, Night, Ground, Sky, Lava/Magma
+Size: Super
+Element(s): Yin
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 72.0
+DEF: 87.0
+AGI: 70.0
+INT: 138.0 because of elemental bonuses, base INT: 92.0
+WIS: 135.0 because of elemental bonuses, base WIS: 90.0
+HP: 942.0 MANA: 1027.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3465 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aeternis Alatus (winged) Lacustris (lake)
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Night, Range, Water, Pack, Ground, Sky
+Size: Super
+Element(s): Earth
+Specialized Adaptation: Extreme Camouflage Sand Gazer (Lethops connectens) - Transparent, sand-colored.
+Stats:
+ATK: 77.0
+DEF: 92.4 because of elemental bonuses, base DEF: 77.0
+AGI: 72.0
+INT: 84.0
+WIS: 83.0
+HP: 1001.0 MANA: 627.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3836 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Celestia Purpureus (purple) Volcanicus (volcanic) Alba (white)
+Shape: Vertebrate, Graviportal Quadrupedal, Massive bodies, column-like limbs for weight-bearing
+Type: Horde, Underground, Ground, Close, Water, Day
+Size: Super
+Element(s): Water
+Specialized Adaptation: No Specialized Adaptation
+Stats:
+ATK: 74.0
+DEF: 77.0
+AGI: 107.5 because of elemental bonuses, base AGI: 86.0
+INT: 106.2 because of elemental bonuses, base INT: 85.0
+WIS: 85.0
+HP: 844.0 MANA: 743.5
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎

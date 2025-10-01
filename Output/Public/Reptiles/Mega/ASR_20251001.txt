@@ -1,0 +1,14 @@
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x #1532 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+Name: Novalis Pallidus (pale) Orientalis (eastern) Lobata (lobed) Invasora (invasive)
+Shape: Reptile
+Type: Mid, Group, Day, Ground, Water, Sky
+Size: Mega
+Element(s): Yang
+Stats:
+ATK: 37.0
+DEF: 50.0
+AGI: 49.0
+INT: 66.0
+WIS: 73.5
+HP: 537.0 MANA: 513.8
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-

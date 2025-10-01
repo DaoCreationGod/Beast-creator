@@ -1,0 +1,75 @@
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #0549 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Aeternis Viridis (green) Tundralis (tundra)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Underground, Water, Long Range, Horde, Day, Ground
+Size: Mega
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Comb Jelly (Mnemiopsis leidyi) - Rainbow cilia.
+Stats:
+ATK: 50.4 because of elemental bonuses, base ATK: 48.0
+DEF: 38.9 because of elemental bonuses, base DEF: 37.0
+AGI: 41.0
+INT: 48.0
+WIS: 48.0
+HP: 439.4 MANA: 360.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #1414 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Ferralis Durus (hard) Australis (southern) Alba (white)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Range, Ground, Night, Underground, Group, Water
+Size: Mega
+Element(s): Fire, Yin
+Specialized Adaptation: Bioluminescent Railroad Worm (Phrixothrix hirtus) - Red headlight, green body lights.
+Stats:
+ATK: 47.3 because of elemental bonuses, base ATK: 43.0
+DEF: 43.0
+AGI: 40.0
+INT: 71.0 because of elemental bonuses, base INT: 43.0
+WIS: 55.5 because of elemental bonuses, base WIS: 37.0
+HP: 477.3 MANA: 493.8
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #2891 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Novalis Vibrans (vibrant)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Sky, Pack, Ground, Night, Close, Lava/Magma
+Size: Mega
+Element(s): Physical, Wood, Lightning
+Specialized Adaptation: Bioluminescent Anglerfish (Melanocetus johnsonii) - Lure on forehead.
+Stats:
+ATK: 60.4 because of elemental bonuses, base ATK: 46.0
+DEF: 50.5 because of elemental bonuses, base DEF: 37.0
+AGI: 50.0 because of elemental bonuses, base AGI: 40.0
+INT: 45.0
+WIS: 57.2 because of elemental bonuses, base WIS: 44.0
+HP: 565.4 MANA: 368.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3182 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Ferrugineus (rusty) Savannus (savanna)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Sky, Ground, Pack, Range, Water, Night
+Size: Mega
+Element(s): Wood, Gold
+Specialized Adaptation: Bioluminescent Siphonophore (Erenna spp.) - Red bioluminescent lures.
+Stats:
+ATK: 38.0
+DEF: 76.4 because of elemental bonuses, base DEF: 49.0
+AGI: 50.0
+INT: 60.0 because of elemental bonuses, base INT: 50.0
+WIS: 63.7 because of elemental bonuses, base WIS: 49.0
+HP: 802.0 MANA: 459.2
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+🖌️x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- #3204 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
+Name: Noctis Ferox (fierce) Pluvius (rainy) Cristata (crested)
+Shape: Amphibian, Aquatic Paedomorphic, Retain larval features like gills into adulthood
+Type: Group, Night, Close, Underground, Ground, Lava/Magma
+Size: Mega
+Element(s): Physical
+Specialized Adaptation: Bioluminescent Lanternshark (Etmopterus spp.) - Light-emitting photophores.
+Stats:
+ATK: 39.9 because of elemental bonuses, base ATK: 38.0
+DEF: 51.5 because of elemental bonuses, base DEF: 49.0
+AGI: 49.0
+INT: 49.0
+WIS: 42.0
+HP: 554.9 MANA: 350.0
+🖌️-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x❎
