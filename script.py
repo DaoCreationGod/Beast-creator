@@ -5,17 +5,206 @@ import datetime
 import logging
 import sys
 import math
+import time
 from collections import defaultdict
 import json
+from datetime import timedelta
+
+# === FILE SIZE CONFIGURATION ===
+MAX_FILE_SIZE_MB = 90  # CHANGE THIS NUMBER TO WHATEVER YOU WANT
+MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
+
+# === ENHANCED ETA TRACKING CLASS ===
+class CreatureETA:
+    def __init__(self, total_creatures):
+        self.total_creatures = total_creatures
+        self.start_time = time.time()
+        self.creatures_completed = 0
+        self.recent_times = []
+        self.window_size = 100
+        self.eta_history = []
+        self.final_actual_time = None
+        self.last_progress_display = 0
+        
+    def update(self, creatures_completed):
+        """Update ETA calculation and store prediction"""
+        self.creatures_completed = creatures_completed
+        
+        if creatures_completed > 0:
+            current_time = time.time()
+            elapsed = current_time - self.start_time
+            
+            # Calculate current rate
+            creatures_per_second = creatures_completed / elapsed
+            remaining_creatures = self.total_creatures - creatures_completed
+            
+            if creatures_per_second > 0:
+                eta_seconds = remaining_creatures / creatures_per_second
+            else:
+                eta_seconds = 0
+                
+            eta_time = datetime.datetime.now() + datetime.timedelta(seconds=eta_seconds)
+            percentage = (creatures_completed / self.total_creatures) * 100
+            
+            # Store this prediction for later accuracy calculation
+            prediction = {
+                'timestamp': current_time,
+                'completion_percentage': percentage,
+                'predicted_remaining_seconds': eta_seconds,
+                'predicted_total_seconds': elapsed + eta_seconds,
+                'actual_elapsed_so_far': elapsed
+            }
+            self.eta_history.append(prediction)
+            
+            return {
+                'eta_time': eta_time.strftime("%H:%M:%S"),
+                'eta_duration': str(timedelta(seconds=int(eta_seconds))),
+                'elapsed': str(timedelta(seconds=int(elapsed))),
+                'percentage': percentage,
+                'rate_per_second': creatures_per_second,
+                'rate_per_hour': creatures_per_second * 3600,
+                'remaining': remaining_creatures
+            }
+        return None
+    
+    def display_progress(self, force_display=False):
+        """Display a beautiful progress visualization"""
+        current_time = time.time()
+        
+        # Only display progress every 30 seconds or when forced
+        if not force_display and (current_time - self.last_progress_display < 30):
+            return
+            
+        self.last_progress_display = current_time
+        eta_info = self.update(self.creatures_completed)
+        
+        if not eta_info:
+            return
+            
+        progress = self.creatures_completed / self.total_creatures
+        bar_length = 40
+        filled_length = int(bar_length * progress)
+        bar = '█' * filled_length + '░' * (bar_length - filled_length)
+        
+        # Clear line and display progress
+        print('\r' + ' ' * 100, end='')  # Clear line
+        print(f'\r🚀 Progress: {bar} {eta_info["percentage"]:.1f}%', end='')
+        print(f' | 🕐 ETA: {eta_info["eta_time"]} ({eta_info["eta_duration"]})', end='')
+        print(f' | 📊 {self.creatures_completed:,}/{self.total_creatures:,}', end='')
+        print(f' | 🏃 {eta_info["rate_per_hour"]:,.0f}/hour', end='', flush=True)
+    
+    def finalize(self, actual_total_seconds):
+        """Calculate final accuracy when process completes"""
+        self.final_actual_time = actual_total_seconds
+        final_accuracy = {}
+        
+        # Calculate accuracy for predictions at different completion percentages
+        checkpoints = [10, 25, 50, 75]
+        for checkpoint in checkpoints:
+            checkpoint_predictions = [p for p in self.eta_history 
+                                    if p['completion_percentage'] >= checkpoint - 2 and p['completion_percentage'] <= checkpoint + 2]
+            if checkpoint_predictions:
+                pred = checkpoint_predictions[0]
+                accuracy_pct = (actual_total_seconds / pred['predicted_total_seconds'] - 1) * 100
+                final_accuracy[f"{checkpoint}%"] = accuracy_pct
+        
+        return final_accuracy
+
+# === CUSTOM ROTATING LOG HANDLER ===
+class RotatingLogHandler(logging.Handler):
+    """
+    Custom log handler that rotates files using a1-z26 naming scheme
+    and can switch files mid-operation if needed.
+    """
+    def __init__(self, log_dir, base_name, maxBytes=MAX_FILE_SIZE_BYTES, backupCount=676):
+        super().__init__()
+        self.log_dir = log_dir
+        self.base_name = base_name
+        self.maxBytes = maxBytes
+        self.backupCount = backupCount
+        self.current_file = None
+        self.current_size = 0
+        self.current_suffix = 'a1'
+        
+        # Start with first file - FIXED: use empty string instead of bytes
+        self._rotate_if_needed('')
+
+    def _get_next_suffix(self, current_suffix):
+        """Get next suffix in a1-z26 sequence"""
+        if not current_suffix:
+            return 'a1'
+        
+        letter = current_suffix[0]
+        number = int(current_suffix[1:])
+        
+        if number < 26:
+            return f"{letter}{number + 1}"
+        else:
+            next_letter = chr(ord(letter) + 1)
+            if next_letter <= 'z':
+                return f"{next_letter}1"
+            else:
+                return None  # No more suffixes available
+
+    def _get_file_path(self, suffix):
+        return os.path.join(self.log_dir, f"{self.base_name}{suffix}.txt")
+
+    def _rotate_if_needed(self, message):
+        """Rotate to next file if current one would exceed size limit"""
+        # FIXED: Handle both string and bytes for message size calculation
+        if isinstance(message, bytes):
+            message_size = len(message)
+        else:
+            message_size = len(message.encode('utf-8'))
+        
+        if self.current_file is None or (self.current_size + message_size) > self.maxBytes:
+            if self.current_file:
+                self.current_file.close()
+            
+            # Get next available suffix
+            next_suffix = self._get_next_suffix(self.current_suffix)
+            if next_suffix is None:
+                # We've used all a1-z26, start overwriting from a1?
+                # For safety, we'll just keep using the last file
+                next_suffix = 'z26'
+            
+            self.current_suffix = next_suffix
+            new_file_path = self._get_file_path(next_suffix)
+            
+            # Open new file
+            self.current_file = open(new_file_path, 'a', encoding='utf-8')
+            self.current_size = os.path.getsize(new_file_path) if os.path.exists(new_file_path) else 0
+
+    def emit(self, record):
+        try:
+            message = self.format(record) + '\n'
+            msg_size = len(message.encode('utf-8'))
+            
+            # Check if we need to rotate before writing
+            self._rotate_if_needed(message)
+            
+            # Write the message
+            if self.current_file:
+                self.current_file.write(message)
+                self.current_file.flush()
+                self.current_size += msg_size
+                
+        except Exception as e:
+            print(f"Logging error: {e}")
+
+    def close(self):
+        if self.current_file:
+            self.current_file.close()
+        super().close()
 
 # === LOGGING SETUP ===
 def setup_logging():
-    """Set up daily logging to capture all terminal output and user interactions"""
+    """Set up daily logging with file rotation for large log files"""
     log_dir = os.path.join("Output", "Logs")
     os.makedirs(log_dir, exist_ok=True)
     
-    log_filename = f"{datetime.date.today()}-dayz-log.txt"
-    log_filepath = os.path.join(log_dir, log_filename)
+    # Base log filename without rotation
+    log_basename = f"{datetime.date.today()}-dayz-log"
     
     # Create logger
     logger = logging.getLogger()
@@ -25,24 +214,226 @@ def setup_logging():
     for handler in logger.handlers[:]:
         logger.removeHandler(handler)
     
-    # File handler for daily log file
-    file_handler = logging.FileHandler(log_filepath, mode='a', encoding='utf-8')
-    file_handler.setLevel(logging.DEBUG)
+    # Custom handler that rotates files when they approach the size limit
+    rotating_handler = RotatingLogHandler(log_dir, log_basename, maxBytes=MAX_FILE_SIZE_BYTES, backupCount=676)
+    rotating_handler.setLevel(logging.DEBUG)
     
-    # Console handler to maintain normal terminal output
+    # Console handler to maintain normal terminal output - ONLY WARNINGS AND ERRORS
     console_handler = logging.StreamHandler(sys.stdout)
-    console_handler.setLevel(logging.INFO)
+    console_handler.setLevel(logging.WARNING)  # Only show warnings and errors
     
     # Formatter with timestamp
     formatter = logging.Formatter('%(asctime)s - %(message)s', datefmt='%H:%M:%S')
-    file_handler.setFormatter(formatter)
+    rotating_handler.setFormatter(formatter)
     console_handler.setFormatter(formatter)
     
     # Add handlers to logger
-    logger.addHandler(file_handler)
+    logger.addHandler(rotating_handler)
     logger.addHandler(console_handler)
     
     return logger
+
+# === FILE WRITING FUNCTIONS WITH SIZE LIMITS AND ROTATION ===
+def write_creature_chunk(base_dir, base_filename, content):
+    """
+    Write complete creature chunks to files with a1-z26 rotation.
+    Each file contains complete creature entries (from separator to separator).
+    """
+    # Generate the base filename pattern (without rotation suffix)
+    name_part = base_filename.rsplit('.', 1)[0] if '.' in base_filename else base_filename
+    
+    # Find the next available file that can fit this chunk
+    file_path = find_available_creature_file(base_dir, name_part, content)
+    
+    if not file_path:
+        logger.error(f"No available file could fit chunk for {name_part}")
+        return False
+    
+    try:
+        # Write the complete chunk
+        with open(file_path, 'a', encoding='utf-8') as f:
+            f.write(content + '\n\n')  # Double newline between creatures
+        
+        return True
+        
+    except IOError as e:
+        logger.error(f"Error writing to {file_path}: {e}")
+        return False
+
+def find_available_creature_file(base_dir, name_part, content):
+    """
+    Find available file using a1-z26 rotation scheme.
+    Returns the first file that can fit the content without splitting chunks.
+    """
+    content_size = len(content.encode('utf-8'))
+    
+    # Try existing files first
+    for letter in 'abcdefghijklmnopqrstuvwxyz':
+        for number in range(1, 27):
+            filename = f"{name_part}{letter}{number}.txt"
+            file_path = os.path.join(base_dir, filename)
+            
+            if not os.path.exists(file_path):
+                # New file - will definitely fit
+                return file_path
+            
+            # Check if existing file has space
+            current_size = os.path.getsize(file_path)
+            if current_size + content_size <= MAX_FILE_SIZE_BYTES:
+                return file_path
+    
+    # If we've exhausted a1-z26, we can't create more files for this base name today
+    logger.error(f"No available files in a1-z26 range for {name_part}")
+    return None
+
+# === ENHANCED DUPLICATE CHECKING SYSTEM ===
+def extract_attributes_from_content(content):
+    """
+    Extract the core attributes from creature content, ignoring creation order numbers
+    """
+    attributes = {}
+    
+    # Extract name
+    name_match = re.search(r"Name:\s*(.+)", content)
+    if name_match:
+        attributes['name'] = name_match.group(1).strip()
+    
+    # Extract shape
+    shape_match = re.search(r"Shape:\s*(.+)", content)
+    if shape_match:
+        attributes['shape'] = shape_match.group(1).strip()
+    
+    # Extract type
+    type_match = re.search(r"Type:\s*(.+)", content)
+    if type_match:
+        attributes['type'] = type_match.group(1).strip()
+    
+    # Extract size
+    size_match = re.search(r"Size:\s*(.+)", content)
+    if size_match:
+        attributes['size'] = size_match.group(1).strip()
+    
+    # Extract elements
+    elements_match = re.search(r"Element\(s\):\s*(.+)", content)
+    if elements_match:
+        elements_str = elements_match.group(1).strip()
+        # Convert to sorted tuple for consistent comparison
+        attributes['elements'] = tuple(sorted([e.strip() for e in elements_str.split(',')]))
+    
+    # Extract specialized adaptation
+    adaptation_match = re.search(r"Specialized Adaptation:\s*(.+)", content)
+    if adaptation_match:
+        attributes['adaptation'] = adaptation_match.group(1).strip()
+    else:
+        # Check if it's in the public format
+        adaptation_match = re.search(r"Specialized Adaptation:\s*(.+)", content)
+        if adaptation_match:
+            attributes['adaptation'] = adaptation_match.group(1).strip()
+        else:
+            attributes['adaptation'] = "No Specialized Adaptation"
+    
+    return attributes
+
+def calculate_similarity(attrs1, attrs2):
+    """
+    Calculate how many attributes match between two creatures
+    """
+    matching_attributes = 0
+    total_attributes = 0
+    
+    for key in ['name', 'shape', 'type', 'size', 'elements', 'adaptation']:
+        if key in attrs1 and key in attrs2:
+            total_attributes += 1
+            if attrs1[key] == attrs2[key]:
+                matching_attributes += 1
+    
+    return matching_attributes, total_attributes
+
+def is_duplicate_by_attributes(directory, new_attributes, num_elements):
+    """
+    Check if a creature is a duplicate based on attribute similarity
+    Rules:
+    - For 4 elements: consider duplicate if 2+ attributes match
+    - For 5 elements: consider duplicate if 3+ attributes match  
+    - Adjust threshold based on number of elements
+    """
+    if not os.path.exists(directory):
+        return False
+    
+    # Determine threshold based on number of elements
+    if num_elements <= 3:
+        threshold = 2  # More strict for fewer elements
+    elif num_elements == 4:
+        threshold = 2  # 2 matches considered duplicate
+    else:  # 5 or more elements
+        threshold = 3  # 3 matches considered duplicate
+    
+    for root, _, files in os.walk(directory):
+        for filename in files:
+            file_path = os.path.join(root, filename)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    file_content = f.read()
+                    
+                    # Extract attributes from existing file (ignoring creation order)
+                    existing_attributes = extract_attributes_from_content(file_content)
+                    
+                    # Calculate similarity
+                    matching_attrs, total_attrs = calculate_similarity(existing_attributes, new_attributes)
+                    
+                    # Check if exceeds threshold
+                    if matching_attrs >= threshold:
+                        return True
+                        
+            except Exception as e:
+                logger.error(f"Error reading {file_path}: {e}")
+    
+    return False
+
+def is_content_duplicate(directory, content):
+    """
+    Updated duplicate check that uses attribute-based comparison
+    """
+    # Extract attributes from new content (ignoring creation order)
+    new_attributes = extract_attributes_from_content(content)
+    
+    # Get number of elements for threshold calculation
+    num_elements = len(new_attributes.get('elements', []))
+    
+    return is_duplicate_by_attributes(directory, new_attributes, num_elements)
+
+def create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public, size):
+    start_time = datetime.datetime.now()
+    
+    # Create size-specific subdirectories
+    artist_size_dir = os.path.join(artist_dir, size)
+    public_size_dir = os.path.join(public_dir, size)
+    
+    os.makedirs(artist_size_dir, exist_ok=True)
+    os.makedirs(public_size_dir, exist_ok=True)
+
+    # Extract base filename without extension for rotation scheme
+    base_filename = filename.rsplit('.', 1)[0] if '.' in filename else filename
+    
+    # Extract number of elements for duplicate threshold
+    elements_match = re.search(r"Element\(s\):\s*(.+)", content_artist)
+    num_elements = 0
+    if elements_match:
+        elements_str = elements_match.group(1).strip()
+        num_elements = len([e.strip() for e in elements_str.split(',')])
+    
+    # Use attribute-based duplicate checking
+    if is_content_duplicate(artist_size_dir, content_artist):
+        artist_success = True  # Consider skipping as success
+    else:
+        artist_success = write_creature_chunk(artist_size_dir, base_filename, content_artist)
+    
+    if is_content_duplicate(public_size_dir, content_public):
+        public_success = True  # Consider skipping as success
+    else:
+        public_success = write_creature_chunk(public_size_dir, base_filename, content_public)
+    
+    return artist_success and public_success
 
 # Initialize logging
 logger = setup_logging()
@@ -359,7 +750,6 @@ def run_selection_process(random_size, selected_elements):
             continue
 
         if elem == "Chaos" and any(e in selected_elements for e in illegalCombinations["Chaos"]):
-            logger.warning("Illegal combination detected! Resetting element selection...")
             selected_elements.clear()
             return run_selection_process(random_size, selected_elements)
 
@@ -508,50 +898,6 @@ def get_random_spec(speclist):
             if random.randint(0, i) == 0:
                 spec = current_spec.strip()
     return spec
-
-def is_content_duplicate(directory, content):
-    if not os.path.exists(directory):
-        return False
-    for root, _, files in os.walk(directory):
-        for filename in files:
-            file_path = os.path.join(root, filename)
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    file_content = f.read()
-                    if content in file_content:
-                        return True
-            except Exception as e:
-                logger.error(f"Error reading {file_path}: {e}")
-    return False
-
-def create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public, size):
-    start_time = datetime.datetime.now()
-    
-    # Create size-specific subdirectories
-    artist_size_dir = os.path.join(artist_dir, size)
-    public_size_dir = os.path.join(public_dir, size)
-    
-    os.makedirs(artist_size_dir, exist_ok=True)
-    os.makedirs(public_size_dir, exist_ok=True)
-
-    artist_path = os.path.join(artist_size_dir, filename)
-    if not is_content_duplicate(artist_size_dir, content_artist):
-        with open(artist_path, 'a', encoding='utf-8') as f:
-            f.write(content_artist + '\n')
-        logger.info(f"Appended to artist file: {artist_path}")
-    else:
-        logger.info(f"Duplicate artist content found for {filename}, skipping")
-
-    public_path = os.path.join(public_size_dir, filename)
-    if not is_content_duplicate(public_size_dir, content_public):
-        with open(public_path, 'a', encoding='utf-8') as f:
-            f.write(content_public + '\n')
-        logger.info(f"Appended to public file: {public_path}")
-    else:
-        logger.info(f"Duplicate public content found for {filename}, skipping")
-    
-    end_time = datetime.datetime.now()
-    logger.info(f"File writing completed in {end_time - start_time}")
 
 def save_current_tally():
     """Save the current session tally to cumulative files"""
@@ -777,19 +1123,28 @@ def get_next_creation_number():
 
 if __name__ == "__main__":
     try:
-        # Log skew configuration
-        logger.info(f"Using skew configuration: {SKEW_CONFIG}")
+        # Display welcome message
+        print("🧬 Creature Generator")
+        print("=" * 50)
         
         # Log the question and capture user input
         amountOfCreatures = int(input("How many creatures do you wanna make? "))
-        logger.info(f"User input: {amountOfCreatures} creatures requested")
+        print(f"\n🎯 Generating {amountOfCreatures} creatures per category...")
         
         totalCreatedCreatures = 0
         total_target = amountOfCreatures * len(directories)
 
+        # Initialize ETA tracker
+        eta_tracker = CreatureETA(total_target)
+        
         max_attempts_per_creature = 10
 
-        logger.info(f"Starting generation of {total_target} total creatures across {len(directories)} directories")
+        print(f"📁 Processing {len(directories)} categories...")
+        print(f"🎯 Total target: {total_target:,} creatures")
+        print("\nStarting generation...\n")
+        
+        # Display initial progress
+        eta_tracker.display_progress(force_display=True)
 
         while totalCreatedCreatures < total_target:
             # Use skewed category selection instead of simple rotation
@@ -799,32 +1154,25 @@ if __name__ == "__main__":
             success = False
             while attempts < max_attempts_per_creature and not success:
                 attempts += 1
-                logger.info(f"Attempt {attempts} for directory {directory}")
 
                 files = [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
                 if not files:
-                    logger.warning(f"No files in {directory}, skipping category.")
                     break
 
                 random_file = random.choice(files)
                 full_path = os.path.join(directory, random_file)
                 random_line = get_random_line(full_path)
-                logger.info(f"Random file selected: {full_path}")
-                logger.info(f"Random line: {random_line}")
 
                 random_name_amount = random.randint(1, 5)
                 final_name = []
                 for i in range(1, random_name_amount + 1):
                     name_list = globals()[f"nameList{i}"]
                     final_name.append(get_random_name(name_list))
-                logger.info(f"Generated name: {final_name}")
 
                 # Use skewed size selection instead of random.choice
                 random_size = get_skewed_size()
-                logger.info(f"Selected size: {random_size}")
 
                 selection = run_simulation()
-                logger.info(f"Final Type Selection: {selection}")
 
                 chanceForSpecializedAdaptation = random.randint(1, 3)
                 specialized_artist = "No Specialized Adaptation"
@@ -833,23 +1181,20 @@ if __name__ == "__main__":
                 random_ext = None
                 if chanceForSpecializedAdaptation == 2:
                     random_bio = get_random_spec(bioList)
-                    logger.info("Bioluminescent " + (random_bio if random_bio else ""))
                     specialized_artist = "Bioluminescent " + (random_bio if random_bio else "")
                     specialized_public_message = "Bioluminescent"
                 elif chanceForSpecializedAdaptation == 3:
                     random_ext = get_random_spec(extList)
-                    logger.info("Extreme Camouflage " + (random_ext if random_ext else ""))
                     specialized_artist = "Extreme Camouflage " + (random_ext if random_ext else "")
                     specialized_public_message = "Extreme Camouflage"
                 else:
-                    logger.info("No Specialized Adaptation")
-                
+                    specialized_public_message = ""
+
                 if specialized_public == "no":
                     specialized_public_message = ""
 
                 selected_elements = []
                 selected_elements = run_selection_process(random_size, selected_elements)
-                logger.info(f"Selected elements: {selected_elements}")
 
                 if random_size == "Tiny":
                     min_val, max_val = 5, 8
@@ -917,10 +1262,8 @@ if __name__ == "__main__":
                     return round((calculated_int + (calculated_wis * 0.5)) * 5, 1)
 
                 summary_output_artist = f"{atk_message}\n{def_message}\n{agi_message}\n{int_message}\n{wis_message}\nHP: {calculate_hp()} MANA: {calculate_mana()}"
-                logger.info(f"Artist Stats calculated:\n{summary_output_artist}")
                 
                 summary_output_public = f"ATK: {calculated_atk}\nDEF: {calculated_def}\nAGI: {calculated_agi}\nINT: {calculated_int}\nWIS: {calculated_wis}\nHP: {calculate_hp()} MANA: {calculate_mana()}"
-                logger.info(f"Public Stats calculated:\n{summary_output_public}")
 
                 target_filename = random_file
                 pattern = re.compile(rf"^.*?\b{re.escape(target_filename)}\b.*?=\s*(.*?)\s*(#|$)", re.IGNORECASE)
@@ -934,12 +1277,11 @@ if __name__ == "__main__":
                                 match = pattern.search(line)
                                 if match:
                                     extracted_texts[i] = match.group(1).strip()
-                                    logger.info(f"MATCH FOUND in {search_file}: '{extracted_texts[i]}'")
                                     break
                     except FileNotFoundError:
-                        logger.error(f"File '{search_file}' not found.")
-                    except Exception as e:
-                        logger.error(f"Error processing {search_file}: {e}")
+                        pass
+                    except Exception:
+                        pass
 
                 if all(extracted_texts):
                     extracted_text0, extracted_text1, extracted_text2 = extracted_texts
@@ -949,29 +1291,23 @@ if __name__ == "__main__":
                     map_key = category_dir[:-1] if category_dir.endswith('s') and category_dir != "Fish" else category_dir
                     category_config = CATEGORY_MAP.get(map_key)
                     if category_config is None:
-                        logger.error(f"Invalid map key derived: {map_key}, skipping.")
                         continue
 
                     extracted_text1 = map_key
                     extracted_text0 = random.choice(list(category_config["subcategories"].keys()))
                     extracted_text2 = random_line if random_line else "Default description"
 
-                logger.info(f"Using derived: Shape: {extracted_text1}, {extracted_text0}, {extracted_text2}")
-
                 category_config = CATEGORY_MAP.get(extracted_text1)
                 if not category_config:
-                    logger.error(f"Invalid category: {extracted_text1}, skipping.")
                     continue
 
                 subcat_abbr = category_config["subcategories"].get(extracted_text0)
                 if not subcat_abbr:
-                    logger.error(f"Invalid subcategory: {extracted_text0}, skipping.")
                     continue
 
                 # Update creature tally and size tracking
                 creature_tally[extracted_text0] += 1
                 size_tally[extracted_text0][random_size] += 1
-                logger.info(f"Added to tally: {extracted_text0} - Size: {random_size} (Total for this subcategory: {creature_tally[extracted_text0]})")
 
                 base_path = category_config["base_path"]
                 base_dir = base_path
@@ -1029,16 +1365,30 @@ if __name__ == "__main__":
                     f"{separator_public_lower}"
                 )
 
-                create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public, random_size)
+                # Use the new file writing system with size limits and rotation
+                success = create_file_with_duplicate_check(artist_dir, public_dir, filename, content_artist, content_public, random_size)
 
                 totalCreatedCreatures += 1
                 success = True
-                logger.info(f"Creature created successfully. Total: {totalCreatedCreatures}/{total_target}")
+                
+                # Update ETA display
+                eta_tracker.creatures_completed = totalCreatedCreatures
+                eta_tracker.display_progress()
 
             if not success:
-                logger.warning(f"Max attempts reached for category {directory}, skipping to next.")
                 totalCreatedCreatures += amountOfCreatures
 
+        # Final completion message
+        total_time = time.time() - eta_tracker.start_time
+        accuracy_analysis = eta_tracker.finalize(total_time)
+        
+        # Clear the progress line and show completion
+        print('\r' + ' ' * 100, end='')
+        print(f'\r✅ Generation completed!')
+        print(f"📊 Total creatures: {totalCreatedCreatures:,}")
+        print(f"⏱️  Total time: {str(timedelta(seconds=int(total_time)))}")
+        print(f"🏃 Average rate: {totalCreatedCreatures/total_time*3600:,.0f} creatures/hour")
+        
         # Log the final creature tally before completion
         log_creature_tally()
         
